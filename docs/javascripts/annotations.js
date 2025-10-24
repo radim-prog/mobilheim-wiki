@@ -104,6 +104,54 @@
     }
   }
 
+  // Find nearest heading above selection
+  function findNearestHeading(range) {
+    let element = range.startContainer;
+
+    // If text node, get parent element
+    if (element.nodeType === Node.TEXT_NODE) {
+      element = element.parentElement;
+    }
+
+    // Walk up the DOM tree looking for headings
+    let currentElement = element;
+    while (currentElement && currentElement !== document.body) {
+      // Check previous siblings for headings
+      let sibling = currentElement.previousElementSibling;
+      while (sibling) {
+        if (sibling.tagName && /^H[1-6]$/.test(sibling.tagName)) {
+          return {
+            level: sibling.tagName,
+            text: sibling.textContent.trim()
+          };
+        }
+        // Check inside sibling for headings
+        const headingInSibling = sibling.querySelector('h1, h2, h3, h4, h5, h6');
+        if (headingInSibling) {
+          return {
+            level: headingInSibling.tagName,
+            text: headingInSibling.textContent.trim()
+          };
+        }
+        sibling = sibling.previousElementSibling;
+      }
+
+      // Check parent for heading
+      currentElement = currentElement.parentElement;
+    }
+
+    // If no heading found, check first H1 on page
+    const firstHeading = document.querySelector('h1');
+    if (firstHeading) {
+      return {
+        level: 'H1',
+        text: firstHeading.textContent.trim()
+      };
+    }
+
+    return null;
+  }
+
   // Save annotation to localStorage
   function saveAnnotation() {
     const textarea = document.getElementById('annotation-textarea');
@@ -114,12 +162,17 @@
       return;
     }
 
+    // Find section heading
+    const heading = findNearestHeading(selectionRange);
+
     // Prepare data
     const annotation = {
       id: Date.now(),
       timestamp: new Date().toISOString(),
       pageUrl: window.location.href,
       pageTitle: document.title,
+      sectionHeading: heading ? heading.text : null,
+      sectionLevel: heading ? heading.level : null,
       selectedText: selectedText,
       note: note
     };
@@ -184,8 +237,11 @@
         text += `${index + 1}. Poznámka (${date})\n`;
         text += '-'.repeat(50) + '\n';
         text += `Stránka: ${ann.pageTitle}\n`;
-        text += `URL: ${ann.pageUrl}\n\n`;
-        text += `Označený text:\n"${ann.selectedText}"\n\n`;
+        text += `URL: ${ann.pageUrl}\n`;
+        if (ann.sectionHeading) {
+          text += `Sekce: ${ann.sectionHeading}\n`;
+        }
+        text += `\nOznačený text:\n"${ann.selectedText}"\n\n`;
         text += `Poznámka:\n${ann.note}\n\n`;
         text += '='.repeat(50) + '\n\n';
       });
