@@ -1,15 +1,15 @@
 // Simple annotation system for mobilheim-wiki
-// Automatically saves notes to Google Sheets without requiring login
+// Saves notes locally in browser - NO setup required!
 
 (function() {
   'use strict';
 
-  // Configuration - REPLACE WITH YOUR GOOGLE APPS SCRIPT WEB APP URL
-  const WEBHOOK_URL = 'YOUR_GOOGLE_APPS_SCRIPT_WEBHOOK_URL';
-
   let popup = null;
   let selectedText = '';
   let selectionRange = null;
+
+  // Storage key
+  const STORAGE_KEY = 'mobilheim-wiki-annotations';
 
   // Create popup HTML
   function createPopup() {
@@ -104,8 +104,8 @@
     }
   }
 
-  // Save annotation to Google Sheets
-  async function saveAnnotation() {
+  // Save annotation to localStorage
+  function saveAnnotation() {
     const textarea = document.getElementById('annotation-textarea');
     const note = textarea.value.trim();
 
@@ -114,54 +114,38 @@
       return;
     }
 
-    // Check if webhook URL is configured
-    if (WEBHOOK_URL === 'YOUR_GOOGLE_APPS_SCRIPT_WEBHOOK_URL') {
-      showMessage('Chyba: Google Sheets není nakonfigurováno. Viz dokumentace.', 'error');
-      console.error('Please configure WEBHOOK_URL in annotations.js');
-      return;
-    }
-
-    // Show loading state
-    const saveBtn = document.getElementById('annotation-save');
-    saveBtn.disabled = true;
-    saveBtn.querySelector('.annotation-btn-text').style.display = 'none';
-    saveBtn.querySelector('.annotation-btn-loading').style.display = 'inline';
-
     // Prepare data
-    const data = {
+    const annotation = {
+      id: Date.now(),
       timestamp: new Date().toISOString(),
       pageUrl: window.location.href,
       pageTitle: document.title,
       selectedText: selectedText,
-      note: note,
-      userAgent: navigator.userAgent
+      note: note
     };
 
+    // Get existing annotations
+    let annotations = [];
     try {
-      const response = await fetch(WEBHOOK_URL, {
-        method: 'POST',
-        mode: 'no-cors', // Google Apps Script requires this
-        headers: {
-          'Content-Type': 'application/json',
-        },
-        body: JSON.stringify(data)
-      });
+      const stored = localStorage.getItem(STORAGE_KEY);
+      if (stored) {
+        annotations = JSON.parse(stored);
+      }
+    } catch (e) {
+      console.error('Error loading annotations:', e);
+    }
 
-      // Note: With no-cors mode, we can't read the response
-      // We assume success if no error is thrown
+    // Add new annotation
+    annotations.push(annotation);
+
+    // Save to localStorage
+    try {
+      localStorage.setItem(STORAGE_KEY, JSON.stringify(annotations));
       showMessage('✓ Poznámka uložena!', 'success');
-
-      // Log to console for debugging
-      console.log('Annotation saved:', data);
-
+      console.log('Annotation saved:', annotation);
     } catch (error) {
       console.error('Error saving annotation:', error);
-      showMessage('Chyba při ukládání. Zkuste to znovu.', 'error');
-
-      // Re-enable button
-      saveBtn.disabled = false;
-      saveBtn.querySelector('.annotation-btn-text').style.display = 'inline';
-      saveBtn.querySelector('.annotation-btn-loading').style.display = 'none';
+      showMessage('Chyba při ukládání.', 'error');
     }
   }
 
@@ -180,11 +164,101 @@
     }, 10);
   }
 
+  // Export annotations to file
+  function exportAnnotations() {
+    try {
+      const stored = localStorage.getItem(STORAGE_KEY);
+      if (!stored || stored === '[]') {
+        alert('Žádné poznámky k exportu!');
+        return;
+      }
+
+      const annotations = JSON.parse(stored);
+
+      // Create readable text format
+      let text = 'POZNÁMKY Z MOBILHEIM WIKI\n';
+      text += '='.repeat(50) + '\n\n';
+
+      annotations.forEach((ann, index) => {
+        const date = new Date(ann.timestamp).toLocaleString('cs-CZ');
+        text += `${index + 1}. Poznámka (${date})\n`;
+        text += '-'.repeat(50) + '\n';
+        text += `Stránka: ${ann.pageTitle}\n`;
+        text += `URL: ${ann.pageUrl}\n\n`;
+        text += `Označený text:\n"${ann.selectedText}"\n\n`;
+        text += `Poznámka:\n${ann.note}\n\n`;
+        text += '='.repeat(50) + '\n\n';
+      });
+
+      // Download as file
+      const blob = new Blob([text], { type: 'text/plain;charset=utf-8' });
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement('a');
+      a.href = url;
+      a.download = `poznamky-mobilheim-wiki-${new Date().toISOString().split('T')[0]}.txt`;
+      document.body.appendChild(a);
+      a.click();
+      document.body.removeChild(a);
+      URL.revokeObjectURL(url);
+
+      console.log(`Exported ${annotations.length} annotations`);
+    } catch (error) {
+      console.error('Error exporting annotations:', error);
+      alert('Chyba při exportu poznámek');
+    }
+  }
+
+  // Add export button to page
+  function addExportButton() {
+    // Check if there are any annotations
+    const stored = localStorage.getItem(STORAGE_KEY);
+    if (!stored || stored === '[]') {
+      return; // No button if no annotations
+    }
+
+    // Create floating export button
+    const button = document.createElement('button');
+    button.id = 'export-annotations-btn';
+    button.innerHTML = '📥 Export poznámek';
+    button.style.cssText = `
+      position: fixed;
+      bottom: 20px;
+      right: 20px;
+      background-color: var(--md-primary-fg-color, #3f51b5);
+      color: white;
+      border: none;
+      border-radius: 24px;
+      padding: 12px 20px;
+      font-size: 14px;
+      font-weight: 500;
+      cursor: pointer;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+      z-index: 9999;
+      transition: all 0.2s;
+    `;
+
+    button.addEventListener('mouseenter', () => {
+      button.style.transform = 'translateY(-2px)';
+      button.style.boxShadow = '0 4px 12px rgba(0,0,0,0.4)';
+    });
+
+    button.addEventListener('mouseleave', () => {
+      button.style.transform = 'translateY(0)';
+      button.style.boxShadow = '0 2px 8px rgba(0,0,0,0.3)';
+    });
+
+    button.addEventListener('click', exportAnnotations);
+    document.body.appendChild(button);
+  }
+
   // Initialize
   function init() {
     // Create floating "Add Note" button on text selection
     document.addEventListener('mouseup', handleTextSelection);
     document.addEventListener('touchend', handleTextSelection);
+
+    // Add export button if there are annotations
+    addExportButton();
 
     console.log('Annotation system initialized');
   }
