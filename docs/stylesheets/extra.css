@@ -145,3 +145,287 @@
   border-left: 0.2rem solid;
   border-radius: 0.2rem;
 }
+
+/* ========================================
+   ANNOTATION SYSTEM STYLES
+   ======================================== */
+
+/* Popup overlay */
+.annotation-popup {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: 10000;
+  align-items: center;
+  justify-content: center;
+  animation: fadeIn 0.2s ease-in-out;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+/* Popup content box */
+.annotation-popup-content {
+  background-color: var(--md-default-bg-color, #fff);
+  border-radius: 8px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+  max-width: 500px;
+  width: 90%;
+  max-height: 80vh;
+  overflow-y: auto;
+  animation: slideIn 0.3s ease-out;
+}
+
+@keyframes slideIn {
+  from {
+    transform: translateY(-30px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+/* Dark mode support */
+[data-md-color-scheme="slate"] .annotation-popup-content {
+  background-color: var(--md-default-bg-color, #1e1e1e);
+  color: var(--md-default-fg-color, #fff);
+}
+
+/* Popup header */
+.annotation-popup-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1.2rem 1.5rem;
+  border-bottom: 1px solid var(--md-default-fg-color--lightest, #e0e0e0);
+}
+
+[data-md-color-scheme="slate"] .annotation-popup-header {
+  border-bottom-color: rgba(255, 255, 255, 0.1);
+}
+
+.annotation-popup-header h3 {
+  margin: 0;
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: var(--md-default-fg-color, #000);
+}
+
+[data-md-color-scheme="slate"] .annotation-popup-header h3 {
+  color: var(--md-default-fg-color, #fff);
+}
+
+/* Close button */
+.annotation-close {
+  background: none;
+  border: none;
+  font-size: 1.8rem;
+  color: var(--md-default-fg-color--light, #666);
+  cursor: pointer;
+  line-height: 1;
+  padding: 0;
+  width: 30px;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 4px;
+  transition: background-color 0.2s;
+}
+
+.annotation-close:hover {
+  background-color: var(--md-default-fg-color--lightest, #f0f0f0);
+}
+
+[data-md-color-scheme="slate"] .annotation-close:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+/* Popup body */
+.annotation-popup-body {
+  padding: 1.5rem;
+}
+
+/* Selected text display */
+.annotation-selected-text {
+  background-color: var(--md-code-bg-color, #f5f5f5);
+  padding: 1rem;
+  border-radius: 6px;
+  margin-bottom: 1rem;
+  border-left: 3px solid var(--md-primary-fg-color, #3f51b5);
+}
+
+[data-md-color-scheme="slate"] .annotation-selected-text {
+  background-color: rgba(255, 255, 255, 0.05);
+}
+
+.annotation-selected-text strong {
+  display: block;
+  margin-bottom: 0.5rem;
+  color: var(--md-primary-fg-color, #3f51b5);
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.annotation-selected-text p {
+  margin: 0;
+  font-style: italic;
+  color: var(--md-default-fg-color, #333);
+  line-height: 1.5;
+}
+
+[data-md-color-scheme="slate"] .annotation-selected-text p {
+  color: var(--md-default-fg-color--light, #ccc);
+}
+
+/* Textarea */
+#annotation-textarea {
+  width: 100%;
+  padding: 0.8rem;
+  border: 1px solid var(--md-default-fg-color--lightest, #ddd);
+  border-radius: 6px;
+  font-family: inherit;
+  font-size: 0.95rem;
+  resize: vertical;
+  min-height: 100px;
+  background-color: var(--md-default-bg-color, #fff);
+  color: var(--md-default-fg-color, #000);
+  transition: border-color 0.2s;
+}
+
+#annotation-textarea:focus {
+  outline: none;
+  border-color: var(--md-primary-fg-color, #3f51b5);
+  box-shadow: 0 0 0 2px rgba(63, 81, 181, 0.1);
+}
+
+[data-md-color-scheme="slate"] #annotation-textarea {
+  background-color: rgba(255, 255, 255, 0.05);
+  border-color: rgba(255, 255, 255, 0.1);
+  color: var(--md-default-fg-color, #fff);
+}
+
+[data-md-color-scheme="slate"] #annotation-textarea:focus {
+  border-color: var(--md-primary-fg-color, #3f51b5);
+  box-shadow: 0 0 0 2px rgba(63, 81, 181, 0.2);
+}
+
+/* Footer buttons */
+.annotation-popup-footer {
+  display: flex;
+  gap: 0.8rem;
+  margin-top: 1rem;
+  justify-content: flex-end;
+}
+
+.annotation-btn {
+  padding: 0.7rem 1.5rem;
+  border: none;
+  border-radius: 6px;
+  font-size: 0.95rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.2s;
+  font-family: inherit;
+}
+
+.annotation-btn-cancel {
+  background-color: transparent;
+  color: var(--md-default-fg-color--light, #666);
+  border: 1px solid var(--md-default-fg-color--lightest, #ddd);
+}
+
+.annotation-btn-cancel:hover {
+  background-color: var(--md-default-fg-color--lightest, #f5f5f5);
+}
+
+[data-md-color-scheme="slate"] .annotation-btn-cancel {
+  border-color: rgba(255, 255, 255, 0.2);
+  color: var(--md-default-fg-color--light, #ccc);
+}
+
+[data-md-color-scheme="slate"] .annotation-btn-cancel:hover {
+  background-color: rgba(255, 255, 255, 0.05);
+}
+
+.annotation-btn-save {
+  background-color: var(--md-primary-fg-color, #3f51b5);
+  color: #fff;
+}
+
+.annotation-btn-save:hover:not(:disabled) {
+  background-color: var(--md-accent-fg-color, #536dfe);
+  transform: translateY(-1px);
+  box-shadow: 0 2px 8px rgba(63, 81, 181, 0.3);
+}
+
+.annotation-btn-save:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+/* Message display */
+.annotation-message {
+  margin-top: 1rem;
+  padding: 0.8rem;
+  border-radius: 6px;
+  font-size: 0.9rem;
+  text-align: center;
+}
+
+.annotation-message-success {
+  background-color: #e8f5e9;
+  color: #2e7d32;
+  border: 1px solid #a5d6a7;
+}
+
+.annotation-message-error {
+  background-color: #ffebee;
+  color: #c62828;
+  border: 1px solid #ef9a9a;
+}
+
+[data-md-color-scheme="slate"] .annotation-message-success {
+  background-color: rgba(76, 175, 80, 0.2);
+  color: #81c784;
+  border-color: rgba(129, 199, 132, 0.3);
+}
+
+[data-md-color-scheme="slate"] .annotation-message-error {
+  background-color: rgba(244, 67, 54, 0.2);
+  color: #e57373;
+  border-color: rgba(229, 115, 115, 0.3);
+}
+
+/* Mobile responsiveness */
+@media screen and (max-width: 600px) {
+  .annotation-popup-content {
+    width: 95%;
+    max-height: 90vh;
+  }
+
+  .annotation-popup-header {
+    padding: 1rem;
+  }
+
+  .annotation-popup-body {
+    padding: 1rem;
+  }
+
+  .annotation-popup-footer {
+    flex-direction: column;
+  }
+
+  .annotation-btn {
+    width: 100%;
+  }
+}

@@ -36,13 +36,16 @@ Obsáhlá znalostní báze pokrývající:
 ## ✨ Nové funkce
 
 ### 📝 Systém poznámek
-Na každé stránce můžete přidávat **vlastní poznámky a anotace** pomocí nástroje v pravém horním rohu (Hypothesis.io).
+Na každé stránce můžete přidávat **vlastní poznámky a anotace** k jakémukoliv textu. Poznámky se automaticky ukládají!
 
 **Jak používat:**
-1. Klikněte na ikonu **<** v pravém horním rohu
-2. Označte text, ke kterému chcete přidat poznámku
-3. Napište svou poznámku nebo otázku
-4. Poznámky se ukládají lokálně ve vašem prohlížeči
+1. **Označte text** myší (jakoukoliv větu, odstavec nebo část textu)
+2. Automaticky se **zobrazí popup** pro přidání poznámky
+3. **Napište poznámku** do textového pole
+4. Klikněte **"Uložit poznámku"**
+5. ✅ Hotovo! Poznámka je uložena
+
+**Žádné přihlašování není potřeba!** Stačí označit text a napsat poznámku.
 
 ---
 

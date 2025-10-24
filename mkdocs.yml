@@ -57,7 +57,7 @@ extra_css:
   - stylesheets/extra.css
 
 extra_javascript:
-  - https://hypothes.is/embed.js  # Hypothesis.io annotation system
+  - javascripts/annotations.js  # Custom annotation system with Google Sheets integration
 
 # Extensions
 markdown_extensions:
