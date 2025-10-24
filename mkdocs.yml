@@ -1,0 +1,217 @@
+site_name: Mobilheim Wiki - Kompletní průvodce
+site_url: https://radim-prog.github.io/mobilheim-wiki/
+site_description: Nejkomplexnější český zdroj informací o mobilních domech - legislativa, technické specifikace, ceny, dotace
+site_author: Nový Rozměr Bydlení
+
+# Repository
+repo_url: https://github.com/radim-prog/mobilheim-wiki
+repo_name: radim-prog/mobilheim-wiki
+
+# Theme configuration
+theme:
+  name: material
+  language: cs
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Přepnout na tmavý režim
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Přepnout na světlý režim
+
+  font:
+    text: Roboto
+    code: Roboto Mono
+
+  features:
+    # Navigation features
+    - navigation.instant        # Instant loading (SPA-like)
+    - navigation.tracking       # URL updates with scroll
+    - navigation.sections       # Group pages into sections
+    - navigation.indexes        # Section index pages
+    # IMPORTANT: navigation.expand is NOT set - sections will be collapsible!
+    - navigation.top            # Back to top button
+    - navigation.path           # Breadcrumbs
+
+    # Search features
+    - search.suggest            # Search suggestions
+    - search.highlight          # Highlight search terms
+    - search.share              # Share search results
+
+    # Content features
+    - content.code.copy         # Copy button for code blocks
+    - content.tabs.link         # Link tabs across pages
+
+  icon:
+    repo: fontawesome/brands/github
+    logo: material/home
+
+# Custom CSS and JavaScript
+extra_css:
+  - stylesheets/extra.css
+
+extra_javascript:
+  - javascripts/annotations.js  # Custom annotation system with Google Sheets integration
+
+# Extensions
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - toc:
+      permalink: true
+      toc_depth: 3
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+# Plugins
+plugins:
+  - search:
+      lang: cs
+      separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
+  - tags
+
+# Extra
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/radim-prog/mobilheim-wiki
+    - icon: fontawesome/solid/globe
+      link: https://novyrozmerbydleni.cz
+  analytics:
+    feedback:
+      title: Byl tento článek užitečný?
+      ratings:
+        - icon: material/emoticon-happy-outline
+          name: Ano, pomohl mi
+          data: 1
+          note: Děkujeme za zpětnou vazbu!
+        - icon: material/emoticon-sad-outline
+          name: Ne, nepomohl
+          data: 0
+          note: Děkujeme, budeme se snažit obsah zlepšit.
+
+# Navigation structure
+nav:
+  - Domů: index.md
+
+  - Wiki:
+    - wiki/index.md
+    - Legislativa:
+      - Stavební zákon: wiki/legislativa/stavebni-zakon.md
+      - Vyhlášky: wiki/legislativa/vyhlasky.md
+      - Metodiky MMR: wiki/legislativa/metodiky-mmr.md
+      - Judikatura: wiki/legislativa/judikatura.md
+      - Mobilita a převoditelnost: wiki/legislativa/mobilita-prevoditelnost.md
+      - Výrobek vs stavba: wiki/legislativa/vyrobek-vs-stavba.md
+
+    - Technické specifikace:
+      - Materiály: wiki/technicke-specifikace/materialy.md
+      - Izolace: wiki/technicke-specifikace/izolace.md
+      - Konstrukce: wiki/technicke-specifikace/konstrukce.md
+      - Bezpečnost: wiki/technicke-specifikace/bezpecnost.md
+      - Fotovoltaika: wiki/technicke-specifikace/fotovoltaika.md
+      - Tepelná čerpadla: wiki/technicke-specifikace/tepelna-cerpadla.md
+      - Rekuperace: wiki/technicke-specifikace/rekuperace.md
+      - Off-grid systémy: wiki/technicke-specifikace/off-grid-systemy.md
+      - Klimatizace: wiki/technicke-specifikace/klimatizace.md
+
+    - Připojení k sítím:
+      - Elektřina: wiki/pripojeni-siti/elektrina.md
+      - Voda: wiki/pripojeni-siti/voda.md
+      - Kanalizace: wiki/pripojeni-siti/kanalizace.md
+
+    - Financování a dotace:
+      - Dotační programy: wiki/financovani/dotacni-programy.md
+      - Hypotéky: wiki/financovani/hypoteky.md
+      - Celkové náklady: wiki/financovani/celkove-naklady.md
+      - Úspora energie: wiki/financovani/uspora-energie.md
+
+    - Údržba a životnost:
+      - Preventivní údržba: wiki/udrzba/preventivni-udrzba.md
+      - Životnost: wiki/udrzba/zivotnost.md
+      - Opravy: wiki/udrzba/opravy.md
+
+    - Případové studie:
+      - Off-grid bydlení: wiki/pripadove-studie/off-grid-bydleni.md
+      - Airbnb business: wiki/pripadove-studie/airbnb-business.md
+      - Bydlení pro seniory: wiki/pripadove-studie/bydleni-pro-seniory.md
+      - Tiny house: wiki/pripadove-studie/tiny-house.md
+      - Chatová osada: wiki/pripadove-studie/chatova-osada.md
+
+  - Blog:
+    - blog/index.md
+    - Základy:
+      - Co je mobilní dům: blog/01-co-je-mobilni-dum.md
+      - 10 věcí které nikdo neříká: blog/02-10-veci-ktere-nikdo-nerika.md
+      - Mýty o mobilních domech: blog/05-myty-o-mobilnich-domech.md
+      - Mobilní vs modulární: blog/11-mobilni-vs-modularni.md
+      - Výhody a nevýhody: blog/13-vyhody-nevyhody.md
+
+    - Nákup a Ceny:
+      - Kolik stojí mobilní dům: blog/04-kolik-stoji-mobilni-dum.md
+      - Jak vybrat pozemek: blog/06-jak-vybrat-pozemek.md
+      - Jak vybrat dodavatele: blog/14-jak-vybrat-dodavatele.md
+      - Import vs česká výroba: blog/19-import-vs-ceska-vyroba.md
+
+    - Financování:
+      - Hypotéka na mobilní dům: blog/03-hypoteka-na-mobilni-dum.md
+      - Dotace na mobilní dům: blog/07-dotace-na-mobilni-dum.md
+      - Leasing mobilního domu: blog/20-leasing-mobilniho-domu.md
+
+    - Technické:
+      - Energeticky úsporný mobilní dům: blog/08-energeticky-usporny-mobilni-dum.md
+      - Off-grid mobilní dům: blog/09-offgrid-mobilni-dum.md
+      - Zimní bydlení: blog/10-zimni-bydleni.md
+      - Fotovoltaika na mobilním domě: blog/15-fotovoltaika.md
+      - Tepelná čerpadla: blog/16-tepelna-cerpadla.md
+      - Voda a kanalizace: blog/21-voda-kanalizace.md
+
+    - Provoz a Údržba:
+      - Životnost mobilního domu: blog/12-zivotnost.md
+      - Pojištění mobilního domu: blog/17-pojisteni.md
+      - Údržba a opravy: blog/18-udrzba-opravy.md
+      - Příprava pozemku: blog/22-priprava-pozemku.md
+
+    - Speciální použití:
+      - FAQ - 20 nejčastějších otázek: blog/23-faq-20-otazek.md
+      - Airbnb business: blog/24-airbnb-business.md
+      - Trendy 2025-2030: blog/25-trendy-2025-2030.md
+
+  - FAQ:
+    - faq/index.md
+
+# Site directory
+docs_dir: docs
+site_dir: site
+
+# Copyright
+copyright: Copyright &copy; 2025 Nový Rozměr Bydlení
