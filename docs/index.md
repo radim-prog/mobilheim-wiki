@@ -36,13 +36,21 @@ Obsáhlá znalostní báze pokrývající:
 ## ✨ Nové funkce
 
 ### 📝 Systém poznámek
-Můžete si dělat **poznámky přímo do textu** - bez přihlašování, bez nastavování!
+Poznámky se **automaticky odesílají jako GitHub Issues** - perfektní tracking!
 
 **Jak to funguje:**
-1. **Označte text** myší → automaticky se zobrazí popup
-2. **Napište poznámku** → klikněte "Uložit"
-3. ✅ **Hotovo!** Poznámka uložena v prohlížeči
-4. **Export** - tlačítko "📥 Export poznámek" (vpravo dole) stáhne všechny poznámky do souboru
+1. **První setup** (jednou): Klikněte "⚙️ GitHub" (vpravo dole) a zadejte GitHub token
+2. **Označte text** myší → automaticky se zobrazí popup
+3. **Napište poznámku** → klikněte "Uložit"
+4. ✅ **Automaticky vytvoří GitHub Issue** s kompletním kontextem!
+
+**Každá poznámka obsahuje:**
+- 📄 Název stránky + URL
+- 📍 Sekce kde byl text označen
+- 📝 Přesný text co byl označen
+- 💬 Vaše poznámka
+
+Poznámky vidíte přímo na GitHubu, můžete je zavírat po opravení, diskutovat pod nimi!
 
 ---
 
