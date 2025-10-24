@@ -36,21 +36,18 @@ Obsáhlá znalostní báze pokrývající:
 ## ✨ Nové funkce
 
 ### 📝 Systém poznámek
-Poznámky se **automaticky odesílají jako GitHub Issues** - perfektní tracking!
+**JEDNODUCHÉ:** Označte text → napište poznámku → automaticky pošle email!
 
 **Jak to funguje:**
-1. **První setup** (jednou): Klikněte "⚙️ GitHub" (vpravo dole) a zadejte GitHub token
-2. **Označte text** myší → automaticky se zobrazí popup
-3. **Napište poznámku** → klikněte "Uložit"
-4. ✅ **Automaticky vytvoří GitHub Issue** s kompletním kontextem!
+1. **Označte text** myší → automaticky se zobrazí popup
+2. **Napište poznámku** → klikněte "Uložit"
+3. ✅ **Email odeslán!** Žádné nastavování!
 
-**Každá poznámka obsahuje:**
+**Email obsahuje:**
 - 📄 Název stránky + URL
 - 📍 Sekce kde byl text označen
 - 📝 Přesný text co byl označen
-- 💬 Vaše poznámka
-
-Poznámky vidíte přímo na GitHubu, můžete je zavírat po opravení, diskutovat pod nimi!
+- 💬 Poznámka
 
 ---
 

@@ -1,5 +1,5 @@
 // Simple annotation system for mobilheim-wiki
-// Sends annotations as GitHub Issues - automatic tracking!
+// Sends annotations via email - ZERO setup!
 
 (function() {
   'use strict';
@@ -8,10 +8,8 @@
   let selectedText = '';
   let selectionRange = null;
 
-  // GitHub configuration
-  const GITHUB_REPO = 'radim-prog/mobilheim-wiki';
-  const STORAGE_KEY = 'mobilheim-wiki-annotations';
-  const TOKEN_KEY = 'mobilheim-wiki-github-token';
+  // Email configuration - uses FormSubmit.co (free service)
+  const EMAIL_ENDPOINT = 'https://formsubmit.co/radim@wikiporadce.cz';
 
   // Create popup HTML
   function createPopup() {
@@ -154,67 +152,58 @@
     return null;
   }
 
-  // Get GitHub token
-  function getGitHubToken() {
-    return localStorage.getItem(TOKEN_KEY);
-  }
+  // Send annotation via email
+  async function sendEmail(annotation) {
+    // Create email subject and body
+    const subject = `📝 Poznámka: ${annotation.pageTitle}`;
 
-  // Create GitHub Issue
-  async function createGitHubIssue(annotation) {
-    const token = getGitHubToken();
-
-    if (!token) {
-      showMessage('Nastavte GitHub token (tlačítko ⚙️)', 'error');
-      return false;
-    }
-
-    // Create issue title and body
-    const title = `📝 Poznámka: ${annotation.pageTitle}`;
-
-    let body = `## Poznámka ze dne ${new Date(annotation.timestamp).toLocaleString('cs-CZ')}\n\n`;
-    body += `**Stránka:** ${annotation.pageTitle}\n`;
-    body += `**URL:** ${annotation.pageUrl}\n`;
+    const date = new Date(annotation.timestamp).toLocaleString('cs-CZ');
+    let body = `POZNÁMKA ZE STRÁNKY\n`;
+    body += `===================\n\n`;
+    body += `Datum: ${date}\n`;
+    body += `Stránka: ${annotation.pageTitle}\n`;
+    body += `URL: ${annotation.pageUrl}\n`;
     if (annotation.sectionHeading) {
-      body += `**Sekce:** ${annotation.sectionHeading}\n`;
+      body += `Sekce: ${annotation.sectionHeading}\n`;
     }
     body += `\n---\n\n`;
-    body += `**Označený text:**\n> ${annotation.selectedText}\n\n`;
-    body += `**Poznámka:**\n${annotation.note}\n\n`;
+    body += `OZNAČENÝ TEXT:\n${annotation.selectedText}\n\n`;
     body += `---\n\n`;
-    body += `*Automaticky vytvořeno systémem poznámek*`;
+    body += `POZNÁMKA:\n${annotation.note}\n`;
+
+    // Send via FormSubmit
+    const formData = new FormData();
+    formData.append('_subject', subject);
+    formData.append('Datum', date);
+    formData.append('Stránka', annotation.pageTitle);
+    formData.append('URL', annotation.pageUrl);
+    formData.append('Sekce', annotation.sectionHeading || 'N/A');
+    formData.append('Označený text', annotation.selectedText);
+    formData.append('Poznámka', annotation.note);
+    formData.append('_template', 'box'); // Nice email template
+    formData.append('_captcha', 'false'); // No captcha
 
     try {
-      const response = await fetch(`https://api.github.com/repos/${GITHUB_REPO}/issues`, {
+      const response = await fetch(EMAIL_ENDPOINT, {
         method: 'POST',
+        body: formData,
         headers: {
-          'Authorization': `token ${token}`,
-          'Content-Type': 'application/json',
-          'Accept': 'application/vnd.github.v3+json'
-        },
-        body: JSON.stringify({
-          title: title,
-          body: body,
-          labels: ['poznámka', 'auto-generated']
-        })
+          'Accept': 'application/json'
+        }
       });
 
       if (!response.ok) {
-        const error = await response.json();
-        console.error('GitHub API error:', error);
-        throw new Error(error.message || 'GitHub API error');
+        throw new Error('Email send failed');
       }
 
-      const issue = await response.json();
-      console.log('GitHub Issue created:', issue.html_url);
-      return issue;
-
+      return true;
     } catch (error) {
-      console.error('Error creating GitHub issue:', error);
+      console.error('Error sending email:', error);
       throw error;
     }
   }
 
-  // Save annotation (to GitHub and localStorage backup)
+  // Save annotation
   async function saveAnnotation() {
     const textarea = document.getElementById('annotation-textarea');
     const note = textarea.value.trim();
@@ -246,30 +235,15 @@
     };
 
     try {
-      // Send to GitHub
-      const issue = await createGitHubIssue(annotation);
+      // Send email
+      await sendEmail(annotation);
 
-      // Also save to localStorage as backup
-      let annotations = [];
-      try {
-        const stored = localStorage.getItem(STORAGE_KEY);
-        if (stored) {
-          annotations = JSON.parse(stored);
-        }
-      } catch (e) {
-        console.error('Error loading annotations:', e);
-      }
-
-      annotation.githubIssue = issue ? issue.html_url : null;
-      annotations.push(annotation);
-      localStorage.setItem(STORAGE_KEY, JSON.stringify(annotations));
-
-      showMessage('✓ Poznámka odeslána na GitHub!', 'success');
-      console.log('Annotation saved:', annotation);
+      showMessage('✓ Poznámka odeslána!', 'success');
+      console.log('Annotation sent:', annotation);
 
     } catch (error) {
       console.error('Error saving annotation:', error);
-      showMessage('Chyba při odesílání na GitHub.', 'error');
+      showMessage('Chyba při odesílání.', 'error');
 
       // Re-enable button
       saveBtn.disabled = false;
@@ -293,151 +267,6 @@
     }, 10);
   }
 
-  // Export annotations to file
-  function exportAnnotations() {
-    try {
-      const stored = localStorage.getItem(STORAGE_KEY);
-      if (!stored || stored === '[]') {
-        alert('Žádné poznámky k exportu!');
-        return;
-      }
-
-      const annotations = JSON.parse(stored);
-
-      // Create readable text format
-      let text = 'POZNÁMKY Z MOBILHEIM WIKI\n';
-      text += '='.repeat(50) + '\n\n';
-
-      annotations.forEach((ann, index) => {
-        const date = new Date(ann.timestamp).toLocaleString('cs-CZ');
-        text += `${index + 1}. Poznámka (${date})\n`;
-        text += '-'.repeat(50) + '\n';
-        text += `Stránka: ${ann.pageTitle}\n`;
-        text += `URL: ${ann.pageUrl}\n`;
-        if (ann.sectionHeading) {
-          text += `Sekce: ${ann.sectionHeading}\n`;
-        }
-        text += `\nOznačený text:\n"${ann.selectedText}"\n\n`;
-        text += `Poznámka:\n${ann.note}\n\n`;
-        text += '='.repeat(50) + '\n\n';
-      });
-
-      // Download as file
-      const blob = new Blob([text], { type: 'text/plain;charset=utf-8' });
-      const url = URL.createObjectURL(blob);
-      const a = document.createElement('a');
-      a.href = url;
-      a.download = `poznamky-mobilheim-wiki-${new Date().toISOString().split('T')[0]}.txt`;
-      document.body.appendChild(a);
-      a.click();
-      document.body.removeChild(a);
-      URL.revokeObjectURL(url);
-
-      console.log(`Exported ${annotations.length} annotations`);
-    } catch (error) {
-      console.error('Error exporting annotations:', error);
-      alert('Chyba při exportu poznámek');
-    }
-  }
-
-  // Show GitHub token settings
-  function showTokenSettings() {
-    const currentToken = getGitHubToken();
-    const tokenInput = prompt(
-      'Zadejte GitHub Personal Access Token:\n\n' +
-      'Jak vytvořit token:\n' +
-      '1. Jděte na github.com/settings/tokens\n' +
-      '2. "Generate new token" → "Classic"\n' +
-      '3. Zaškrtněte "repo" (full control)\n' +
-      '4. Zkopírujte token a vložte sem\n\n' +
-      'Token:',
-      currentToken || ''
-    );
-
-    if (tokenInput !== null) {
-      if (tokenInput.trim()) {
-        localStorage.setItem(TOKEN_KEY, tokenInput.trim());
-        alert('✓ GitHub token uložen!\n\nPoznámky se nyní budou posílat jako Issues na GitHub.');
-      } else {
-        localStorage.removeItem(TOKEN_KEY);
-        alert('Token odstraněn.');
-      }
-    }
-  }
-
-  // Add settings and export buttons
-  function addButtons() {
-    const container = document.createElement('div');
-    container.id = 'annotation-buttons';
-    container.style.cssText = `
-      position: fixed;
-      bottom: 20px;
-      right: 20px;
-      display: flex;
-      flex-direction: column;
-      gap: 10px;
-      z-index: 9999;
-    `;
-
-    // Settings button (always visible)
-    const settingsBtn = document.createElement('button');
-    settingsBtn.innerHTML = '⚙️ GitHub';
-    settingsBtn.title = 'Nastavit GitHub token';
-    settingsBtn.style.cssText = `
-      background-color: var(--md-primary-fg-color, #3f51b5);
-      color: white;
-      border: none;
-      border-radius: 24px;
-      padding: 12px 20px;
-      font-size: 14px;
-      font-weight: 500;
-      cursor: pointer;
-      box-shadow: 0 2px 8px rgba(0,0,0,0.3);
-      transition: all 0.2s;
-    `;
-    settingsBtn.addEventListener('click', showTokenSettings);
-    settingsBtn.addEventListener('mouseenter', () => {
-      settingsBtn.style.transform = 'translateY(-2px)';
-      settingsBtn.style.boxShadow = '0 4px 12px rgba(0,0,0,0.4)';
-    });
-    settingsBtn.addEventListener('mouseleave', () => {
-      settingsBtn.style.transform = 'translateY(0)';
-      settingsBtn.style.boxShadow = '0 2px 8px rgba(0,0,0,0.3)';
-    });
-    container.appendChild(settingsBtn);
-
-    // Export button (only if there are annotations)
-    const stored = localStorage.getItem(STORAGE_KEY);
-    if (stored && stored !== '[]') {
-      const exportBtn = document.createElement('button');
-      exportBtn.innerHTML = '📥 Export';
-      exportBtn.title = 'Stáhnout poznámky jako soubor';
-      exportBtn.style.cssText = `
-        background-color: #607d8b;
-        color: white;
-        border: none;
-        border-radius: 24px;
-        padding: 12px 20px;
-        font-size: 14px;
-        font-weight: 500;
-        cursor: pointer;
-        box-shadow: 0 2px 8px rgba(0,0,0,0.3);
-        transition: all 0.2s;
-      `;
-      exportBtn.addEventListener('click', exportAnnotations);
-      exportBtn.addEventListener('mouseenter', () => {
-        exportBtn.style.transform = 'translateY(-2px)';
-        exportBtn.style.boxShadow = '0 4px 12px rgba(0,0,0,0.4)';
-      });
-      exportBtn.addEventListener('mouseleave', () => {
-        exportBtn.style.transform = 'translateY(0)';
-        exportBtn.style.boxShadow = '0 2px 8px rgba(0,0,0,0.3)';
-      });
-      container.appendChild(exportBtn);
-    }
-
-    document.body.appendChild(container);
-  }
 
   // Initialize
   function init() {
@@ -445,10 +274,7 @@
     document.addEventListener('mouseup', handleTextSelection);
     document.addEventListener('touchend', handleTextSelection);
 
-    // Add settings and export buttons
-    addButtons();
-
-    console.log('Annotation system initialized (GitHub Issues mode)');
+    console.log('Annotation system initialized (Email mode)');
   }
 
   // Wait for DOM to be ready
