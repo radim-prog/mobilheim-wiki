@@ -1,0 +1,147 @@
+/* Fix left sidebar scrolling - ensure bottom is visible */
+.md-sidebar--primary {
+  position: fixed;
+  top: 3.6rem;  /* Below header */
+  bottom: 0;
+  left: 0;
+  width: 12.1rem;
+  height: calc(100vh - 3.6rem);  /* Full viewport height minus header */
+  overflow-y: auto;  /* Enable vertical scrolling */
+  overflow-x: hidden;  /* Hide horizontal overflow */
+}
+
+.md-sidebar--primary .md-sidebar__scrollwrap {
+  height: 100%;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+/* Ensure smooth scrolling in sidebar */
+.md-sidebar--primary .md-sidebar__scrollwrap::-webkit-scrollbar {
+  width: 0.4rem;
+}
+
+.md-sidebar--primary .md-sidebar__scrollwrap::-webkit-scrollbar-thumb {
+  background-color: rgba(0, 0, 0, 0.2);
+  border-radius: 0.2rem;
+}
+
+.md-sidebar--primary .md-sidebar__scrollwrap::-webkit-scrollbar-thumb:hover {
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+/* Dark mode scrollbar */
+[data-md-color-scheme="slate"] .md-sidebar--primary .md-sidebar__scrollwrap::-webkit-scrollbar-thumb {
+  background-color: rgba(255, 255, 255, 0.2);
+}
+
+[data-md-color-scheme="slate"] .md-sidebar--primary .md-sidebar__scrollwrap::-webkit-scrollbar-thumb:hover {
+  background-color: rgba(255, 255, 255, 0.3);
+}
+
+/* Ensure navigation items are properly spaced */
+.md-nav--primary > .md-nav__list {
+  padding-bottom: 2rem;  /* Extra padding at bottom */
+}
+
+/* Make collapsible sections more obvious */
+.md-nav__item--nested > .md-nav__link {
+  cursor: pointer;
+}
+
+.md-nav__item--nested > .md-nav__link::after {
+  content: "\e315";  /* Expand more icon */
+  font-family: "Material Icons";
+  margin-left: auto;
+  transition: transform 0.25s;
+}
+
+.md-nav__item--nested > .md-nav__toggle:checked ~ .md-nav__link::after {
+  transform: rotate(180deg);
+}
+
+/* Hypothesis.io annotation sidebar styling adjustments */
+.annotator-frame {
+  z-index: 999;  /* Ensure it appears above content but below modals */
+}
+
+/* Ensure main content doesn't overlap with annotation sidebar when open */
+@media screen and (min-width: 76.25em) {
+  .md-content {
+    margin-right: 0;
+    transition: margin-right 0.25s;
+  }
+
+  body.hypothesis-sidebar-open .md-content {
+    margin-right: 25rem;  /* Make room for Hypothesis sidebar */
+  }
+}
+
+/* Mobile responsiveness for left sidebar */
+@media screen and (max-width: 76.25em) {
+  .md-sidebar--primary {
+    position: fixed;
+    transform: translateX(-12.6rem);
+    transition: transform 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+    width: 12.1rem;
+    height: 100%;
+  }
+
+  [data-md-toggle="drawer"]:checked ~ .md-container .md-sidebar--primary {
+    transform: translateX(0);
+  }
+}
+
+/* Improve readability */
+.md-typeset {
+  font-size: 0.9rem;
+  line-height: 1.6;
+}
+
+.md-typeset h1 {
+  font-weight: 700;
+  margin-top: 0;
+}
+
+.md-typeset h2 {
+  font-weight: 600;
+  margin-top: 2rem;
+}
+
+/* Better link styling */
+.md-typeset a {
+  color: var(--md-primary-fg-color);
+  text-decoration: none;
+}
+
+.md-typeset a:hover {
+  text-decoration: underline;
+}
+
+/* Improve table styling */
+.md-typeset table:not([class]) {
+  display: table;
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1.5rem 0;
+}
+
+.md-typeset table:not([class]) th {
+  background-color: var(--md-default-fg-color--light);
+  font-weight: 700;
+}
+
+/* Code block improvements */
+.md-typeset code {
+  padding: 0.1rem 0.4rem;
+  border-radius: 0.2rem;
+  background-color: var(--md-code-bg-color);
+}
+
+/* Admonition styling */
+.md-typeset .admonition {
+  margin: 1.5rem 0;
+  padding: 0.6rem 0.8rem;
+  border-left: 0.2rem solid;
+  border-radius: 0.2rem;
+}
