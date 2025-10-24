@@ -78,73 +78,74 @@ markdown_extensions:
 nav:
   - Úvod: index.md
 
-  - Blog:
+  - 📚 WIKI - Znalostní báze:
+    - Legislativa:
+      - Přehled: wiki/legislativa/README.md
+      - Stavební zákony:
+        - Zákon 183/2006 Sb.: wiki/legislativa/stary-zakon-183-2006.md
+        - Zákon 283/2021 Sb.: wiki/legislativa/novy-zakon-283-2021.md
+      - Vyhlášky:
+        - Vyhláška 501/2006 Sb.: wiki/legislativa/vyhlaska-501-2006.md
+        - Vyhláška 268/2009 Sb.: wiki/legislativa/vyhlaska-268-2009.md
+      - Metodiky MMR: wiki/legislativa/metodika-mobilni-domy-2022.md
+      - Judikatura: wiki/legislativa/prehled-soudnich-rozhodnuti.md
+
+    - Technické informace:
+      - Materiály & Konstrukce:
+        - Přehled materiálů: wiki/technicke-specifikace/prehled-materialu.md
+        - Konstrukční systémy: wiki/technicke-specifikace/konstrukcni-systemy.md
+        - Tepelná izolace: wiki/technicke-specifikace/tepelna-izolace.md
+      - Energetika:
+        - Vytápění: wiki/technicke-specifikace/vytapeni.md
+        - Fotovoltaika & off-grid: wiki/technicke-specifikace/fotovoltaika-offgrid.md
+        - Energetická náročnost: wiki/technicke-specifikace/energeticka-narocnost.md
+      - Připojení sítí:
+        - Elektřina: wiki/pripojeni-siti/elektrina.md
+        - Voda: wiki/pripojeni-siti/voda.md
+        - Kanalizace: wiki/pripojeni-siti/kanalizace.md
+
+    - Financování:
+      - Dotace a podpory: wiki/financovani/dotace.md
+      - Hypotéky a úvěry: wiki/financovani/hypoteky-a-uvery.md
+
+    - Údržba:
+      - Údržba a životnost: wiki/udrzba/udrzba-a-zivotnost.md
+
+    - Případové studie:
+      - Mladá rodina: wiki/pripadove-studie/studie-1-mlada-rodina.md
+      - Senior - chatová oblast: wiki/pripadove-studie/studie-2-senior-chatova-oblast.md
+      - Off-grid resort: wiki/pripadove-studie/studie-3-offgrid-dům.md
+      - Tiny house: wiki/pripadove-studie/studie-4-docasne-bydleni.md
+      - Airbnb business: wiki/pripadove-studie/studie-5-airbnb-business.md
+
+  - 📝 BLOG - Články:
     - 10 věcí, které nikdo neříká: blog/02-10-veci-ktere-nikdo-nerika.md
     - Hypotéka na mobilní dům: blog/03-hypoteka-na-mobilni-dum.md
     - Kolik stojí mobilní dům: blog/04-kolik-stoji-mobilni-dum.md
     - Mýty o mobilních domech: blog/05-myty-o-mobilnich-domech.md
     - Jak vybrat pozemek: blog/06-jak-vybrat-pozemek.md
-    - Dotace na mobilní dům: blog/07-dotace-na-mobilni-dum.md
-    - Energeticky úsporný dům: blog/08-energeticky-usporny-mobilni-dum.md
-    - Mobilní dům pro seniory: blog/09-mobilni-dum-pro-seniory.md
-    - Jak ušetřit při stavbě: blog/10-jak-usetrit-pri-stavbe.md
+    - Dotace: blog/07-dotace-na-mobilni-dum.md
+    - Energeticky úsporný: blog/08-energeticky-usporny-mobilni-dum.md
+    - Pro seniory: blog/09-mobilni-dum-pro-seniory.md
+    - Jak ušetřit: blog/10-jak-usetrit-pri-stavbe.md
     - Mobilní dům vs. byt: blog/11-mobilni-dum-vs-byt.md
     - Průvodce výstavbou: blog/12-pruvodce-vystavbou-krok-za-krokem.md
-    - Top 10 chyb při koupi: blog/13-top-10-chyb-pri-koupi.md
+    - Top 10 chyb: blog/13-top-10-chyb-pri-koupi.md
     - Roční plán údržby: blog/14-udrzba-rocni-plan.md
     - Zimní bydlení: blog/15-zimni-bydleni-myty-realita.md
     - Pojištění: blog/16-pojisteni-mobilniho-domu.md
     - Jak vybrat výrobce: blog/17-jak-vybrat-vyrobce.md
     - Pro mladou rodinu: blog/18-mobilni-dum-pro-mladou-rodinu.md
     - Legislativa 2025: blog/19-legislativa-2025-kompletni-pruvodce.md
-    - Off-grid mobilní dům: blog/20-off-grid-mobilni-dum.md
+    - Off-grid: blog/20-off-grid-mobilni-dum.md
     - Modulární vs. mobilní: blog/21-modularni-vs-mobilni-domy.md
-    - Pasivní mobilní dům: blog/22-pasivni-mobilni-dum.md
-    - FAQ - 20 otázek: blog/23-faq-20-nejcastejsich-otazek.md
+    - Pasivní dům: blog/22-pasivni-mobilni-dum.md
+    - 20 nejčastějších otázek: blog/23-faq-20-nejcastejsich-otazek.md
     - Airbnb byznys: blog/24-airbnb-byznys-s-mobilnimi-domy.md
     - Budoucnost 2025-2030: blog/25-budoucnost-trendy-2025-2030.md
 
-  - Legislativa:
-    - Přehled: wiki/legislativa/README.md
-    - Stavební zákony:
-      - Zákon 183/2006 Sb. (starý): wiki/legislativa/stary-zakon-183-2006.md
-      - Zákon 283/2021 Sb. (nový): wiki/legislativa/novy-zakon-283-2021.md
-    - Vyhlášky:
-      - Vyhláška 501/2006 Sb.: wiki/legislativa/vyhlaska-501-2006.md
-      - Vyhláška 268/2009 Sb.: wiki/legislativa/vyhlaska-268-2009.md
-    - Metodiky MMR: wiki/legislativa/metodika-mobilni-domy-2022.md
-    - Judikatura: wiki/legislativa/prehled-soudnich-rozhodnuti.md
-
-  - Technické informace:
-    - Materiály & Konstrukce:
-      - Přehled materiálů: wiki/technicke-specifikace/prehled-materialu.md
-      - Konstrukční systémy: wiki/technicke-specifikace/konstrukcni-systemy.md
-      - Tepelná izolace: wiki/technicke-specifikace/tepelna-izolace.md
-    - Energetika:
-      - Vytápění: wiki/technicke-specifikace/vytapeni.md
-      - Fotovoltaika & off-grid: wiki/technicke-specifikace/fotovoltaika-offgrid.md
-      - Energetická náročnost: wiki/technicke-specifikace/energeticka-narocnost.md
-    - Připojení sítí:
-      - Elektřina: wiki/pripojeni-siti/elektrina.md
-      - Voda: wiki/pripojeni-siti/voda.md
-      - Kanalizace: wiki/pripojeni-siti/kanalizace.md
-
-  - Financování:
-    - Dotace a podpory: wiki/financovani/dotace.md
-    - Hypotéky a úvěry: wiki/financovani/hypoteky-a-uvery.md
-
-  - Údržba:
-    - Údržba a životnost: wiki/udrzba/udrzba-a-zivotnost.md
-
-  - Případové studie:
-    - Mladá rodina - celoroční bydlení: wiki/pripadove-studie/studie-1-mlada-rodina.md
-    - Senior - chatová oblast: wiki/pripadove-studie/studie-2-senior-chatova-oblast.md
-    - Off-grid resort: wiki/pripadove-studie/studie-3-offgrid-dům.md
-    - Dočasné bydlení - tiny house: wiki/pripadove-studie/studie-4-docasne-bydleni.md
-    - Airbnb business model: wiki/pripadove-studie/studie-5-airbnb-business.md
-
-  - FAQ:
-    - 112 nejčastějších otázek: faq/faq-kompletni.md
+  - ❓ FAQ - Nejčastější dotazy:
+    - 112 otázek a odpovědí: faq/faq-kompletni.md
 
 extra:
   social:
