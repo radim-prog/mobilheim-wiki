@@ -80,41 +80,30 @@ nav:
   - Úvod: index.md
 
   - Blog:
-    - Základy:
-      - 10 věcí, které nikdo neříká: blog/02-10-veci-ktere-nikdo-nerika.md
-      - Mýty vs. realita: blog/05-myty-o-mobilnich-domech.md
-      - Mobilní dům vs. byt: blog/11-mobilni-dum-vs-byt.md
-      - Modulární vs. mobilní: blog/21-modularni-vs-mobilni-domy.md
-      - FAQ - 20 nejčastějších otázek: blog/23-faq-20-nejcastejsich-otazek.md
-
-    - Nákup & Ceny:
-      - Kolik stojí mobilní dům: blog/04-kolik-stoji-mobilni-dum.md
-      - Jak vybrat pozemek: blog/06-jak-vybrat-pozemek.md
-      - Top 10 chyb při koupi: blog/13-top-10-chyb-pri-koupi.md
-      - Jak vybrat výrobce: blog/17-jak-vybrat-vyrobce.md
-      - Jak ušetřit: blog/10-jak-usetrit-pri-stavbe.md
-
-    - Financování:
-      - Hypotéky: blog/03-hypoteka-na-mobilni-dum.md
-      - Dotace: blog/07-dotace-na-mobilni-dum.md
-      - Pojištění: blog/16-pojisteni-mobilniho-domu.md
-
-    - Výstavba & Údržba:
-      - Průvodce výstavbou: blog/12-pruvodce-vystavbou-krok-za-krokem.md
-      - Roční plán údržby: blog/14-udrzba-rocni-plan.md
-      - Zimní bydlení: blog/15-zimni-bydleni-myty-realita.md
-
-    - Speciální typy:
-      - Energeticky úsporný: blog/08-energeticky-usporny-mobilni-dum.md
-      - Pasivní dům: blog/22-pasivni-mobilni-dum.md
-      - Off-grid: blog/20-off-grid-mobilni-dum.md
-      - Pro seniory: blog/09-mobilni-dum-pro-seniory.md
-      - Pro mladou rodinu: blog/18-mobilni-dum-pro-mladou-rodinu.md
-      - Airbnb byznys: blog/24-airbnb-byznys-s-mobilnimi-domy.md
-
-    - Legislativa & Trendy:
-      - Legislativa 2025: blog/19-legislativa-2025-kompletni-pruvodce.md
-      - Budoucnost 2025-2030: blog/25-budoucnost-trendy-2025-2030.md
+    - 10 věcí, které nikdo neříká: blog/02-10-veci-ktere-nikdo-nerika.md
+    - Hypotéka na mobilní dům: blog/03-hypoteka-na-mobilni-dum.md
+    - Kolik stojí mobilní dům: blog/04-kolik-stoji-mobilni-dum.md
+    - Mýty o mobilních domech: blog/05-myty-o-mobilnich-domech.md
+    - Jak vybrat pozemek: blog/06-jak-vybrat-pozemek.md
+    - Dotace na mobilní dům: blog/07-dotace-na-mobilni-dum.md
+    - Energeticky úsporný dům: blog/08-energeticky-usporny-mobilni-dum.md
+    - Mobilní dům pro seniory: blog/09-mobilni-dum-pro-seniory.md
+    - Jak ušetřit při stavbě: blog/10-jak-usetrit-pri-stavbe.md
+    - Mobilní dům vs. byt: blog/11-mobilni-dum-vs-byt.md
+    - Průvodce výstavbou: blog/12-pruvodce-vystavbou-krok-za-krokem.md
+    - Top 10 chyb při koupi: blog/13-top-10-chyb-pri-koupi.md
+    - Roční plán údržby: blog/14-udrzba-rocni-plan.md
+    - Zimní bydlení: blog/15-zimni-bydleni-myty-realita.md
+    - Pojištění: blog/16-pojisteni-mobilniho-domu.md
+    - Jak vybrat výrobce: blog/17-jak-vybrat-vyrobce.md
+    - Pro mladou rodinu: blog/18-mobilni-dum-pro-mladou-rodinu.md
+    - Legislativa 2025: blog/19-legislativa-2025-kompletni-pruvodce.md
+    - Off-grid mobilní dům: blog/20-off-grid-mobilni-dum.md
+    - Modulární vs. mobilní: blog/21-modularni-vs-mobilni-domy.md
+    - Pasivní mobilní dům: blog/22-pasivni-mobilni-dum.md
+    - FAQ - 20 otázek: blog/23-faq-20-nejcastejsich-otazek.md
+    - Airbnb byznys: blog/24-airbnb-byznys-s-mobilnimi-domy.md
+    - Budoucnost 2025-2030: blog/25-budoucnost-trendy-2025-2030.md
 
   - Legislativa:
     - Přehled: wiki/legislativa/README.md
