@@ -1,647 +1,161 @@
 # Údržba a životnost mobilních domů
 
-> **Kompletní průvodce** údržbou mobilního domu a prodloužením jeho životnosti
->
-> **Aktualizováno:** Říjen 2025
+Mobilní domy při správné údržbě dosahují životnosti srovnatelné s klasickými dřevostavbami. Kvalitně postavený mobilní dům s dřevěnou konstrukcí může sloužit 40 až 60 let, některé komponenty jako střecha nebo okna mají životnost ještě delší. Klíčem k dlouhé životnosti je pravidelná péče, ochrana před vlhkostí a preventivní kontroly.
 
 ---
 
-## 🎯 Úvod
+## Životnost hlavních komponent
 
-### Životnost mobilního domu:
+Životnost jednotlivých částí mobilního domu se liší podle použitých materiálů, kvality provedení a intenzity údržby.
 
-| Komponenta | Životnost [roky] | Údržba |
-|-----------|-----------------|--------|
-| **Konstrukce (dřevo)** | 30-50 | Pravidelná ochrana |
-| **Fasáda (dřevo)** | 15-30 | Nátěr každé 3-5 let |
-| **Střecha (plech)** | 30-50 | Kontrola, čištění |
-| **Okna (plast)** | 20-40 | Seřizování, těsnění |
-| **Elektroinstalace** | 20-30 | Revize každých 5 let |
-| **Vodoinstalace** | 20-40 | Kontrola těsnění |
-| **Podlaha** | 15-30 | Dle materiálu |
+### Dřevěná konstrukce
 
-**Celková životnost dobře udržovaného mobilního domu: 40-60 let** ✅
+Nosná dřevěná konstrukce moderních mobilních domů vydrží při správné ochraně 30 až 50 let, u kvalitních staveb i déle. Současné dřevostavby rodinných domů mají fyzickou životnost 100 až 150 let, pokud je dřevo chráněno před vodou a vlhkostí. Generální údržba konstrukce by měla následovat mezi 30. až 50. rokem užívání objektu.
 
----
+Alfou a omegou dlouhé životnosti je nízká vlhkost v konstrukcích – dřevo musí být důkladně chráněno proti kontaktu s vodou, která podporuje růst plísní a hub. Preventivní ochrana zahrnuje impregnaci proti dřevokazným houbám a hmyzu, kterou je vhodné obnovovat každých 5 až 10 let.
 
-## 🏠 1. Konstrukce a nosné prvky
+### Fasáda
 
-### Kontrola dřevěné konstrukce:
+**Dřevěná fasáda:** Životnost 15 až 30 let podle typu nátěru a intenzity údržby. Nátěr (lazura nebo fasádní barva) vyžaduje obnovu každé 3 až 5 let. Pravidelný nátěr chrání dřevo před UV zářením, vlhkostí a mechanickým poškozením.
 
-#### Pravidelná kontrola (1× ročně):
+**Plechová fasáda:** Životnost 30 až 50 let. Galvanizované a lakované plechy vyžadují minimální údržbu – mytí jednou ročně a kontrolu koroze. Pokud se objeví koroze, je nutné ji okamžitě ošetřit antikorozním nátěrem.
 
-**Co kontrolovat:**
-- ✅ Viditelné trhliny v dřevě
-- ✅ Praskliny v obkladech
-- ✅ Deformace (prohnutí, zkroucení)
-- ✅ Vlhkost dřeva (vlhkoměr)
-- ✅ Napadení hmyzem (červotoč, tesařík)
-- ✅ Plísně a houby
+**HPL panely a kompozitní obklady:** Životnost 40 až 60 let. Prakticky bez údržby, stačí mytí 1 až 2× ročně.
 
-**Kdy:** Jaro (po zimě) a podzim (před zimou)
+### Střecha
 
----
+**Plechová střecha (trapézový plech):** Životnost 30 až 50 let u pozinkovaných a lakovaných variant. Ocelové plechy obvykle vydrží 20 až 50 let, nerezová ocel mnohem déle. Hlavním nepřítelem je koroze způsobená vlhkostí a kyselými dešti. Pravidelná vizuální kontrola alespoň jednou ročně a čištění od nečistot a listí prodlužuje životnost.
 
-### Ochrana dřevěné konstrukce:
+**Pálené tašky:** Životnost 80 až 100 let. Vyžadují kontrolu prasklin, odstraňování mechů a výměnu poškozených kusů.
 
-#### A) Chemická ochrana:
+**PVC fólie (plochá střecha):** Životnost 30 až 50 let. Nutné čištění 2× ročně a kontrola svárů proti zatékání.
 
-**Preventivní ošetření:**
-- **Impregnace** proti dřevokazným houbám a hmyzu
-- Frekvence: Každých **5-10 let**
-- Aplikace: Nátěr nebo nástřik
-- Produkty: Bochemit, Lignofix, Luxol
+### Okna
 
-**Postup:**
-1. Očistit dřevo (kartáč, vysavač)
-2. Nanést impregnaci 2× (2. vrstva po zaschnutí)
-3. Nechat zaschnout (24-48 hodin)
+**Plastová okna:** Životnost 20 až 40 let. Údržba spočívá v mazání kování olejem nebo vazelínou, ošetření těsnění silikonovým sprejem a seřizování pantů. Kontroverzní je tzv. zimní a letní režim – odborníci doporučují udržovat správný přítlak po celý rok, nikoli měnit nastavení sezónně.
 
-**Cena:** 5 000 - 15 000 Kč (vč. materiálu a práce)
+**Dřevěná okna:** Životnost 30 až 50 let při pravidelné údržbě. Vyžadují nátěr každé 3 až 5 let, podobně jako dřevěná fasáda.
 
----
+### Vodoinstalace
 
-#### B) Oprava poškozených částí:
+Vodovodní potrubí a armatury vydrží 20 až 40 let podle materiálu a kvality vody. Kontrola těsnosti spojů a funkce armatur se doporučuje každé 2 roky. Mechanické filtry vyžadují čištění 1× za 3 měsíce a výměnu vložky 1× ročně.
 
-**Menší poškození:**
-- Praskliny: Vyplnit tmelem na dřevo
-- Díry po hmyzu: Vyčistit, ošetřit insekticidem
+**Zásobník teplé vody (boiler):** Životnost 5 až 15 let, kvalitní solární zásobníky vydrží při dobré údržbě 20 let i déle. Klíčová je výměna hořčíkové anody každé 2 až 3 roky – zanedbaná výměna zkracuje životnost přístroje. Vypouštění sedimentu se doporučuje 1× ročně.
 
-**Větší poškození:**
-- Výměna napadených částí (trám, sloupek)
-- Cena: 10 000 - 50 000 Kč (dle rozsahu)
+### Elektroinstalace
+
+Elektroinstalace vydrží 20 až 30 let. Pro rodinné domy není v České republice zákonná povinnost pravidelných revizí, ale odborníci doporučují revizi každých 5 let. Revize je povinná při uvedení domu do provozu a při rozsáhlých rekonstrukcích. Pro firmy a podnikatele je povinná revize každých 5 let.
+
+Cena revize elektroinstalace pro rodinný dům se pohybuje mezi 2 000 až 5 000 Kč, průměrně kolem 3 500 Kč pro dvoupodlažní dům.
+
+### Vytápění
+
+**Tepelné čerpadlo:** Vyžaduje čištění filtrů vzduchu 4× ročně, čištění venkovní jednotky 1× ročně a servis odborníkem 1× za 2 roky.
+
+**Plynový kotel:** V domácnostech není zákonná povinnost pravidelných revizí, ale velmi se doporučuje jednou ročně před topnou sezónou. Pro firmy a podnikatele je povinný servis jednou ročně a provozní revize jednou za 3 roky. Kontrola a čištění spalinových cest u plynového kotle musí proběhnout jednou ročně, u kondenzačního kotle jednou za dva roky.
+
+**Krbová kamna:** Komín vyžaduje kontrolu a čištění podle druhu paliva – u pevných paliv 2× ročně, u kapalných a plynných 1× ročně. Cena čištění a kontroly komína se pohybuje mezi 1 000 až 2 000 Kč.
 
 ---
 
-### Kotvení k základům:
+## Pravidelná údržba
 
-**Kontrola (1× za 2 roky):**
-- ✅ Utažení kotevních šroubů
-- ✅ Koroze kovových prvků
-- ✅ Praskliny v betonových pátkách
+### Jaro (březen–květen)
 
-**Údržba:**
-- Dotáhnout šrouby (momentový klíč)
-- Ošetřit korozi (antikorozní nátěr)
+- Kontrola střechy po zimě – poškození krytinou, praskliny, těsnost prostupů
+- Čištění okapů a svodů od listí a nečistot
+- Kontrola fasády – stav nátěru, vlhkost dřeva, mechanické poškození
+- Seřízení oken (kontrola pantů a těsnění)
+- Kontrola kotvení k základům – utažení šroubů, kontrola koroze
 
----
+### Léto (červen–srpen)
 
-## 🎨 2. Fasáda
+- Nátěr fasády (pokud je nutná obnova každé 3–5 let)
+- Čištění klimatizace nebo tepelného čerpadla
+- Kontrola vodoinstalace – těsnost spojů, tlak vody, funkce armatur
+- Opravy drobných závad zjištěných při jarní kontrole
 
-### Dřevěná fasáda:
+### Podzim (září–listopad)
 
-#### Kontrola (1× ročně):
+- Kontrola střechy před zimou – funkčnost krytiny, průchodnost okapů
+- Čištění okapů a svodů
+- Seřízení oken (kontrola těsnosti před zimou)
+- Kontrola vytápění – funkce termostatu, tlak v systému, čištění
+- Revize komína (pokud jsou krbová kamna)
 
-**Co kontrolovat:**
-- Stav nátěru (odlupování, praskliny)
-- Vlhkost dřeva
-- Mechanické poškození
-- Napadení houbami, plísněmi
+### Zima (prosinec–únor)
 
----
-
-#### Renovace nátěru:
-
-**Frekvence:** Každé **3-5 let** (dle typu nátěru)
-
-**Postup:**
-
-1. **Příprava povrchu:**
-   - Omytí (tlakový čistič, lehký režim)
-   - Broušení (papír zr. 80-120)
-   - Odstranění prachu
-
-2. **Nátěr:**
-   - Bezbarvá lazura: Ochrana UV + zachování vzhledu
-   - Krycí lazura: Ochrana + změna barvy
-   - 2× vrstva (2. po 24 hodinách)
-
-**Produkty:**
-- Luxol Yacht (bezbarvá lazura) - 500 Kč/l
-- Dulux Trendline (krycí lazura) - 800 Kč/l
-- Caparol AmphiSilan (fasádní barva) - 1200 Kč/l
-
-**Spotřeba:** 1 litr = 8-12 m² (1 vrstva)
-
-**Příklad (50 m² fasády):**
-```
-Spotřeba: 50 / 10 × 2 vrstvy = 10 litrů
-Cena materiálu: 10 × 600 = 6 000 Kč
-Práce (pokud najímáte): 15 000 - 25 000 Kč
-CELKEM: 21 000 - 31 000 Kč
-```
+- Kontrola zamrzání potrubí v nevytápěných prostorech
+- Kontrola sněhové zátěže na střeše
+- Provozní údržba vytápění podle typu systému
 
 ---
 
-### Plechová fasáda:
+## Ochrana dřevěné konstrukce
 
-**Životnost:** 30-50 let
+Preventivní ošetření impregnací proti dřevokazným houbám a hmyzu se doporučuje každých 5 až 10 let. Aplikace probíhá nátěrem nebo nástřikem – povrch dřeva se nejprve očistí kartáčem, poté se nanáší impregnace ve dvou vrstvách (druhá po zaschnutí první). Doba schnutí je 24 až 48 hodin.
 
-**Údržba:**
-- Mytí 1× ročně (tlakový čistič)
-- Kontrola koroze (hned opravit!)
-- Dotěsnění spojů (silikon)
+Menší poškození jako praskliny se vyplňují tmelem na dřevo, díry po hmyzu se vyčistí a ošetří insekticidem. Větší poškození jako napadené trámy nebo sloupky vyžadují výměnu postižených částí.
 
-**Cena údržby:** 2 000 - 5 000 Kč/rok
+Pravidelná roční kontrola zahrnuje vizuální prohlídku viditelných trhlin, prasknutí obkladů, deformací konstrukce, měření vlhkosti dřeva vlhkoměrem a kontrolu napadení hmyzem nebo plísněmi. Ideální termíny jsou jaro (po zimě) a podzim (před zimou).
 
 ---
 
-### HPL / kompozitní panely:
+## Fasáda – renovace nátěru
 
-**Životnost:** 40-60 let
+Dřevěná fasáda vyžaduje obnovu nátěru každé 3 až 5 let podle typu použitého nátěru a expozice povětrnostním vlivům. Renovace zahrnuje omytí (tlakovým čističem v lehkém režimu), broušení odloupané barvy (papír zrnitosti 80–120), odstranění prachu a aplikaci nového nátěru ve dvou vrstvách.
 
-**Údržba:**
-- Mytí 1-2× ročně
-- Prakticky bez údržby!
+Používají se bezbarvé lazury (ochrana UV + zachování vzhledu dřeva) nebo krycí lazury (ochrana + změna barvy). Spotřeba je přibližně 1 litr na 8 až 12 m² jedné vrstvy, tedy pro dvouvrstvý nátěr je to přibližně 1 litr na 5 m².
 
-**Cena údržby:** 1 000 Kč/rok
+Ceny za nátěr dřevěné fasády se stanovují individuálně podle rozsahu, členitosti povrchu, stavu fasády a použitých materiálů. Obecně se práce za m² pohybuje v řádu stovek korun, k tomu je třeba připočíst materiál.
 
 ---
 
-## 🏚️ 3. Střecha
+## Údržba střechy
 
-### Kontrola střechy (2× ročně):
+Kontrola střechy probíhá dvakrát ročně – na jaře po zimě (poškození krytinou, ucpané okapy) a na podzim před zimou (čištění okapů, kontrola těsnosti). U plechové střechy stačí čištění 1× ročně kartáčem nebo opatrně tlakovým čističem (max. 80 bar). Nutná je kontrola koroze a dotěsnění spojů.
 
-**Jaro (po zimě):**
-- ✅ Poškození krytiny (vítr, sníh)
-- ✅ Ucpané okapy (listí)
-- ✅ Praskliny v krytině
-- ✅ Těsnost prostupů (komín, odvětrání)
-
-**Podzim (před zimou):**
-- ✅ Čištění okapů
-- ✅ Kontrola svodů
-- ✅ Těsnost střechy
+Okapy a svody vyžadují čištění 2× ročně (jaro, podzim) – odstranění listí a větviček, kontrolu těsnosti spojů a případnou korozi u pozinkovaných prvků.
 
 ---
 
-### Údržba dle typu krytiny:
+## Údržba interiéru
 
-#### A) Plechová střecha:
+**Vinylové a laminátové podlahy:** Životnost 15 až 25 let. Zametání nebo vysávání denně, vlhký mop 1× týdně (nepoužívat nadměrnou vodu). Ochrana podložkami pod nábytkem a rohožkou u vchodu.
 
-**Životnost:** 30-50 let
+**Dřevěné podlahy:** Vysávání 2× týdně, vlhký mop se speciálním čističem na dřevo. Broušení a olejování každých 5 až 10 let.
 
-**Údržba:**
-- Čištění 1× ročně (kartáč + voda)
-- Kontrola koroze
-- Dotěsnění spojů (výměna matic, šroubů)
-
-**Čištění:**
-- Ruční (kartáč)
-- Tlakový čistič (opatrně, max. 80 bar)
-
-**Cena:** 2 000 - 5 000 Kč/rok (DIY)
+**Stěny (SDK, OSB):** Otření prachem 1× měsíčně, malování každých 5 až 10 let. Drobné praskliny se opravují tmelem a přemalováním.
 
 ---
 
-#### B) Pálené tašky:
+## Časté problémy a jejich prevence
 
-**Životnost:** 80-100 let
+### Zatékání střechy
 
-**Údržba:**
-- Kontrola prasklin, posunutí
-- Čištění mechů (vysokotlaký čistič nebo chemicky)
-- Výměna poškozených tašek
+Příčiny: poškozená krytina (vítr, kroupy), netěsné prostupy (komín, odvětrání), ucpané okapy (voda se vrací zpět). Řešení zahrnuje lokalizaci místa zatékání (voda často teče jinam, než kde prosakuje), opravu krytiny záplatou nebo výměnou a dotěsnění prostupů silikonem nebo manžetou. Prevence: pravidelná kontrola střechy.
 
-**Cena:** 3 000 - 8 000 Kč/rok
+### Plíseň v interiéru
 
----
+Příčiny: špatné větrání (kondenzace vlhkosti), zatékání, tepelné mosty (studené rohy). Řešení: zlepšení větrání (otevírání oken 3× denně 10 minut, rekuperace), oprava zatékání, dodatečné zateplení rohů. Prevence: pravidelné větrání.
 
-#### C) PVC fólie (plochá střecha):
+### Praskliny ve fasádě
 
-**Životnost:** 30-50 let
-
-**Údržba:**
-- Čištění 2× ročně (listí, nečistoty)
-- Kontrola svárů (zatékání?)
-- Odstranění vegetace (mechy, tráva)
-
-**Oprava:**
-- Menší trhliny: Záplata (PVC páska, svařování)
-- Větší poškození: Výměna části fólie
-
-**Cena údržby:** 3 000 - 6 000 Kč/rok
+Příčiny: pohyb dřevěné konstrukce vlivem vlhkosti a teploty, stárnutí nátěru. Řešení: vyškrábání staré barvy, vyplnění tmelem, přemalování. Prevence: pravidelný nátěr každé 3 až 5 let.
 
 ---
 
-### Okapy a svody:
+## Zdroje
 
-**Čištění:**
-- Frekvence: 2× ročně (jaro, podzim)
-- Odstranění listí, větviček
-
-**Kontrola:**
-- Těsnost spojů
-- Prorezivění (pozinkované okapy)
-
-**Cena:** 1 500 - 3 000 Kč (DIY)
+- **Životnost dřevostaveb:** [DřevoStavby.cz](https://www.drevoastavby.cz/), [Dřevostavitel.cz](https://www.drevostavitel.cz/)
+- **Revize elektroinstalace:** ČSN 33 1500, ČSN 33 2000-6 ed. 2, [Ušetřeno.cz](https://www.usetreno.cz/), [SPP.cz](https://www.spp.cz/)
+- **Revize plynových kotlů:** [SPP.cz](https://www.spp.cz/), [Thermona.cz](https://www.thermona.cz/), [dTest.cz](https://www.dtest.cz/)
+- **Údržba oken:** [ASB Portal](https://www.asb-portal.cz/), [Dřevostavitel.cz](https://www.drevostavitel.cz/)
+- **Střešní krytiny:** [STATO střechy](https://statostrechy.cz/), [Blachotrapez.cz](https://www.blachotrapez.cz/)
+- **Údržba boilerů:** [DŽD Dražice](https://www.dzd.cz/), [TZB-info](https://voda.tzb-info.cz/)
+- **Čištění komínů:** [Skupina ČEZ](https://www.cez.cz/), [Daibau.cz](https://www.daibau.cz/)
 
 ---
 
-## 🪟 4. Okna a dveře
-
-### Plastová okna:
-
-**Životnost:** 20-40 let
-
-#### Údržba (1× ročně):
-
-**Čištění:**
-- Mytí oken (běžný čistič)
-- Očista rámů (saponát)
-- Očista těsnění (vlhký hadřík)
-
-**Mazání:**
-- Kování (panty, zámky) - **olej nebo vazelína**
-- Těsnění - **silikonový sprej**
-
-**Seřizování:**
-- Zimní/letní režim (seřizovací šroub)
-- Dotažení pantů (pokud okno "padá")
-
-**Postup seřízení:**
-1. Otevřít okno
-2. Najít seřizovací šroub (imbus)
-3. Otočit směrem k těsnění (zima) / od těsnění (léto)
-
-**Cena údržby:** 500 - 1 000 Kč/rok (DIY)
-
----
-
-### Dřevěná okna:
-
-**Životnost:** 30-50 let (s údržbou)
-
-**Údržba:**
-- Nátěr každé **3-5 let** (jako dřevěná fasáda)
-- Mazání kování
-- Kontrola těsnění
-
-**Cena:** 5 000 - 15 000 Kč (renovace nátěru)
-
----
-
-### Vstupní dveře:
-
-**Kontrola:**
-- Těsnost (průvan?)
-- Funkce zámku
-- Mazání pantů
-
-**Seřízení:**
-- Dotáhnout panty (šroubovák)
-- Seřídit zámek (západka)
-
----
-
-## 💧 5. Vodoinstalace
-
-### Kontrola (1× za 2 roky):
-
-**Co kontrolovat:**
-- ✅ Těsnost spojů (podkapávání)
-- ✅ Tlak vody (pokles?)
-- ✅ Funkce armatur (kohoutky, směšovač)
-- ✅ Stav potrubí (koroze?)
-
----
-
-### Údržba:
-
-#### A) Filtry:
-
-**Mechanický filtr (vstupní):**
-- Čištění: **1× za 3 měsíce**
-- Výměna vložky: **1× ročně**
-
-**Cena vložky:** 150-500 Kč
-
----
-
-#### B) Boiler (zásobník TUV):
-
-**Kontrola:**
-- Funkce termostatu
-- Koroze nádoby
-- Kondenzace (úniky)
-
-**Údržba:**
-- Vypouštění sedimentu: **1× ročně**
-- Výměna anody: **každé 2-3 roky**
-
-**Postup vypouštění:**
-1. Vypnout boiler
-2. Zavřít přívod studené vody
-3. Vypustit vodu (vypouštěcí kohout)
-4. Propláchnout
-
-**Cena výměny anody:** 1 500 - 3 000 Kč
-
----
-
-#### C) Dřez a umyvadlo:
-
-**Průchodnost:**
-- Ucpání: Chemický čistič nebo **tlakový čistič**
-- Prevence: Síťka do odpadu (zachytávání zbytků)
-
-**Sifony:**
-- Čištění: **1× ročně**
-- Rozšroubovat, vyčistit, zpět
-
----
-
-### Revize vodoinstalace:
-
-**Frekvence:** Doporučeno **každých 5 let**
-
-**Co se kontroluje:**
-- Tlakové zkoušky
-- Těsnost všech spojů
-- Funkce armatur
-
-**Cena:** 2 000 - 4 000 Kč
-
----
-
-## ⚡ 6. Elektroinstalace
-
-### Povinná revize:
-
-**Frekvence:** **Každých 5 let** (zákon!)
-
-**Co se kontroluje:**
-- Uzemnění
-- Funkce jističů, proudových chráničů
-- Izolační odpor vodičů
-- Připojení spotřebičů
-
-**Revizi provádí:** Autorizovaný elektrikář
-
-**Cena:** 2 500 - 4 500 Kč
-
----
-
-### Běžná údržba:
-
-#### A) Rozvaděč:
-
-**Kontrola (1× ročně):**
-- Čistota (prach)
-- Dotažení šroubů na svorkách
-- Funkce jističů (test)
-
-**Čištění:**
-- Vypnout hlavní jistič!
-- Vyfoukat vysavačem (opatrně)
-
----
-
-#### B) Zásuvky a vypínače:
-
-**Kontrola:**
-- Pevnost (povolené?)
-- Zahřívání (špatný kontakt?)
-- Jiskření (nebezpečí!)
-
-**Oprava:**
-- Dotáhnout šrouby
-- Vyměnit zásuvku (10-30 Kč)
-
----
-
-## 🔥 7. Vytápění
-
-### A) Tepelné čerpadlo:
-
-**Kontrola (1× ročně):**
-- Tlak v systému (1,5-2 bar)
-- Funkce dmychadla
-- Čistota výměníků
-
-**Údržba:**
-- Čištění filtrů vzduchu: **4× ročně**
-- Čištění venkovní jednotky: **1× ročně**
-- Servis: **1× za 2 roky**
-
-**Cena servisu:** 3 000 - 6 000 Kč
-
----
-
-### B) Plynový kotel:
-
-**Povinná revize:** **1× ročně**
-
-**Co se kontroluje:**
-- Těsnost plynovodů
-- Spalování (λ sonda)
-- Odvod spalin (komín)
-- Výměník tepla (čistota)
-
-**Cena revize:** 2 000 - 4 000 Kč
-
----
-
-### C) Krbová kamna:
-
-**Kontrola:**
-- Těsnost dvířek
-- Stav žáruvzdorných cihel
-- Průchodnost komína
-
-**Čištění komína:**
-- Frekvence: **1-2× ročně** (dle intenzity topení)
-- Provádí: Kominický mistr
-
-**Cena čištění:** 1 000 - 2 000 Kč
-
----
-
-## 🧼 8. Údržba interiéru
-
-### Podlahy:
-
-#### A) Vinyl / laminát:
-
-**Čištění:**
-- Zametání / vysávání: denně
-- Vlhký mop: 1× týdně
-- Nepoužívat nadměrnou vodu!
-
-**Ochrana:**
-- Podložky pod nábytek (nepoškrábe)
-- Rohožka u vchodů
-
-**Životnost:** 15-25 let
-
----
-
-#### B) Dřevěné podlahy:
-
-**Čištění:**
-- Vysávání: 2× týdně
-- Vlhký mop (speciální čistič na dřevo)
-
-**Údržba:**
-- Broušení + olejování: **každých 5-10 let**
-
-**Cena renovace:** 300-600 Kč/m²
-
----
-
-### Stěny (SDK, OSB):
-
-**Čištění:**
-- Otření prachem: 1× měsíčně
-- Malování (SDK): každých 5-10 let
-
-**Opravy:**
-- Drobné praskliny: Tmel + přemalování
-- Díry: Sádrokartonová záplata
-
----
-
-## 📅 Roční plán údržby
-
-### Jaro (březen-květen):
-
-- [ ] Kontrola střechy (po zimě)
-- [ ] Čištění okapů
-- [ ] Kontrola fasády
-- [ ] Seřízení oken (letní režim)
-- [ ] Kontrola kotvení k základům
-
----
-
-### Léto (červen-srpen):
-
-- [ ] Nátěr fasády (pokud nutné)
-- [ ] Čištění klimatizace / TČ
-- [ ] Kontrola vodoinstalace
-- [ ] Opravy drobných závad
-
----
-
-### Podzim (září-listopad):
-
-- [ ] Kontrola střechy (před zimou)
-- [ ] Čištění okapů
-- [ ] Seřízení oken (zimní režim)
-- [ ] Kontrola vytápění
-- [ ] Revize komína (pokud kamna)
-
----
-
-### Zima (prosinec-únor):
-
-- [ ] Kontrola zamrzání (potrubí)
-- [ ] Kontrola sněhu na střeše (max. zatížení)
-- [ ] Provozní údržba vytápění
-
----
-
-## 💰 Roční náklady na údržbu
-
-### Mobilní dům 50 m², celoroční bydlení:
-
-| Položka | Frekvence | Cena |
-|---------|-----------|------|
-| **Revize elektro** | 1× za 5 let | 500 Kč/rok |
-| **Revize plynového kotle** | 1× ročně | 3 000 Kč |
-| **Čištění komína** | 1× ročně | 1 500 Kč |
-| **Nátěr fasády** | 1× za 5 let | 6 000 Kč/rok |
-| **Impregnace dřeva** | 1× za 7 let | 2 000 Kč/rok |
-| **Kontrola ČOV + odkalení** | 1× za 2 roky | 2 000 Kč/rok |
-| **Drobné opravy** | Průběžně | 5 000 Kč/rok |
-| **CELKEM** | | **20 000 Kč/rok** |
-
-**Poznámka:** Náklady se liší dle typu domu a intenzity používání!
-
----
-
-## ⚠️ Časté problémy a řešení
-
-### Problém 1: Zatékání střechy
-
-**Příčiny:**
-- Poškozená krytina (vítr)
-- Netěsné prostupy (komín, odvětrání)
-- Ucpané okapy (voda se vrací)
-
-**Řešení:**
-1. Najít místo zatékání (voda teče jinam než prosakuje!)
-2. Opravit krytinu (záplata, výměna)
-3. Dotěsnit prostupy (silikon, manžeta)
-
-**Prevence:** Pravidelná kontrola střechy!
-
----
-
-### Problém 2: Plíseň v interiéru
-
-**Příčiny:**
-- Špatné větrání (kondenzace)
-- Zatékání
-- Tepelné mosty (studené rohy)
-
-**Řešení:**
-1. Zlepšit větrání (otevírat okna, rekuperace)
-2. Opravit zatékání
-3. Dodatečné zateplení rohů
-
-**Prevence:** Pravidelné větrání (3× denně 10 minut)!
-
----
-
-### Problém 3: Praskliny ve fasádě
-
-**Příčiny:**
-- Pohyb dřevěné konstrukce (vlhkost, teplota)
-- Stárnutí nátěru
-
-**Řešení:**
-1. Vyškrábat starou barvu
-2. Vyplnit tmelem
-3. Přemalovat
-
-**Prevence:** Pravidelný nátěr (každé 3-5 let)!
-
----
-
-## ✅ Checklist údržby
-
-### Každý měsíc:
-
-- [ ] Kontrola vlhkosti interiéru (vlhkoměr)
-- [ ] Větrání
-- [ ] Čištění filtrů (vzduchotechnika, TČ)
-
-### Každý rok:
-
-- [ ] Kontrola střechy (2×)
-- [ ] Čištění okapů (2×)
-- [ ] Kontrola fasády
-- [ ] Seřízení oken
-- [ ] Revize vytápění
-- [ ] Mazání kování
-
-### Každých 5 let:
-
-- [ ] Revize elektro (povinné!)
-- [ ] Nátěr fasády
-- [ ] Impregnace dřeva
-- [ ] Revize vodoinstalace
-
----
-
-## 🔗 Související články
-
-- [Konstrukce mobilních domů](../technicke-specifikace/konstrukce/konstrukcni-systemy.md)
-- [Tepelná izolace](../technicke-specifikace/izolace/tepelna-izolace.md)
-- [Připojení sítí](../pripojeni-siti/elektrina.md)
-
----
-
-**Zpracováno:** 20. října 2025
+**Zpracováno:** Říjen 2025
 **Autor:** Mobilheim Wiki
-**Zdroje:** Výrobci mobilních domů, normy, praktické zkušenosti
