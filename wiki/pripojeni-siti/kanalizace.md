@@ -1,683 +1,116 @@
-# Kanalizace a likvidace odpadních vod
+# Kanalizace a likvidace odpadních vod u mobilních domů
 
-> **Kompletní průvodce** likvidací odpadních vod - kanalizace, ČOV, jímka, septic
->
-> **Aktualizováno:** Říjen 2025
+> **Komplexní průvodce možnostmi likvidace odpadních vod zahrnující připojení na veřejnou kanalizaci, domovní čističku odpadních vod, septik a nepropustné jímky**
 
 ---
 
-## 🎯 Úvod
+## Úvod do problematiky likvidace odpadních vod
 
-### Možnosti likvidace odpadních vod:
+Likvidace odpadních vod představuje jednu z klíčových infrastrukturních potřeb každého obytného objektu včetně mobilních domů a musí být řešena v souladu s platnými právními předpisy a hygienickými normami pro ochranu životního prostředí a veřejného zdraví. V České republice upravuje problematiku odpadních vod především zákon č. 254/2001 Sb., o vodách a o změně některých zákonů (vodní zákon), ve znění pozdějších předpisů včetně novely č. 182/2024 Sb. s účinností od 1. srpna 2024, a zákon č. 274/2001 Sb., o vodovodech a kanalizacích pro veřejnou potřebu.
 
-1. **Veřejná kanalizace** (nejlepší)
-2. **Domovní ČOV** (čistička odpadních vod)
-3. **Septic (žumpa s přepadem)**
-4. **Nepropustná jímka** (dočasné)
-5. **Biologický septik (aktivní)**
+Odpadní vody vznikající v mobilním domě se dělí na splaškové vody pocházející z koupelen, kuchyní, prádelen a toalet obsahující organické znečištění, bakterie a chemické látky z čisticích prostředků, a dešťové vody zachycované ze střechy a zpevněných ploch, které mají výrazně nižší stupeň znečištění a mohou být v mnoha případech vsakovány přímo do terénu bez čištění. Splaškové a dešťové vody by měly být z hygienických i technických důvodů odváděny odděleně, pokud to místní podmínky umožňují.
+
+Pro mobilní domy existují čtyři základní způsoby likvidace odpadních vod: připojení na veřejnou kanalizaci, instalace domovní čističky odpadních vod, využití septiku s přepadem do vsaku nebo vodoteče a nepropustná jímka s pravidelným vyvážením. Volba vhodného řešení závisí na dostupnosti veřejné kanalizace v lokalitě, geologických a hydrogeologických podmínkách pozemku, intenzitě využívání mobilního domu a finančních možnostech investora.
 
 ---
 
-## 🚰 Typy odpadních vod
+## Připojení na veřejnou kanalizaci
 
-### 1. Splaškové vody (z domu):
+Připojení na veřejnou kanalizaci představuje nejkomfortnější a z hlediska hygienických rizik nejbezpečnější způsob likvidace odpadních vod z mobilního domu. Veřejná kanalizace odvádí odpadní vody do centrální čistírny odpadních vod, kde jsou přečištěny v souladu s přísnými limity stanovenými nařízením vlády č. 401/2015 Sb., o ukazatelích a hodnotách přípustného znečištění povrchových vod a odpadních vod, a teprve poté jsou vypouštěny do recipient&#367; nebo využívány pro další účely.
 
-**Zdroje:**
-- WC (fekál)
-- Koupelna (umyvadlo, sprcha, vana)
-- Kuchyň (dřez)
-- Pračka
+### Legislativní rámec a technické podmínky
 
-**Znečištění:**
-- BSK5: 250-400 mg/l (biologická spotřeba kyslíku)
-- Bakterie (E. coli)
-- Tukové látky
+Provozování veřejných kanalizací upravuje zákon č. 274/2001 Sb., o vodovodech a kanalizacích pro veřejnou potřebu, který stanoví práva a povinnosti vlastníků a provozovatelů kanalizací i odběratelů. Vlastník kanalizace nebo jím pověřený provozovatel je povinen umožnit připojení na kanalizaci a odvádění a čištění odpadních vod, pokud to kapacitní a technické možnosti kanalizace umožňují. Připojení nesmí být podmíněno finančními nebo jinými platbami nad rámec nákladů na realizaci kanalizační přípojky, které hradí připojovaná osoba.
 
-**Množství:**
-- 100-150 l/den/osoba (běžný provoz)
-- 2 osoby = **200-300 l/den**
+Kanalizační přípojka je podle zákona samostatná stavba tvořená úsekem potrubí od odbočení z veřejné kanalizační sítě až po revizní šachtu umístěnou obvykle na hranici pozemku nebo v blízkosti mobilního domu. Od revizní šachty dále pokračuje vnitřní kanalizace, která je majetkem vlastníka objektu a za jejíž provoz a údržbu odpovídá vlastník. Kanalizační přípojku může realizovat pouze provozovatel kanalizace nebo jím pověřená organizace, případně stavební firma s příslušným oprávněním a po předchozím souhlasu provozovatele kanalizace.
 
----
+### Postup realizace kanalizační přípojky
 
-### 2. Dešťové vody:
+Realizace kanalizační přípojky začíná kontaktováním provozovatele veřejné kanalizace, kterým je obvykle regionální vodárenská společnost nebo městská/obecní společnost provozující vodovodní a kanalizační infrastrukturu. Provozovatel poskytne investorovi zákres stávající kanalizační sítě v dané lokalitě a určí místo možného napojení přípojky s ohledem na kapacitu kanalizace, spádové poměry a technický stav kanalizačního řadu.
 
-**Zdroje:**
-- Střecha
-- Zpevněné plochy (parkoviště, terasa)
+Na základě poskytnutého zákresu si investor nechá zpracovat projektovou dokumentaci kanalizační přípojky, kterou musí podle zákona zpracovat autorizovaný inženýr pro vodohospodářské stavby. Cena projektu kanalizační přípojky se pohybuje v rozmezí 10 000 až 15 000 korun v závislosti na složitosti řešení, délce přípojky a nutnosti řešení specifických technických problémů jako je překonání výškových rozdílů čerpací stanicí. Projektová dokumentace musí obsahovat situační výkres s trasou přípojky, podélný profil terénu a kanalizace, technickou zprávu popisující materiálové řešení a způsob realizace a specifikaci materiálů včetně revizní šachty.
 
-**Znečištění:**
-- Nízké (mechanické nečistoty)
+Pro kanalizační přípojku kratší než 50 metrů postačí územní souhlas, zatímco pro přípojku delší než 50 metrů je nutné územní rozhodnutí, což prodlužuje schvalovací proces o několik týdnů. S projektovou dokumentací a územním souhlasem nebo rozhodnutím investor uzavírá s provozovatelem kanalizace smlouvu o připojení a odvádění odpadních vod, ve které jsou specifikovány technické podmínky připojení, kapacita přípojky a výše poplatků za odvádění a čištění odpadních vod.
 
-**Likvidace:**
-- Vsakování do terénu
-- Dešťová kanalizace
-- Retenční nádrž (záchyt)
+### Náklady na kanalizační přípojku
 
-**Důležité:** Splaškové a dešťové ODDĚLIT!
+Celková cena kanalizační přípojky se výrazně liší podle délky přípojky, hloubky kanalizačního řadu a nutnosti čerpací stanice v případě, že mobilní dům leží níže než úroveň veřejné kanalizace. Základní cena za realizaci gravitační kanalizační přípojky do délky 20 metrů se pohybuje mezi 40 000 až 80 000 korunami a zahrnuje výkopové práce, materiál potrubí, napojení na kanalizační řad a revizní šachtu. Každý další metr nad 20 metrů stojí přibližně 1 500 až 3 000 korun podle hloubky výkopu a povrchu terénu.
+
+Pokud je mobilní dům umístěn níže než veřejná kanalizace a gravitační odvedení odpadních vod není možné, je nutné instalovat čerpací stanici s čerpadlem, která přečerpá odpadní vody do výše kanalizačního řadu. Cena čerpací stanice včetně instalace se pohybuje mezi 60 000 až 120 000 korunami v závislosti na výkonu čerpadla a objemu jímky. Čerpací stanice vyžaduje pravidelnou údržbu a má vyšší provozní náklady na elektrickou energii a servisní prohlídky.
+
+K ceně realizace přípojky je nutné připočítat náklady na projekt kanalizační přípojky 10 000 až 15 000 korun, vytyčení inženýrských sítí 2 000 až 5 000 korun, územní souhlas nebo rozhodnutí s poplatkem 1 000 korun a případný poplatek obci za využití veřejného prostranství pro vedení přípojky. Provozní náklady zahrnují stočné placené provozovateli kanalizace, které se v České republice pohybuje v rozmezí 30 až 60 korun za metr krychlový odvedené odpadní vody podle regionu a typu čistírny odpadních vod.
 
 ---
 
-## 🏘️ 1. Veřejná kanalizace
+## Domovní čistička odpadních vod (ČOV)
 
-### Výhody:
+Domovní čistička odpadních vod představuje alternativní řešení pro mobilní domy v lokalitách bez veřejné kanalizace, kde je možné přečištěné odpadní vody vypouštět do vod povrchových, do vod podzemních vsakem nebo do vodoteče po splnění podmínek stanovených vodoprávním úřadem. Domovní ČOV je zařízení, které pomocí biologických, mechanických a chemických procesů odstraňuje znečištění z odpadních vod na úroveň stanovenou právními předpisy, čímž minimalizuje jejich negativní dopad na životní prostředí.
 
-- ✅ Nejlepší řešení (žádná údržba)
-- ✅ Hygienicky bezpečné
-- ✅ Bez zápachu
-- ✅ Neomezená kapacita
+### Legislativní změny od 1. července 2024
 
-### Nevýhody:
+S účinností nového stavebního zákona č. 283/2021 Sb. od 1. července 2024 došlo k zásadní změně v povolovacím procesu domovních čističek odpadních vod. Zatímco dříve bylo možné menší domovní ČOV do určité velikosti schválit prostřednictvím jednoduchého ohlášení stavby za správní poplatek 300 korun, od července 2024 podléhají všechny domovní ČOV vodoprávnímu řízení, za které se platí správní poplatek 10 000 korun. Tato změna výrazně zvýšila administrativní náročnost i náklady na povolení domovní ČOV a prodloužila dobu schvalovacího procesu.
 
-- ❌ Dostupné jen v obcích s kanalizací
-- ❌ Vysoké náklady na přípojku (60 000 - 250 000 Kč)
-- ❌ Roční poplatky (stočné 30-50 Kč/m³)
+Vodoprávní řízení provádí vodoprávní úřad, kterým je obecní úřad obce s rozšířenou působností, a zahrnuje posouzení projektové dokumentace ČOV, hydrogeologického posudku prokazujícího vsakovací schopnost půdy v případě vypouštění do podzemních vod vsakem, vyjádření dotčených orgánů státní správy jako je hygienická stanice nebo orgán ochrany přírody a případně souhlasu vlastníků sousedních pozemků, pokud by mohlo dojít k ovlivnění jejich pozemků vypouštěním přečištěných vod.
 
----
+### Technické parametry a limity vypouštění
 
-### Postup připojení na kanalizaci:
+Domovní čističky odpadních vod se vyrábějí v různých velikostech podle počtu ekvivalentních obyvatel (EO), přičemž jeden ekvivalentní obyvatel produkuje průměrně 150 litrů odpadní vody denně se znečištěním odpovídajícím biochemické spotřebě kyslíku BSK5 rovné 60 gramům za den. Pro mobilní dům s 2 až 4 obyvateli postačí čistička velikosti 4 až 6 EO s hydraulickou kapacitou 600 až 900 litrů denně.
 
-#### Krok 1: Zjištění možnosti připojení
+Limity pro vypouštění přečištěných odpadních vod do povrchových vod stanovuje nařízení vlády č. 401/2015 Sb., které pro malé čističky odpadních vod do 50 EO při vypouštění do vodních toků III. a IV. kategorie stanoví maximální přípustné koncentrace znečišťujících látek ve vypouštěných vodách. Biochemická spotřeba kyslíku BSK5 nesmí přesáhnout 40 miligramů na litr, chemická spotřeba kyslíku CHSK<sub>Cr</sub> nesmí přesáhnout 150 miligramů na litr a nerozpuštěné látky nesmí přesáhnout 50 miligramů na litr. Tyto hodnoty jsou průměrnými hodnotami zjištěnými z minimálně dvou vzorků odebraných během roku kvalifikovanou osobou.
 
-**Kontakt:**
-- Místní vodárna / provozovatel kanalizace
-- Obecní/městský úřad
+### Náklady na pořízení a provoz domovní ČOV
 
-**Co zjistit:**
-- Je kanalizace v ulici?
-- Jaká je vzdálenost?
-- Jaký je typ (gravitační / tlaková)?
-- Podmínky připojení?
+Investiční náklady na pořízení domovní čističky odpadních vod se skládají z ceny samotné ČOV, nákladů na projektovou dokumentaci, hydrogeologický posudek, vodoprávní povolení, dodávku a instalaci ČOV a výstavbu vsaku nebo odtokového potrubí do vodoteče. Cena domovní ČOV pro 4 až 6 EO se pohybuje mezi 60 000 až 120 000 korunami v závislosti na typu technologie (aktivační ČOV, biodiskový systém, kořenová čistírna), materiálu nádrže (plast, beton, sklolaminát) a značce výrobce.
+
+Projekt domovní ČOV včetně návrhu vsaku zpracovaný autorizovaným inženýrem stojí 12 000 až 15 000 korun včetně DPH. Hydrogeologický posudek prokazující vsakovací schopnost půdy a stanovující rozměry vsakovacího zařízení stojí 4 000 až 10 000 korun v závislosti na rozsahu hydrogeologického průzkumu. Vodoprávní povolení stojí od července 2024 správní poplatek 10 000 korun. Dodávka a instalace ČOV včetně výkopových prací a napojení na vnitřní kanalizaci mobilního domu stojí 20 000 až 40 000 korun.
+
+Celkové investiční náklady na pořízení a instalaci domovní ČOV včetně všech povolení a dokumentace se pohybují mezi 100 000 až 180 000 korunami v závislosti na velikosti ČOV, složitosti geologických podmínek a vzdálenosti od mobilního domu. Provozní náklady zahrnují spotřebu elektrické energie pohonu dmychadla aktivačních ČOV v rozsahu 30 až 60 wattů nepřetržitě, což činí přibližně 1 500 až 3 000 korun ročně, pravidelný servis ČOV jednou až dvakrát ročně v ceně 2 000 až 4 000 korun za servisní prohlídku a odvoz kalu z usazovací nádrže ČOV jednou za 1 až 3 roky v ceně 3 000 až 6 000 korun za odvoz.
 
 ---
 
-#### Krok 2: Žádost o připojení
+## Septik a nepropustné jímky
 
-**Dokumenty:**
+Septik je zjednodušené zařízení pro částečné čištění odpadních vod, které využívá pouze mechanické a přirozené biologické procesy sedimentace a rozkladu organických látek anaerobními bakteriemi bez přívodu kyslíku a bez elektrického pohonu. Klasický septik se skládá ze dvou nebo tří komor, přičemž v první komoře dochází k usazování hrubších nečistot a částečnému rozkladu organických látek, v druhé komoře pokračuje biologický rozklad a v případné třetí komoře dochází k dokončení čištění a oddělení zbývajících suspendovaných částic.
 
-1. **Identifikace žadatele**
-   - Jméno, RČ/IČO
-   - Kontakt
+Přečištěná voda ze septiku nedosahuje parametrů stanovených pro vypouštění do povrchových vod podle nařízení vlády č. 401/2015 Sb., a proto nesmí být vypouštěna přímo do vodotečí nebo vodních ploch. Septik může být použit pouze v kombinaci s vsakovacím zařízením, které zajistí další dočištění vody při průchodu půdními vrstvami, nebo jako předčištění před biologickým čištěním v kořenové čistírně. Vsakovací zařízení vyžaduje dostatečnou vsakovací schopnost půdy, kterou je nutné prokázat hydrogeologickým posudkem, a dostatečnou vzdálenost od zdrojů pitné vody, studní a vodních toků pro zabránění kontaminace.
 
-2. **Pozemek**
-   - List vlastnictví
-   - Parcelní číslo
+Nepropustná jímka je nejjednodušším a zároveň nejméně výhodným způsobem likvidace odpadních vod a slouží pouze jako dočasné nebo nouzové řešení pro mobilní domy s velmi nízkou spotřebou vody nebo s občasným rekreačním využitím. Nepropustná jímka je uzavřená nádrž bez výtoku, do které se shromažďují veškeré odpadní vody z mobilního domu a která musí být pravidelně vyprazdňována fekálním vozem. Frekvence vyvážení závisí na objemu jímky a produkci odpadních vod, přičemž průměrná čtyřčlenná domácnost s denní produkcí 400 až 600 litrů odpadních vod vyžaduje vyvážení jímky o objemu 5 metrů krychlových každé 1 až 2 týdny.
 
-3. **Technické údaje**
-   - Předpokládané množství OV (m³/rok)
-   - Počet osob
-   - Typ odpadních vod (splaškové / dešťové)
-
-4. **Situační výkres**
-   - Trasa přípojky
-   - Umístění revizní šachty
-
-**Lhůta vyřízení:** 30-60 dní
+Cena vyvážení nepropustné jímky se pohybuje mezi 600 až 1 200 korunami za jeden vývoz v závislosti na objemu jímky, vzdálenosti od provozovatele fekálního vozu a dostupnosti příjezdové cesty pro těžké vozidlo. Při frekvenci vyvážení dvakrát měsíčně činí roční náklady na vyvážení 14 000 až 28 000 korun, což je výrazně více než provozní náklady na domovní ČOV nebo stočné při připojení na veřejnou kanalizaci. Nepropustná jímka je proto vhodná pouze jako dočasné řešení do doby realizace trvalého způsobu likvidace odpadních vod.
 
 ---
 
-#### Krok 3: Smlouva o odvedení odpadních vod
+## Dešťové vody a jejich odvodnění
 
-**Co obdržíte:**
+Dešťové vody zachycované ze střechy mobilního domu a ze zpevněných ploch jako jsou parkovací stání nebo terasy mají výrazně nižší stupeň znečištění než splaškové vody a obsahují pouze mechanické nečistoty jako jsou listy, prach a drobné částice z atmosféry a ze střešní krytiny. Podle vodního zákona č. 254/2001 Sb. by měly být dešťové vody přednostně vsakovány na pozemku, kde vznikly, pokud to geologické a hydrogeologické podmínky umožňují a pokud nevznikne riziko poškození staveb nebo znečištění podzemních vod.
 
-1. **Technické podmínky**
-   - Místo napojení
-   - Průměr potrubí (DN 150 mm)
-   - Spád potrubí (min. 2%)
-   - Umístění revizní šachty
+Vsakování dešťových vod lze realizovat pomocí vsakovacích bloků, vsakovacích tunelů nebo vsakovacích rýh umístěných v dostatečné vzdálenosti od základů mobilního domu a od zdrojů pitné vody. Vsakovací zařízení by mělo být dimenzováno tak, aby pojalo dešťovou vodu z přívalového deště s dobou opakování 5 až 10 let, což odpovídá intenzitě srážek přibližně 150 až 200 litrů za sekundu na hektar po dobu 15 minut. Pro mobilní dům se střechou o ploše 50 metrů čtverečních postačí vsakovací zařízení o objemu 1 až 2 metrů krychlových.
 
-2. **Kalkulace nákladů**
-
-**Cena přípojky:**
-
-| Položka | Cena |
-|---------|------|
-| **Rezervační poplatek** | 10 000 - 20 000 Kč |
-| **Přípojka** (do 50 m) | 40 000 - 80 000 Kč |
-| **Každý další metr** | 1000 - 1800 Kč/m |
-| **Revizní šachta** | 15 000 - 30 000 Kč |
-
-**Příklad:**
-```
-Vzdálenost: 70 m
-Základní cena: 60 000 Kč
-+ 20 m × 1400 Kč = 28 000 Kč
-+ Revizní šachta: 20 000 Kč
-CELKEM: 108 000 Kč
-```
+Pokud není možné vsakování dešťových vod na pozemku z důvodu nepropustné půdy nebo vysoké hladiny podzemní vody, lze dešťové vody odvádět do veřejné dešťové kanalizace, pokud v dané lokalitě existuje oddělený systém dešťové a splaškové kanalizace, nebo do vodoteče po předchozím souhlasu správce vodního toku a vodoprávního úřadu. V žádném případě nesmí být dešťové vody sváděny do splaškové kanalizace nebo do septiku, neboť by způsobily přetížení kapacity zařízení a zhoršení účinnosti čištění odpadních vod.
 
 ---
 
-#### Krok 4: Realizace přípojky
+## Závěr a doporučení
 
-**Postup:**
+Volba způsobu likvidace odpadních vod z mobilního domu závisí na dostupnosti veřejné kanalizace, geologických a hydrogeologických podmínkách pozemku, intenzitě využívání mobilního domu a rozpočtu investora. Připojení na veřejnou kanalizaci představuje nejkomfortnější a nejbezpečnější řešení s investičními náklady 60 000 až 250 000 korun podle délky přípojky a nutnosti čerpací stanice, ale s nízkými provozními náklady 30 až 60 korun za metr krychlový odvedené vody.
 
-1. **Výkop rýhy:**
-   - Hloubka: 1,0-1,8 m (pod úroveň mrazu)
-   - Šířka: 50 cm
-   - Spád: **min. 2%** (2 cm na 1 metr)
+Domovní čistička odpadních vod je vhodná alternativa v lokalitách bez veřejné kanalizace s investičními náklady 100 000 až 180 000 korun a provozními náklady 4 000 až 8 000 korun ročně, přičemž od července 2024 vyžaduje vodoprávní povolení s poplatkem 10 000 korun. Septik s vsakem představuje levnější variantu s investičními náklady 40 000 až 80 000 korun, ale s omezenou účinností čištění a nutností vhodných geologických podmínek pro vsakování. Nepropustná jímka je vhodná pouze jako dočasné řešení s nízkými investičními náklady 20 000 až 40 000 korun, ale s vysokými provozními náklady 14 000 až 28 000 korun ročně za pravidelné vyvážení.
 
-2. **Uložení potrubí:**
-   - Materiál: **PVC KG trubka DN 150 mm**
-   - Písčité lože 10 cm
-   - Přikrytí pískem 20 cm
-
-3. **Revizní šachta:**
-   - Plastová (nejčastější)
-   - Umístění: u hranice pozemku
-   - Poklop: litinový (pojezdový)
-
-4. **Tlaková zkouška:**
-   - Naplnění vodou
-   - Kontrola těsnosti 30 minut
-
-**Lhůta realizace:** 2-4 měsíce
+Při rozhodování o způsobu likvidace odpadních vod je vhodné konzultovat s autorizovaným inženýrem pro vodohospodářské stavby nebo s hydrogeologem, který posoudí místní podmínky, vypracuje projektovou dokumentaci a pomůže s vyřízením potřebných povolení u příslušných úřadů.
 
 ---
 
-#### Krok 5: Uvedení do provozu
+## Užitečné odkazy a právní předpisy
 
-**Kontrola provozovatelem:**
-- Zkouška těsnosti
-- Kamerový záznam (volitelné)
-
-**Podpis předávacího protokolu**
-
-**Přípojka aktivní** ✅
-
----
-
-### Rozvody kanalizace v domě:
-
-**Materiály:**
-
-| Materiál | Použití | Průměr | Cena [Kč/m] |
-|----------|---------|--------|-------------|
-| **HT trubka (šedá)** | Vnitřní kanalizace | DN 40-110 | 50-200 |
-| **KG trubka (oranžová)** | Venkovní kanalizace | DN 110-150 | 100-300 |
-
-**Průměry:**
-
-| Připojení | Průměr |
-|-----------|--------|
-| **WC** | DN 110 mm |
-| **Sprcha, umyvadlo** | DN 50 mm |
-| **Dřez** | DN 50 mm |
-| **Pračka** | DN 40 mm |
-| **Hlavní stoupačka** | DN 110 mm |
+- Zákon č. 254/2001 Sb., o vodách a o změně některých zákonů (vodní zákon), ve znění novely č. 182/2024 Sb.
+- Zákon č. 274/2001 Sb., o vodovodech a kanalizacích pro veřejnou potřebu
+- Nařízení vlády č. 401/2015 Sb., o ukazatelích a hodnotách přípustného znečištění povrchových vod a odpadních vod
+- Zákon č. 283/2021 Sb., stavební zákon (změny od 1.7.2024)
+- ČSN 75 6760 Vnitřní kanalizace
+- ČSN EN 12566 Malé čistírny odpadních vod do 50 EO
 
 ---
 
-**Spád potrubí:**
-
-| Průměr | Min. spád |
-|--------|-----------|
-| **DN 40-50** | 3% (3 cm/m) |
-| **DN 110** | 2% (2 cm/m) |
-
-**Důležité:**
-- Nikdy ne méně! (ucpání)
-- Nikdy ne více než 10% (praskání)
-
----
-
-**Odvětrání:**
-
-> Každá kanalizace MUSÍ být odvětrána!
-
-**Účel:**
-- Vyrovnání tlaku (aby nezápachovala)
-- Odvod plynů
-
-**Řešení:**
-- Odvětrávací potrubí DN 70-110 mm
-- Vedeno nad střechu (min. 50 cm nad hřeben)
-- Zakončení: odvětrávací hlavice
-
-**Cena:** 2 000 - 5 000 Kč
-
----
-
-## 🏡 2. Domovní ČOV (čistička odpadních vod)
-
-### Princip funkce:
-
-> Biologické čištění odpadních vod bakteriemi → vyčištěná voda → vypuštění do terénu nebo vodoteče
-
-**Účinnost čištění:**
-- BSK5: > 90% (z 300 mg/l na < 30 mg/l)
-- Vyhovuje ČSN 75 7221
-
----
-
-### Typy ČOV:
-
-#### A) Klasická tříkomorová ČOV
-
-**Konstrukce:**
-```
-┌──────────────┐    ┌──────────────┐    ┌──────────────┐
-│  1. KOMORA   │ →  │  2. KOMORA   │ →  │  3. KOMORA   │ → Výtok
-│ (usazování)  │    │ (biologické) │    │ (dosazování) │
-└──────────────┘    └──────────────┘    └──────────────┘
-```
-
-**Výhody:**
-- ✅ Levnější (60 000 - 100 000 Kč)
-- ✅ Bez elektřiny (gravitační)
-- ✅ Nízká údržba
-
-**Nevýhody:**
-- ❌ Větší objem (6-10 m³)
-- ❌ Nutný terén (vsakování)
-
-**Výrobci:**
-- ASIO (Plastová ČOV)
-- Hellstein
-- Trynkler
-
-**Cena:** 60 000 - 100 000 Kč
-
----
-
-#### B) Aktivační ČOV (s dmychadlem)
-
-**Konstrukce:**
-```
-┌──────────────┐    ┌──────────────┐    ┌──────────────┐
-│  USAZOVÁK    │ →  │  AKTIVAČNÍ   │ →  │  DOSAZOVÁK   │ → Výtok
-│              │    │  (dmychadlo) │    │              │
-└──────────────┘    └──────────────┘    └──────────────┘
-```
-
-**Princip:**
-- Dmychadlo přivádí vzduch → aktivní bakterie → lepší čištění
-
-**Výhody:**
-- ✅ Vyšší účinnost (95-98%)
-- ✅ Menší objem (4-6 m³)
-- ✅ Lepší pro menší pozemky
-
-**Nevýhody:**
-- ❌ Dražší (80 000 - 150 000 Kč)
-- ❌ Potřebuje elektřinu (50-80 W trvale)
-- ❌ Více údržby (dmychadlo)
-
-**Výrobci:**
-- Aquatec AT6 (110 000 Kč) - 6 osob
-- ASIO AS-VARIOcomp (95 000 Kč)
-- EcoLine (90 000 Kč)
-
-**Cena:** 80 000 - 150 000 Kč
-
----
-
-#### C) Kompaktní ČOV (monoblok)
-
-**Konstrukce:**
-- Vše v jedné nádrži (komory odděleny přepážkami)
-
-**Výhody:**
-- ✅ Nejmenší (2-3 m³)
-- ✅ Rychlá montáž
-- ✅ Ideální pro malé pozemky
-
-**Nevýhody:**
-- ❌ Nejdražší (100 000 - 180 000 Kč)
-
-**Výrobci:**
-- BioKomplet 6 (130 000 Kč)
-- TOP 2000 (150 000 Kč)
-
-**Cena:** 100 000 - 180 000 Kč
-
----
-
-### Dimenzování ČOV:
-
-**Kapacita ČOV se udává v "EO" (ekvivalentních obyvatelích)**
-
-**Výpočet:**
-- 1 EO = 1 osoba trvale bydlící
-- Objem nádrže: 1,5-2 m³ / EO
-
-**Příklad:**
-```
-Mobilní dům, 2 osoby, celoroční bydlení
-→ ČOV 4 EO (s rezervou)
-→ Objem: 4 × 1,5 = 6 m³
-```
-
-**Doporučené velikosti:**
-
-| Počet osob | Velikost ČOV | Cena |
-|-----------|--------------|------|
-| 2-3 | 4-5 EO | 70 000 - 90 000 Kč |
-| 4-5 | 6-8 EO | 90 000 - 120 000 Kč |
-| 6-8 | 9-10 EO | 120 000 - 150 000 Kč |
-
----
-
-### Instalace ČOV:
-
-#### Krok 1: Výběr místa
-
-**Požadavky:**
-
-| Od čeho | Min. vzdálenost |
-|---------|-----------------|
-| **Studna** | 50 m (důležité!) |
-| **Hranice pozemku** | 2 m |
-| **Stavba** | 2 m |
-| **Strom** | 3 m |
-| **Vodoteč** | 10 m |
-
----
-
-#### Krok 2: Povolení
-
-**Legislativa:**
-- ČOV do **50 EO** → ohlášení vodoprávnímu úřadu
-- ČOV nad 50 EO → povolení
-
-**Pro mobilní dům (4 EO):**
-- Ohlášení vodoprávnímu úřadu **před instalací**
-
-**Dokumenty:**
-- Situace (umístění ČOV + vsakování)
-- Technický list ČOV (od výrobce)
-- Rozhodnutí o umístění mobilního domu
-
-**Lhůta:** 30 dní (pokud úřad nesouhlasí, ozvou se)
-
----
-
-#### Krok 3: Montáž
-
-**Postup:**
-
-1. **Výkop jámy:**
-   - Rozměry: podle ČOV (obvykle 2,5 × 2,5 × 2,5 m)
-   - Rovné dno (10 cm písku)
-
-2. **Osazení ČOV:**
-   - Jeřáb nebo ruční spuštění
-   - Vyrovnání do roviny
-
-3. **Přípojné potrubí:**
-   - Přívod z domu (DN 110-150 mm)
-   - Výstup z ČOV → vsakovací pole
-
-4. **Zasypání:**
-   - Současně s plněním vodou (tlak)
-   - Písek / zemina bez kamenů
-
-5. **Elektrická přípojka:**
-   - 230 V (pro dmychadlo)
-   - Pojistka 10 A
-
-**Doba montáže:** 1-2 dny
-
----
-
-#### Krok 4: Zprovoznění
-
-**Bakterie:**
-- Do ČOV naočkovat **bakteriální kmen**
-- Nebo nechat samovolně zaběhnout (2-4 týdny)
-
-**Kontrola funkce:**
-- Po 1 měsíci provoz kontrola
-- Vizuálně: čirá vyčištěná voda
-
----
-
-### Vsakování vyčištěné vody:
-
-**Možnosti:**
-
-#### A) Vsakovací pole (drenážní rozvody)
-
-**Princip:**
-```
-ČOV → Rozdělovací šachta → Drenážní trubky → Vsakování do půdy
-```
-
-**Rozměry:**
-- Plocha: 15-30 m² (pro 4 EO)
-- Hloubka: 0,8-1,2 m
-- Štěrkové lože 40 cm
-- Drenážní trubky DN 100 mm (děrované)
-
-**Výhody:**
-- ✅ Nejlepší řešení (rozptyl)
-
-**Nevýhody:**
-- ❌ Nutný velký pozemek
-
-**Cena:** 20 000 - 40 000 Kč
-
----
-
-#### B) Vsakovací šachta (vrt)
-
-**Princip:**
-- Vrt 0,8-1,5 m průměr, 3-6 m hloubka
-- Vyplnění štěrkem
-- Vyčištěná voda vsakuje
-
-**Výhody:**
-- ✅ Menší plocha
-
-**Nevýhody:**
-- ❌ Nutný propustný terén (písek, štěrk)
-- ❌ Nejde v jílovité půdě!
-
-**Cena:** 15 000 - 30 000 Kč
-
----
-
-#### C) Vypuštění do vodoteče
-
-**Podmínky:**
-- Povolení vodoprávního úřadu
-- Kvalita vody: BSK5 < 30 mg/l
-- Odběr vzorků (kontrola)
-
-**Použití:** Pokud není možné vsakování
-
----
-
-### Údržba ČOV:
-
-**Pravidelná (každoročně):**
-- Kontrola funkce dmychadla
-- Kontrola kalu (odkalení)
-- Čištění lapáku tuků
-
-**Odkalení:**
-- **1× za 1-3 roky** (dle intenzity provozu)
-- Fekální vůz (odvoz kalu na ČOV)
-
-**Cena odkalení:** 1500-3000 Kč
-
-**Roční revize:**
-- Provozní revize (volitelné, doporučeno)
-- Cena: 2000-4000 Kč
-
-**Celkové roční náklady:** 3 000 - 6 000 Kč
-
----
-
-## 🚽 3. Septic (žumpa s přepadem)
-
-### Princip:
-
-> Odpadní vody → septik (usazování) → částečně vyčištěná voda → vsakování
-
-**Účinnost:** 50-70% (horší než ČOV)
-
-**Konstrukce:**
-- 2-3 komory
-- Objem: 3-5 m³
-- Bez elektřiny
-
-**Výhody:**
-- ✅ Levnější než ČOV (40 000 - 80 000 Kč)
-- ✅ Bez elektřiny
-- ✅ Jednoduchá údržba
-
-**Nevýhody:**
-- ❌ Nižší účinnost čištění
-- ❌ Nutné větší vsakovací pole
-- ❌ Záleží na typu půdy
-
-**Cena:** 40 000 - 80 000 Kč
-
-**Doporučení:** Pouze pro rekreační domy (víkendy), NE pro celoroční bydlení!
-
----
-
-## 🪣 4. Nepropustná jímka
-
-### Princip:
-
-> Odpadní vody → jímka → vyvážení fekálním vozem
-
-**Objem:**
-- 3 m³ (minimální)
-- 6-10 m³ (doporučené)
-
-**Spotřeba:**
-```
-2 osoby × 150 l/den = 300 l/den
-→ Jímka 6 m³ = 20 dní
-→ Vyvážení 1× za 3 týdny
-```
-
----
-
-### Výhody:
-
-- ✅ Nejlevnější instalace (25 000 - 50 000 Kč)
-- ✅ Jednoduchá
-- ✅ Bez povolení (ohlášení stačí)
-
-### Nevýhody:
-
-- ❌ Vysoké provozní náklady (vyvážení)
-- ❌ Nepříjemné (zápach při vyvážení)
-- ❌ Závislost na fekálním voze
-
----
-
-### Provozní náklady:
-
-**Vyvážení:**
-```
-Cena: 500-1000 Kč / m³
-Jímka 6 m³ = 3000-6000 Kč / vyvezení
-Frekvence: 1× měsíc
-Roční náklady: 36 000 - 72 000 Kč ❌ Velmi drahé!
-```
-
-**Závěr:** Jímka pouze **dočasně** (do vybudování ČOV nebo kanalizace)
-
----
-
-## 🌿 5. Biologický septik (aktivní)
-
-### Princip:
-
-> Septik s aktivními bakteriemi → lepší čištění než klasický septic
-
-**Produkty:**
-- Bioclean Septic (bakterie v prášku)
-- BioSeptic Tank (tekuté bakterie)
-
-**Přidání:**
-- 1× měsíčně (do WC)
-
-**Výhody:**
-- ✅ Zlepší účinnost septic/jímky
-- ✅ Redukuje zápach
-- ✅ Méně odkalování
-
-**Nevýhody:**
-- ❌ Pravidelné náklady (300-500 Kč/měsíc)
-
-**Cena:** 3 000 - 6 000 Kč/rok
-
----
-
-## 📊 Porovnání řešení
-
-### Celoroční mobilní dům (2 osoby):
-
-| Řešení | Investice | Roční náklady | Ekologie | Doporučení |
-|--------|-----------|--------------|----------|------------|
-| **Veřejná kanalizace** | 100 000 Kč | 3 000 Kč | ⭐⭐⭐⭐⭐ | ✅✅ Nejlepší |
-| **ČOV** | 90 000 Kč | 5 000 Kč | ⭐⭐⭐⭐⭐ | ✅✅ Výborné |
-| **Septic** | 60 000 Kč | 3 000 Kč | ⭐⭐⭐ | ⚠️ Jen rekreace |
-| **Jímka** | 35 000 Kč | 50 000 Kč | ⭐ | ❌ Dočasně |
-
-**Doporučení:**
-1. Kanalizace (pokud dostupná)
-2. ČOV (nejlepší samostatné řešení)
-
----
-
-## ✅ Checklist likvidace OV
-
-### Před rozhodnutím:
-
-- [ ] Zjistit dostupnost kanalizace (obecní úřad)
-- [ ] Zjistit typ půdy (propustnost pro vsakování)
-- [ ] Změřit vzdálenost od studny (min. 50 m!)
-- [ ] Spočítat náklady všech variant
-- [ ] Rozhodnout: kanalizace / ČOV / septic
-
-### Kanalizace:
-
-- [ ] Žádost provozovateli
-- [ ] Smlouva o odvedení OV
-- [ ] Realizace přípojky
-- [ ] Revizní šachta
-- [ ] Předání do provozu
-
-### ČOV:
-
-- [ ] Ohlášení vodoprávnímu úřadu
-- [ ] Výběr velikosti (EO)
-- [ ] Instalace ČOV
-- [ ] Vsakovací pole
-- [ ] Zprovoznění (bakterie)
-- [ ] Pravidelná údržba (odkalení)
-
----
-
-## 🔗 Související články
-
-- [Připojení vody](./voda.md)
-- [Energetická náročnost](../technicke-specifikace/energetika/energeticka-narocnost.md)
-
----
-
-## 📞 Kontakty
-
-**Legislativa:**
-- Zákon 254/2001 Sb. - Vodní zákon
-- ČSN 75 7221 - Jakost vod - čištění odpadních vod
-
-**Vodoprávní úřady:**
-- Obecní úřady (obce s rozšířenou působností)
-
-**Výrobci ČOV:**
-- [Aquatec](https://www.aquatec.cz/)
-- [ASIO](https://www.asio.cz/)
-- [EcoLine](https://www.ecoline.cz/)
-
----
-
-**Zpracováno:** 20. října 2025
+**Zpracováno:** 28. října 2025
 **Autor:** Mobilheim Wiki
-**Zdroje:** Vodní zákon, výrobci ČOV, praktické zkušenosti
+**Zdroje:** Zákon č. 254/2001 Sb., zákon č. 274/2001 Sb., nařízení vlády č. 401/2015 Sb., zákon č. 283/2021 Sb., ČSN 75 6760, odborné stavební portály, provozovatelé ČOV
