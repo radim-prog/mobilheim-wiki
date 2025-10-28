@@ -94,8 +94,8 @@
 |-------|--------|
 | **Vlastní vklad** | 800 000 Kč |
 | **Hypotéka** | 2 000 000 Kč |
-| **Dotace NZÚ (FV + TČ)** | -280 000 Kč |
-| **Spotřeba** | **2 520 000 Kč** |
+| **Dotace NZÚ (FV + TČ)** | -190 000 Kč |
+| **Spotřeba** | **2 638 000 Kč** |
 
 **Hypotéka:**
 - Výše: 2 000 000 Kč
@@ -238,7 +238,7 @@
 
 ### Nečekané výhody:
 
-🎉 **Dotace NZÚ:** 280 000 Kč (FV + TČ) - snížilo celkové náklady!
+🎉 **Dotace NZÚ:** 190 000 Kč (FV 100 000 Kč + TČ 90 000 Kč) - snížilo celkové náklady!
 🎉 **Nízké účty za elektřinu:** ~800 Kč/měs místo očekávaných 2 000 Kč
 🎉 **Rychlá realizace:** 8 měsíců od rozhodnutí po nastěhování
 
