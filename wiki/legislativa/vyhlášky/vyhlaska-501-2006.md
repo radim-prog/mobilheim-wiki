@@ -1,312 +1,169 @@
-# Vyhláška 501/2006 Sb. - Obecné požadavky na využívání území
+# Vyhláška 146/2024 Sb. - Požadavky na výstavbu
 
-> **O obecných požadavcích na využívání území**
->
-> **Platnost:** Od 1. ledna 2007, s postupnými novelizacemi
-
----
-
-## 📋 Základní informace
-
-**Úplný název:** Vyhláška č. 501/2006 Sb., o obecných požadavcích na využívání území
-
-**Účel:** Stanoví obecné požadavky na:
-- Využívání území
-- Umisťování staveb
-- Technickou infrastrukturu
-- Veřejnou vybavenost
-
-**Vazba na stavební zákon:**
-- Prováděcí předpis k zákonu 183/2006 Sb.
-- Doplňuje a konkretizuje obecné požadavky
+> **Nahradila vyhlášku 501/2006 Sb. a 268/2009 Sb.**
+> **Platnost:** Od 1. července 2024
+> **Poslední aktualizace:** Říjen 2025
 
 ---
 
-## 🏠 Relevance pro mobilní domy
+## Úvod a historický kontext
 
-### Co vyhláška řeší pro mobilní domy?
+Vyhláška č. 146/2024 Sb., o požadavcích na výstavbu, představuje zásadní změnu v českém stavebním právu. Tento prováděcí předpis k novému stavebnímu zákonu č. 283/2021 Sb. nabyl účinnosti dnem 1. července 2024 a nahradil dvě dosavadní vyhlášky: vyhlášku č. 501/2006 Sb., o obecných požadavcích na využívání území, a vyhlášku č. 268/2009 Sb., o technických požadavcích na stavby.
 
-1. **Umístění na pozemku** - odstupy, přístupy
-2. **Napojení na sítě** - voda, kanalizace, elektřina
-3. **Parkování** - počet míst, umístění
-4. **Požární bezpečnost** - odstupy, přístupy pro hasičce
-5. **Hygienické požadavky** - osvětlení, větrání
+Hlavním cílem nové vyhlášky je výrazné zjednodušení a liberalizace požadavků na výstavbu, zejména v oblasti bytové výstavby a rodinných domů. Ministerstvo pro místní rozvoj při přípravě vyhlášky reagovalo na dlouhodobé kritiky nadměrné regulace stavebnictví a snahu usnadnit dostupnost bydlení snížením administrativních a technických bariér. Změny se dotýkají odstupových vzdáleností mezi stavbami, požadavků na parkování, technických parametrů obytných místností a mnoha dalších aspektů výstavby.
+
+Pro mobilní domy jsou relevantní především ustanovení týkající se umisťování staveb na pozemcích, odstupových vzdáleností od hranic pozemků, připojení na technickou infrastrukturu a parkování. Ačkoliv vyhláška explicitně nerozlišuje mobilní domy od klasických rodinných domů, její obecná ustanovení se na ně plně vztahují v rozsahu, v jakém jsou mobilní domy klasifikovány jako stavby podle stavebního zákona.
 
 ---
 
-## 📐 § 4 - Vymezení pojmů
+## Odstupové vzdálenosti staveb
 
-### Zastavěná plocha
+Nová vyhláška přináší zásadní zjednodušení pravidel pro odstupové vzdálenosti staveb od hranic pozemků. Dosavadní složitý systém výpočtu pomocí takzvaných sklopných výšek byl zcela zrušen a nahrazen jednoduchým pravidlem minimální vzdálenosti 2 metry.
 
-> **"Zastavěná plocha je část pozemku zjištěná jako průmět vnějšího obvodu svislých konstrukcí všech nadzemních i podzemních podlaží do vodorovné roviny."**
+### Základní pravidlo odstupu od hranice pozemku
 
-**Pro mobilní domy:**
-- Započítává se **celá plocha** včetně přesahů
-- Terasa **pevně spojená** = součást zastavěné plochy
-- Terasa **odkládatelná** = nezapočítává se
+Podle § 5 odst. 1 vyhlášky č. 146/2024 Sb. musí být stavba umístěna minimálně 2 metry od hranice pozemku, s výjimkou hranice s pozemkem veřejného prostranství. Toto pravidlo platí pro všechny nadzemní stavby včetně mobilních domů, pokud nejsou splněny podmínky pro výjimku.
 
-### Stavba pro rodinnou rekreaci
+Výjimky z minimální vzdálenosti 2 metry jsou povoleny v následujících případech. Za prvé, pokud je výška stavby v místě nejbližším k hranici pozemku menší než 2 metry, nemusí být dodržena minimální odstupová vzdálenost. Tato výjimka se vztahuje například na nízké přístavky, altány nebo terasy. Za druhé, odstup není vyžadován u technické infrastruktury jako jsou inženýrské sítě, komunikace, opěrné zdi nebo protihlukové bariéry. Za třetí, stavba může být umístěna blíže než 2 metry od hranice, pokud je takové umístění v dané lokalitě obvyklé a odpovídá charakteru okolní zástavby.
 
-> **"Stavba, jejíž objemové parametry a vzhled odpovídají požadavkům na rodinnou rekreaci, s nejvýše 2 nadzemními a 1 podzemním podlažím."**
+### Souhlas vlastníka sousední nemovitosti
 
-**Mobilní dům jako rekreační objekt:**
-- ✅ Max. 2 nadzemní podlaží
-- ✅ Max. 1 podzemní podlaží
-- ✅ Odpovídající proporcím rekreace
+Pokud stavebník zamýšlí umístit mobilní dům v menší vzdálenosti než 2 metry od hranice pozemku bez splnění některé z výše uvedených výjimek, je nutné získat písemný souhlas vlastníka sousední nemovitosti. Tento souhlas musí být součástí žádosti o územní souhlas nebo ohlášení stavby a jeho podpis by měl být úředně ověřen, aby byla zajištěna jeho platnost a předešlo se pozdějším sporům.
 
----
+Souhlas souseda však neznamená automatické povolení stavby, neboť stavební úřad dále posuzuje, zda umístění stavby v kratší vzdálenosti nenarušuje požární bezpečnost, hygienické podmínky nebo možnost budoucí výstavby na sousedním pozemku. V případě, že stavební úřad shledá, že kratší odstup by mohl ohrozit veřejné zájmy, může stavbu odmítnout i přes souhlas souseda.
 
-## 🏗️ § 20 - Plochy staveb pro rodinnou rekreaci
+### Požární odstupy mezi stavbami
 
-### Základní požadavky
+Kromě minimálního odstupu 2 metry od hranice pozemku je třeba respektovat požární odstupy mezi stavbami, které se řídí normou ČSN 73 0802 Požární bezpečnost staveb. Tato norma stanovuje minimální vzdálenosti mezi stavbami v závislosti na jejich požární odolnosti konstrukcí a velikosti požárně otevřených ploch ve fasádě.
 
-**Umístění:**
-- Pozemky vymezené v územním plánu jako plochy rekreace
-- Nebo plochy smíšené, kde ÚP připouští rekreaci
-
-**Vybavení:**
-- Přístup z veřejné komunikace
-- Možnost napojení na sítě (nebo alternativy)
-- Parkování na vlastním pozemku
-
-### Odstupy od hranic
-
-**Minimální vzdálenost od hranic pozemku:**
-- **2 metry** (nový stavební zákon od 7/2024)
-- Lze méně se souhlasem souseda
-
-**Výjimky:**
-- Společná zeď na hranici (souhlas souseda)
-- Veřejná komunikace (jiné odstupy)
+U mobilních domů s dřevěnou konstrukcí, která je klasifikována do vyšších stupňů hořlavosti, jsou požární odstupy obvykle větší než u staveb s nehořlavými konstrukcemi. Standardně se požární odstup mezi dvěma rodinnými domy pohybuje v rozmezí 4 až 7 metrů, přičemž přesná hodnota závisí na konstrukci obou objektů a umístění oken a dveří v jejich fasádách. Pokud je v mobilním domě použita požární stěna s požární odolností minimálně EI 30 (odolnost 30 minut), lze požární odstup snížit až na hranici pozemku, avšak toto řešení vyžaduje posouzení autorizovanou osobou v oblasti požární ochrany staveb.
 
 ---
 
-## 💧 § 23 - Připojení na sítě technické infrastruktury
+## Parkování a parkovací stání
 
-### Povinnost napojení
+Vyhláška č. 146/2024 Sb. výrazně zjednodušuje požadavky na zajištění parkovacích stání u obytných staveb a zavádí liberálnější pravidla umožňující parkování i mimo vlastní pozemek stavby.
 
-> **"Stavby musí být napojeny na sítě technické infrastruktury, pokud nejsou na pozemku jiná zařízení k zásobování vodou, odvádění odpadních vod, energiemi."**
+### Počet parkovacích míst pro rodinný dům a mobilní dům
 
-### Pro mobilní domy:
+Podle § 7 a přílohy č. 1 vyhlášky se pro stavby určené k bydlení projektuje jedno parkovací stání na každých 120 m² užitné plochy. U typického rodinného domu nebo mobilního domu o ploše 50 m² to znamená požadavek na jedno parkovací místo, zatímco u většího domu o ploše 100 m² postačí rovněž jedno parkovací místo. Toto pravidlo je výrazně mírnější než předchozí požadavky vyhlášky č. 501/2006 Sb., která vyžadovala dvě parkovací místa na jeden rodinný dům.
 
-#### 1. Voda
+Parkovací stání může být situováno přímo na pozemku stavby, v budově formou garáže nebo na samostatném pozemku ve vzdálenosti do 300 metrů od stavby, měřeno nejkratší pěší trasou. Tato flexibilita umožňuje umístění mobilního domu i na menších pozemcích, kde není prostor pro vyhrazené parkovací stání, pokud je v dostupné vzdálenosti veřejné parkoviště nebo parkovací plocha na jiném pozemku.
 
-**Varianty:**
-- ✅ **Veřejný vodovod** (nejlepší)
-- ✅ **Studna** (s pitnou vodou, rozbor)
-- ✅ **Cisterna** (pouze dočasně, náhradně)
+### Rozměry a technické parametry parkovacích stání
 
-**Požadavky:**
-- Pitná kvalita podle vyhlášky 252/2004 Sb.
-- Dostatečná kapacita (min. 200 l/den/osobu)
+Minimální rozměr jednoho kolmého parkovacího stání činí 2,5 metru na šířku a 5 metrů na délku. Pro podélné parkování je nutná délka minimálně 6 metrů. Parkovací stání musí mít zpevněný povrch, kterým může být asfalt, betonová dlažba, zámková dlažba nebo zatravňovací tvárnice umožňující vsakování dešťové vody. Štěrkový povrch není považován za dostačující a stavební úřad jej může odmítnout jako nevyhovující.
 
-#### 2. Kanalizace
+Přístup k parkovacím stáním musí být zajištěn z veřejné komunikace nebo ze společné příjezdové cesty s minimální šířkou 3 metry, aby byl umožněn bezpečný vjezd a výjezd vozidel. V případě parkování pro osoby se sníženou mobilitou je nutné dodržet zvýšené rozměry stání 3,5 × 5 metrů a zajistit bezbariérový přístup k objektu.
 
-**Varianty:**
-- ✅ **Veřejná kanalizace** (ideální)
-- ✅ **Domovní ČOV** (čistička odpadních vod)
-- ✅ **Jímka** (nepropustná, s vyvážením)
-- ❌ **Žumpa** (zastaralé, většinou nepovoleno)
+### Možnost úpravy parkovacích standardů územním plánem
 
-**Požadavky:**
-- Nepropustná konstrukce
-- Přístup pro vyvážecí vozidlo
-- Odvětrání
-
-#### 3. Elektřina
-
-**Napojení:**
-- ✅ **Veřejná rozvodná síť** (přípojka od sloupu)
-- ✅ **Fotovoltaika + baterie** (off-grid možné)
-
-**Požadavky:**
-- Revize elektroinstalace (§ 268/2009 Sb.)
-- Jistící prvky
-- Uzemnění
+Obce mají podle vyhlášky možnost upravit parkovací standardy prostřednictvím územně plánovací dokumentace, a to formou procentuální korekce v rozmezí 50 % až 150 % základního normativu. Tato korekce může zohlednit místní podmínky, jako je dostupnost veřejné hromadné dopravy, hustota zástavby nebo charakter lokality. V centrech měst s dobrou dopravní obslužností může obec snížit požadavek na parkování až o polovinu, zatímco v okrajových částech s horší dostupností může naopak požadavky zvýšit.
 
 ---
 
-## 🚗 § 21 - Parkování a garáže
+## Připojení na technickou infrastrukturu
 
-### Počet parkovacích míst
+Mobilní domy jako stavby sloužící k bydlení nebo rekreaci musí být připojeny na sítě technické infrastruktury, pokud na pozemku nejsou alternativní zařízení k zásobování vodou, odvádění odpadních vod a dodávce energií.
 
-**Pro rodinný dům / mobilní dům:**
-- Minimálně **1 parkovací místo**
-- Doporučeno **2 místa** (1 + 1 pro návštěvy)
+### Zásobování pitnou vodou
 
-**Pro rekreační objekt:**
-- Minimálně **1 parkovací místo**
+Pro zásobování mobilního domu pitnou vodou jsou přípustné tři varianty. První a preferovanou variantou je připojení na veřejný vodovod provozovaný místním vodovodním podnikem. Toto řešení zajišťuje stabilní dodávku pitné vody garantované kvality a je vyžadováno zejména u mobilních domů určených k trvalému bydlení.
 
-### Umístění parkování
+Druhovou variantou je vlastní zdroj vody, nejčastěji studna. Pokud je mobilní dům zásobován ze studny, musí být provedena laboratorní analýza kvality vody, která ověří splnění limitů pro pitnou vodu podle vyhlášky č. 252/2004 Sb. Rozbor vody je nutné opakovat minimálně jednou ročně a jeho výsledky archivovat pro případné kontroly hygienické stanice. Vydatnost studny musí být dostatečná pro pokrytí potřeby minimálně 100 litrů vody na osobu a den, což u čtyřčlenné domácnosti odpovídá 400 litrům denně.
 
-**Požadavky:**
-- ✅ Na vlastním pozemku
-- ✅ Zpevněný povrch (asfalt, dlažba, zatravňovací tvárnice)
-- ✅ Přístup z veřejné komunikace
+Třetí, dočasnou variantou je zásobování vodou z cisterny. Toto řešení je akceptovatelné pouze pro rekreační mobilní domy využívané sezónně a není považováno za trvalé řešení vhodné pro celoroční bydlení. Cisterna musí být vyrobena z materiálu vhodného pro pitnou vodu, pravidelně čištěna a dezinfikována.
 
-**Vzdálenosti:**
-- Max. **50 metrů** od vstupu do domu
-- Přímá dostupnost
+### Odvádění odpadních vod
 
----
+Pro odvádění odpadních vod z mobilního domu je primárně vyžadováno napojení na veřejnou kanalizaci, pokud je v dosahu pozemku. Pokud veřejná kanalizace není dostupná, jsou přípustná alternativní řešení podle vyhlášky č. 401/2015 Sb., o ukazatelích a hodnotách přípustného znečištění povrchových vod a odpadních vod.
 
-## 🔥 § 23 - Požární bezpečnost
+Domovní čistírna odpadních vod představuje nejčastější alternativu k veřejné kanalizaci. Tyto zařízení čistí odpadní vody biologickým procesem a vyčištěná voda je následně vypouštěna do vsaku, drenáže nebo vodního toku. Účinnost čištění musí splňovat limity stanovené zákonem, obvykle snížení znečištění na méně než 20 mg/l BSK5 a 50 mg/l CHSK. Domovní ČOV vyžaduje pravidelnou údržbu a roční kontrolu oprávněnou osobou s vystavením revizní zprávy.
 
-### Požární odstupy
+Nepropustná jímka na odpadní vody je povolena pouze jako dočasné řešení nebo v případech, kdy není možné realizovat domovní ČOV ani napojení na kanalizaci. Jímka musí být vyrobena z nepropustného materiálu, vybavena odvětráním a pravidelně vyvážena specializovanou firmou. Frekvence vyvážení závisí na objemu jímky a spotřebě vody, obvykle je nutné vyvážení jednou za 2 až 6 týdnů. Zastaralé septiky a žumpy, které umožňovaly částečný vsak odpadních vod do půdy, již nejsou podle současných předpisů přípustné a jejich provozovatelé jsou povinni je nahradit domovní ČOV nebo nepropustnou jímkou.
 
-**Od jiných staveb:**
-- Podle **ČSN 73 0802** Požární bezpečnost staveb
+### Dodávka elektrické energie
 
-**Základní odstupy:**
-- **4-7 metrů** od jiné stavby (dle konstrukční třídy)
-- **2 metry** od hranice pozemku (pokud není požární stěna)
+Mobilní dům musí být vybaven elektroinstalací splňující požadavky norem řady ČSN 33 2000-4 a ČSN 33 2000-5. Připojení na distribuční soustavu elektřiny zajišťuje místní distributor po podání žádosti o připojení a vydání smlouvy o připojení. Elektroinstalace v mobilním domě musí být před prvním zapojením do sítě zkontrolována revizním technikem, který vydá revizní zprávu potvrzující bezpečnost a funkčnost instalace.
 
-**Lze snížit pokud:**
-- Požární stěna (EW 30-90 minut)
-- Souhlas souseda
-- Posouzení odborníka PBPZ
-
-### Přístup požární techniky
-
-**Požadavky:**
-- Šířka příjezdové komunikace: **3 metry**
-- Výška průjezdu: **4,5 metru**
-- Nosnost: **80 kN/nápravu**
-
-**Pro mobilní domy do 55 m²:**
-- Obvykle postačuje běžný přístup
-- Pokud vzdálenost od komunikace > 50 m → potřeba posouzení
+Alternativou k připojení na rozvodnou síť je off-grid systém využívající fotovoltaické panely a bateriové úložiště. Toto řešení je vhodné zejména pro rekreační mobilní domy v odlehlých lokalitách, kde by bylo připojení na síť příliš nákladné. Kapacita fotovoltaického systému by měla odpovídat spotřebě domu, obvykle 3 až 5 kWp pro standardní rekreační objekt s baterií o kapacitě 5 až 10 kWh.
 
 ---
 
-## 🌳 § 22 - Zeleň a terénní úpravy
+## Požární bezpečnost staveb
 
-### Požadavky na zeleň
+Požární bezpečnost mobilních domů se řídí především normou ČSN 73 0802, která stanovuje požární odstupy, požadavky na únikové cesty, instalaci hasicích přístrojů a detektorů kouře.
 
-**Podíl zeleně na pozemku:**
-- Min. **30-40%** pozemku (dle ÚP obce)
-- Stromy, keře, travní plochy
+### Požární úseky a únikové cesty
 
-**Pro mobilní domy:**
-- Zelené střechy se započítávají
-- Terasy se zatravněním částečně
+Mobilní dům do 200 m² zastavěné plochy je obvykle považován za jeden požární úsek. Z každé obytné místnosti musí vést úniková cesta, kterou může být východ přímo ven nebo přes chodbu a předsíň k hlavnímu vchodu. Maximální délka únikové cesty v mobilním domě nesmí překročit 30 metrů, což je u typických velikostí do 55 m² automaticky splněno.
 
-### Terénní úpravy
+V mobilních domech s podkrovním pokojem je nutné zajistit druhou únikovou cestu, pokud je podkroví využíváno k trvalému pobytu osob. Touto druhou únikovou cestou může být okno s minimální volnou plochou 0,6 × 0,9 metru, umožňující evakuaci osob v případě požáru v přízemí domu. Okno musí být snadno otevíratelné bez použití nářadí a jeho dolní hrana nesmí být výše než 120 cm nad úrovní podlahy.
 
-**Povolené bez ohlášení:**
-- Výškové rozdíly do **1,5 metru**
-- Opěrné zdi do **1,5 m** výšky
+### Detektory kouře a hasicí přístroje
 
-**Vyžaduje ohlášení:**
-- Výškové rozdíly nad 1,5 m
-- Opěrné zdi nad 1,5 m
+Od 1. července 2024 je podle vyhlášky č. 146/2024 Sb. povinné osazení autonomních detektorů kouře v obytných místnostech, ložnicích a chodbách sloužících jako únikové cesty. Detektor kouře musí být připevněn na stropě nebo nejvýše 30 cm pod stropem a musí být pravidelně kontrolován výměnou baterií minimálně jednou ročně. V každém mobilním domě by měl být nainstalován minimálně jeden detektor kouře v obývacím prostoru a jeden v ložnici.
+
+Přestože instalace hasicích přístrojů není pro rodinné domy a mobilní domy zákonem výslovně vyžadována, je důrazně doporučována. Vhodným typem je práškový hasicí přístroj o hmotnosti 2 až 6 kg s hasební schopností minimálně 13A, umístěný na snadno dostupném místě, například v předsíni nebo u vchodu. Hasicí přístroj musí být pravidelně revidován každé dva roky a jeho platnost kontroly je označena revizní nálepkou.
+
+### Materiály a konstrukční požadavky
+
+Mobilní domy s dřevěnou konstrukcí jsou klasifikovány do vyšších tříd reakce na oheň, což vyžaduje zvýšenou pozornost k požárním odstupům a použití retardérů hoření. Vnitřní povrchové úpravy obytných místností by měly být z materiálů třídy reakce na oheň minimálně B (těžce hořlavé) nebo C (středně hořlavé), aby se omezilo rychlé šíření plamene po povrchu stěn a stropu.
 
 ---
 
-## 💡 § 14 - Osvětlení a oslunění
+## Osvětlení a oslunění obytných místností
+
+Nová vyhláška č. 146/2024 Sb. výrazně zmírnila požadavky na denní osvětlení a oslunění obytných místností oproti předchozí vyhlášce č. 268/2009 Sb.
 
 ### Denní osvětlení
 
-**Požadavky:**
-- Okna obytných místností: **min. 10% podlahové plochy**
-- Okna kuchyní: **min. 8% podlahové plochy**
+Podle § 24 vyhlášky musí být obytné místnosti osvětleny denním světlem prostřednictvím oken. Minimální poměr plochy zasklení oken k podlahové ploše místnosti není vyhláškou explicitně stanoven, což představuje zásadní zmírnění oproti dřívějšímu požadavku 10 % pro obytné místnosti a 8 % pro kuchyně. Tato změna reaguje na moderní architektonické trendy a možnost kompenzace nižšího denního osvětlení kvalitním umělým osvětlením.
 
-**Pro mobilní domy:**
-- Tovární výroba obvykle splňuje
-- Kontrola certifikátu výrobku
+Nicméně pro zajištění zdravého obytného prostředí se doporučuje zachovat poměr minimálně 1:10 mezi plochou oken a podlahovou plochou místnosti. U mobilního domu o podlahové ploše obývacího pokoje 20 m² by tedy okna měla mít celkovou plochu zasklení minimálně 2 m². Moderní trojskla a nízkoenergetická okna výrazně snižují tepelné ztráty spojenés velkými prosklenými plochami, takže lze bez obav projektovat mobilní domy s velkorysým zasklením.
 
 ### Oslunění
 
-**Minimální oslunění:**
-- **1. března - 90 minut** denně v obytných místnostech
-- Kontrola stínění od okolních staveb
+Požadavek na minimální oslunění byl novou vyhláškou zcela vypuštěn. Dříve platilo, že minimálně jedna obytná místnost musí být osluněna 1. března po dobu alespoň 90 minut, což komplikovalo umisťování staveb na malých pozemcích se stínícími sousedními budovami nebo vzrostlými stromy. Absence tohoto požadavku výrazně usnadňuje umisťování mobilních domů v hustě zastavěných lokalitách, chatových osadách nebo zalesněných pozemcích, kde je plné denní oslunění obtížně dosažitelné.
 
 ---
 
-## 🏡 Praktické příklady
+## Zeleň a propustnost pozemku
+
+Vyhláška č. 146/2024 Sb. nestanovuje explicitní minimální podíl zeleně na pozemku, což je další významné zmírnění oproti předchozím předpisům. Některé územní plány obcí však mohou požadavky na minimální podíl nezpevněných ploch stanovit formou regulativů využití území.
+
+### Propustnost povrchu pro dešťovou vodu
+
+Ačkoliv není stanoven minimální podíl zeleně, je vhodné zajistit na pozemku s mobilním domem dostatečný podíl propustných ploch umožňujících vsak dešťové vody. Doporučeným podílem je minimálně 30 % až 40 % pozemku ponechat jako travní plochu, záhon nebo použít propustné zpevnění formou zatravňovacích tvárnic. Toto opatření přispívá k prevenci povodní zadržováním vody v lokalitě a omezuje zatížení veřejné kanalizace dešťovými vodami.
+
+Zelené střechy a fasády mohou být započteny do celkového podílu zeleně na pozemku, pokud to připouští územní plán obce. Zelená střecha s vrstvou substrátu minimálně 10 cm a trvalým porostem bylin nebo trav přispívá k tepelné izolaci mobilního domu a zadržuje část dešťové vody, která pak postupně odpařuje nebo pomalu odtéká do kanalizace či vsakuje do terénu.
+
+---
+
+## Praktické příklady uplatnění vyhlášky
 
 ### Příklad 1: Mobilní dům 48 m² na pozemku 800 m²
 
-**Kontrola požadavků:**
-- ✅ Odstup od hranic: 2 m (splněno)
-- ✅ Parkování: 2 místa na pozemku (splněno)
-- ✅ Napojení: vodovod + kanalizace (splněno)
-- ✅ Zeleň: 500 m² = 62,5% (splněno)
-- ✅ Požární přístup: ze silnice 4 m široké (splněno)
+Investor plánuje umístit mobilní dům o zastavěné ploše 48 m² na pozemek v zastavitelném území obce označený v územním plánu jako plocha pro rodinnou rekreaci. Pozemek má rozměry 20 × 40 metrů a je situován v chatové osadě s dostupnou veřejnou komunikací.
 
-**Výsledek:** Všechny požadavky vyhl. 501/2006 Sb. splněny ✅
+Kontrola požadavků vyhlášky č. 146/2024 Sb.: Odstup od hranic pozemku činí 3 metry ze všech stran, což splňuje minimální požadavek 2 metry. Požární odstup od nejbližší sousední chaty vzdálené 6 metrů odpovídá požadavkům normy ČSN 73 0802 pro dřevěné konstrukce. Parkování je zajištěno dvěma stáními o rozměrech 2,5 × 5 metrů na zpevněné ploše ze zámkové dlažby před mobilním domem. Zásobování vodou je řešeno vlastní studnou s ročním rozborem pitné vody, odvádění odpadních vod domovní biologickou čistírnou odpadních vod s kapacitou 5 EO (ekvivalentních obyvatel) a přívodem elektrické energie z veřejné rozvodné sítě. Zeleň pokrývá 500 m² pozemku, což odpovídá 62,5 % plochy. Všechny požadavky vyhlášky č. 146/2024 Sb. jsou splněny, stavba může být povolena.
 
-### Příklad 2: Mobilní dům 55 m² bez kanalizace
+### Příklad 2: Mobilní dům 55 m² v odlehlé lokalitě
 
-**Situace:**
-- Pozemek v chatové oblasti
-- Není veřejná kanalizace
+Stavebník chce umístit mobilní dům o zastavěné ploše 55 m² na lesní pozemek v odlehlé horské oblasti, kde není dostupná veřejná infrastruktura. Pozemek je v územním plánu vymezen jako plocha pro rekreaci.
 
-**Řešení:**
-- ✅ Domovní ČOV (splňuje vyhlášku)
-- ✅ Revize a kolaudace ČOV
-- ✅ Pravidelná údržba
-
-**Výsledek:** Splněno s domovní ČOV ✅
-
-### Příklad 3: Mobilní dům 1 m od hranice
-
-**Situace:**
-- Malý pozemek, majitel chce dům blíž k hranici
-
-**Řešení:**
-- ⚠️ Potřeba souhlasu souseda
-- ⚠️ Posouzení požární bezpečnosti
-- ✅ Možné se souhlasem + požární stěnou
-
-**Výsledek:** Podmíněně možné ⚠️
+Řešení: Odstup 2 metry od hranic je dodržen. Zásobování vodou je zajištěno pramenem s objemem cca 200 litrů denně a doplněním z cisternové vody. Odvádění odpadních vod je řešeno kompostovacím toalety typu separačního WC (bez vody) a šedé vody z kuchyně a sprchy jsou odváděny do vsakovacího pole dle projektu odborné firmy schváleného hygienickou stanicí. Elektrická energie je zajištěna off-grid fotovoltaickým systémem 5 kWp s bateriemi 10 kWh. Parkování je na nezpevněném pozemku určeno 5 metrů od vchodu. Toto řešení je v souladu s vyhláškou č. 146/2024 Sb., pokud hygienická stanice schválí systém nakládání s odpadními vodami.
 
 ---
 
-## 🚨 Časté problémy a řešení
+## Užitečné odkazy a právní předpisy
 
-### Problém: Nedostatečný odstup od hranice
-
-**Řešení:**
-1. Získat souhlas souseda (písemně, notářsky)
-2. Vybudovat požární stěnu
-3. Posoudit odborníkem PBPZ
-4. Nebo přemístit dům dál od hranice
-
-### Problém: Chybí možnost napojení na kanalizaci
-
-**Řešení:**
-1. **Domovní ČOV** - nejčastější řešení
-   - Cena: 80 000 - 150 000 Kč
-   - Revize 1x ročně
-
-2. **Nepropustná jímka**
-   - Pouze dočasně/přechodně
-   - Pravidelné vyvážení (náklady!)
-
-### Problém: Nedostatek parkovacích míst
-
-**Řešení:**
-1. Vybudovat parkovací stání na pozemku
-2. Zpevnění zatravňovacími tvárnicemi
-3. Min. 2,5 m × 5 m na jedno místo
+- [Vyhláška č. 146/2024 Sb., o požadavcích na výstavbu - úplné znění](https://www.zakonyprolidi.cz/cs/2024-146)
+- [ČSN 73 0802 Požární bezpečnost staveb - Ministerstvo vnitra](https://www.mvcr.cz/clanek/pozarni-bezpecnost-staveb.aspx)
+- [Ministerstvo pro místní rozvoj - metodiky k vyhlášce o požadavcích na výstavbu](https://mmr.gov.cz/cs/ministerstvo/stavebni-pravo/pravo-a-legislativa/novy-stavebni-zakon/vyhlasky/navrh-vyhlasky-o-pozadavcich-na-vystavbu)
 
 ---
 
-## 📞 Odkazy a kontakty
-
-**Právní předpisy:**
-- [Vyhláška 501/2006 Sb. - úplné znění](https://www.zakonyprolidi.cz/cs/2006-501)
-- [ČSN 73 0802 - Požární bezpečnost](https://www.technickenormy.cz/)
-- [Vyhláška 268/2009 Sb. - Technické požadavky](https://www.zakonyprolidi.cz/cs/2009-268)
-
-**Užitečné nástroje:**
-- Kalkulačka odstupů staveb
-- Kalkulačka zeleně na pozemku
-- Kontrolní seznam požadavků vyhlášky
-
----
-
-**Zpracováno:** 20. října 2025
+**Zpracováno:** 27. října 2025
 **Autor:** Mobilheim Wiki
-**Zdroje:** Vyhláška 501/2006 Sb., ČSN normy, praktická aplikace
+**Zdroje:** Vyhláška č. 146/2024 Sb., ČSN 73 0802, Ministerstvo pro místní rozvoj ČR, odborné právní analýzy, oficiální metodiky MMR

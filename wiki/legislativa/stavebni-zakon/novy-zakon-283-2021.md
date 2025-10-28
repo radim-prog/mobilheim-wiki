@@ -1,364 +1,184 @@
-# Nový stavební zákon 283/2021 Sb.
+# Nový stavební zákon 283/2021 Sb. a mobilní domy
 
 > **Platnost:** Od 1. července 2024
->
 > **Status:** Aktuálně platná legislativa
+> **Poslední aktualizace:** Říjen 2025
 
 ---
 
-## 📋 Základní informace
+## Základní informace o novém stavebním zákoně
 
-**Úplný název:** Zákon č. 283/2021 Sb., o stavebních výrobcích a o změně souvisejících zákonů (nový stavební zákon)
+Zákon č. 283/2021 Sb., o stavebních výrobcích a o změně souvisejících zákonů, představuje komplexní reformu českého stavebního práva. Tento právní předpis nabyl účinnosti 1. ledna 2024, přičemž po šestiměsíčním přechodném období vstoupil v plnou platnost dnem 1. července 2024.
 
-**Účinnost:**
-- Nabyl účinnosti: 1. ledna 2024
-- Přechodné období: 1. ledna 2024 - 30. června 2024
-- Plná účinnost: **1. července 2024**
+Nový stavební zákon přináší zásadní změny v přístupu k mobilním domům, které jsou nově definovány jako „výrobky plnící funkci stavby". Tato kategorie zahrnuje konstrukce vyrobené průmyslovým způsobem mimo místo jejich konečného umístění, určené k dopravě a následné instalaci na pozemku. Hlavní novinkou je zavedení specifického limitu zastavěné plochy 55 m² pro mobilní domy určené k rekreačnímu využití, přičemž právní režim se významně liší v závislosti na zamýšleném účelu objektu.
 
-**Hlavní změny:**
-- ✅ Zvýšení limitu pro mobilní domy na **55 m²**
-- ✅ Nová kategorizace staveb (Přílohy 1-3)
-- ✅ Zjednodušení procesu pro drobné stavby
-- ✅ Digitalizace stavebního řízení
+Reforma dále zavádí jednotný proces stavebního řízení, který spojuje dosavadní územní a stavební řízení do jednoho postupu. Nově se stavby člení do čtyř kategorií podle náročnosti povolování: drobné stavby (Příloha 1), jednoduché stavby (Příloha 2), vyhrazené stavby (Příloha 3) a ostatní stavby. Digitalizace stavebního řízení prostřednictvím Portálu stavebníka má urychlit administrativní procesy a zpřehlednit komunikaci se stavebními úřady.
 
 ---
 
-## 🎯 Kategorizace staveb
+## Kategorizace mobilních domů podle účelu užívání
 
-### a) Drobné stavby (Příloha 1)
-**Nevyžadují povolení ani ohlášení**
+Zásadní změnou, kterou nový stavební zákon přináší, je striktní rozlišení mezi mobilními domy určenými k rekreaci a objekty sloužícími k trvalému bydlení. Tento rozdíl má přímý dopad na administrativní náročnost a povolování stavby.
 
-**Limity pro pevné stavby:**
-- Maximální zastavěná plocha: **40 m²**
-- Maximální výška: **5 m**
-- Minimální vzdálenost od hranice: **2 m**
+### Mobilní domy pro rekreační účely
 
-**Limity pro mobilní domy:**
-- Maximální zastavěná plocha: **55 m²** 🔥 NOVĚ!
-- Maximální výška: **5 m**
-- Minimální vzdálenost od hranice: **2 m**
+Mobilní domy určené výhradně k rekreačnímu využití mohou za splnění stanovených podmínek spadat do kategorie drobných staveb podle Přílohy 1 zákona. Tyto objekty nevyžadují stavební povolení ani ohlášení stavebnímu úřadu, pokud jejich zastavěná plocha nepřesahuje 55 m², výška nepřekračuje 4 metry a jsou umístěny na pozemku určeném k rekreaci podle územního plánu obce. Minimální vzdálenost od hranice sousedního pozemku musí činit 2 metry, přičemž po umístění objektu musí minimálně 50 % plochy pozemku zůstat propustných pro dešťovou vodu.
 
-### b) Jednoduché stavby (Příloha 2)
-**Vyžadují pouze ohlášení**
+Důležitým aspektem je, že i v případě rekreačních mobilních domů je nezbytné, aby umístění bylo v souladu s územním plánem dané lokality. Stavební úřad má právo kontrolovat dodržování těchto parametrů a v případě nesouladu může nařídit odstranění objektu nebo uložit pokutu až 500 000 Kč fyzické osobě.
 
-**Příklady:**
-- Rodinné domy do 150 m² zastavěné plochy
-- Garáže, sklady
-- Přístřešky
+### Mobilní domy pro trvalé bydlení
 
-### c) Vyhrazené stavby (Příloha 3)
-**Vyžadují plné stavební povolení**
+Novela stavebního zákona přinesla výrazné zpřísnění pravidel pro mobilní domy určené k trvalému bydlení. Tyto objekty již nelze považovat za drobné stavby, a to ani v případě, že jejich zastavěná plocha nepřesahuje 55 m². Každý mobilní dům zamýšlený jako trvalé obydlí podléhá režimu jednoduchých staveb dle Přílohy 2 zákona, což vyžaduje ohlášení stavby stavebnímu úřadu spolu s předložením projektové dokumentace a případně i stavebního dozoru.
 
-**Příklady:**
-- Stavby větší než jednoduché
-- Stavby s vlivem na životní prostředí
-- Inženýrské sítě
-
-### d) Ostatní stavby
-Vše ostatní mimo kategorie a-c
+Trvalé bydlení v mobilním domě dále předpokládá splnění technických požadavků na obytné stavby, včetně minimální světlé výšky místností 2,5 metru, šířky chodeb minimálně 90 cm a energetické náročnosti ne horší než třída C. Objekt musí být vybaven řádným připojením na inženýrské sítě (elektřina, voda, kanalizace) a splňovat požadavky na mechanickou odolnost, požární bezpečnost a hygienické podmínky. Pro získání trvalého bydliště v mobilním domě je nutné, aby byl objekt zapsán v katastru nemovitostí jako stavba s přiděleným číslem popisným nebo evidenčním.
 
 ---
 
-## 🏠 Mobilní domy v novém zákoně
+## Technické parametry a limity pro mobilní domy
 
-### Definice mobilního domu
+Nový stavební zákon stanovuje přesné technické limity, které definují, zda se na mobilní dům vztahuje zjednodušený režim drobných staveb, nebo zda vyžaduje plnohodnotné stavební řízení.
 
-Mobilní dům je **výrobek plnící funkci stavby**, který:
-1. Je vyroben v továrně
-2. Je určen k dopravě a umístění na pozemek
-3. Může sloužit k bydlení, rekreaci nebo jiným účelům
-4. Má rozměry do **55 m²** zastavěné plochy
+### Maximální zastavěná plocha
 
-### Klíčové změny oproti starému zákonu
+Klíčovým parametrem je zastavěná plocha mobilního domu, která pro kategorii drobných staveb nesmí překročit 55 m². Do této plochy se započítává veškerá zastřešená a zastavěná část objektu včetně teras pevně spojených s konstrukcí domu, verand a přístřešků tvořících součást stavby. Naproti tomu se do limitu nezapočítávají volně stojící přístavky, samostatné kůlny, zpevněné plochy (dlažba, zámková vl
 
-| Parametr | Starý zákon (do 6/2024) | Nový zákon (od 7/2024) |
-|----------|------------------------|----------------------|
-| **Max. plocha** | Bez limitu | **55 m²** |
-| **Kategorie** | Výrobek plnící funkci | Drobná stavba (Příloha 1) |
-| **Stavební povolení** | NE | NE |
-| **Ohlášení** | NE | NE |
-| **Územní rozhodnutí** | ANO | ANO |
-| **Digitální proces** | Částečně | Plně |
+aní) ani movité terasy, které lze snadno demontovat a přemístit.
 
----
+Při výpočtu zastavěné plochy je třeba zohlednit vnější rozměry konstrukce včetně obvodového pláště a izolace. Příkladem může být mobilní dům o půdorysných rozměrech 10 × 5 metrů (50 m²) s připojenou terasou 3 × 2 metry (6 m²), jehož celková zastavěná plocha činí 56 m², čímž o 1 m² překračuje stanovenou hranici pro drobné stavby.
 
-## ✅ Co mobilní dům NEVYŽADUJE
+### Výška objektu
 
-### 1. Stavební povolení
-- Pokud je do 55 m² zastavěné plochy
-- Pokud splňuje parametry drobné stavby
+Druhým limitujícím parametrem je výška mobilního domu, která nesmí přesáhnout 4 metry u objektů určených k rekreaci. Tato výška se měří od upraveného terénu k nejvyššímu bodu střešní konstrukce, nikoliv k hřebenu střechy. U mobilních domů pro trvalé bydlení kategorie jednoduchých staveb může být výška vyšší, avšak vždy v souladu s územním plánem a architektonickým charakterem okolní zástavby.
 
-### 2. Ohlášení stavebnímu úřadu
-- Automaticky spadá do Přílohy 1
-- Není třeba notifikace
+### Odstupové vzdálenosti
 
-### 3. Kolaudace
-- Výrobek má certifikát shody
-- Není klasická stavba vyžadující kolaudaci
+Minimální odstupová vzdálenost mobilního domu od hranice sousedního pozemku činí 2 metry. Tuto vzdálenost lze zkrátit pouze se souhlasem vlastníka sousední nemovitosti, který musí být podán písemně a ověřen na stavebním úřadu. Kromě odstupu od hranic pozemku je nutné dodržovat požární odstupy mezi stavbami dle ČSN 73 0802, které se pohybují obvykle v rozmezí 4 až 7 metrů v závislosti na požární odolnosti konstrukcí. Rovněž je třeba respektovat ochranná pásma inženýrských sítí, která standardně činí 1,5 až 3 metry od osy vedení.
 
 ---
 
-## ⚠️ Co mobilní dům VYŽADUJE
+## Administrativní postup při umisťování mobilního domu
 
-### 1. Územní rozhodnutí / souhlas / veřejnoprávní smlouva
+Navzdory zjednodušenému režimu pro rekreační mobilní domy není jejich umístění možné zcela bez správních úkonů. Každé umístění mobilního domu vyžaduje ověření souladu s územně plánovací dokumentací obce.
 
-**Účel:** Ověřit, že umístění je v souladu s územním plánem
+### Územní souhlas
 
-**Postup:**
-1. Podání žádosti na stavební úřad
-2. Doložení projektové dokumentace
-3. Vyjádření dotčených orgánů
-4. Vydání rozhodnutí (30-60 dní)
+I když rekreační mobilní dům do 55 m² nepodléhá stavebnímu povolení ani ohlášení, investor musí získat územní souhlas od stavebního úřadu. Tento dokument ověřuje, že zamýšlené umístění objektu je v souladu s územním plánem obce a nevyvolává negativní dopady na okolní zástavbu či životní prostředí. Žádost o územní souhlas se podává elektronicky prostřednictvím Portálu stavebníka nebo v listinné podobě na příslušném stavebním úřadě. K žádosti je nutné přiložit situační výkres s vyznačením polohy mobilního domu, doklad o vlastnictví nebo nájmu pozemku a identifikační údaje žadatele. Správní poplatek za vydání územního souhlasu činí 1 000 Kč.
 
-**Bez tohoto = NELEGÁLNÍ stavba!**
+Stavební úřad rozhodne o žádosti ve lhůtě 30 dní od jejího doručení. V případě potřeby si úřad vyžádá vyjádření dotčených orgánů státní správy, například orgánu ochrany přírody v případě umístění v blízkosti chráněného území, hygienické stanice nebo správců inženýrských sítí. Po vydání územního souhlasu je možné přistoupit k faktickému umístění mobilního domu na pozemek.
 
-### 2. Dodržení parametrů
+### Ohlášení jednoduché stavby
 
-**Technické požadavky:**
-- ✅ Max. 55 m² zastavěné plochy
-- ✅ Max. 5 m výška
-- ✅ Min. 2 m od hranice pozemku
-- ✅ Požární bezpečnost
-- ✅ Statická stabilita
-
-**Připojení:**
-- ✅ Elektřina (revize)
-- ✅ Voda (pitná kvalita)
-- ✅ Kanalizace (nebo jímka)
-
-### 3. Vlastnické nebo nájemní právo k pozemku
-
-Musíte být:
-- Vlastník pozemku NEBO
-- Nájemce se souhlasem vlastníka NEBO
-- Držitel práva stavby
+Pro mobilní domy určené k trvalému bydlení je povinností investora podat ohlášení jednoduché stavby dle § 108 stavebního zákona. Ohlášení musí obsahovat projektovou dokumentaci vypracovanou osobou s příslušnou odbornou způsobilostí (autorizovaný inženýr nebo architekt), průkaz energetické náročnosti budovy, stanoviska správců sítí k možnosti připojení a souhlas vlastníka pozemku. Stavební úřad má následně 15 dní na posouzení ohlášení a může v této lhůtě stavbu zakázat, pokud shledá rozpor s právními předpisy. Pokud úřad ve stanovené lhůtě nereaguje, považuje se ohlášení za schválené a lze zahájit výstavbu.
 
 ---
 
-## 📐 Výpočet zastavěné plochy
+## Připojení k inženýrským sítím a jeho právní důsledky
 
-### Co se počítá do 55 m²?
+Připojení mobilního domu k inženýrským sítím představuje klíčový moment, který mění právní status objektu a ovlivňuje požadavky na povolování.
 
-✅ **ZAPOČÍTÁVÁ SE:**
-- Podlahová plocha mobilního domu
-- Terasa pevně spojená s domem
-- Zastřešený prostor (veranda)
-- Přístřešek na dřevo (pokud spojený)
+### Vliv na klasifikaci stavby
 
-❌ **NEZAPOČÍTÁVÁ SE:**
-- Movitá terasa (odkládatelná)
-- Volně stojící přístřešek na auto
-- Oddělen
+Pokud je mobilní dům trvale připojen k rozvodům elektřiny, vody nebo kanalizace, ztrácí charakter mobilního objektu a stává se fakticky stavbou. Toto připojení vyžaduje v každém případě revizi elektrické instalace provedené autorizovaným elektrikářem a v případě vodovodní přípojky může být vyžadována i zkouška těsnosti a pitnosti vody. Stavební úřad posuzuje každý případ individuálně, přičemž při zjištění trvalého připojení na sítě u objektu deklarovaného jako rekreační může požadovat dodatečné stavební povolení nebo uložit sankce za neohlášenou stavbu.
 
-á kůlna/sklad
-- Zpevněné plochy (dlažba)
+### Žádosti o připojení
 
-### Příklad výpočtu:
-
-```
-Mobilní dům: 8m × 6m = 48 m²
-Terasa spojená: 3m × 2m = 6 m²
---------------------------------
-CELKEM: 54 m² ✅ (do limitu!)
-```
+Pro získání souhlasu správců sítí s připojením mobilního domu je nezbytné podat žádost o připojení k distribuční soustavě. V případě elektřiny se jedná o žádost k distributorovi (ČEZ Distribuce, E.ON, EG.D nebo PREdistribuce), který na základě technických parametrů a vzdálenosti od distribučního bodu stanoví podmínky a cenu připojení. Obdobně probíhá proces u vodovodní a kanalizační přípojky, kde žadatel jedná s místním provozovatelem vodovodů a kanalizací. Realizace přípojky musí být provedena oprávněnou firmou a zakončena revizní zprávou, kterou investor archivuje pro případné kontroly stavebního úřadu.
 
 ---
 
-## 🌳 Umístění mobilního domu
+## Územní plánování a vhodnost pozemku
 
-### Kde můžu umístit mobilní dům?
+Ne každý pozemek je vhodný pro umístění mobilního domu. Klíčovou roli hraje funkční využití území stanovené v územním plánu obce.
 
-#### ✅ POVOLENO (obvykle):
+### Pozemky vhodné pro mobilní domy
 
-1. **Pozemek pro bydlení**
-   - Individuální nebo hromadné bydlení
-   - Dle územního plánu
+Mobilní domy lze umisťovat především na pozemcích určených územním plánem k individuální rekreaci, chatovým osadám, rodinnému bydlení nebo smíšenému obytným účelům. V těchto lokalitách je umístění mobilního domu v souladu s účelem území a stavební úřad udělí souhlas s minimálními komplikacemi. Při výběru pozemku je vhodné si předem ověřit platný územní plán obce, který je dostupný na obecním úřadě nebo online na webových stránkách obce.
 
-2. **Pozemek pro rekreaci**
-   - Zahrádkářské osady
-   - Rekreační oblasti
-   - Chatové oblasti
+### Nepřípustné lokality
 
-3. **Smíšené území**
-   - Městské i venkovské
-   - Dle konkrétního ÚP
-
-#### ❌ ZAKÁZÁNO (většinou):
-
-1. **Zemědělská půda**
-   - Bez změny ÚP
-   - Zejména orná půda
-
-2. **Lesní pozemky**
-   - S výjimkami
-
-3. **Chráněná území**
-   - NP, CHKO, památkové zóny
-
-4. **Průmyslové zóny**
-   - Pokud ÚP nepřipouští bydlení
-
-### Vzdálenosti a odstupy
-
-**Od hranice pozemku:**
-- Minimálně **2 metry**
-- Pokud soused souhlasí, lze i méně
-
-**Od jiné stavby:**
-- Požární odstup dle ČSN 73 0802
-- Obvykle 4-7 metrů
-
-**Od inženýrských sítí:**
-- Dle konkrétního vedení
-- Obvykle 1,5-3 metry
+Naopak není možné umístit mobilní dům na zemědělské půdě určené k obdělávání, lesním pozemku, v průmyslové zóně ani v památkově chráněném území bez předchozí změny územního plánu. Změna funkčního využití pozemku je dlouhodobý a nákladný proces trvající 2 až 3 roky s náklady pohybujícími se v řádu stovek tisíc korun, a proto není pro individuální investory prakticky realizovatelná. Umístění mobilního domu na pozemku s nevhodným funkčním využitím představuje nelegální stavbu, která bude stavebním úřadem nařízena k odstranění.
 
 ---
 
-## 💻 Digitální stavební řízení
+## Sankce za porušení stavebních předpisů
 
-### Nové portály a systémy
+Nedodržení ustanovení stavebního zákona při umisťování mobilních domů je sankcionováno podle § 179 zákona o přestupcích v oblasti stavebního práva.
 
-**Portál stavebníka (www.portal-stavebnika.cz):**
-- Online podání žádostí
-- Sledování stavu řízení
-- Digitální dokumentace
+### Pokuty a správní sankce
 
-**Jednotný digitální technický systém (JÚDTIS):**
-- Centrální databáze
-- Automatické koordinace
-- Rychlejší rozhodování
+Fyzickým osobám hrozí při umístění mobilního domu bez územního souhlasu nebo ohlášení pokuta až 500 000 Kč, právnickým osobám a podnikatelům pak až 1 000 000 Kč. Stavební úřad může dále nařídit odstranění nelegální stavby na náklady vlastníka s exekuční výpovědí, přičemž pokud vlastník dobrovolně nevyhoví, zajistí demolici úřad sám a vymáhá následně náklady v exekučním řízení. V případech závažného ohrožení veřejné bezpečnosti může dojít i k trestnímu stíhání podle § 180 trestního zákoníku.
 
-### Postup online žádosti:
+### Dodatečné povolení stavby
 
-1. **Registrace** na portálu
-2. **Vyplnění formuláře** územního souhlasu
-3. **Nahrání dokumentů** (mapa, projekt)
-4. **Podání elektronicky** (s e-podpisem)
-5. **Sledování procesu** online
-6. **Převzetí rozhodnutí** digitálně
+Pokud bylo zjištěno, že mobilní dům byl umístěn bez řádného povolení, ale jinak splňuje technické a urbanistické požadavky, je možné požádat o dodatečné povolení stavby. Tento postup je administrativně náročnější a nákladnější než standardní řízení, přičemž úřední poplatky jsou zvýšeny až na dvojnásobek a investor musí uhradit náklady na případné znalecké posudky a kontrolní prohlídky. Dodatečné povolení není právním nárokem a stavební úřad ho může odmítnout, pokud stavba odporuje územnímu plánu nebo veřejnému zájmu.
 
 ---
 
-## 🔍 Kontroly a sankce
+## Praktický postup krok za krokem
 
-### Co kontroluje stavební úřad?
+Pro úspěšné a legální umístění mobilního domu je vhodné postupovat podle následujícího schématu.
 
-**Po nahlášení sousedem nebo při kontrole:**
+### Přípravná fáze
 
-1. ✅ **Územní rozhodnutí** - máte?
-2. ✅ **Rozměry** - nepřekračuje 55 m²?
-3. ✅ **Odstupy** - min. 2m od hranice?
-4. ✅ **Sítě** - řádně připojeno?
-5. ✅ **Bezpečnost** - statika, požár?
+Nejprve je třeba ověřit územní plán obce a konzultovat záměr se stavebním úřadem formou neformálního dotazu. Tento krok umožňuje předejít pozdějším komplikacím a získat předběžné stanovisko úřadu k zamýšlenému umístění. Dále je nutné zajistit vlastnické nebo nájemní právo k pozemku formou kupní smlouvy, nájemní smlouvy nebo smlouvy o zřízení práva stavby. Teprve poté lze zahájit vlastní správní řízení podáním žádosti o územní souhlas.
 
-### Sankce za nelegální umístění
+### Realizační fáze
 
-**Pokuta:**
-- Až **500 000 Kč** pro fyzické osoby
-- Až **1 000 000 Kč** pro právnické osoby
+Po vydání územního souhlasu je možné objednat mobilní dům u výrobce, přičemž je třeba si ověřit, že dodavatel poskytne certifikát shody výrobku s technickými požadavky a projektovou dokumentaci objektu. Paralelně se zajišťují vyjádření správců sítí k možnosti připojení na elektřinu, vodu a kanalizaci. Před dovezením mobilního domu na pozemek je nezbytné připravit základové konstrukce, obvykle formou betonových patek nebo pilot, na které bude dům usazen. Samotná doprava a instalace mobilního domu vyžaduje speciální techniku (nákladní automobil s návěsem, jeřáb) a řeší ji obvykle dodavatel v rámci komplexní dodávky.
 
-**Nařízení odstranění:**
-- Úřad může nařídit demontáž
-- Na náklady vlastníka
-- S exekuční výpovědí
+### Závěrečná fáze
 
-**Trestní odpovědnost:**
-- Při závažném porušení
-- Ohrožení veřejnosti
+Po fyzickém umístění mobilního domu následuje připojení na inženýrské sítě autorizovanými osobami (elektrikář, instalatér) s povinným provedením revizí a zkoušek. Všechny doklady včetně územního souhlasu, certifikátu shody, revizních zpráv a smluv o připojení je třeba archivovat pro případné kontroly stavebního úřadu. V případě trvalého bydlení je nezbytné požádat o přidělení čísla popisného a zápis do katastru nemovitostí, což je předpokladem pro získání trvalého bydliště a daňovou evidenci.
 
 ---
 
-## 🛠️ Praktický postup krok za krokem
+## Digitalizace stavebního řízení
 
-### Před koupí mobilního domu:
+Nový stavební zákon přináší rozsáhlou digitalizaci správních procesů prostřednictvím Portálu stavebníka (www.portal-stavebnika.cz) a Jednotného digitálního technického systému (JÚDTIS).
 
-1. ✅ **Ověřit územní plán** obce
-   - Online na webu obce
-   - Osobně na úřadě
+### Portál stavebníka
 
-2. ✅ **Konzultace se stavebním úřadem**
-   - Neformální dotaz
-   - Získat předběžné stanovisko
+Portál stavebníka umožňuje elektronické podání žádostí o územní souhlas, ohlášení stavby i stavební povolení včetně nahrání projektové dokumentace a dalších příloh. Uživatel si po registraci vytvoří účet, kde může sledovat stav svých žádostí, komunikovat se stavebním úřadem a přijímat rozhodnutí v digitální podobě. Pro právní závaznost elektronického podání je nutný uznávaný elektronický podpis nebo identifikace prostřednictvím bankovní identity. Digitální cesta výrazně zkracuje lhůty řízení a eliminuje nutnost osobních návštěv úřadu.
 
-3. ✅ **Zajistit pozemek**
-   - Koupě nebo nájem
-   - Smlouva o právu stavby
+### Automatizace procesů
 
-### Po výběru mobilního domu:
-
-4. ✅ **Podat žádost o územní souhlas**
-   - Online přes portál
-   - S projektovou dokumentací
-
-5. ✅ **Vyřídit vyjádření:**
-   - Elektřina (ČEZ, E.ON...)
-   - Voda (vodárna)
-   - Kanalizace (obecní)
-
-6. ✅ **Počkat na rozhodnutí**
-   - Cca 30-60 dní
-   - Sledovat online
-
-### Po vydání rozhodnutí:
-
-7. ✅ **Objednat mobilní dům**
-   - S certifikátem shody
-   - S projektovou dokumentací
-
-8. ✅ **Připravit základy**
-   - Betonové patky nebo pilot
-   - Podle projektu výrobce
-
-9. ✅ **Doprava a usazení**
-   - Speciální doprava
-   - Jeřáb nebo hydraulika
-
-10. ✅ **Připojení sítí**
-    - Elektrikář (revize)
-    - Instalatér (revize)
-    - Kolaudace přípojek
-
-### Po umístění:
-
-11. ✅ **Archivace dokumentů**
-    - Územní souhlas
-    - Certifikáty
-    - Revize
-
-12. ✅ **Pojištění**
-    - Nemovitosti
-    - Odpovědnosti
+Systém JÚDTIS zajišťuje automatickou koordinaci vyjádření dotčených orgánů, kontrolu úplnosti podání a propojení s katastrem nemovitostí a územně analytickými podklady. Cílem je zkrátit průměrnou dobu řízení z dosavadních 60-90 dnů na 30-45 dnů díky paralelnímu běhu jednotlivých úkonů a eliminaci papírové agendy. Stavební úřady mají přístup k centrální databázi, což umožňuje rychlejší ověřování údajů a předchází duplicitním žádostem o vyjádření.
 
 ---
 
-## 📞 Často kladené dotazy
+## Často kladené dotazy a jejich odpovědi
 
-### Q: Můžu mobilní dům umístit bez územního souhlasu?
-**A:** NE! I když nevyžaduje stavební povolení, územní souhlas je POVINNÝ.
+### Můžu umístit mobilní dům bez jakéhokoli povolení?
 
-### Q: Co když mám 60 m²?
-**A:** Překračujete limit 55 m² → potřebujete plné stavební povolení jako jednoduchá stavba.
+Ne, ani rekreační mobilní dům do 55 m² nelze umístit zcela bez správního úkonu. I když nepodléhá stavebnímu povolení ani ohlášení, je nezbytné získat územní souhlas potvrzující soulad s územním plánem. Bez tohoto souhlasu se jedná o nelegální stavbu podléhající sankci.
 
-### Q: Můžu mobilní dům umístit na zemědělskou půdu?
-**A:** Pouze pokud to připouští územní plán nebo získáte změnu využití pozemku.
+### Co se stane, když můj mobilní dům má 56 m²?
 
-### Q: Potřebuji trvalé bydliště v mobilním domě?
-**A:** Pokud má dům číslo popisné/evidenční. Bez něj lze jen přechodné hlášení.
+Překročení limitu 55 m² i o jediný metr krychlový způsobí, že se mobilní dům stává jednoduchou stavbou vyžadující ohlášení stavebnímu úřadu, předložení projektové dokumentace a dodržení lhůt stavebního řízení. Nelze tedy spoléhat na zjednodušený režim drobných staveb.
 
-### Q: Kolik stojí územní souhlas?
-**A:** Správní poplatek cca 1000 Kč + případně projekční práce 5000-15000 Kč.
+### Je možné získat trvalé bydliště v rekreačním mobilním domě?
+
+Trvalé bydliště lze získat pouze v mobilním domě, který je zapsán v katastru nemovitostí jako stavba s přiděleným číslem popisným nebo evidenčním. Rekreační mobilní dům obvykle tuto podmínku nesplňuje, protože neprochází stavebním řízením. V takovém případě je možné pouze přechodné hlášení pobytu.
+
+### Kolik stojí územní souhlas a jak dlouho trvá jeho vydání?
+
+Správní poplatek za územní souhlas činí 1 000 Kč. K tomu je třeba připočítat náklady na vypracování situačního výkresu, který může stát 3 000 až 8 000 Kč u geodeta nebo projektanta. Celková doba řízení od podání žádosti do vydání rozhodnutí je obvykle 30 až 45 dní, v komplikovaných případech s vyžádáním mnoha vyjádření může dosáhnout až 60 dnů.
+
+### Lze umístit mobilní dům na zemědělskou půdu?
+
+Umístění mobilního domu na zemědělské půdě je možné pouze tehdy, pokud to připouští územní plán obce. Většina zemědělské půdy je však vyhrazena výhradně pro zemědělskou výrobu, a změna funkčního využití vyžaduje složitou a dlouhodobou změnu územního plánu, která trvá 2 až 3 roky a stojí stovky tisíc korun. Pro individuální investory tedy není tento postup realistický.
 
 ---
 
-## 🔗 Užitečné odkazy
+## Užitečné odkazy a zdroje
 
-- [Zákon 283/2021 Sb. - plné znění](https://www.zakonyprolidi.cz/cs/2021-283)
+- [Zákon č. 283/2021 Sb. - plné znění](https://www.zakonyprolidi.cz/cs/2021-283)
 - [Portál stavebníka](https://www.portal-stavebnika.cz)
-- [Příloha 1 - Drobné stavby (PDF)](https://mmr.gov.cz/)
-- [Metodika MMR](https://mmr.gov.cz/cs/ministerstvo/stavebni-pravo/stanoviska-a-metodiky)
+- [Ministerstvo pro místní rozvoj - metodiky k novému stavebnímu zákonu](https://mmr.gov.cz/cs/ministerstvo/stavebni-pravo/pravo-a-legislativa/novy-stavebni-zakon)
+- [Příloha 1 - Drobné stavby (PDF)](https://mmr.gov.cz/getattachment/Ministerstvo/Stavebni-pravo/Pravo-a-legislativa/Novy-stavebni-zakon/Metodiky/Stavby-podle-noveho-stavebniho-zakona/Drobne-stavby-podle-zakona-c-283-2021-Sb/Dokumenty/Drobne-stavby-podle-zakona-c-283-2021-Sb/Metodika-Drobne-stavby_25_3_2025.pdf.aspx?lang=cs-CZ&ext=.pdf)
 
 ---
 
-**Zpracováno:** 20. října 2025
+**Zpracováno:** 27. října 2025
 **Autor:** Mobilheim Wiki
-**Zdroje:** Právní předpisy ČR, MMR, portál stavebníka
+**Zdroje:** Zákon č. 283/2021 Sb., Ministerstvo pro místní rozvoj ČR, oficiální metodiky MMR, odborné právní analýzy

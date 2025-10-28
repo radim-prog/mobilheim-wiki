@@ -1,523 +1,90 @@
 # Vytápění mobilních domů
 
-> **Kompletní průvodce** systémy vytápění pro mobilní domy
->
-> **Aktualizováno:** Říjen 2025
+> **Platnost:** 2024–2025
+> **Status:** Aktuální technologie
+> **Pro koho:** Majitelé mobilních domů, stavebníci, investoři
 
 ---
 
-## 🎯 Výběr vytápění - faktory
+## Úvod do problematiky vytápění mobilních domů
 
-### Co zohlednit při výběru:
+Výběr vhodného vytápěcího systému pro mobilní dům je zásadním rozhodnutím, které ovlivňuje nejen investiční náklady, ale především dlouhodobé provozní výdaje, uživatelský komfort a ekologickou stopu objektu. Na rozdíl od klasických rodinných domů mají mobilní domy specifické požadavky vyplývající z menší zastavěné plochy, odlišné konstrukce a někdy i z umístění v lokalitách bez dostupných inženýrských sítí. Správný výběr vytápění závisí na několika klíčových faktorech, které je nutné pečlivě zvážit před investicí.
 
-1. **Účel domu** - celoroční / rekreační
-2. **Izolace** - spotřeba tepla
-3. **Dostupnost energií** - plyn, elektřina
-4. **Investice** - pořizovací náklady
-5. **Provozní náklady** - cena energie
-6. **Ekologie** - emise CO₂
+Prvním faktorem je účel užívání mobilního domu. Pro celoroční trvalé bydlení je nezbytný spolehlivý a ekonomicky efektivní systém zajišťující komfortní teplotu během celé topné sezony, zatímco pro rekreační víkendové užívání může být postačující jednodušší a levnější řešení s možností rychlého náběhu na požadovanou teplotu. Druhým faktorem je kvalita tepelné izolace budovy, která přímo určuje potřebu tepla. Mobilní dům energetické třídy B s dobrou izolací vyžaduje přibližně 50–75 kWh/(m²·rok), tedy pro dům o ploše 50 m² zhruba 2 500–3 750 kWh ročně, zatímco dům třídy D s nedostatečnou izolací může spotřebovat 150–200 kWh/(m²·rok), tedy 7 500–10 000 kWh ročně.
+
+Třetím faktorem je dostupnost energetických médií na pozemku. V lokalitách s přípojkou elektřiny a plynu je možné využít nejefektivnější řešení jako tepelná čerpadla nebo plynové kondenzační kotle, zatímco v odlehlých lokalitách bez přípojek je nutné volit autonomní systémy jako elektrické topení napájené fotovoltaikou, krbová kamna na dřevo nebo zásobníkový propan. Čtvrtým faktorem jsou investiční náklady, které se u jednotlivých systémů liší od 40 000 Kč za plynový kotel až po 300 000 Kč za tepelné čerpadlo vzduch-voda s kompletní instalací. Pátým faktorem jsou provozní náklady, které mohou činit od 5 000 Kč ročně u tepelného čerpadla až po 30 000–50 000 Kč u přímotopného elektrického vytápění. Posledním faktorem je ekologický dopad, který zahrnuje emise CO₂ a spotřebu primární energie.
 
 ---
 
-## 🔥 Přehled systémů vytápění
+## Tepelná čerpadla
 
-| Systém | Investice | Provoz [Kč/rok] | Ekologie | Celoroční | Rekreace |
-|--------|-----------|----------------|----------|-----------|----------|
-| **Tepelné čerpadlo** | ⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ✅✅ | ✅ |
-| **Plynový kondenzační kotel** | ⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ | ✅✅ | ✅ |
-| **Elektrické topení (akumulační)** | ⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐ | ✅ | ✅✅ |
-| **Infrazářiče** | ⭐⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐ | ❌ | ✅✅ |
-| **Krbová kamna** | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⚠️ | ✅✅ |
-| **Podlahové topení (el.)** | ⭐⭐⭐ | ⭐⭐ | ⭐⭐ | ✅ | ✅ |
+Tepelné čerpadlo je zařízení využívající termodynamického principu pro přenos tepla z prostředí s nižší teplotou (zdroj tepla) do prostředí s vyšší teplotou (topný systém). Tento proces probíhá prostřednictvím kompresního chladicího cyklu, ve kterém chladivo postupně mění svůj skupenský stav mezi plynným a kapalným. Tepelné čerpadlo dokáže z 1 kWh elektrické energie získat 3–5 kWh tepelné energie, což je vyjádřeno topným faktorem COP (Coefficient of Performance) nebo jeho sezónní variantou SCOP (Seasonal Coefficient of Performance). Tato technologie představuje nejefektivnější způsob vytápění z hlediska provozních nákladů a ekologického dopadu.
 
-⭐⭐⭐⭐⭐ = nejlepší, ⭐ = nejhorší
+### Tepelné čerpadlo vzduch-voda
 
----
+Tepelné čerpadlo typu vzduch-voda odebírá teplo z venkovního vzduchu a předává ho otopné vodě v topném systému. Venkovní jednotka obsahuje výparník, ve kterém chladivo odebírá teplo z proudícího vzduchu a mění se z kapalného na plynné skupenství. Kompresor stlačuje plynné chladivo, čímž se jeho teplota zvyšuje na 60–75 °C. V kondenzátoru vnitřní jednotky chladivo předává teplo otopné vodě a kondenzuje zpět na kapalinu. Expanzní ventil snižuje tlak kapalného chladiva a cyklus se opakuje. Moderní tepelná čerpadla vzduch-voda pracují efektivně i při venkovních teplotách −15 až −20 °C, přičemž jejich topný faktor COP klesá s poklesem venkovní teploty z hodnot 4,5–5,0 při +7 °C na 2,0–2,5 při −15 °C.
 
-## ♨️ 1. Tepelné čerpadlo
+Pro mobilní dům o ploše 50 m² s potřebou tepla 3 500 kWh/rok je vhodné tepelné čerpadlo o výkonu 5–8 kW s průměrným sezónním topným faktorem SCOP kolem 4,0. Při tomto faktoru spotřebuje čerpadlo ročně 3 500 / 4,0 = 875 kWh elektřiny, což při ceně elektřiny 6 Kč/kWh představuje provozní náklady 5 250 Kč ročně. To je výrazně méně než u elektrického přímotopu (21 000 Kč) nebo plynového kotle (7 000–8 000 Kč). Pořizovací náklady tepelného čerpadla vzduch-voda včetně instalace se pohybují v rozmezí 250 000–350 000 Kč v závislosti na výkonu, značce a složitosti instalace. Dotace z programu Nová zelená úsporám mohou pokrýt 75 000–130 000 Kč, čímž se reálná investice sníží na 150 000–250 000 Kč. Návratnost investice oproti plynovému kotli činí přibližně 15–20 let, oproti elektrickému topení 8–12 let.
 
-### Princip funkce:
+Hlavní výhodou tepelných čerpadel vzduch-voda je vysoká energetická efektivita a nízké provozní náklady. Nevyžadují vrtné práce ani rozsáhlé zemní kolektory, což snižuje náklady na instalaci. Reverzní provoz umožňuje využití jako klimatizace v letních měsících. Nevýhodou je hlučnost venkovní jednotky, která produkuje 45–60 dB hluku, proto musí být umístěna minimálně 3 metry od sousedního pozemku. V mrazivých dnech dochází k pravidelným odmrazovacím cyklům, během kterých se dočasně zastaví vytápění. Tepelné čerpadlo vyžaduje třífázovou elektrickou přípojku 400 V a zásobník teplé užitkové vody o objemu 200–300 litrů. Optimální distribucí tepla je podlahové topení s nízkou výstupní teplotou 35–40 °C, při kterém tepelné čerpadlo dosahuje nejvyšší účinnosti.
 
-> Tepelné čerpadlo "čerpá" teplo z okolí (vzduch, půda, voda) a přenáší ho do domu
+### Tepelné čerpadlo země-voda
 
-**Efektivita:**
-- **COP** (Coefficient of Performance) = 3-5
-- 1 kWh elektřiny → 3-5 kWh tepla!
+Tepelné čerpadlo země-voda využívá jako zdroj tepla zemní kolektor uložený v hloubce 1,2–1,5 m pod povrchem, kde je teplota půdy stabilně v rozmezí 5–10 °C po celý rok. Zemní kolektor je tvořen polyetylenovým potrubím, kterým proudí nemrznoucí směs (glykol), jež odebírá teplo z půdy a dopravuje ho do výparníku tepelného čerpadla. Plocha zemního kolektoru musí být přibližně 2–3násobkem vytápěné plochy domu, tedy pro mobilní dům 50 m² je nutná plocha kolektoru 100–150 m². Díky stabil ní teplotě zdroje dosahuje tepelné čerpadlo země-voda vysokého sezónního topného faktoru SCOP 4,5–5,2 po celý rok, včetně mrazivých zimních dnů.
+
+Pořizovací náklady tepelného čerpadla země-voda se pohybují v rozmezí 280 000–400 000 Kč včetně zemního kolektoru, výkopových prací a instalace. To je přibližně o 80 000–150 000 Kč více než u typu vzduch-voda. Provozní náklady jsou díky vyššímu SCOP nižší, přibližně 4 500–5 000 Kč ročně, úspora oproti typu vzduch-voda však činí pouze 500–750 Kč ročně, což neospravedlňuje výrazně vyšší investici. Tepelné čerpadlo země-voda je tiché, neboť nemá venkovní jednotku s ventilátorem, a nevyžaduje odmrazovací cykly. Nevýhodou je nutnost rozsáhlé zahrady a zakázka výkopových prací, které narušují terén. Pro mobilní domy o ploše do 60 m² není tento systém ekonomicky výhodný a doporučuje se typ vzduch-voda.
+
+### Tepelné čerpadlo voda-voda
+
+Tepelné čerpadlo voda-voda využívá jako zdroj tepla podzemní vodu, která má celoročně stabilní teplotu 8–12 °C. Systém vyžaduje dvě studny: čerpací studnu pro odběr vody a vsakovací studnu pro vypouštění ochlazené vody zpět do podzemí. Díky vysoké teplotě zdroje dosahuje tento typ nejvyššího topného faktoru COP 5,0–6,0, což znamená nejnižší provozní náklady. Pořizovací náklady se pohybují v rozmezí 350 000–550 000 Kč včetně vrtných prací na obě studny, což je nejvíce ze všech typů tepelných čerpadel. Instalace vyžaduje povolení vodoprávního úřadu podle § 8 zákona č. 254/2001 Sb., o vodách, což prodlužuje přípravu projektu o 3–6 měsíců. Pro mobilní domy o ploše do 80 m² není tento systém doporučován z ekonomických důvodů.
 
 ---
 
-### Typy tepelných čerpadel:
+## Plynové kondenzační kotle
 
-#### A) Vzduch-voda (nejčastější pro mobilní domy)
+Plynový kondenzační kotel je vytápěcí zařízení spalující zemní plyn s využitím kondenzace vodní páry obsažené ve spalinách pro zvýšení účinnosti. Klasické plynové kotle odvádějí spaliny o teplotě 150–200 °C komínem, přičemž vodní pára obsažená ve spalinách odchází jako nevyužitelná ztráta. Kondenzační kotel naproti tomu ochlazuje spaliny na teplotu pod 57 °C, čímž dochází ke kondenzaci vodní páry a uvolnění skupenského tepla o hodnotě přibližně 11 % spalného tepla plynu. Díky tomu dosahuje kondenzační kotel účinnosti vztažené na spalné teplo 95–98 %, zatímco klasický kotel pouze 85–90 %.
 
-**Princip:**
-```
-Venkovní jednotka (jako klimatizace) → Kompresor → Vnitřní jednotka → Podlahové topení / radiátory
-```
+Kondenzační kotel se skládá z hořáku spalujícího zemní plyn, primárního výměníku ohřívajícího otopnou vodu na teplotu 50–80 °C a sekundárního kondenzačního výměníku, který dále ochlazuje spaliny a přenáší zbylé teplo do otopného systému. Kondenzát vznikající při ochlazování spalin je odváděn kanalizací a jeho pH hodnota je mírně kyselá (pH 3–5), proto musí být kanalizace odolná vůči kyselinám. Moderní kondenzační kotle jsou vybaveny modulující regulací výkonu, která přizpůsobuje spalování aktuální potřebě tepla a tím snižuje spotřebu plynu. Pro mobilní dům o ploše 50 m² s potřebou tepla 3 500 kWh/rok je vhodný závěsný kondenzační kotel o výkonu 12–18 kW.
 
-**Výhody:**
-- ✅ Nejlevnější TČ (100 000 - 200 000 Kč)
-- ✅ Jednoduchá instalace
-- ✅ Nevyžaduje vrty
-- ✅ Chlazení v létě (reverzní provoz)
+Pořizovací náklady kondenzačního kotle včetně instalace se pohybují v rozmezí 65 000–110 000 Kč v závislosti na výkonu a značce. Kotel sám stojí 35 000–60 000 Kč, instalace s napojením na topný systém a plyn 15 000–25 000 Kč a odvod spalin do komína nebo fasádou 15 000–25 000 Kč. Pokud není na pozemku dostupná plynová přípojka, náklady na její vybudování činí 50 000–150 000 Kč v závislosti na vzdálenosti od hlavního řadu. Provozní náklady při spotřebě 3 500 kWh tepla a účinnosti 97 % činí 3 500 / 0,97 = 3 608 kWh primární energie plynu, což odpovídá 361 m³ zemního plynu ročně. Při ceně plynu 2,0 Kč/kWh (20 Kč/m³) činí roční náklady přibližně 7 200 Kč, což je více než u tepelného čerpadla (5 250 Kč), ale výrazně méně než u elektrického topení (21 000 Kč).
 
-**Nevýhody:**
-- ❌ Nižší COP při mrazu (COP = 2-2,5 při -15°C)
-- ❌ Hlučnější (venkovní jednotka)
-- ❌ Odmrazování v zimě
-
-**Parametry:**
-- Výkon: 5-8 kW (postačí pro 50 m²)
-- SCOP: 3,5-4,5 (sezónní efektivita)
-- Hladina hluku: 45-60 dB
-
-**Výrobci:**
-- Mitsubishi Ecodan
-- Daikin Altherma
-- Vaillant aroTHERM
-- NIBE F2120
-
-**Cena:** 120 000 - 200 000 Kč (vč. instalace)
+Hlavní výhodou plynového kondenzačního kotle je nízká pořizovací cena, kompaktní rozměry umožňující instalaci na stěnu v malé technické místnosti a možnost kombinace vytápění s okamžitým ohřevem teplé užitkové vody bez nutnosti zásobníku. Kotel pracuje nezávisle na venkovní teplotě a poskytuje stabilní výkon i při teplotách −25 °C, na rozdíl od tepelných čerpadel vzduch-voda, jejichž výkon při nízkých teplotách klesá. Nevýhodou je nutnost dostupnosti plynové přípojky, která není v odlehlých lokalitách vždy zajištěna, vyšší provozní náklady oproti tepelným čerpadlům a produkce emisí CO₂ ve výši přibližně 0,20 kg CO₂/kWh, tedy 720 kg CO₂ ročně pro uvedený příklad. Kotel vyžaduje pravidelnou roční revizi nákladem 1 500–2 500 Kč.
 
 ---
 
-#### B) Země-voda (zemní kolektor)
+## Alternativní vytápěcí systémy
 
-**Princip:**
-```
-Kolektory v zemi (1,5 m hloubka) → Nemrznoucí směs → Kompresor → Podlahové topení
-```
+### Elektrické přímotopné topení
 
-**Výhody:**
-- ✅ Vysoký COP (4-5) i v zimě
-- ✅ Tichý provoz
-- ✅ Stabilní výkon
+Elektrické přímotopné topení zahrnuje konvektory, přímotopné panely a akumulační kamna, která přeměňují elektrickou energii přímo na teplo s účinností přeměny 100 %. Akumulační kamna nabíjí tepelnou hmotu během noci při nižší sazeb ě elektřiny a postupně ji uvolňují během dne. Pořizovací náklady jsou nízké, 20 000–40 000 Kč pro kompletní vytápění mobilního domu, avšak provozní náklady jsou extrémně vysoké. Pro mobilní dům s potřebou 3 500 kWh ročně činí roční náklady při ceně elektřiny 6 Kč/kWh celkem 21 000 Kč, což je čtyřnásobek oproti tepelnému čerpadlu. Tento systém je vhodný pouze pro rekreační objekty s občasným užíváním nebo jako doplňkový zdroj tepla.
 
-**Nevýhody:**
-- ❌ Nutná velká zahrada (2-3× větší plocha než dům)
-- ❌ Drahé (200 000 - 350 000 Kč)
-- ❌ Nutné kopání
+### Krbová kamna na dřevo a pelety
 
-**Parametry:**
-- Plocha kolektoru: 100-150 m² (pro 50 m² dům)
-- SCOP: 4,5-5,2
+Krbová kamna na dřevo představují autonomní způsob vytápění s využitím obnovitelného zdroje energie. Výhřevnost suchého buku činí přibližně 4,2 kWh/kg, tedy 1 prostorový metr (prm) suchého štípaného dřeva o hmotnosti 450 kg poskytne 1 890 kWh tepla. Pro pokrytí potřeby 3 500 kWh ročně je nutné přibližně 1,85 prm dřeva, což při ceně 1 300 Kč/prm představuje náklady 2 400 Kč ročně na palivo. K tomu je však nutné přičíst náklady na komín 120 000–180 000 Kč, pravidelné čištění komína 1 500 Kč/rok a pracnost spojenou s nákupem, skladováním a přikládáním dřeva. Kamna na pelety nabízejí automatický provoz s podavačem pelet ze zásobníku, avšak pelety jsou dražší než dřevo (6 Kč/kg) a systém vyžaduje elektrické napájení.
 
-**Cena:** 200 000 - 350 000 Kč
+### Podlahové topení
+
+Podlahové topení je systém distribuce tepla prostřednictvím trubek uložených v podlaze, kterými proudí otopná voda o teplotě 30–40 °C. Teplo vyzařované z podlahy rovnoměrně prohřívá celý prostor od spodu nahoru, čímž vytváří příjemný komfort s teplotou u podlahy 22–24 °C a u stropu 20–21 °C, na rozdíl od radiátorů, kde rozdíl teplot činí 3–5 °C. Nízká teplota otopné vody umožňuje dosažení maximální účinnosti tepelných čerpadel a kondenzačních kotlů. Nevýhodou je pomalá reakce na změnu požadované teploty a nutnost instalace během výstavby. Náklady na instalaci vodního podlahového topení činí 600–1 200 Kč/m², tedy pro mobilní dům 50 m² celkem 30 000–60 000 Kč.
 
 ---
 
-#### C) Voda-voda (studniové)
+## Ekonomické srovnání vytápěcích systémů
 
-**Princip:**
-```
-Čerpací studna → TČ → Vsakovací studna
-```
+Pro mobilní dům o ploše 50 m² energetické třídy B s potřebou tepla 3 500 kWh ročně lze provést ekonomické srovnání hlavních vytápěcích systémů. Tepelné čerpadlo vzduch-voda s SCOP 4,0 spotřebuje 875 kWh elektřiny ročně, což při ceně 6 Kč/kWh představuje provozní náklady 5 250 Kč. Pořizovací náklady včetně instalace činí 250 000–300 000 Kč po odečtení dotace. Plynový kondenzační kotel spotřebuje 361 m³ zemního plynu ročně, což při ceně 20 Kč/m³ představuje náklady 7 200 Kč. Pořizovací náklady činí 65 000–110 000 Kč včetně instalace. Kamna na pelety spotřebují přibližně 1 000 kg pelet ročně, což při ceně 6 Kč/kg představuje náklady 6 000 Kč plus 120 000–180 000 Kč na komín. Elektrické přímotopné topení spotřebuje 3 500 kWh ročně, což při ceně 6 Kč/kWh představuje náklady 21 000 Kč při pořizovacích nákladech pouze 30 000–50 000 Kč.
 
-**Výhody:**
-- ✅ Nejvyšší COP (5-6)
-- ✅ Stabilní (voda má stálou teplotu 8-12°C)
-
-**Nevýhody:**
-- ❌ Nutné vrty (2× studna)
-- ❌ Povolení vodoprávního úřadu
-- ❌ Nejdražší (300 000 - 500 000 Kč)
-
-**Cena:** 300 000 - 500 000 Kč
-
-**Doporučení pro mobilní domy:** ❌ Příliš drahé, nevyplatí se
+Z dlouhodobého hlediska je tepelné čerpadlo ekonomicky nejvýhodnější variantou pro celoroční bydlení, neboť úspora 15 000 Kč ročně oproti elektrickému topení umožňuje návratnost dodatečné investice za 12–15 let. Plynový kondenzační kotel je druhou nejlevnější variantou s nižší pořizovací cenou, ale vyššími provozními náklady. Pro rekreační mobilní domy s občasným užíváním mohou být vhodnější jednodušší systémy jako infrazářiče nebo krbová kamna, kde vysoké provozní náklady jsou kompenzovány nízkou celkovou spotřebou energie během několika víkendů ročně.
 
 ---
 
-### Provozní náklady TČ vzduch-voda:
+## Související články a právní předpisy
 
-**Mobilní dům 50 m², třída B:**
-
-```
-Potřeba tepla: 3500 kWh/rok
-SCOP: 4,0
-Spotřeba el.: 3500 / 4,0 = 875 kWh/rok
-
-Cena elektřiny: 6 Kč/kWh
-Roční náklady: 875 × 6 = 5 250 Kč ✅
-```
-
-**Srovnání:**
-- Elektrokotel: 3500 × 6 = **21 000 Kč**
-- Plyn: 3500 × 2 = **7 000 Kč**
-- TČ: **5 250 Kč** ← NEJLEVNĚJŠÍ!
-
----
-
-### Požadavky na instalaci TČ:
-
-**Venkovní jednotka:**
-- Min. 3 metry od souseda (hluk)
-- Odvod kondenzátu
-- Elektřina 400 V (třífázová)
-
-**Vnitřní jednotka:**
-- Technická místnost (bojler 200-300 l)
-- Přípojky topení
-
-**Rozvod tepla:**
-- Podlahové topení (ideální, nízká teplota 35°C)
-- Velké radiátory (možné)
-
----
-
-## 🔥 2. Plynový kondenzační kotel
-
-### Princip funkce:
-
-> Spaluje zemní plyn, kondenzuje vodní páru ze spalin → vyšší účinnost (až 98%)
-
-**Typy:**
-- Závěsný (do 24 kW) - nejčastější
-- Stacionární (> 24 kW)
-
----
-
-### Výhody plynového kotle:
-
-- ✅ Levné pořízení (40 000 - 80 000 Kč)
-- ✅ Kompaktní (závěsný na stěně)
-- ✅ Vysoká účinnost (95-98%)
-- ✅ Okamžitý ohřev
-- ✅ Nezávislost na elektřině (záložní zdroj)
-
-### Nevýhody:
-
-- ❌ Nutné připojení na plyn
-- ❌ Vyšší provozní náklady než TČ
-- ❌ Emise CO₂ (ekologie)
-- ❌ Revize 1× ročně
-- ❌ Komín / odvod spalin
-
----
-
-### Provozní náklady plynového kotle:
-
-**Mobilní dům 50 m², třída B:**
-
-```
-Potřeba tepla: 3500 kWh/rok
-Účinnost kotle: 96%
-Spotřeba plynu: 3500 / 0,96 / 10 = 365 m³/rok
-
-Cena plynu: 20 Kč/m³
-Roční náklady: 365 × 20 = 7 300 Kč
-```
-
----
-
-### Instalace:
-
-**Potřebujete:**
-- Přípojku plynu (pokud není, náklady 50 000 - 150 000 Kč)
-- Komín / koaxiální odvod (15 000 - 40 000 Kč)
-- Expanzní nádobu
-- Oběhová čerpadla
-
-**Výrobci:**
-- Vaillant ecoTEC
-- Buderus Logamax
-- Protherm Gepard
-- Viessmann Vitodens
-
-**Cena kotle:** 40 000 - 80 000 Kč (vč. instalace)
-
----
-
-## ⚡ 3. Elektrické topení
-
-### A) Přímotopné konvektory
-
-**Princip:** Elektrická topná spirála → ohřev vzduchu
-
-**Výhody:**
-- ✅ Nejlevnější pořízení (500-2000 Kč/ks)
-- ✅ Jednoduchá instalace
-- ✅ Rychlý ohřev
-
-**Nevýhody:**
-- ❌ Nejvyšší provozní náklady
-- ❌ Vysušují vzduch
-- ❌ Nerovnoměrné vytápění
-
-**Provozní náklady:**
-```
-Spotřeba: 3500 kWh/rok × 6 Kč = 21 000 Kč/rok ❌
-```
-
-**Doporučení:** Pouze pro víkendovou rekreaci, ne pro celoroční bydlení
-
----
-
-### B) Akumulační kamna
-
-**Princip:** Nabíjí se v noci (levný proud) → vydávají teplo přes den
-
-**Výhody:**
-- ✅ Využití nízkého tarifu (3 Kč/kWh v noci)
-- ✅ Akumulace tepla
-- ✅ Robustní
-
-**Nevýhody:**
-- ❌ Těžká (150-200 kg/ks)
-- ❌ Pomalá reakce na změnu teploty
-- ❌ Potřeba trojfázové elektřiny
-
-**Provozní náklady:**
-```
-Spotřeba: 3500 kWh/rok
-Noční tarif: 3 Kč/kWh
-Roční náklady: 3500 × 3 = 10 500 Kč
-```
-
-**Cena:** 8 000 - 15 000 Kč/ks
-
----
-
-### C) Infrazářiče
-
-**Princip:** Infračervené záření → ohřívají předměty, ne vzduch
-
-**Výhody:**
-- ✅ Příjemné teplo (jako slunce)
-- ✅ Rychlý ohřev
-- ✅ Levné (2000-8000 Kč/ks)
-- ✅ Tiché
-- ✅ Nevysušují vzduch
-
-**Nevýhody:**
-- ❌ Vysoká spotřeba (jako přímotopy)
-- ❌ Bodový ohřev (ne celý prostor)
-
-**Použití:** Ideální pro koupelnu, rekreaci, doplňkové topení
-
-**Cena:** 2 000 - 8 000 Kč/ks
-
----
-
-## 🪵 4. Krbová kamna na dřevo/pelety
-
-### A) Kamna na dřevo
-
-**Princip:** Spalování polen → výměník → rozvod teplého vzduchu
-
-**Výhody:**
-- ✅ Nezávislost na elektřině a plynu
-- ✅ Levné palivo (dřevo 1000-1500 Kč/prms)
-- ✅ Příjemná atmosféra
-- ✅ Možnost vaření
-
-**Nevýhody:**
-- ❌ Nutná obsluha (přikládání)
-- ❌ Sklad dřeva (suché, 2 roky)
-- ❌ Komín (150 000 - 200 000 Kč)
-- ❌ Nerovnoměrné vytápění
-- ❌ Prašnost
-
-**Typy:**
-- Litinová kamna: 15 000 - 40 000 Kč
-- Kamna s výměníkem (teplovodní): 40 000 - 100 000 Kč
-- Krb s rozvody: 80 000 - 200 000 Kč
-
----
-
-### B) Kamna na pelety
-
-**Princip:** Automatické podávání pelet → spalování → ohřev
-
-**Výhody:**
-- ✅ Automatický provoz (zásobník na 1-3 dny)
-- ✅ Vyšší účinnost než dřevo (85-95%)
-- ✅ Čistší spalování
-- ✅ Možnost programování
-
-**Nevýhody:**
-- ❌ Nutná elektřina (ventilátor, podavač)
-- ❌ Drahé pořízení (30 000 - 100 000 Kč)
-- ❌ Hlučnější (ventilátor)
-- ❌ Pelety dražší než dřevo (5-7 Kč/kg)
-
-**Provozní náklady:**
-```
-Spotřeba pelet: 1 tuna/rok (pro 50 m²)
-Cena pelet: 6 Kč/kg
-Roční náklady: 1000 × 6 = 6 000 Kč
-```
-
-**Cena:** 30 000 - 100 000 Kč
-
----
-
-## 🌡️ 5. Podlahové topení
-
-### Princip:
-
-> Trubky v podlaze → teplá voda (30-40°C) → rovnoměrné vytápění zdola nahoru
-
-### Výhody:
-
-- ✅ Nejkomfortnější (teplé nohy)
-- ✅ Rovnoměrné vytápění
-- ✅ Nevysušuje vzduch
-- ✅ Nízká teplota → úspora s TČ
-- ✅ Neviditelné (žádné radiátory)
-
-### Nevýhody:
-
-- ❌ Pomalá reakce (setrvačnost)
-- ❌ Nutné budovat dopředu (v konstrukci podlahy)
-- ❌ Dražší instalace (+30 000 - 60 000 Kč)
-
----
-
-### Typy:
-
-#### A) Vodní podlahové topení:
-
-**Konstrukce:**
-```
-┌─ Vinyl / dlažba
-├─ Potěr s trubkami 16 mm
-├─ Separační fólie
-├─ EPS (izolace)
-└─ Nosná konstrukce
-```
-
-**Rozteč trubek:** 10-15 cm
-
-**Cena:** 600-1200 Kč/m² (vč. instalace)
-
----
-
-#### B) Elektrické podlahové topení:
-
-**Konstrukce:**
-```
-┌─ Dlažba
-├─ Lepidlo
-├─ Topná rohož (150-180 W/m²)
-├─ Separační fólie
-└─ Podklad
-```
-
-**Použití:**
-- Koupelny (doplňkové topení)
-- Malé plochy
-
-**Provozní náklady:**
-- Drahé (elektřina 6 Kč/kWh)
-
-**Cena:** 800-1500 Kč/m² (vč. instalace)
-
----
-
-## 📊 Porovnání provozních nákladů
-
-### Mobilní dům 50 m², celoroční bydlení, třída B:
-
-**Potřeba tepla:** 3500 kWh/rok
-
-| Systém | Spotřeba | Cena energie | Roční náklady |
-|--------|----------|--------------|---------------|
-| **Tepelné čerpadlo** | 875 kWh el. | 6 Kč/kWh | **5 250 Kč** ✅ |
-| **Pelety** | 1000 kg | 6 Kč/kg | **6 000 Kč** ✅ |
-| **Plynový kotel** | 365 m³ | 20 Kč/m³ | **7 300 Kč** ✅ |
-| **Dřevo** | 7 prms | 1300 Kč/prms | **9 100 Kč** |
-| **Akumulační kamna (noční proud)** | 3500 kWh | 3 Kč/kWh | **10 500 Kč** |
-| **Elektrokotel** | 3500 kWh | 6 Kč/kWh | **21 000 Kč** ❌ |
-
-**Závěr:** Tepelné čerpadlo = NEJNIŽŠÍ náklady!
-
----
-
-## 💡 Doporučení podle typu domu
-
-### Mobilní dům **celoroční bydlení** (50 m²):
-
-**Primární topení:**
-1. **Tepelné čerpadlo vzduch-voda** ⭐⭐⭐⭐⭐
-   - Nejnižší provoz
-   - Ekologie
-   - + Podlahové topení
-
-2. **Plynový kondenzační kotel** ⭐⭐⭐⭐
-   - Pokud je plyn dostupný
-   - Levné pořízení
-
-**Doplňkové topení:**
-- Krbová kamna (atmosféra + záloha)
-
-**Rozpočet:** 150 000 - 250 000 Kč (vč. rozvodů)
-
----
-
-### Mobilní dům **víkendová rekreace**:
-
-**Primární topení:**
-1. **Infrazářiče** ⭐⭐⭐⭐⭐
-   - Rychlý ohřev
-   - Levné pořízení
-   - Bez údržby
-
-2. **Krbová kamna** ⭐⭐⭐⭐
-   - Atmosféra
-   - Nezávislost
-
-**Rozpočet:** 30 000 - 80 000 Kč
-
----
-
-### Mobilní dům **off-grid** (bez sítí):
-
-**Primární topení:**
-1. **Krbová kamna na dřevo** ⭐⭐⭐⭐⭐
-   - Nezávislost
-   - + Vaření
-
-**Doplňkové:**
-- Solární kolektory (ohřev TUV)
-
-**Rozpočet:** 50 000 - 120 000 Kč
-
----
-
-## ✅ Checklist výběru vytápění
-
-### Před výběrem:
-
-- [ ] Určit účel (celoroční / rekreace)
-- [ ] Zjistit dostupnost plynu
-- [ ] Zjistit elektrický příkon (jednofázový / trojfázový)
-- [ ] Spočítat potřebu tepla (PENB)
-- [ ] Stanovit rozpočet
-
-### Při instalaci:
-
-- [ ] Smlouva s odbornou firmou
-- [ ] Revize (plyn, elektro)
-- [ ] Zaškolení obsluhy
-- [ ] Záruční list
-
-### Po instalaci:
-
-- [ ] Pravidelná údržba (dle návodu)
-- [ ] Roční revize (plyn, komín)
-- [ ] Kontrola spotřeby
-
----
-
-## 🔗 Související články
-
-- [Energetická náročnost (PENB)](./energeticka-narocnost.md)
+- [Energetická náročnost mobilních domů](./energeticka-narocnost.md)
 - [Fotovoltaika a off-grid systémy](./fotovoltaika-offgrid.md)
-- [Tepelná izolace](../izolace/tepelna-izolace.md)
+- [Tepelná izolace mobilních domů](../izolace/tepelna-izolace.md)
+- [Elektrická přípojka](../../pripojeni-siti/elektrina.md)
 
 ---
 
-**Zpracováno:** 20. října 2025
+**Zpracováno:** 27. října 2025
 **Autor:** Mobilheim Wiki
-**Zdroje:** Výrobci topných systémů, TZB-info, praktické zkušenosti
+**Zdroje:** Výrobci tepelných čerpadel (Mitsubishi, Daikin, Vaillant, NIBE), výrobci plynových kotlů (Vaillant, Buderus, Protherm), TZB-info, Energetická agentura ČR, praktické projekty
