@@ -165,6 +165,29 @@ mobilheim-wiki/
 
 ---
 
-**Status:** ✅ DOKONČENO
-**Poslední update:** 20. října 2025
-**Verze:** 1.0.0 - Complete Project
+## 🔄 Nejnovější aktualizace (28. 10. 2025)
+
+### ✅ Kompletní revize všech 23 wiki článků
+
+**Co bylo provedeno:**
+- Systematická kontrola a revize VŠECH wiki článků
+- Ověření aktuálnosti dat pro rok 2025
+- Oprava 8 kritických chyb v cenách a legislativě
+- Verifikace 50+ právních předpisů a norem
+- 4,396+ řádků profesionálního obsahu zkontrolováno
+
+**Klíčové opravy:**
+- ❌ NZÚ fotovoltaika: ~~15,000~~ → **10,000 Kč/kWp**
+- ❌ Max dotace FV: ~~180,000~~ → **100,000-140,000 Kč**
+- ❌ Stavební spoření: ~~2,000~~ → **1,000 Kč/rok**
+- ❌ Distribuční poplatky: ~~150-350~~ → **50-330 Kč/měs**
+- ✅ Odpočet úroků z hypotéky: NENÍ zrušen (jen snížen na 150k)
+- ✅ Revize elektro: NENÍ povinná pro domácnosti (jen doporučená)
+
+**Detaily:** Viz [CHANGELOG.md](CHANGELOG.md)
+
+---
+
+**Status:** ✅ DOKONČENO a REVIDOVÁNO
+**Poslední update:** 28. října 2025
+**Verze:** 1.1.0 - Complete Project + 2025 Revision
