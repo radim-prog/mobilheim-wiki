@@ -1,523 +1,179 @@
 # Dotace a podpory na mobilní domy
 
-> **Kompletní průvodce** dostupnými dotacemi a podporami v roce 2025
->
-> **Aktualizováno:** Říjen 2025
+Přímé dotace na nákup mobilního domu nejsou dostupné, ale majitelé mobilních domů mohou získat finanční podporu na ekologická a úsporná opatření – fotovoltaiku, tepelná čerpadla, zateplení nebo čistírny odpadních vod. Podmínkou pro většinu dotací je, že mobilní dům musí být zkolaudován a zapsán v katastru nemovitostí jako stavba. Dostupné jsou také zvýhodněné úvěry pro mladé rodiny a státní podpora stavebního spoření.
 
 ---
 
-## 🎯 Úvod
+## Nová zelená úsporám (NZÚ)
 
-### Lze získat dotaci na mobilní dům?
-
-**Odpověď:** **ANO, ale ne přímo na nákup domu!**
-
-**Dotace lze získat na:**
-- ✅ **Fotovoltaiku** (solární panely)
-- ✅ **Tepelné čerpadlo**
-- ✅ **Zateplení** (dodatečné)
-- ✅ **Čistírnu odpadních vod (ČOV)**
-- ✅ **Zelené střechy**
-- ❌ **Nákup mobilního domu samotného** - NE
-
----
-
-## 🌱 1. Nová zelená úsporám (NZÚ)
-
-### Co je NZÚ?
-
-> **Nová zelená úsporám** = Program Státního fondu životního prostředí pro podporu úsporných a ekologických opatření
-
-**Správce:** Státní fond životního prostředí ČR (SFŽP)
+Program Státního fondu životního prostředí ČR (SFŽP) podporuje úsporná a ekologická opatření v rodinných domech. Od února 2025 fungují dva podprogramy: **NZÚ Light** pro dílčí renovace a **Oprav dům po babičce** pro komplexní rekonstrukce. O dotace mohou žádat pouze fyzické osoby, mobilní dům musí být zkolaudován a zapsán v katastru nemovitostí.
 
 **Web:** [novazelenausporam.cz](https://www.novazelenausporam.cz)
 
+### Fotovoltaika s bateriemi
+
+Dotace na fotovoltaiku s bateriemi činí **10 000 Kč za každý 1 kWp výkonu a každou 1 kWh kapacity baterie**. Základní maximální dotace je 100 000 Kč, při zapojení do chytrého řízení a sdílení elektřiny se zvyšuje na 140 000 Kč.
+
+Minimální velikost fotovoltaické elektrárny je 2 kWp a musí mít bateriové úložiště s kapacitou odpovídající výkonu v poměru 1:1 (tedy ke každému kWp nejméně jedna kWh baterie). Komponenty musí být certifikované a instalace provedena autorizovanou firmou.
+
+**Příjem žádostí** byl otevřen 20. února 2025.
+
+**Kombinační bonusy:**
+- Za kombinaci fotovoltaiky a výměny zdroje vytápění až 100 000 Kč
+- Za kombinaci fotovoltaiky se zateplením 30 000 Kč
+- Za hospodářsky nebo sociálně ohrožené území 5 % (až 7 000 Kč)
+- Za dobíjecí stanici pro elektromobil 10 000 Kč
+
+### Tepelná čerpadla
+
+Dotace na tepelné čerpadlo se pohybuje podle typu v rozmezí 35 až 130 tisíc Kč. Pro běžné domácnosti je dotace na tepelné čerpadlo vzduch-voda pro vytápění 75 000 Kč, pokud slouží i pro ohřev teplé užitkové vody, zvyšuje se na 90 000 Kč. Nízkopříjmové domácnosti mohou získat až 150 000 Kč.
+
+Tepelné čerpadlo musí mít SCOP ≥ 3,5 (vzduch-voda) nebo ≥ 4,0 (ostatní typy), být certifikované a instalované autorizovanou firmou s revizí.
+
+**Příjem žádostí** byl otevřen 20. února 2025.
+
+### Komplexní zateplení
+
+Program podporuje zateplení obvodových stěn, střechy a výměnu oken a dveří. Výše dotace závisí na rozsahu opatření a může dosáhnout až několika set tisíc korun. Podmínkou je, že mobilní dům je starší 5 let, dosáhne se minimální úspory energie 30 % a projekt zpracuje energetický specialista.
+
+Pro mobilní domy je toto opatření méně relevantní, protože bývají od výroby dobře zateplené. Může se uplatnit pro dodatečné zateplení starších objektů.
+
+### Jak podat žádost
+
+1. Registrace na portálu [novazelenausporam.cz](https://www.novazelenausporam.cz)
+2. Vyplnění žádosti **před realizací** – přiložení dokladů (občanský průkaz, list vlastnictví z katastru, projektová dokumentace, technické listy, certifikáty, cenová nabídka, energetický posudek PENB)
+3. Podání žádosti online
+4. Schválení (30–90 dní)
+5. Realizace opatření (lhůta 12 měsíců od schválení)
+6. Vyúčtování (faktury, revizní zprávy, fotodokumentace, PENB po realizaci) do 6 měsíců po dokončení
+7. Výplata dotace bankovním převodem (30–60 dní po vyúčtování)
+
+Od roku 2025 je finanční podpora vyplácena zálohově ještě před realizací.
+
 ---
 
-### Kdo může žádat?
+## Dotace na domovní čistírny odpadních vod (ČOV)
 
-**Oprávnění žadatelé:**
-- ✅ **Fyzické osoby** (občané)
-- ✅ Vlastníci nebo spoluvlastníci nemovitosti
-- ✅ **Mobilní dům musí být zapsán v katastru** jako stavba!
+Dotace na domovní čistírny odpadních vod poskytuje Státní fond životního prostředí ČR prostřednictvím obcí. Výzva č. 6/2025 podporuje systémy individuálních čistíren odpadních vod s kapacitou do 50 EO (ekvivalentních obyvatel) pro budovy určené k trvalému rodinnému bydlení v oblastech, kde připojení k veřejné kanalizaci není technicky nebo ekonomicky proveditelné.
 
-**Důležité:**
-- Mobilní dům bez kolaudace = **NE** (není v katastru)
-- Mobilní dům s kolaudací = **ANO** ✅
-
----
-
-### Oblast A: Fotovoltaika s baterií
-
-**Co se podporuje:**
-- Fotovoltaický systém (solární panely)
-- Bateriové úložiště
+**Kdo může žádat:** Obce podle zákona č. 128/2000 Sb., o obcích (obecní zřízení)
 
 **Výše dotace:**
-```
-Dotace = 15 000 Kč/kWp + 15 000 Kč/kWh baterie
+- 150 000 Kč pro čistírny s kapacitou 1–15 EO
+- 300 000 Kč pro čistírny s kapacitou 16–50 EO
 
-Max. dotace: 180 000 Kč
-```
+**Období podávání žádostí:** 14. března 2025 až 6. ledna 2027 (nebo do vyčerpání alokace)
 
-**Příklad:**
-```
-FV systém: 5 kWp
-Baterie: 10 kWh
+**Celková alokace:** 300 milionů Kč
 
-Dotace = (5 × 15 000) + (10 × 15 000) = 75 000 + 150 000 = 225 000 Kč
-→ Omezeno max. částkou: 180 000 Kč ✅
-```
+**Podmínky:** Základní podmínkou je, že navrhovaný systém čistíren napojí alespoň 30 procent ekvivalentních obyvatel s trvalým pobytem v řešené oblasti. Projekty musí být dokončeny nejpozději do konce roku 2029.
 
-**Podmínky:**
-- ✅ Min. výkon FV: 2 kWp
-- ✅ Baterie min. 2 kWh
-- ✅ Certifikované komponenty (seznam na webu NZÚ)
-- ✅ Instalace autorizovanou firmou
-
-**Výše spoluúčasti:**
-- Musíte doplatit min. 20% z celkových nákladů
-
-**Podání žádosti:** Průběžně (dokud jsou peníze)
+Občané nemohou žádat přímo – musí jednat prostřednictvím obce, která vyhlásí vlastní dotační program. Je vhodné se informovat na obecním úřadě.
 
 ---
 
-### Oblast B: Tepelné čerpadlo
+## Program EFEKT
 
-**Co se podporuje:**
-- Tepelné čerpadlo vzduch-voda
-- Tepelné čerpadlo země-voda
-- Tepelné čerpadlo voda-voda
-
-**Výše dotace:**
-
-| Typ TČ | Dotace |
-|--------|--------|
-| **Vzduch-voda** | 75 000 - 120 000 Kč |
-| **Země-voda / voda-voda** | 120 000 - 180 000 Kč |
-
-**Příklad:**
-```
-Tepelné čerpadlo vzduch-voda (6 kW)
-Celkové náklady: 180 000 Kč
-Dotace: 100 000 Kč ✅
-Váš podíl: 80 000 Kč
-```
-
-**Podmínky:**
-- ✅ SCOP ≥ 3,5 (vzduch-voda) nebo ≥ 4,0 (ostatní)
-- ✅ Certifikované TČ (seznam na webu)
-- ✅ Instalace autorizovanou firmou
-- ✅ Revize
-
-**Podání žádosti:** Průběžně
+Program SFŽP pro municipality (obce, kraje) na podporu úsporných opatření. Občané nemohou žádat přímo, ale obce a kraje mohou vyhlásit vlastní dotační programy pro své obyvatele. Příklady: Praha – „Zelená úsporám Prahy", Brno – „Kotlíkové dotace Brno". Je vhodné se informovat na obecním nebo krajském úřadě.
 
 ---
 
-### Oblast C: Komplexní zateplení
+## Podpora bydlení pro mladé rodiny (SFRB)
 
-**Co se podporuje:**
-- Zateplení obvodových stěn
-- Zateplení střechy
-- Výměna oken a dveří
-
-**Výše dotace:**
-- Do **500 000 Kč** (dle rozsahu)
-
-**Podmínky:**
-- ✅ Mobilní dům starší 5 let
-- ✅ Dosažení min. úspory energie 30%
-- ✅ Projektová dokumentace (energetický specialista)
-
-**Použití pro mobilní domy:**
-- ⚠️ Složitější (mobilní domy už bývají zateplené)
-- Možné pro dodatečné zateplení
-
----
-
-### Jak podat žádost o NZÚ?
-
-**Postup:**
-
-#### Krok 1: Registrace na portálu
-
-- [novazelenausporam.cz](https://www.novazelenausporam.cz)
-- Vytvoření účtu (email + heslo)
-
----
-
-#### Krok 2: Vyplnění žádosti
-
-**Dokumenty:**
-
-1. **Identifikace žadatele:**
-   - Občanský průkaz
-   - List vlastnictví (mobilní dům v katastru!)
-
-2. **Technická dokumentace:**
-   - Projektová dokumentace (FV/TČ)
-   - Technické listy zařízení
-   - Certifikáty výrobků
-
-3. **Kalkulace:**
-   - Cenová nabídka dodavatele
-   - Rozpočet (položkový)
-
-4. **Energetický posudek:**
-   - PENB (Průkaz energetické náročnosti) - před a po
-
----
-
-#### Krok 3: Podání žádosti
-
-- Online přes portál
-- **DŮLEŽITÉ:** Žádost před realizací!
-
----
-
-#### Krok 4: Schválení
-
-**Lhůta:** 30-90 dní
-
-**Výsledek:**
-- ✅ Schváleno → Rozhodnutí o poskytnutí dotace
-- ❌ Zamítnuto → Důvod zamítnutí
-
----
-
-#### Krok 5: Realizace
-
-**Po schválení:**
-- Realizace opatření (instalace FV, TČ)
-- Revize
-- Fakturace
-
-**Lhůta realizace:** 12 měsíců od schválení
-
----
-
-#### Krok 6: Vyúčtování
-
-**Dokumenty:**
-
-- Faktury (uhrazené!)
-- Revizní zprávy
-- Fotodokumentation
-- PENB po realizaci
-
-**Vyúčtování:**
-- Online přes portál
-- Lhůta: 6 měsíců po dokončení
-
----
-
-#### Krok 7: Výplata dotace
-
-**Forma:**
-- Bankovní převod
-
-**Lhůta:** 30-60 dní po vyúčtování
-
----
-
-## 💡 2. Program EFEKT (místní samosprávy)
-
-### Co je EFEKT?
-
-> Program SFŽP pro **municipality** (obce, kraje) na podporu úsporných opatření
-
-**Kdo může žádat:**
-- ❌ NE přímo občané
-- ✅ Obce, města, kraje
-
-**Jak to funguje:**
-- Obec/město vyhlásí vlastní dotační program
-- Občané žádají obec
-
-**Příklad:**
-- Praha: Program "Zelená úsporám Prahy"
-- Brno: "Kotlíkové dotace Brno"
-
-**Zjistit:** Zeptat se na obecním úřadě!
-
----
-
-## 🏡 3. Úvěr od rodin (podpora hypotéky)
-
-### Co je Úvěr od rodin?
-
-> Státem podporovaná hypotéka pro rodiny s dětmi
-
-**Správce:** Státní fond rozvoje bydlení (SFRB)
+Státní fond rozvoje bydlení (SFRB) nabízí zvýhodněné úvěry pro mladé rodiny a jednotlivce do 36 let.
 
 **Web:** [sfrb.cz](https://www.sfrb.cz)
 
----
-
-### Kdo může žádat?
+### Program pro mladé
 
 **Podmínky:**
-- ✅ Rodina s **min. 1 dítětem** (do 21 let)
-- ✅ **První vlastní bydlení** (bezúhonnost)
-- ✅ Bydlení v ČR
+- Manželé nebo registrovaní partneři, kdy alespoň jeden nedosáhl ke dni podání žádosti věk 36 let
+- Osoba žijící samostatně, která nedosáhla 36 let a trvale pečuje o dítě mladší 15 let
+- Žadatelé nesmí vlastnit nebo spoluvlastnit nemovitost určenou k bydlení nebo být nájemci družstevního bytu s členským podílem
+
+**Účel:** Koupě, výstavba nebo modernizace domu nebo bytu
+
+**Omezení:** Plocha bytu nesmí být větší než 75 m² bez balkónu nebo lodžie, podlahová plocha rodinného domu nesmí přesáhnout 140 m²
+
+**Splatnost:** U výstavby je maximální splatnost 20 let
+
+### Úvěr na modernizaci bydlení
+
+Pro rodiče do 36 let (mohou být bezdětní nebo samoživitelé s nezletilými) je dostupný úvěr 150 000 Kč na rekonstrukci či modernizaci bydlení.
+
+**Úroková sazba:** 2 % ročně po celou dobu splácení
+
+**Splatnost:** Do 10 let
+
+### Program 600
+
+Rodiče do 36 let se starající o jedno dítě do 6 let mohou využít Program 600 s úvěrem až 600 000 Kč.
+
+**Úroková sazba:** 1,45 až 2,45 % ročně
+
+**Splatnost:** Do 15 let
+
+**Použití pro mobilní domy:** Mobilní dům musí být kolaudován, zapsán v katastru jako stavba a sloužit k trvalému bydlení.
 
 ---
 
-### Výše podpory:
+## Státní podpora stavebního spoření
 
-**Úroková zvýhodnění:**
-- Fixace 3 roky: max. **3% p.a.**
-- Fixace 5 let: max. **3,5% p.a.**
+Při vkladu na stavební spoření poskytuje stát podporu ve výši 5 % z ročně uspořené částky, maximálně však z 20 000 Kč, tedy nejvýše 1 000 Kč ročně. Pro získání maximální podpory je nutné ročně uložit alespoň 20 000 Kč (přibližně 1 700 Kč měsíčně).
 
-**Maximální výše úvěru:**
-- 1 dítě: **3 000 000 Kč**
-- 2 děti: **3 500 000 Kč**
-- 3+ děti: **4 000 000 Kč**
+Podmínkou je vázací doba minimálně 6 let – při předčasném výběru o státní podporu přicházíte. Státní podpora byla od roku 2024 snížena z původních 2 000 Kč na 1 000 Kč ročně.
 
-**Příklad:**
-```
-Rodina se 2 dětmi
-Hypotéka: 3 000 000 Kč
-Úrok: 3,5% p.a. (místo běžných 5,5%)
-Splatnost: 25 let
-
-Úspora na úrocích: ~ 600 000 Kč! ✅
-```
+Výhodou je automatické vyřízení podpory – stavební spořitelna ji zařídí sama.
 
 ---
 
-### Použití pro mobilní domy:
+## Odpočet úroků z hypotéky v daňovém přiznání
 
-**Podmínky:**
-- ✅ Mobilní dům musí být **kolaudován**
-- ✅ Zapsán v katastru jako stavba
-- ✅ Slouží k trvalému bydlení
+Zaplacené úroky z hypotéky lze odečíst od základu daně z příjmů fyzických osob, což snižuje daňovou povinnost. Odpočet není zrušen, ale od roku 2021 byl snížen limit pro nově uzavřené hypotéky.
 
-**Banky poskytující Úvěr od rodin:**
-- ČSOB
-- Česká spořitelna
-- Komerční banka
-- Raiffeisenbank
-- Moneta Money Bank
+**Platné limity:**
+- Pro hypotéky uzavřené do 31. 12. 2020: max. 300 000 Kč ročně (daňová úspora až 45 000 Kč)
+- Pro hypotéky uzavřené od 1. 1. 2021: max. 150 000 Kč ročně (daňová úspora až 22 500 Kč)
+
+**Podmínka:** Daňový poplatník musí platit vyšší daň z příjmů než je základní sleva na poplatníka (30 840 Kč pro rok 2024).
+
+Odpočet lze uplatnit v daňovém přiznání za příslušný rok.
 
 ---
 
-## 🌳 4. Dotace na zelenou střechu
+## Souhrn dostupných dotací a podpor
 
-### Kdo poskytuje?
-
-**Různé municipality:**
-- Praha (Městská část)
-- Brno
-- Ostrava
-
-**Výše dotace:**
-- 500-1500 Kč/m² zelené střechy
-- Max. 50 000 - 100 000 Kč
-
-**Podmínky:**
-- Min. plocha: 10-20 m²
-- Vrstva substrátu min. 8 cm
-- Vegetace (sedum, tráva)
-
-**Příklad (Praha):**
-```
-Zelená střecha 30 m²
-Dotace: 30 × 1000 = 30 000 Kč
-Celkové náklady: 60 000 Kč
-Váš podíl: 30 000 Kč
-```
-
-**Zjistit:** Na webu obce/města
+| Program | Co se podporuje | Výše dotace/podpory | Jak žádat |
+|---------|-----------------|---------------------|-----------|
+| **NZÚ Light – Fotovoltaika** | FV + baterie | 100 000–140 000 Kč | [novazelenausporam.cz](https://www.novazelenausporam.cz) |
+| **NZÚ Light – Tepelné čerpadlo** | TČ vzduch-voda | 75 000–150 000 Kč | [novazelenausporam.cz](https://www.novazelenausporam.cz) |
+| **ČOV – Výzva 6/2025** | Domovní čistírna OV | 150 000 nebo 300 000 Kč | Prostřednictvím obce |
+| **SFRB – Program pro mladé** | Hypotéka (do 36 let) | Zvýhodněný úrok 1,45–2,45 % | [sfrb.cz](https://www.sfrb.cz) |
+| **SFRB – Úvěr na modernizaci** | Rekonstrukce (do 36 let) | 150 000 Kč, úrok 2 % | [sfrb.cz](https://www.sfrb.cz) |
+| **Stavební spoření** | Státní podpora | 1 000 Kč/rok | Stavební spořitelna |
+| **Odpočet úroků z hypotéky** | Daňová úspora | Až 22 500 Kč/rok | Daňové přiznání |
 
 ---
 
-## 💧 5. Dotace na ČOV (čističku odpadních vod)
+## Časté chyby při žádání o dotace
 
-### Kdo poskytuje?
+**Realizace před podáním žádosti:** Žádost musí být podána před zahájením prací. Pokud začnete s instalací fotovoltaiky nebo tepelného čerpadla dříve, dotace nebude schválena.
 
-**Obce, kraje, SFŽP**
+**Mobilní dům není v katastru:** Program NZÚ vyžaduje, aby nemovitost byla zapsána v katastru nemovitostí jako stavba. Mobilní dům bez kolaudace (na kolečkách, bez trvalého základu) na dotaci nedosáhne.
 
-**Výše dotace:**
-- 20 000 - 80 000 Kč (dle programu)
-
-**Podmínky:**
-- ČOV pro rodinný dům
-- Certifikovaná ČOV (ČSN 75 7221)
-- Instalace autorizovanou firmou
-
-**Příklad (Středočeský kraj):**
-```
-Domovní ČOV 5 EO
-Celkové náklady: 120 000 Kč
-Dotace: 50 000 Kč ✅
-Váš podíl: 70 000 Kč
-```
-
-**Zjistit:** Na krajském úřadě
+**Nekvalitní nebo necertifikovaný dodavatel:** Dodavatel instalace musí být autorizovaný a zařízení certifikované podle seznamu na webu NZÚ. Ověřte si před podpisem smlouvy, že dodavatel splňuje požadavky programu.
 
 ---
 
-## 🪪 6. Sleva na dani (odpočet úroků z hypotéky)
+## Zdroje
 
-### Co lze odečíst?
-
-**Úroky z hypotéky:**
-- Max. **150 000 Kč ročně** (do roku 2021)
-- **Pozor:** Od roku 2021 **zrušeno** pro nové hypotéky!
-
-**Platí pouze pro hypotéky uzavřené do 31.12.2020**
+- **Nová zelená úsporám:** [novazelenausporam.cz](https://www.novazelenausporam.cz), [Ministerstvo životního prostředí](https://mzp.gov.cz/)
+- **Dotace na ČOV:** [SFŽP – Výzva 6/2025](https://www.narodniprogramzp.cz/), [Ministerstvo životního prostředí](https://mzp.gov.cz/)
+- **Státní fond rozvoje bydlení:** [sfrb.cz](https://www.sfrb.cz)
+- **Stavební spoření:** [Stavebky.cz](https://www.stavebky.cz/), [Moneyspot.cz](https://www.moneyspot.cz/)
+- **Odpočet úroků z hypotéky:** [Finanční správa ČR](https://financnisprava.gov.cz/), [Banky.cz](https://www.banky.cz/)
 
 ---
 
-### Stavební spoření - státní podpora
-
-**Výše podpory:**
-- **2 000 Kč/rok** (při vkladu min. 20 000 Kč/rok)
-
-**Podmínky:**
-- Vklad: 20 000 - 50 000 Kč/rok
-- Podpora: 10% z vkladu (max. 2000 Kč)
-
-**Příklad:**
-```
-Roční vklad: 25 000 Kč
-Státní podpora: 25 000 × 0,1 = 2 500 Kč
-→ Omezeno max.: 2 000 Kč ✅
-```
-
-**Získání:**
-- Automaticky (stavební spořitelna vyřídí)
-
----
-
-## 📊 Souhrn dostupných dotací
-
-### Pro mobilní domy (kolaudované, v katastru):
-
-| Program | Na co | Výše dotace | Jak žádat |
-|---------|-------|-------------|-----------|
-| **NZÚ - Fotovoltaika** | FV + baterie | 180 000 Kč | [novazelenausporam.cz](https://www.novazelenausporam.cz) |
-| **NZÚ - Tepelné čerpadlo** | TČ vzduch-voda | 100 000 Kč | [novazelenausporam.cz](https://www.novazelenausporam.cz) |
-| **Úvěr od rodin** | Hypotéka (rodiny s dětmi) | Úrok 3-3,5% | Banky |
-| **Zelená střecha** | Vegetační střecha | 30 000-100 000 Kč | Obec/město |
-| **ČOV** | Čistička OV | 20 000-80 000 Kč | Kraj |
-| **Stavební spoření** | Státní podpora | 2 000 Kč/rok | Stavební spořitelna |
-
----
-
-## 💰 Příklad celkové podpory
-
-### Mobilní dům 50 m², celoroční bydlení, rodina se 2 dětmi:
-
-**Investice:**
-```
-Mobilní dům: 2 500 000 Kč
-Pozemek: 1 000 000 Kč
-Fotovoltaika 5 kWp + baterie 10 kWh: 250 000 Kč
-Tepelné čerpadlo 6 kW: 180 000 Kč
-ČOV 5 EO: 120 000 Kč
-CELKEM: 4 050 000 Kč
-```
-
-**Dotace:**
-```
-NZÚ - Fotovoltaika: 180 000 Kč ✅
-NZÚ - Tepelné čerpadlo: 100 000 Kč ✅
-ČOV (krajská dotace): 50 000 Kč ✅
-CELKEM dotací: 330 000 Kč
-```
-
-**Úvěr od rodin (hypotéka):**
-```
-Hypotéka: 3 000 000 Kč
-Úrok: 3,5% (místo 5,5%)
-Úspora na úrocích: ~ 600 000 Kč
-```
-
-**Celková podpora: 330 000 + 600 000 = 930 000 Kč!** 🎉
-
----
-
-## ✅ Checklist pro získání dotací
-
-### Před žádostí:
-
-- [ ] Zjistit, zda mobilní dům bude v katastru (kolaudace nutná!)
-- [ ] Vybrat vhodný program (NZÚ, Úvěr od rodin)
-- [ ] Spočítat celkové náklady
-- [ ] Připravit dokumentaci (výpis z katastru, PENB)
-
-### Při žádosti:
-
-- [ ] Registrace na portálu dotace
-- [ ] Vyplnění žádosti (PŘED realizací!)
-- [ ] Nahrání dokumentů
-- [ ] Podání žádosti
-
-### Po schválení:
-
-- [ ] Realizace opatření (do 12 měsíců)
-- [ ] Revize
-- [ ] Vyúčtování dotace (faktury, fotodokumentace)
-- [ ] Čekání na výplatu (30-60 dní)
-
----
-
-## ⚠️ Časté chyby
-
-### Chyba 1: Realizace před podáním žádosti
-
-**Problém:** Žádost musí být PŘED zahájením prací!
-
-**Řešení:** Vždy nejdříve žádost, pak realizace.
-
----
-
-### Chyba 2: Mobilní dům bez kolaudace
-
-**Problém:** NZÚ vyžaduje nemovitost v katastru.
-
-**Řešení:** Kolaudovat mobilní dům před žádostí!
-
----
-
-### Chyba 3: Nekvalitní dodavatel
-
-**Problém:** Dodavatel není autorizovaný → dotace nemusí být schválena.
-
-**Řešení:** Ověřit, že dodavatel je na seznamu NZÚ!
-
----
-
-## 🔗 Související články
-
-- [Hypotéky a úvěry](./hypoteky-a-uvery.md)
-- [Fotovoltaika a off-grid](../technicke-specifikace/energetika/fotovoltaika-offgrid.md)
-- [Vytápění mobilních domů](../technicke-specifikace/energetika/vytapeni.md)
-- [Energetická náročnost](../technicke-specifikace/energetika/energeticka-narocnost.md)
-
----
-
-## 📞 Kontakty
-
-**Státní fond životního prostředí (SFŽP):**
-- Web: [sfzp.cz](https://www.sfzp.cz)
-- Tel: 267 994 300
-
-**Nová zelená úsporám:**
-- Web: [novazelenausporam.cz](https://www.novazelenausporam.cz)
-- Tel: 800 260 500 (bezplatná linka)
-
-**Státní fond rozvoje bydlení:**
-- Web: [sfrb.cz](https://www.sfrb.cz)
-- Tel: 222 922 790
-
-**Krajské úřady:**
-- [Seznam krajských úřadů](https://www.mvcr.cz/clanek/krajske-urady.aspx)
-
----
-
-**Zpracováno:** 20. října 2025
+**Zpracováno:** Říjen 2025
 **Autor:** Mobilheim Wiki
-**Zdroje:** SFŽP, SFRB, dotační programy, aktuální podmínky 2025
