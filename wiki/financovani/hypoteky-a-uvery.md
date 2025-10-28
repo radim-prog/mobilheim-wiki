@@ -1,587 +1,240 @@
 # Hypotéky a úvěry na mobilní dům
 
-> **Kompletní průvodce** financováním mobilního domu - hypotéky, úvěry, leasing
->
-> **Aktualizováno:** Říjen 2025
+Financování mobilního domu závisí na typu konstrukce, vlastnictví pozemku a právním postavení domu (zda je zkolaudován jako stavba). Hypotéka je nejlevnější formou financování, ale vyžaduje splnění specifických podmínek. Alternativou jsou spotřebitelské úvěry, úvěry ze stavebního spoření nebo leasing – každá varianta má své výhody a nevýhody.
 
 ---
 
-## 🎯 Úvod
+## Typy financování mobilního domu
 
-### Lze na mobilní dům hypotéku?
+### Hypotéka
 
-**Odpověď:** **ANO, ale...**
-
-Záleží na:
-1. **Typu mobilního domu** (na pozemku vs. na kolech)
-2. **Pozemku** (vlastnictví vs. nájem)
-3. **Legalizaci** (územní rozhodnutí, kolaudace)
-4. **Bance** (každá má jiné podmínky)
-
----
-
-## 🏦 Typy financování
-
-### 1. Hypotéka (nejlevnější úrok)
-
-**Úroková sazba:** 4-6% p.a. (2025)
+**Úroková sazba:** Průměrná úroková sazba hypoték v České republice v roce 2025 se pohybuje kolem 4,6 %, nejnižší nabídky začínají od 3,99 %. Konkrétní sazba závisí na výši vlastního vkladu (LTV), délce fixace, bonitě žadatele a dalších podmínkách banky.
 
 **Výhody:**
-- ✅ Nejnižší úrok
-- ✅ Dlouhá splatnost (15-30 let)
-- ✅ Možnost státní podpory (úvěr od rodin)
+- Nejnižší úrok ze všech typů úvěrů
+- Dlouhá splatnost (15 až 30 let)
+- Možnost státní podpory pro mladé rodiny (SFRB)
 
 **Nevýhody:**
-- ❌ Nutné vlastnictví pozemku
-- ❌ Složitější schválení
-- ❌ Nutná kolaudace (často)
+- Vyžaduje vlastnictví pozemku nebo právo stavby
+- Složitější schválení než u spotřebitelského úvěru
+- Často nutná kolaudace mobilního domu jako stavby
 
----
+### Spotřebitelský úvěr
 
-### 2. Spotřebitelský úvěr
-
-**Úroková sazba:** 8-15% p.a.
+**Úroková sazba:** Pohybuje se v rozmezí 5 až 18 % ročně podle konkrétního poskytovatele, výše úvěru a bonity žadatele.
 
 **Výhody:**
-- ✅ Jednodušší schválení
-- ✅ Rychlejší vyřízení (týdny)
-- ✅ Bez nutnosti pozemku
+- Jednodušší schválení než u hypotéky
+- Rychlejší vyřízení (týdny)
+- Nevyžaduje zástavu nemovitosti
 
 **Nevýhody:**
-- ❌ Vyšší úrok
-- ❌ Kratší splatnost (5-10 let)
-- ❌ Vyšší splátka
+- Vyšší úroková sazba než u hypotéky
+- Kratší splatnost (5 až 10 let)
+- Vyšší měsíční splátka
 
----
+### Úvěr ze stavebního spoření
 
-### 3. Úvěr ze stavebního spoření
-
-**Úroková sazba:** 3-5% p.a.
+**Úroková sazba:** 3 až 5 % ročně
 
 **Výhody:**
-- ✅ Nízký úrok
-- ✅ Státní příspěvek (2000 Kč/rok)
+- Nízký úrok
+- Státní podpora stavebního spoření (1 000 Kč ročně)
+- Bez zástavy do určité výše
 
 **Nevýhody:**
-- ❌ Nutné spoření dopředu (min. 2 roky)
-- ❌ Omezená výše úvěru
+- Nutné spoření dopředu (2 až 6 let)
+- Omezená výše úvěru
 
----
+### Leasing
 
-### 4. Leasing
+**Úroková sazba:** 10 až 18 % ročně
 
 **Výhody:**
-- ✅ Snadné schválení
-- ✅ Rychlé (dny)
+- Nejjednodušší schválení
+- Velmi rychlé vyřízení (dny)
+- Mobilní dům máte k dispozici okamžitě
 
 **Nevýhody:**
-- ❌ Nejdražší (úrok 10-18%)
-- ❌ Vlastníte až po splacení
+- Nejdražší forma financování
+- Vlastníte mobilní dům až po úplném splacení
+- Omezení pro úpravy domu během trvání leasingu
 
 ---
 
-## 🏠 Hypotéka na mobilní dům
+## Hypotéka na mobilní dům
 
-### Podmínky pro hypotéku:
+### Podmínky pro získání hypotéky
 
-#### 1. Pozemek:
+**Pozemek:**
 
-**MUSÍTE mít:**
-- ✅ **Vlastnictví pozemku** (ideální)
-- ⚠️ **Právo stavby** (30+ let, možné)
-- ❌ **Nájem pozemku** (většinou ne)
+Mobilní dům musí být umístěn na pozemku, ke kterému máte vlastnické právo nebo dlouhodobé právo stavby (minimálně 30 let). Nájem pozemku obvykle nestačí – pozemek slouží jako zástava hypotéky. Pokud nemáte vlastní pozemek, můžete použít americkou hypotéku, kdy jako zástavu použijete jinou nemovitost (například byt nebo rodinný dům).
 
-**Důležité:**
-- Pozemek slouží jako zástava hypotéky!
+**Právní postavení mobilního domu:**
 
----
+Mobilní dům lze financovat hypotékou v těchto případech:
 
-#### 2. Legalizace mobilního domu:
+- **Kolaudovaný mobilní dům:** Je zkolaudován jako stavba, má přidělené číslo popisné nebo evidenční a je zapsán v katastru nemovitostí. Většina bank tuto variantu akceptuje.
+- **Mobilní dům bez kolaudace:** Od roku 2019 Hypoteční banka rozšířila nabídku hypotéky i na mobilní domy bez přiděleného popisného nebo evidenčního čísla, pokud jsou trvale spojeny se zemí (betonové patky, základy). Jiné banky tuto možnost obvykle nenabízejí.
 
-**Co banky vyžadují:**
+Mobilní dům nesmí být na kolečkách – musí být alespoň na betonových patkách nebo základech.
 
-**Varianta A - Mobilní dům jako výrobek (nejčastější):**
-- ✅ Územní rozhodnutí/souhlas
-- ✅ Certifikát výrobku
-- ⚠️ Většina bank: **NE** (není nemovitost)
+### Postup získání hypotéky
 
-**Varianta B - Mobilní dům s kolaudací:**
-- ✅ Územní rozhodnutí
-- ✅ **Kolaudační rozhodnutí** (číslo popisné)
-- ✅ **Zápis do katastru nemovitostí**
-- ✅ Většina bank: **ANO** ✅
+1. **Zajištění pozemku:** Ověřte, zda máte vlastnictví pozemku nebo dlouhodobé právo stavby.
+2. **Kolaudace mobilního domu (pokud je nutná):** Získejte územní rozhodnutí, ohlaste dokončení stavby, absolvujte kolaudaci, získejte číslo popisné nebo evidenční a zapište stavbu do katastru nemovitostí. Náklady: 10 000 až 30 000 Kč, lhůta: 2 až 4 měsíce.
+3. **Příprava dokumentů:** Občanský průkaz, potvrzení o příjmu (3 měsíce), výpis z účtu (3 měsíce), list vlastnictví pozemku, kolaudační rozhodnutí (pokud existuje), výpis z katastru, znalecký posudek.
+4. **Podání žádosti:** Vyplnění žádosti o hypotéku u vybrané banky.
+5. **Schválení:** Lhůta 2 až 6 týdnů. Banka hodnotí bonitu žadatele (příjem minimálně 1,5× splátka, stabilita zaměstnání alespoň 1 rok, čistý registr dlužníků) a hodnotu nemovitosti podle znaleckého posudku.
 
-**Klíč k hypotéce:**
-> Mobilní dům musí být **zapsán v katastru nemovitostí** jako stavba!
+**LTV (Loan to Value):** Banky obvykle financují maximálně 80 až 90 % hodnoty nemovitosti podle znaleckého posudku.
 
----
+### Banky poskytující hypotéky na mobilní domy
 
-#### 3. Postup získání hypotéky:
+**Hypoteční banka:** Od roku 2019 poskytuje hypotéky na mobilní domy i bez přiděleného popisného nebo evidenčního čísla. Stačí, aby byl mobilní dům trvale spojen se zemí (betonové patky).
 
-**Krok 1:** Kolaudovat mobilní dům
+**ČSOB:** Poskytuje hypotéky na mobilní domy, pokud jsou zkolaudovány jako stavba a zapsány v katastru nemovitostí.
 
-**Proč?**
-- Bez kolaudace = výrobek (movitá věc)
-- S kolaudací = stavba (nemovitost)
+**Česká spořitelna:** Poskytuje hypotéky na mobilní domy, pokud jsou zkolaudovány jako stavba.
 
-**Jak:**
-1. Územní rozhodnutí (máte)
-2. Ohlásit dokončení stavby
-3. Kolaudace (kontrola stavby úřadem)
-4. Číslo popisné od obce
-5. **Zápis do katastru** ✅
+**Raiffeisenbank:** Poskytuje hypotéky na mobilní domy individuálně podle konkrétního případu, obvykle vyžaduje kolaudaci a zápis v katastru.
 
-**Cena:** 10 000 - 30 000 Kč (projektant + poplatky)
+**Moneta Money Bank:** Poskytuje hypotéky na mobilní domy individuálně podle konkrétního případu.
 
-**Lhůta:** 2-4 měsíce
+Podmínky se u jednotlivých bank liší. Doporučuje se oslovit více bank nebo využít služeb hypotečního poradce.
 
 ---
 
-**Krok 2:** Požádat o hypotéku
+## Spotřebitelský úvěr
 
-**Dokumenty:**
+### Kdy použít spotřebitelský úvěr
 
-1. **K osobě:**
-   - Občanský průkaz
-   - Potvrzení o příjmu (3 měsíce)
-   - Výpis z účtu (3 měsíce)
+Spotřebitelský úvěr je vhodný, pokud nemáte pozemek ve vlastnictví, nemáte kolaudaci mobilního domu nebo chcete rychlé financování bez nutnosti zástavy nemovitosti.
 
-2. **K nemovitosti:**
-   - List vlastnictví pozemku
-   - Kolaudační rozhodnutí
-   - Výpis z katastru (mobilní dům zapsán)
-   - Znalecký posudek (cena nemovitosti)
+**Výhody:**
+- Bez zástavy nemovitosti
+- Rychlé schválení (1 až 2 týdny)
+- Jednodušší podmínky než u hypotéky
+- Lze využít i na pronajatém pozemku
 
-3. **K úvěru:**
-   - Žádost o hypotéku
-   - Předpokládaná výše úvěru
-   - Doba splatnosti
+**Nevýhody:**
+- Vyšší úroková sazba (5 až 18 % ročně)
+- Kratší splatnost (maximálně 10 let)
+- Vyšší měsíční splátka
 
-**Lhůta vyřízení:** 2-6 týdnů
+### Poskytovatelé spotřebitelských úvěrů
 
----
+**Air Bank:** Nabízí spotřebitelské úvěry s bonusovou úrokovou sazbou od 4,4 % do 16,9 % a základní sazbou od 5,4 % do 17,9 %. Maximální výše úvěru: 2 000 000 Kč, splatnost: 2 až 10 let.
 
-**Krok 3:** Schválení hypotéky
+**Equa Bank:** Úroková sazba a podmínky se stanovují individuálně podle bonity klienta. Maximální výše úvěru: 2 000 000 Kč, splatnost: 2 až 8 let.
 
-**Co banky hodnotí:**
+**Cetelem (nebankovní poskytovatel):** Úroková sazba obvykle vyšší než u bank (9 až 16 % ročně). Maximální výše úvěru: 1 500 000 Kč, splatnost: 2 až 10 let.
 
-**Bonita žadatele:**
-- Příjem (minimálně 1,5× splátka)
-- Stabilita zaměstnání (min. 1 rok v práci)
-- Registr dlužníků (nesmíte mít exekuce!)
-
-**Hodnota nemovitosti:**
-- Znalecký posudek
-- LTV (Loan to Value) = max. 80-90%
-
-**Příklad:**
-```
-Mobilní dům + pozemek: 3 000 000 Kč (znalecký posudek)
-LTV 80%: 3 000 000 × 0,8 = 2 400 000 Kč (max. úvěr)
-```
+Další poskytovatelé: ČSOB, Komerční banka, Moneta Money Bank, Home Credit.
 
 ---
 
-### Banky poskytující hypotéku na mobilní domy:
+## Úvěr ze stavebního spoření
 
-#### ✅ ČSOB
+### Princip
 
-**Podmínky:**
-- Mobilní dům zapsán v katastru
-- Kolaudace
-- Vlastnictví pozemku
+Stavební spoření funguje ve dvou fázích: nejprve spoříte 2 až 6 let (minimálně 40 % cílové částky) a získáváte státní podporu, poté můžete čerpat zvýhodněný úvěr.
 
-**Úrok:** 4,5-6% p.a.
+**Výhody:**
+- Nízká úroková sazba (3 až 5 % ročně)
+- Státní podpora stavebního spoření (1 000 Kč ročně při ročním vkladu minimálně 20 000 Kč)
+- Bez zástavy do určité výše
 
-**Kontakt:** [csob.cz](https://www.csob.cz)
+**Nevýhody:**
+- Nutné spoření dopředu (2 až 6 let)
+- Omezená výše úvěru
 
----
+Státní podpora byla od roku 2024 snížena z původních 2 000 Kč na 1 000 Kč ročně. Podmínkou pro získání státní podpory je vázací doba minimálně 6 let – při předčasném výběru o podporu přicházíte.
 
-#### ✅ Raiffeisenbank
+### Stavební spořitelny
 
-**Podmínky:**
-- Mobilní dům = stavba (kolaudace)
-- Zapsáno v katastru
+**Modrá pyramida:** Úroková sazba úvěru 3,5 až 5 %, státní podpora 1 000 Kč ročně při vkladu 20 000 Kč ročně.
 
-**Úrok:** 4,8-6,2% p.a.
+**Raiffeisen stavební spořitelna:** Úroková sazba úvěru 3,8 až 5,2 %.
 
-**Kontakt:** [rb.cz](https://www.rb.cz)
-
----
-
-#### ✅ Moneta Money Bank
-
-**Podmínky:**
-- Individuální posouzení
-- Kolaudace nutná
-
-**Úrok:** 5-6,5% p.a.
-
-**Kontakt:** [moneta.cz](https://www.moneta.cz)
+**ČMSS (Česká spořitelna Moneta stavební spořitelna):** Úroková sazba úvěru 4 až 5,5 %.
 
 ---
 
-#### ⚠️ Česká spořitelna, Komerční banka
+## Leasing na mobilní dům
 
-**Problém:**
-- Obvykle **neposkytují** hypotéku na mobilní domy
-- I když jsou v katastru
+Leasing funguje tak, že leasingová společnost vlastní mobilní dům a vy platíte měsíční splátku (nájem). Po splacení získáváte vlastnictví.
 
-**Řešení:**
-- Zkusit spotřebitelský úvěr
+**Výhody:**
+- Nejjednodušší schválení ze všech variant financování
+- Velmi rychlé vyřízení (dny)
+- Možnost bez vlastního vkladu
+- Mobilní dům máte k dispozici okamžitě
 
----
+**Nevýhody:**
+- Nejdražší forma financování (úroková sazba 10 až 18 % ročně)
+- Vlastníte mobilní dům až po úplném splacení
+- Omezení pro úpravy domu během trvání leasingu
 
-### Příklad hypotéky:
+### Leasingové společnosti
 
-**Parametry:**
-```
-Cena mobilního domu: 2 500 000 Kč
-Pozemek: 1 000 000 Kč
-CELKEM: 3 500 000 Kč
+**ESSOX:** Úroková sazba 10 až 15 % ročně, akontace 10 až 30 %, splatnost 3 až 7 let.
 
-Vlastní vklad: 1 000 000 Kč (28%)
-Hypotéka: 2 500 000 Kč (72%)
-Úrok: 5,5% p.a.
-Splatnost: 25 let
-```
-
-**Splátka:**
-```
-Měsíční splátka: 15 300 Kč
-Celkem zaplatíte: 4 590 000 Kč
-z toho úroky: 2 090 000 Kč
-```
-
-**Kalkulátor hypotéky:** [hypoteka-kalkulator.cz](https://www.hypoteka-kalkulator.cz)
+**Credium:** Úroková sazba 12 až 16 % ročně, akontace 20 až 40 %, splatnost 3 až 5 let.
 
 ---
 
-## 💳 Spotřebitelský úvěr
+## Porovnání typů financování
 
-### Kdy použít?
+Pro mobilní dům v hodnotě 2 000 000 Kč:
 
-**Situace:**
-- ❌ Nemáte pozemek ve vlastnictví
-- ❌ Nemáte kolaudaci
-- ✅ Chcete rychlé financování
+| Typ financování | Úroková sazba | Měsíční splátka | Splatnost | Celkem zaplatíte | Podmínky |
+|----------------|--------------|----------------|-----------|------------------|----------|
+| **Hypotéka** | 4,6 % | Přibližně 11 500 Kč | 25 let | Přibližně 3 450 000 Kč | Kolaudace + vlastnictví pozemku |
+| **Spotřebitelský úvěr** | 10 % | Přibližně 26 400 Kč | 8 let | Přibližně 2 540 000 Kč | Bez zástavy nemovitosti |
+| **Stavební spoření** | 4 % | Fáze spoření + úvěr | 14 let | Přibližně 2 220 000 Kč | Spoření dopředu 2–6 let |
+| **Leasing** | 12 % | Přibližně 31 100 Kč | 5 let | Přibližně 2 466 000 Kč | Nejrychlejší schválení |
 
----
-
-### Výhody:
-
-- ✅ **Bez zástavy** (nevyžaduje nemovitost)
-- ✅ Rychlé schválení (1-2 týdny)
-- ✅ Jednodušší podmínky
-- ✅ Lze i na pronajatém pozemku
-
-### Nevýhody:
-
-- ❌ Vyšší úrok (8-15%)
-- ❌ Kratší splatnost (max. 10 let)
-- ❌ Vyšší měsíční splátka
-
----
-
-### Banky a nebankovní instituce:
-
-#### ✅ Air Bank
-
-**Úrok:** 7,9-12,9% p.a.
-**Max. výše:** 2 000 000 Kč
-**Splatnost:** 2-10 let
-
-**Kontakt:** [airbank.cz](https://www.airbank.cz)
-
----
-
-#### ✅ Equa Bank
-
-**Úrok:** 8,5-13,5% p.a.
-**Max. výše:** 2 000 000 Kč
-**Splatnost:** 2-8 let
-
-**Kontakt:** [equabank.cz](https://www.equabank.cz)
-
----
-
-#### ✅ Cetelem (nebankovní)
-
-**Úrok:** 9,9-15,9% p.a.
-**Max. výše:** 1 500 000 Kč
-**Splatnost:** 2-10 let
-
-**Kontakt:** [cetelem.cz](https://www.cetelem.cz)
-
----
-
-### Příklad spotřebitelského úvěru:
-
-**Parametry:**
-```
-Cena mobilního domu: 1 800 000 Kč
-Vlastní vklad: 300 000 Kč
-Úvěr: 1 500 000 Kč
-Úrok: 10% p.a.
-Splatnost: 8 let (96 měsíců)
-```
-
-**Splátka:**
-```
-Měsíční splátka: 18 200 Kč
-Celkem zaplatíte: 1 747 200 Kč
-z toho úroky: 247 200 Kč
-```
-
-**Porovnání s hypotékou (5,5%):**
-- Hypotéka 25 let: 15 300 Kč/měs (celkem 4 590 000 Kč)
-- Úvěr 8 let: 18 200 Kč/měs (celkem 1 747 200 Kč)
-
-**Závěr:** Úvěr je dražší měsíčně, ALE celkově levnější (kratší doba)!
-
----
-
-## 🏗️ Úvěr ze stavebního spoření
-
-### Princip:
-
-1. **Spoříte** 2-6 let (min. 40% cílové částky)
-2. **Dostanete státní podporu** (2000 Kč/rok)
-3. **Dostanete úvěr** (zbytek)
-
----
-
-### Výhody:
-
-- ✅ Nízký úrok (3-5%)
-- ✅ Státní podpora
-- ✅ Bez zástavy (do určité výše)
-
-### Nevýhody:
-
-- ❌ Nutné spoření dopředu (2-6 let)
-- ❌ Omezená výše úvěru
-
----
-
-### Stavební spořitelny:
-
-#### ✅ Modrá pyramida
-
-**Úrok úvěru:** 3,5-5%
-**Státní podpora:** 2000 Kč/rok (při vkladu 20 000 Kč/rok)
-
-**Kontakt:** [modrapyramida.cz](https://www.modrapyramida.cz)
-
----
-
-#### ✅ Raiffeisen stavební spořitelna
-
-**Úrok úvěru:** 3,8-5,2%
-
-**Kontakt:** [rsts.cz](https://www.rsts.cz)
-
----
-
-#### ✅ ČMSS (Česká mor spořitelna)
-
-**Úrok úvěru:** 4-5,5%
-
-**Kontakt:** [cmss.cz](https://www.cmss.cz)
-
----
-
-### Příklad stavebního spoření:
-
-**Parametry:**
-```
-Cílová částka: 1 000 000 Kč
-Spoříte: 400 000 Kč (40%, 4 roky)
-Úvěr: 600 000 Kč
-Úrok úvěru: 4% p.a.
-Splatnost: 10 let
-```
-
-**Fáze spoření (4 roky):**
-```
-Vklad: 8 333 Kč/měs × 48 měs = 400 000 Kč
-Státní podpora: 2 000 Kč/rok × 4 = 8 000 Kč
-Úrok: ~ 12 000 Kč
-CELKEM naspořeno: 420 000 Kč
-```
-
-**Fáze úvěru (10 let):**
-```
-Úvěr: 580 000 Kč (1 000 000 - 420 000)
-Splátka: 5 900 Kč/měs
-Celkem zaplatíte: 708 000 Kč
-z toho úroky: 128 000 Kč
-```
-
-**Celkem zaplatíte za 14 let:** 1 108 000 Kč (velmi výhodné!)
-
----
-
-## 🚗 Leasing na mobilní dům
-
-### Princip:
-
-> Leasingová společnost vlastní mobilní dům → vy platíte nájem → po splacení získáte vlastnictví
-
----
-
-### Výhody:
-
-- ✅ **Nejjednodušší schválení**
-- ✅ Velmi rychlé (dny)
-- ✅ Bez vlastního vkladu (možné)
-- ✅ Dům máte hned
-
-### Nevýhody:
-
-- ❌ **Nejdražší** (úrok 10-18%)
-- ❌ Vlastníte až po splacení
-- ❌ Omezení s úpravami domu
-
----
-
-### Leasingové společnosti:
-
-#### ✅ ESSOX (mobilní domy)
-
-**Úrok:** 10-15% p.a.
-**Akontace:** 10-30%
-**Splatnost:** 3-7 let
-
-**Kontakt:** [essox.cz](https://www.essox.cz)
-
----
-
-#### ✅ Credium
-
-**Úrok:** 12-16% p.a.
-**Akontace:** 20-40%
-**Splatnost:** 3-5 let
-
-**Kontakt:** [credium.cz](https://www.credium.cz)
-
----
-
-### Příklad leasingu:
-
-**Parametry:**
-```
-Cena mobilního domu: 2 000 000 Kč
-Akontace (30%): 600 000 Kč
-Leasing: 1 400 000 Kč
-Úrok: 12% p.a.
-Splatnost: 5 let (60 měsíců)
-```
-
-**Splátka:**
-```
-Měsíční splátka: 31 100 Kč
-Celkem zaplatíte: 2 466 000 Kč
-z toho úroky: 466 000 Kč
-```
-
-**Závěr:** Leasing velmi drahý, ale rychlý!
-
----
-
-## 📊 Porovnání financování
-
-### Mobilní dům 2 000 000 Kč:
-
-| Typ financování | Úrok | Splátka | Splatnost | Celkem zaplatíte | Podmínky |
-|----------------|------|---------|-----------|------------------|----------|
-| **Hypotéka** | 5,5% | 12 300 Kč | 25 let | 3 690 000 Kč | Kolaudace + pozemek ✅ |
-| **Spotřebitelský úvěr** | 10% | 26 400 Kč | 8 let | 2 540 000 Kč | Bez zástavy ✅ |
-| **Stavební spoření** | 4% | spoření + úvěr | 14 let | 2 220 000 Kč | Spoření dopředu ⚠️ |
-| **Leasing** | 12% | 31 100 Kč | 5 let | 2 466 000 Kč | Nejrychlejší ✅ |
+Uvedené splátky a celkové částky jsou orientační a závisí na konkrétních podmínkách poskytovatele, výši vlastního vkladu a aktuálních úrokových sazbách.
 
 **Doporučení:**
-1. **Hypotéka** - pokud máte pozemek a kolaudaci (nejlevnější)
-2. **Stavební spoření** - pokud plánujete dopředu (výhodné)
-3. **Spotřebitelský úvěr** - pokud nemáte pozemek (flexibilní)
-4. **Leasing** - krajní varianta (drahé, ale rychlé)
+1. **Hypotéka** – pokud máte pozemek a kolaudaci (nejlevnější celkově)
+2. **Stavební spoření** – pokud plánujete dopředu (výhodné při dlouhodobém plánu)
+3. **Spotřebitelský úvěr** – pokud nemáte pozemek nebo kolaudaci (flexibilní a rychlé)
+4. **Leasing** – krajní varianta (nejdražší, ale nejrychlejší schválení)
 
 ---
 
-## ✅ Checklist financování
+## Tipy pro získání výhodnějších podmínek
 
-### Před žádostí o úvěr:
+### Vylepšení bonity
 
-- [ ] Spočítat celkové náklady (dům + pozemek + přípojky)
-- [ ] Zjistit vlastní vklad (min. 20%)
-- [ ] Ověřit bonitu (příjem, exekuce)
-- [ ] Vybrat typ financování
+- Zvýšení příjmu přidáním partnera do společné žádosti
+- Splacení stávajících dluhů a vyčištění registru dlužníků
+- Stabilita zaměstnání (minimálně 1 rok v práci)
 
-### Pro hypotéku:
+### Snížení úrokové sazby
 
-- [ ] Vlastnictví pozemku
-- [ ] Územní rozhodnutí
-- [ ] Kolaudace mobilního domu
-- [ ] Zápis do katastru
-- [ ] Znalecký posudek
+- Vyšší vlastní vklad (ideálně 30 % a více) – čím vyšší, tím nižší úrok
+- Pojištění úvěru – některé banky poskytují slevu až 0,5 %
+- Zkrácení doby splatnosti – kratší doba obvykle znamená nižší úrok
 
-### Pro spotřebitelský úvěr:
+### Oslovení více bank
 
-- [ ] Potvrzení o příjmu (3 měsíce)
-- [ ] Výpis z účtu (3 měsíce)
-- [ ] Občanský průkaz
-- [ ] Žádost o úvěr
+Nabídky se liší. Doporučuje se využít služeb hypotečního poradce zdarma. Hypoteční poradci: Hypoteční banka, Broker Trust, Fincentrum.
 
 ---
 
-## 💡 Tipy pro získání úvěru
+## Zdroje
 
-### 1. Vylepšit bonitu:
-
-- **Vyšší příjem:** Přidat příjem partnera (společná žádost)
-- **Splatit dluhy:** Vyčistit registr (exekuce, půjčky)
-- **Stabilita:** Min. 1 rok v zaměstnání
-
----
-
-### 2. Snížit úrok:
-
-- **Vlastní vklad:** Čím vyšší, tím nižší úrok (ideálně 30%+)
-- **Pojištění úvěru:** Některé banky sleva -0,5%
-- **Zkrátit splatnost:** Kratší doba = nižší úrok
+- **Úrokové sazby hypoték:** [Hypoindex.cz](https://www.hypoindex.cz/), [ČBA Monitor](https://www.cbamonitor.cz/), [Kurzy.cz](https://www.kurzy.cz/)
+- **Hypotéky na mobilní domy:** [Finance.cz](https://www.finance.cz/), [Banky.cz](https://www.banky.cz/), [Hypotecnispecialista.cz](https://www.hypotecnispecialista.cz/)
+- **Spotřebitelské úvěry:** [Air Bank](https://www.airbank.cz/), [Equa Bank](https://www.equabank.cz/)
+- **Stavební spoření:** [Modrá pyramida](https://www.modrapyramida.cz/), [RSTS](https://www.rsts.cz/), [ČMSS](https://www.cmss.cz/)
+- **Registr dlužníků:** [SOLUS](https://www.solus.cz/)
 
 ---
 
-### 3. Zkusit více bank:
-
-- Nabídky se liší!
-- Použít hypoteční poradce (zdarma)
-
-**Hypoteční poradci:**
-- [Hypoteční banka](https://www.hypotecnibanka.cz)
-- [Broker Trust](https://www.brokertrust.cz)
-
----
-
-## 🔗 Související články
-
-- [Dotace na mobilní domy](./dotace.md)
-- [Energetická náročnost (úspora)](../technicke-specifikace/energetika/energeticka-narocnost.md)
-- [Legislativa](../legislativa/stavebni-zakon/novy-zakon-283-2021.md)
-
----
-
-## 📞 Kontakty
-
-**Hypoteční kalkulačky:**
-- [Hypotéka kalkulátor](https://www.hypoteka-kalkulator.cz)
-- [Kalkulátor Fincentrum](https://www.fincentrum.cz/kalkulacky/hypotecni-kalkulator)
-
-**Registr dlužníků:**
-- [SOLUS](https://www.solus.cz) - Ověření, zda máte exekuce
-
----
-
-**Zpracováno:** 20. října 2025
+**Zpracováno:** Říjen 2025
 **Autor:** Mobilheim Wiki
-**Zdroje:** Banky, leasingové společnosti, praktické zkušenosti
