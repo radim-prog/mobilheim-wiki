@@ -7,11 +7,27 @@
 
 ---
 
+## ⚡ TL;DR (Rychlý přehled)
+
+**Hlavní bod 1:** Mobilní domy JSOU způsobilé pro dotace NZÚ – můžete získat až 210 000 Kč na fotovoltaiku + tepelné čerpadlo
+
+**Hlavní bod 2:** Program Úvěr od rodin snižuje splátky hypotéky až o 3 300 Kč/měsíc na 5 let (pro rodiny s dětmi)
+
+**Hlavní bod 3:** Kombinace NZÚ + Úvěr od rodin + místní dotace = až 460 000 Kč úspory celkem
+
+**Top tip:** VŽDY registrujte projekt PŘED zahájením prací – jinak vám dotaci zamítnou
+
+**Největší chyba:** Začít instalovat fotovoltaiku nebo tepelné čerpadlo BEZ registrace projektu v NZÚ – přijdete o desítky tisíc
+
+---
+
 ## Úvod
 
-**Víte, že na mobilní dům můžete získat dotace až 500 000 Kč?** 💰
+**Představte si, že byste na váš mobilní dům dostali 500 000 Kč od státu. Zní to jako pohádka?**
 
-Většina lidí neví, že mobilní domy **jsou způsobilé** pro řadu dotačních programů – stejně jako klasické stavby!
+Není! Většina lidí neví, že mobilní domy **jsou způsobilé** pro řadu dotačních programů – stejně jako klasické rodinné domy.
+
+S dotacemi můžete výrazně snížit náklady na pořízení fotovoltaiky, tepelného čerpadla, nebo dokonce na samotné bydlení. A nejlepší na tom? Proces není tak složitý, jak se zdá.
 
 **V tomto článku se dozvíte:**
 - ✅ **Které dotace** můžete získat (NZÚ, Úvěr od rodin, místní dotace)
@@ -20,7 +36,7 @@ Většina lidí neví, že mobilní domy **jsou způsobilé** pro řadu dotačn�
 - ✅ **Jaké podmínky** musíte splnit
 - ✅ **Reálné příklady** (rodiny, které dotace získaly)
 
-**Připraveni ušetřit statisíce? Jdeme na to!** 🚀
+**Připraveni ušetřit statisíce? Jdeme na to!**
 
 ---
 
@@ -30,7 +46,7 @@ Většina lidí neví, že mobilní domy **jsou způsobilé** pro řadu dotačn�
 
 **Nová zelená úsporám** je dotační program **Ministerstva životního prostředí** na podporu úsporných a ekologických staveb.
 
-**Mobilní domy JSOU způsobilé!** ✅
+**Mobilní domy JSOU způsobilé!**
 
 ---
 
@@ -64,6 +80,10 @@ Většina lidí neví, že mobilní domy **jsou způsobilé** pro řadu dotačn�
 
 ---
 
+💡 **Co dělat dál:** Navštivte web novazelenausporam.cz a zjistěte, zda váš plánovaný systém splňuje podmínky dotace.
+
+---
+
 #### Varianta C: Kombinace FV + TČ
 
 **Můžete kombinovat!**
@@ -73,7 +93,7 @@ Většina lidí neví, že mobilní domy **jsou způsobilé** pro řadu dotačn�
 FV (8 kWp): 140 000 Kč
 TČ (vzduch-voda): 80 000 Kč
 ─────────────────────────
-CELKEM: 220 000 Kč ✅
+CELKEM: 220 000 Kč
 ```
 
 ---
@@ -82,7 +102,7 @@ CELKEM: 220 000 Kč ✅
 
 Pokud váš mobilní dům splňuje **pasivní standard** (velmi nízká spotřeba energie):
 
-**Dotace: až 300 000 Kč** 🎉
+**Dotace: až 300 000 Kč**
 
 **Podmínky:**
 - ✅ Energetická náročnost: **≤ 20 kWh/m²/rok**
@@ -95,7 +115,7 @@ Pokud váš mobilní dům splňuje **pasivní standard** (velmi nízká spotřeb
 
 #### Krok 1: Registrace projektu (PŘED zahájením prací!)
 
-**Důležité:** Musíte **NEJDŘÍV zaregistrovat** projekt, **PAK** začít práce!
+⚠️ **VAROVÁNÍ:** Musíte **NEJDŘÍV zaregistrovat** projekt, **PAK** začít práce! Pokud začnete dříve, dotace vám bude zamítnuta.
 
 1. Navštivte [www.novazelenausporam.cz](https://www.novazelenausporam.cz)
 2. Vytvořte si účet
@@ -127,7 +147,11 @@ Po dokončení nahrajete:
 - Revizní zprávy
 - Fotodokumentace
 
-**Vyplacení:** Do **60 dní** na váš účet! ✅
+**Vyplacení:** Do **60 dní** na váš účet!
+
+---
+
+💡 **Co dělat dál:** Připravte si dokumenty již teď – pak půjde registrace rychle a bez chyb.
 
 ---
 
@@ -143,11 +167,11 @@ Po dokončení nahrajete:
 **Dotace NZÚ:**
 - FV: 130 000 Kč
 - TČ: 80 000 Kč
-- **Celkem:** 210 000 Kč ✅
+- **Celkem:** 210 000 Kč
 
 **Vlastní náklady:** 60 000 Kč (78% dotováno!)
 
-**Roční úspora energie:** 30 000 Kč → **ROI 2 roky**! 🔥
+**Roční úspora energie:** 30 000 Kč → **ROI 2 roky**!
 
 ---
 
@@ -180,7 +204,7 @@ Měsíční splátka: 19 300 Kč
 Podpora (2 děti): 200 000 Kč (rozděleno na 5 let)
 ────────────────────────────────────
 Snížení splátky: -3 300 Kč/měs (prvních 5 let)
-Nová splátka: 16 000 Kč/měs ✅
+Nová splátka: 16 000 Kč/měs
 ```
 
 ---
@@ -200,14 +224,21 @@ Nová splátka: 16 000 Kč/měs ✅
 ### Podmínky:
 
 ✅ **Rodina s dětmi** (min. 1 dítě do 21 let, nebo studující do 26 let)
+
 ✅ **Trvalé bydlení** v nemovitosti (mobilní dům musí být kolaudovaný!)
+
 ✅ **Hypotéka na bydlení** (ne spotřebitelský úvěr)
+
 ✅ **Příjem max. 6× průměrná mzda** (rodina nesmí být moc bohatá)
 
 **Maximální příjem (2025):**
 - 1 dítě: 230 000 Kč/měs (hrubého, celá rodina)
 - 2 děti: 270 000 Kč/měs
 - 3 děti: 310 000 Kč/měs
+
+---
+
+💡 **Co dělat dál:** Pokud máte děti a plánujete hypotéku, určitě využijte tento program – ušetříte desítky tisíc.
 
 ---
 
@@ -236,7 +267,7 @@ Nová splátka: 16 000 Kč/měs ✅
 **S Úvěrem od rodin (2 děti):**
 - Podpora: 200 000 Kč (prvních 5 let)
 - Měsíční splátka: **14 600 Kč** (prvních 5 let)
-- **Úspora:** 3 300 Kč/měs × 60 měs = **198 000 Kč** ✅
+- **Úspora:** 3 300 Kč/měs × 60 měs = **198 000 Kč**
 
 ---
 
@@ -279,9 +310,13 @@ Některé **obce a kraje** nabízejí vlastní dotace na bydlení (často pro ml
 
 ---
 
+💡 **Co dělat dál:** Zkontrolujte web své obce ještě dnes – možná máte nárok na dotaci, o které jste nevěděli.
+
+---
+
 ## 💰 Dotace #4: Dotace pro OZE (obnovitelné zdroje energie)
 
-### Provozovatel distribu čních soustav (ČEZ, E.ON)
+### Provozovatel distribučních soustav (ČEZ, E.ON)
 
 Někdy nabízejí **bonusy za instalaci FV nebo akumulace** (baterie).
 
@@ -306,7 +341,7 @@ Někdy nabízejí **bonusy za instalaci FV nebo akumulace** (baterie).
 | **NZÚ (FV + TČ)** | 210 000 Kč |
 | **Úvěr od rodin (2 děti)** | 200 000 Kč |
 | **Místní dotace (obec)** | 50 000 Kč |
-| **CELKEM** | **460 000 Kč** ✅ |
+| **CELKEM** | **460 000 Kč** |
 
 **Celková investice:** 3 500 000 Kč
 **Po dotacích:** 3 040 000 Kč
@@ -398,10 +433,10 @@ NZÚ (FV + TČ + pasiv): 410 000 Kč
 Úvěr od rodin: 200 000 Kč
 Místní dotace: 50 000 Kč
 ────────────────────────────
-CELKEM: 660 000 Kč ✅
+CELKEM: 660 000 Kč
 ```
 
-**Závěr:** Dotace mohou **výrazně snížit** náklady na mobilní dům! Vyplatí se je využít. 💰
+**Závěr:** Dotace mohou **výrazně snížit** náklady na mobilní dům! Vyplatí se je využít.
 
 ---
 
@@ -424,4 +459,3 @@ Napište nám na **[info@novyrozmerbydleni.cz](mailto:info@novyrozmerbydleni.cz)
 ---
 
 **Klíčová slova:** dotace na mobilní dům, nová zelená úsporám mobilní dům, úvěr od rodin, dotace fotovoltaika, dotace tepelné čerpadlo 2025, jak získat dotaci na bydlení
-

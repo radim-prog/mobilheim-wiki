@@ -7,11 +7,27 @@
 
 ---
 
+## ⚡ TL;DR (Rychlý přehled)
+
+**Hlavní bod 1:** Nejdřív zkontrolujte územní plán – ne všude můžete stavět (plochy pro bydlení/rekreaci jsou OK, zemědělská půda NE)
+
+**Hlavní bod 2:** Ideální pozemek má sítě do 30 m (elektřina, voda, kanalizace) – jinak zaplatíte desítky tisíc za prodloužení
+
+**Hlavní bod 3:** Celková cena = pozemek + přípojky + přístup. Levný pozemek bez sítí může vyjít dráž než dražší s připravenými přípojkami
+
+**Top tip:** Získejte vyjádření distributorů PŘED koupí – zjistíte přesně, kde jsou sítě a kolik bude připojení stát
+
+**Největší chyba:** Koupit pozemek bez kontroly územního plánu – můžete skončit s parcelou, kde stavět NELZE
+
+---
+
 ## Úvod
 
-**Máte vysněný mobilní dům, ale chybí vám pozemek?** Nebo už pozemek máte, ale nevíte, zda je vhodný?
+**Vysníte o mobilním domě uprostřed přírody? Nebo už pozemek máte, ale nevíte, jestli je vhodný?**
 
-Výběr pozemku je **80% úspěchu**! Špatný pozemek = problémy s úřady, drahé přípojky, nebo dokonce nemožnost postavit.
+Realita je krutá: Špatný výběr pozemku pro mobilní dům = problémy s úřady, tisíce za přípojky, nebo horší – nemožnost postavit vůbec.
+
+Výběr pozemku není jen o krásném výhledu. Je to technické a právní rozhodnutí, které ovlivní každý den vašeho života v novém domě.
 
 **V tomto článku se dozvíte:**
 - ✅ **Jak zjistit**, zda můžete na pozemku postavit mobilní dům
@@ -20,7 +36,7 @@ Výběr pozemku je **80% úspěchu**! Špatný pozemek = problémy s úřady, dr
 - ✅ **Časté chyby**, kterým se vyhnout
 - ✅ **Checklisty** pro kontrolu pozemku
 
-**Ušetříte tisíce Kč a měsíce času!** ⏰💰
+**Ušetříte tisíce Kč a měsíce času!**
 
 ---
 
@@ -28,15 +44,20 @@ Výběr pozemku je **80% úspěchu**! Špatný pozemek = problémy s úřady, dr
 
 ### Proč je to důležité?
 
-**Ne na každém pozemku můžete stavět!** I když jste vlastníkem, musíte respektovat **územní plán obce**.
+**Ne na každém pozemku můžete stavět mobilní dům!** I když jste vlastníkem, musíte respektovat **územní plán obce**.
+
+Tento dokument určuje, kde lze stavět domy, kde má být průmysl, kde zůstanou louky. Bez kontroly územního plánu riskujete, že koupíte pozemek úplně zbytečně.
 
 ---
 
 ### Kde je mobilní dům POVOLEN?
 
 ✅ **Plochy pro bydlení** (bydlení - rodinné domy)
+
 ✅ **Plochy smíšené obytné** (bydlení + služby)
+
 ✅ **Plochy rekreace** (chatové oblasti, rekreační oblasti)
+
 ⚠️ **Plochy smíšené (zemědělské s RD)** – někdy ANO, někdy NE (záleží na podmínkách)
 
 ---
@@ -44,9 +65,16 @@ Výběr pozemku je **80% úspěchu**! Špatný pozemek = problémy s úřady, dr
 ### Kde mobilní dům NENÍ POVOLEN?
 
 ❌ **Zemědělská půda** (orná, louka) – stavět NELZE (výjimečně po změně ÚP)
+
 ❌ **Lesní půda** – stavět NELZE
+
 ❌ **Chráněná území** (CHKO, NPR, památková zóna) – velmi obtížné/nemožné
+
 ❌ **Průmyslové zóny** – bydlení není povoleno
+
+---
+
+💡 **Co dělat dál:** Zjistěte územní plán online přes web obce, nebo osobně na stavebním úřadě. Nepřeskakujte tento krok!
 
 ---
 
@@ -87,12 +115,16 @@ Pokud si nejste jisti, najmutřete odborníka:
 
 **Přípojky = obrovské náklady!** Pokud jsou sítě daleko, můžete zaplatit statisíce.
 
+Elektřina, voda, kanalizace – bez nich není moderní bydlení možné. Prodloužení sítí není jen drahé, ale i časově náročné.
+
 ---
 
 ### Ideální pozemek:
 
 ✅ **Elektřina** – do 30 m
+
 ✅ **Vodovod** – do 30 m
+
 ✅ **Kanalizace** – do 30 m (nebo možnost ČOV/septic)
 
 ---
@@ -103,9 +135,9 @@ Málokdy máte vše ideální. Proto:
 
 | Síť | Ideální | Akceptovatelné | Problém |
 |-----|---------|---------------|---------|
-| **Elektřina** | do 30 m | do 100 m | nad 200 m ⚠️ |
-| **Voda** | do 30 m | do 80 m | nad 150 m ⚠️ |
-| **Kanalizace** | do 30 m | ČOV/septic OK | nad 100 m ⚠️ |
+| **Elektřina** | do 30 m | do 100 m | nad 200 m |
+| **Voda** | do 30 m | do 80 m | nad 150 m |
+| **Kanalizace** | do 30 m | ČOV/septic OK | nad 100 m |
 
 ---
 
@@ -122,8 +154,12 @@ Málokdy máte vše ideální. Proto:
 Elektřina 80 m daleko:
 Standard: 30 m (v ceně připojení ~40 000 Kč)
 Navíc: 50 m × 1 800 Kč = 90 000 Kč
-CELKEM: 130 000 Kč ⚠️
+CELKEM: 130 000 Kč
 ```
+
+---
+
+💡 **Co dělat dál:** Zavolejte distributorům a požádejte o vyjádření k možnosti připojení – je to zdarma a ušetří vám překvapení.
 
 ---
 
@@ -149,13 +185,18 @@ CELKEM: 130 000 Kč ⚠️
 - Dovézt materiál (přípojky, základy)
 - Běžně k němu jezdit (auto)
 
+Představte si, že máte krásný pozemek, ale cesta je úzká nebo nezpevněná. V zimě se nedostanete domů.
+
 ---
 
 ### Co potřebujete:
 
 ✅ **Přístupová cesta min. 3,5 m široká** (pro nákladní auto)
+
 ✅ **Zpevněný povrch** (beton, asfalt, kvalitní štěrk)
+
 ✅ **Bez prudkých zatáček** (jeřábové auto má velký poloměr)
+
 ✅ **Právní zajištění přístupu** (vlastní, věcné břemeno, služebnost)
 
 ---
@@ -163,8 +204,14 @@ CELKEM: 130 000 Kč ⚠️
 ### Časté problémy:
 
 ❌ **Pozemek přístupný jen přes cizí pozemek** → musíte sjednat věcné břemeno (cena 20 000 - 100 000 Kč!)
+
 ❌ **Polní cesta (nezpevněná)** → v zimě/dešti neprůjezdná
+
 ❌ **Úzká cesta** (2,5 m) → nákladní auto neprojede
+
+---
+
+💡 **Co dělat dál:** Navštivte pozemek osobně a projet autem. Zkontrolujte šířku cesty a její stav v různých ročních obdobích.
 
 ---
 
@@ -186,6 +233,8 @@ CELKEM: 130 000 Kč ⚠️
 - Je skutečně vlastnictvím prodávajícího
 - Nejsou na něm žádné závady (hypotéky, věcná břemena, soudní spory)
 
+Koupě pozemku s právními problémy může trvat roky řešení.
+
 ---
 
 ### Co zkontrolovat:
@@ -204,6 +253,10 @@ CELKEM: 130 000 Kč ⚠️
 
 ---
 
+⚠️ **VAROVÁNÍ:** Nikdy nekupujte pozemek s hypotékou nebo soudním sporem, dokud není vyřešen. Risikujete ztrátu peněz.
+
+---
+
 #### 2. **Územní plán** (viz Krok 1)
 
 ---
@@ -216,11 +269,17 @@ Pokud kupujete část pozemku (oddělení parcely) → musí být **geometrický
 
 ---
 
+💡 **Co dělat dál:** Stáhněte si výpis z katastru a pečlivě prostudujte všechny záznamy. Jakákoliv poznámka může být červená vlajka.
+
+---
+
 ## 📋 KROK 5: Zkontrolujte LOKALITU a BUDOUCNOST
 
 ### Proč je to důležité?
 
 Pozemek si kupujete na **desítky let**. Musíte myslet i na budoucnost!
+
+To, co vypadá dnes jako klidná lokalita, může být za 5 let průmyslová zóna.
 
 ---
 
@@ -230,9 +289,9 @@ Pozemek si kupujete na **desítky let**. Musíte myslet i na budoucnost!
 
 | Vzdálenost | Vhodnost |
 |-----------|----------|
-| **do 5 km** | ✅ Ideální (denní dojíždění) |
-| **5-15 km** | ✅ Dobré (víkendové bydlení OK) |
-| **nad 15 km** | ⚠️ Rekreace (každodenní dojíždění obtížné) |
+| **do 5 km** | Ideální (denní dojíždění) |
+| **5-15 km** | Dobré (víkendové bydlení OK) |
+| **nad 15 km** | Rekreace (každodenní dojíždění obtížné) |
 
 ---
 
@@ -259,6 +318,10 @@ Pozemek si kupujete na **desítky let**. Musíte myslet i na budoucnost!
 
 ---
 
+💡 **Co dělat dál:** Prohlédněte si územní plán celé oblasti – nejen váš pozemek. Zjistíte, co se plánuje stavět v okolí.
+
+---
+
 ## 📋 KROK 6: Spočítejte CELKOVÉ NÁKLADY
 
 ### Proč je to důležité?
@@ -278,7 +341,7 @@ Voda (studna): 80 000 Kč
 ČOV: 120 000 Kč
 Přístupová cesta: 60 000 Kč
 ───────────────────────
-CELKEM: 790 000 Kč ⚠️
+CELKEM: 790 000 Kč
 ```
 
 ---
@@ -292,10 +355,14 @@ Voda (připojeno): 0 Kč
 Kanalizace (připojeno): 0 Kč
 Přístupová cesta (asfalt): 0 Kč
 ───────────────────────
-CELKEM: 800 000 Kč ✅
+CELKEM: 800 000 Kč
 ```
 
 **Závěr:** Varianta B je dražší, ale **vyšší jistota** a **rychlejší realizace**!
+
+---
+
+💡 **Co dělat dál:** Vytvořte si reálnou kalkulaci všech nákladů – pozemek, přípojky, cesta, právní služby. Teprve pak rozhodněte.
 
 ---
 
@@ -349,6 +416,10 @@ CELKEM: 800 000 Kč ✅
 **Nevýhody:**
 - ❌ Horší dostupnost služeb
 - ❌ Často bez kanalizace (nutná ČOV)
+
+---
+
+💡 **Co dělat dál:** Zaregistrujte si upozornění na realitních portálech – dostanete email, jakmile se objeví nový vhodný pozemek.
 
 ---
 
@@ -417,7 +488,7 @@ CELKEM: 800 000 Kč ✅
 - [ ] Sousedé a okolí **OK**?
 - [ ] Žádné **budoucí problémy** (územní plán)?
 
-**Pokud je vše ✅** → Pozemek je vhodný! 🎉
+**Pokud je vše zaškrtnuto** → Pozemek je vhodný!
 
 ---
 
@@ -455,4 +526,3 @@ Napište nám na **[info@novyrozmerbydleni.cz](mailto:info@novyrozmerbydleni.cz)
 ---
 
 **Klíčová slova:** pozemek pro mobilní dům, jak vybrat pozemek, územní plán mobilní dům, pozemek stavební prodej, sítě na pozemku, přístup k pozemku
-

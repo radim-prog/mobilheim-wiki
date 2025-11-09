@@ -7,11 +7,25 @@
 
 ---
 
+## ⚡ TL;DR (Rychlý přehled)
+
+**Hlavní bod 1:** Celý proces trvá 10-13 měsíců (2× rychleji než klasická stavba, která trvá 21-30 měsíců)
+**Hlavní bod 2:** 5 klíčových fází: Příprava (2 měs) → Povolení (2 měs) → Příprava pozemku (2 měs) → Montáž (2 měs) → Dokončení (2 měs)
+**Hlavní bod 3:** Kritické dokumenty: územní souhlas, přípojky, NZÚ registrace (před instalací!), revize, kolaudace
+**Top tip:** Objednejte dům AŽ PO schválení územního souhlasu - jinak riskujete ztrátu zálohy 600-900k Kč!
+**Největší chyba:** Instalovat FV/TČ PŘED registrací projektu NZÚ = ztráta dotace až 210 000 Kč!
+
+---
+
 ## Úvod
+
+**Představte si:** Jsou 3 hodiny ráno. Nemůžete spát. Zítra máte podepsat smlouvu na mobilní dům za 2,5 milionu. Ale stále máte pochybnosti: Co když něco pokazím? Co když zapomenu na nějaký důležitý krok? Co když to bude trvat věčnost?
+
+Většina lidí má před první stavbou strach. A je to normální. Ale nemusí to tak být.
 
 **Od nápadu po nastěhování – jak to celé probíhá?**
 
-Stavba mobilního domu může vypadat složitě, ale když víte **CO, KDY a JAK** dělat, je to mnohem jednodušší než si myslíte!
+Stavba mobilního domu může vypadat složitě, ale když víte **CO, KDY a JAK** dělat, je to mnohem jednodušší než si myslíte! Tisíce lidí před vámi to zvládly - a vy taky.
 
 **V tomto článku najdete:**
 - ✅ **Kompletní timeline** (od měsíce 1 po měsíc 8)
@@ -46,6 +60,8 @@ CELKEM: 3 510 000 Kč ✅
 
 👉 [Jak získat financování](03-hypoteka-na-mobilni-dum.md)
 
+> **Akce:** NEJDŘÍV financování, PAK objednávka! Ušetříte si stres s chybějícími penězi.
+
 ---
 
 #### ✅ Krok 2: Najděte pozemek
@@ -59,6 +75,10 @@ CELKEM: 3 510 000 Kč ✅
 👉 [Jak vybrat pozemek](06-jak-vybrat-pozemek.md)
 
 **Čas:** 1-3 měsíce (hledání + koupě)
+
+### ⚠️ VAROVÁNÍ: Nekontrolovat územní plán = ztráta až 500k Kč
+
+**Reálný příklad:** Josef koupil lesní pozemek za 400k - pak zjistil, že stavět nelze. Musel prodat za 300k. Ztráta: 100k Kč!
 
 ---
 
@@ -78,6 +98,8 @@ CELKEM: 3 510 000 Kč ✅
 - Reference
 
 **Čas:** 2-4 týdny
+
+> **Akce:** Porovnejte 3 nabídky! Rozdíly cen můžou být až 500 000 Kč za stejnou kvalitu.
 
 ---
 
@@ -140,9 +162,13 @@ CELKEM: 3 510 000 Kč ✅
 - Lhůta: 30 dní
 - Cena: 60 000 - 200 000 Kč (kanalizace) nebo 120 000 - 180 000 Kč (ČOV)
 
+> **Akce:** Žádejte o přípojky PARALELNĚ s územním souhlasem - ušetříte 1-2 měsíce!
+
 ---
 
 #### ✅ Krok 6: Objednávka mobilního domu
+
+### ⚠️ VAROVÁNÍ: KRITICKÝ KRO K!
 
 **Až máte územní souhlas schválený** (nebo jste si jisti, že projde):
 
@@ -156,6 +182,8 @@ CELKEM: 3 510 000 Kč ✅
 
 **Výrobní doba:** 2-4 měsíce (záleží na výrobci)
 
+**PROČ AŽ PO SCHVÁLENÍ?** Pokud zamítnou územní souhlas → ztráta zálohy 600-900k Kč!
+
 ---
 
 #### ✅ Krok 7: Žádost o dotace (NZÚ)
@@ -168,6 +196,8 @@ CELKEM: 3 510 000 Kč ✅
 **Lhůta:** 30 dní (schválení/zamítnutí)
 
 👉 [Více o dotacích](07-dotace-na-mobilni-dum.md)
+
+### ⚠️ VAROVÁNÍ: Instalace PŘED registrací = ztráta až 210 000 Kč dotace!
 
 ---
 
@@ -229,6 +259,12 @@ CELKEM: 3 510 000 Kč ✅
 - Šířka min. 3,5 m
 
 **Cena:** 20 000 - 80 000 Kč (záleží na stavu cesty)
+
+### ⚠️ VAROVÁNÍ: Neověřit přístupovou cestu = dům nepřivezou!
+
+**Reálný příklad:** Lucie neověřila cestu - nákladní auto neprojelo. Musela zaplatit 50k za zpevnění cesty urgentně.
+
+> **Akce:** 2 týdny před montáží: projděte cestu s výrobcem! Ověřte šířku 3,5 m a nosnost.
 
 ---
 
@@ -314,6 +350,8 @@ CELKEM: 3 510 000 Kč ✅
 
 **Výsledek:** **Revizní zprávy** (potřebujete pro kolaudaci)
 
+### ⚠️ VAROVÁNÍ: Bez revizí = žádná kolaudace + riziko požáru!
+
 ---
 
 ### ⏰ Timeline měsíc 5-6:
@@ -327,6 +365,8 @@ CELKEM: 3 510 000 Kč ✅
 | **19** | Připojení kanalizace/ČOV (2 dny) |
 | **20** | Revize elektro + voda + ČOV (1 den) |
 | **20** | DŮM FUNKČNÍ! ✅ (ale ještě ne kolaudovaný) |
+
+> **Akce:** Po montáži: zkontrolujte VŠECHNO (dveře, okna, zatékání) PŘED doplatkem 60%!
 
 ---
 
@@ -356,6 +396,8 @@ CELKEM: 3 510 000 Kč ✅
 - Terénní úpravy (svah, odvodnění)
 - Tráva (výsev nebo koberec)
 - Cena: 20 000 - 80 000 Kč
+
+> **Akce:** Nemáte peníze? Odložte terasu a oplocení o rok - ušetříte 70-120k Kč dočasně!
 
 ---
 
@@ -421,6 +463,12 @@ CELKEM: 3 510 000 Kč ✅
 
 **Celková doba:** 2-3 měsíce (včetně čekání na úřady)
 
+### ⚠️ VAROVÁNÍ: Bez kolaudace = žádná hypotéka!
+
+**Reálný příklad:** Tomáš postavil dům bez kolaudace. Pak chtěl hypotéku místo spotřebitelského úvěru (10%) - ZAMÍTNUTO. Zaplatí o 80 000 Kč víc na úrocích za 10 let!
+
+> **Akce:** I když není povinná - udělejte kolaudaci! Ušetříte až 110 000 Kč na úrocích hypotéky.
+
 ---
 
 #### ✅ Krok 18: Vyúčtování dotací (pokud máte NZÚ)
@@ -432,6 +480,8 @@ CELKEM: 3 510 000 Kč ✅
 3. **Nahrajte fotodokumentaci** (před, během, po)
 
 **Vyplacení:** Do 60 dní na váš účet! ✅
+
+### ⚠️ VAROVÁNÍ: Vyúčtovat po lhůtě = ztráta/snížení dotace!
 
 ---
 
@@ -600,6 +650,8 @@ CELKEM: 13 měsíců
 
 **Mobilní dům je 2× rychlejší!** 🔥
 
+> **Akce:** 10 měsíců = můžete být v novém domě do Vánoc! Klasická stavba = 2-3 Vánoce čekání.
+
 ---
 
 ## 📞 Potřebujete pomoc s realizací?
@@ -621,4 +673,3 @@ Napište nám na **[info@novyrozmerbydleni.cz](mailto:info@novyrozmerbydleni.cz)
 ---
 
 **Klíčová slova:** stavba mobilního domu, průvodce stavbou mobilní dům, jak postavit mobilní dům, timeline mobilní dům, postup stavby mobilní dům, kolaudace mobilní dům
-

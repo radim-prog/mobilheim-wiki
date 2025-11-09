@@ -7,16 +7,27 @@
 
 ---
 
+## ⚡ TL;DR (Rychlý přehled)
+
+**Hlavní bod 1:** Mobilní dům 40 m² stojí v provozu jen 2 000 Kč/měsíc (vs. klasický dům 7 000 Kč) – úspora 5 000 Kč měsíčně
+
+**Hlavní bod 2:** Bezbariérové úpravy stojí jen 38 000 Kč navíc – ale musíte je objednat při koupi domu, dodatečná úprava je 2× dražší
+
+**Hlavní bod 3:** Průměrný senior z prodeje bytu 3+1 a nákupu mobilního domu ušetří 700 000 Kč, které může použít na cestování nebo zdravotní péči
+
+**Top tip:** Zvolte velikost 40-50 m² – menší domy jsou levnější, rychle se uklízejí a snáze se udržují
+
+**Největší chyba:** Koupit mobilní dům pod 35 m² – je to moc malé a nepraktické, minimálně 40 m² pro 2 osoby
+
+---
+
 ## Úvod
 
-**Plánujete bydlení na důchod?** Nebo hledáte řešení pro rodiče?
+**Blíží se vám důchod a přemýšlíte, kde budete bydlet? Nebo hledáte řešení pro rodiče?**
 
-Mobilní dům může být **perfektní volba** pro seniory! A to z mnoha důvodů:
-- ✅ **Bezbariérový** (vše na jednom patře)
-- ✅ **Nízké náklady na provoz** (důležité při nízkém důchodu)
-- ✅ **Snadná údržba** (oproti velkému domu)
-- ✅ **Rychlá realizace** (6-8 měsíců)
-- ✅ **Dostupná cena** (oproti klasickému RD)
+Realita je, že klasický velký dům v seniorním věku může být přítěží. Vysoké náklady na vytápění, náročná údržba, schody na patro – to vše může být problém.
+
+Mobilní dům nabízí jinou cestu. Bezbariérový, úsporný, snadno udržovatelný. A dostupný i při omezeném důchodovém rozpočtu.
 
 **V tomto článku se dozvíte:**
 - ✅ **Proč** je mobilní dům ideální pro seniory
@@ -24,7 +35,7 @@ Mobilní dům může být **perfektní volba** pro seniory! A to z mnoha důvod�
 - ✅ **Kolik to stojí** (reálné kalkulace)
 - ✅ **Reálné příklady** (senioři žijící v mobilních domech)
 
-**Pojďme na to!** 👴👵
+**Pojďme na to!**
 
 ---
 
@@ -35,6 +46,8 @@ Mobilní dům může být **perfektní volba** pro seniory! A to z mnoha důvod�
 **Problém s klasickým domem:**
 - Schody na patro → problém pro seniory s mobilitou
 - Pád na schodech = riziko zranění
+
+Každý rok se tisíce seniorů zraní pádem na schodech. S přibývajícím věkem se to stává ještě rizikovějším.
 
 **Mobilní dům:**
 - ✅ **Vše na jednom patře** (žádné schody!)
@@ -47,6 +60,10 @@ Mobilní dům může být **perfektní volba** pro seniory! A to z mnoha důvod�
 
 ---
 
+💡 **Co dělat dál:** Zkontrolujte, zda váš vybraný mobilní dům má standardně bezbariérovou dispozici – ušetříte na dodatečných úpravách.
+
+---
+
 ### 2️⃣ Nízké náklady na provoz (důležité při důchodu)
 
 **Průměrný důchod (2025):** ~18 000 Kč/měs
@@ -56,14 +73,14 @@ Mobilní dům může být **perfektní volba** pro seniory! A to z mnoha důvod�
 - Elektřina: 1 200 Kč/měs
 - Voda: 800 Kč/měs
 - Údržba: 1 500 Kč/měs
-- **CELKEM: 7 000 Kč/měs** ⚠️ (39% důchodu!)
+- **CELKEM: 7 000 Kč/měs** (39% důchodu!)
 
 **Mobilní dům (40 m²):**
 - Vytápění (TČ): 600 Kč/měs
 - Elektřina: 500 Kč/měs
 - Voda: 400 Kč/měs
 - Údržba: 500 Kč/měs
-- **CELKEM: 2 000 Kč/měs** ✅ (11% důchodu!)
+- **CELKEM: 2 000 Kč/měs** (11% důchodu!)
 
 **Úspora: 5 000 Kč/měs = 60 000 Kč/rok!**
 
@@ -76,6 +93,8 @@ Mobilní dům může být **perfektní volba** pro seniory! A to z mnoha důvod�
 - Velký dům → úklid náročný
 - Více prostoru → více věcí → více práce
 
+V seniorském věku je každá hodina ušetřená na údržbě hodinou navíc pro rodinu, přátele nebo koníčky.
+
 **Mobilní dům:**
 - ✅ **Malá zahrada** (nebo žádná)
 - ✅ **Rychlý úklid** (40-50 m²)
@@ -84,6 +103,10 @@ Mobilní dům může být **perfektní volba** pro seniory! A to z mnoha důvod�
 **Příklad:**
 
 > *"V našem starém domě 150 m² jsem strávila 3 hodiny denně úklidem a zahradou. V mobilním domě 45 m² stačí 1 hodina týdně. Mám čas na vnoučata!"* – Jana (65)
+
+---
+
+💡 **Co dělat dál:** Zvažte mobilní dům s minimální zahradou nebo jen terasou – ještě méně údržby.
 
 ---
 
@@ -103,6 +126,8 @@ Mobilní dům může být **perfektní volba** pro seniory! A to z mnoha důvod�
 - ✅ Cestování
 - ✅ Pomoc dětem/vnukům
 
+Mnoho seniorů zjišťuje, že menší dům nejen vyjde levněji, ale navíc mají peníze, které mohou použít na věci, které je skutečně baví.
+
 ---
 
 ### 5️⃣ Rychlá realizace (v důchodu počítá čas!)
@@ -112,7 +137,7 @@ Mobilní dům může být **perfektní volba** pro seniory! A to z mnoha důvod�
 - Byrokracie: složitá
 
 **Mobilní dům:**
-- Stavba: 6-8 měsíců ✅
+- Stavba: 6-8 měsíců
 - Byrokracie: jednodušší
 
 **Proč je to důležité?**
@@ -134,6 +159,10 @@ Mobilní dům může být **perfektní volba** pro seniory! A to z mnoha důvod�
 **Klasický dům:**
 - Prodej trvá déle (vyšší cena)
 - Pronájem náročnější (údržba, inkaso)
+
+---
+
+💡 **Co dělat dál:** Myslete dlouhodobě – mobilní dům můžete později prodat a nastěhovat se do pečovatelského domu, pokud to bude potřeba.
 
 ---
 
@@ -183,6 +212,8 @@ Mobilní dům může být **perfektní volba** pro seniory! A to z mnoha důvod�
 
 **Cena:** +15 000 - 30 000 Kč
 
+⚠️ **VAROVÁNÍ:** Bezbariérová vana není bezbariérová! Přelézání okraje je rizikové. Vždy volte sprchový kout.
+
 ---
 
 #### 4️⃣ **Snížené vypínače a zásuvky**
@@ -212,6 +243,10 @@ Mobilní dům může být **perfektní volba** pro seniory! A to z mnoha důvod�
 
 ---
 
+💡 **Co dělat dál:** Objednejte bezbariérové úpravy ihned při koupi domu – dodatečné úpravy jsou 2× dražší.
+
+---
+
 ### Celkové náklady bezbariérových úprav:
 
 ```
@@ -220,7 +255,7 @@ Rampa: 3 000 Kč
 Bezbariérová koupelna: 25 000 Kč
 Osvětlení: 5 000 Kč
 ────────────────────────
-CELKEM: 38 000 Kč ✅
+CELKEM: 38 000 Kč
 ```
 
 **Poznámka:** Většinu úprav lze udělat **při objednávce domu** (levněji než dodatečně).
@@ -272,7 +307,7 @@ CELKEM: 38 000 Kč ✅
 | Elektřina (víkendový provoz) | 600 Kč |
 | Pojištění | 300 Kč |
 | Údržba (rezerva) | 500 Kč |
-| **CELKEM** | **1 400 Kč** ✅ |
+| **CELKEM** | **1 400 Kč** |
 
 **Z důchodu zbývá:** 18 000 - 13 200 - 1 400 = **3 400 Kč/měs**
 
@@ -283,7 +318,9 @@ CELKEM: 38 000 Kč ✅
 ### Výsledek:
 
 ✅ **Moderní, teplý dům** (oproti staré chatě)
+
 ✅ **Nízké náklady** (zvládnutelné z důchodu)
+
 ✅ **Bezbariérovost** (vše na jednom patře)
 
 **Josef:** *"Mrzí mě, že jsem to neudělal o 10 let dříve!"*
@@ -294,12 +331,12 @@ CELKEM: 38 000 Kč ✅
 
 | Parametr | Klasický dům (100 m²) | Mobilní dům (45 m²) |
 |----------|---------------------|-------------------|
-| **Cena** | 5 500 000 Kč | 2 800 000 Kč ✅ |
-| **Provozní náklady** | 7 000 Kč/měs | 2 000 Kč/měs ✅ |
-| **Údržba** | Náročná | Snadná ✅ |
-| **Bezbariérovost** | Často schody ❌ | Vše na jednom patře ✅ |
-| **Čas realizace** | 18-24 měsíců | 6-8 měsíců ✅ |
-| **Prodej** | Složitější | Snazší ✅ |
+| **Cena** | 5 500 000 Kč | 2 800 000 Kč |
+| **Provozní náklady** | 7 000 Kč/měs | 2 000 Kč/měs |
+| **Údržba** | Náročná | Snadná |
+| **Bezbariérovost** | Často schody | Vše na jednom patře |
+| **Čas realizace** | 18-24 měsíců | 6-8 měsíců |
+| **Prodej** | Složitější | Snazší |
 
 **Závěr:** Pro seniory je mobilní dům **lepší volba** (nižší cena, náklady, bezbariérovost).
 
@@ -339,6 +376,10 @@ CELKEM: 38 000 Kč ✅
 - Pohodlné
 
 **Cena TČ:** 160 000 Kč (s dotací NZÚ: 80 000 Kč)
+
+---
+
+💡 **Co dělat dál:** Požádejte o dotaci NZÚ na tepelné čerpadlo – ušetříte 80 000 Kč.
 
 ---
 
@@ -424,4 +465,3 @@ Napište nám na **[info@novyrozmerbydleni.cz](mailto:info@novyrozmerbydleni.cz)
 ---
 
 **Klíčová slova:** mobilní dům pro seniory, bezbariérový mobilní dům, bydlení na důchod, levné bydlení senior, mobilní dům důchodce
-

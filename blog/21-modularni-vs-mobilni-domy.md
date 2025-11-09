@@ -7,7 +7,13 @@
 
 ---
 
-## Úvod
+## TL;DR
+
+**Mobilní ≠ Modulární!** Klíčové rozdíly: **Mobilní** = max 55 m², jen oznámení stavby (3-5 měsíců), přemístitelný, 42-48k Kč/m², složitější hypotéka. **Modulární** = bez limitu velikosti, plná povolení (8-14 měsíců), nepřemístitelný, 35-42k Kč/m², snadná hypotéka. **Vyberte mobilní:** pokud stačí 45-55 m², chcete rychle (do 6 měsíců), možná se budete stěhovat. **Vyberte modulární:** pokud potřebujete 80+ m², chcete klasický RD, lepší hodnotu pro budoucnost.
+
+---
+
+## Mobilní vs. modulární: Nejčastější omyl
 
 **"Mobilní dům a modulární dům je to samé, ne?"**
 
@@ -17,16 +23,7 @@ To je **NEJČASTĚJŠÍ omyl**, který lidé dělají!
 
 **Mobilní ≠ Modulární**
 
-Oba typy domů jsou:
-- ✅ Vyrobeny v továrně
-- ✅ Přivezeny na místo (hotové/ve velkých částech)
-- ✅ Dřevostavby
-
-**ALE:** Mají **ZÁSADNÍ rozdíly** v:
-- 📐 Velikosti (limity)
-- 📋 Legislativě (povolení)
-- 💰 Ceně
-- ⏱️ Rychlosti realizace
+Oba typy domů jsou vyrobeny v továrně a přivezeny na místo hotové. Ale mají **ZÁSADNÍ rozdíly** v legislativě, velikosti, ceně a rychlosti realizace.
 
 **V tomto článku najdete:**
 - ✅ **Definice** (co je co)
@@ -67,6 +64,8 @@ Oba typy domů jsou:
 - ⏱️ **Realizace:** 6-12 měsíců
 - 🏡 **Účel:** Trvalé bydlení
 
+👉 **Potřebujete poradit s legislativou?** [Legislativa pro mobilní domy 2025](19-legislativa-2025-kompletni-pruvodce.md)
+
 ---
 
 ## 🔍 7 KLÍČOVÝCH ROZDÍLŮ
@@ -80,8 +79,8 @@ Oba typy domů jsou:
 **Limit:** 55 m² (zastavěná plocha)
 
 **Proč:**
-- Nad 55 m² = už není mobilní dům (podle zákona)
-- = Klasická stavba (potřebujete plná povolení)
+
+Nad 55 m² přestává být mobilní dům ze zákona mobilním domem a stává se klasickou stavbou.
 
 **Typické velikosti:**
 - 35 m² (malý)
@@ -167,6 +166,8 @@ Dům: 4 200 000 - 5 000 000 Kč
 
 **→ Modulární dům je levnější na m²!** (úspora z rozsahu)
 
+👉 **Chcete znát celkové náklady?** [Kolik stojí mobilní dům 2025](04-kolik-stoji-mobilni-dum.md)
+
 ---
 
 ### 4️⃣ Rychlost realizace
@@ -212,10 +213,8 @@ Dům: 4 200 000 - 5 000 000 Kč
 **Technicky přemístitelný:** ANO ✅
 
 **Jak:**
-- Zdvihne se jeřábem
-- Naloží na kamion
-- Převeze na nové místo
-- Znovu usadí
+
+Dům se zdvihne jeřábem, naloží na kamion, převeze a znovu usadí na novém místě.
 
 **Cena přesunu:** 80 000 - 150 000 Kč (50 m²)
 
@@ -231,9 +230,8 @@ Dům: 4 200 000 - 5 000 000 Kč
 **Technicky přemístitelný:** NE (většinou) ❌
 
 **Proč:**
-- Moduly jsou spojené (natvrdo)
-- Bourání a opětovná montáž = nákladné (300 000 - 500 000 Kč)
-- Není to praktické
+
+Moduly jsou spojené natrvalo. Bourání a opětovná montáž by stála 300 000 - 500 000 Kč a není praktické.
 
 **→ Modulární dům = trvalá stavba** (jako klasický RD)
 
@@ -258,6 +256,8 @@ Dům: 4 200 000 - 5 000 000 Kč
 - ČSOB (individuálně) ⚠️
 
 **Úrok:** Často +0,3-0,5% vyšší než klasická stavba
+
+👉 **Potřebujete hypotéku?** [Hypotéka na mobilní dům 2025](03-hypoteka-na-mobilni-dum.md)
 
 ---
 
@@ -301,6 +301,52 @@ Dům: 4 200 000 - 5 000 000 Kč
 
 ---
 
+## ❓ ČASTO KLADENÉ OTÁZKY
+
+### Můžu mobilní dům "rozšířit" na 70 m²?
+
+**Odpověď:** NE (legálně) ❌
+
+**Proč:**
+
+Mobilní dům má zákonný limit 55 m². Nad tuto velikost se jedná o klasickou stavbu vyžadující územní a stavební povolení.
+
+**⚠️ VAROVÁNÍ: Obcházení zákona**
+
+Někteří výrobci nabízejí: "Koupíte 2× mobilní dům 35 m² + spojíme = 70 m²"
+
+**To je nelegální!** Stavební úřad to zamítne a můžete dostat pokutu 100 000 - 500 000 Kč.
+
+---
+
+### Je modulární dům "mobilní"?
+
+**Odpověď:** NE ❌
+
+**Proč:**
+
+Modulární dům je klasická stavba, jen vyrobená v továrně místo na místě. Není přemístitelný a potřebuje plná povolení.
+
+---
+
+### Který je levnější?
+
+**Záleží na velikosti:**
+
+**50 m²:**
+- **Mobilní:** 2,1 - 2,4M ✅ (lepší volba)
+- **Modulární:** Nelze (moc malý)
+
+**80 m²:**
+- **Mobilní:** Nelze (max 55 m²)
+- **Modulární:** 2,8 - 3,4M ✅ (jediná volba)
+
+**120 m²:**
+- **Mobilní:** Nelze (max 55 m²)
+- **Modulární:** 4,2 - 5M ✅ (jediná volba)
+
+---
+
 ## 📊 POROVNÁNÍ (tabulka)
 
 | Kritérium | Mobilní dům | Modulární dům |
@@ -327,6 +373,8 @@ Dům: 4 200 000 - 5 000 000 Kč
 3. **Chcete jednoduchou legislativu** (bez územního/stavebního povolení)
 4. **Možná se budete stěhovat** (přemístitelnost)
 5. **Máte omezený rozpočet** (do 3,5M celkem)
+
+👉 **Zajímá vás mobilní dům pro rodinu?** [Mobilní dům pro mladou rodinu](18-mobilni-dum-pro-mladou-rodinu.md)
 
 ---
 
@@ -386,7 +434,7 @@ Dům: 4 200 000 - 5 000 000 Kč
 - Rodina (4 osoby)
 - Potřebují min. 100 m² (3+kk)
 - Mají pozemek (zastavitelný)
--Chtějí klasický RD (ale rychleji)
+- Chtějí klasický RD (ale rychleji)
 
 **Rozhodnutí:**
 - Modulární dům 120 m² (4+kk): 4 800 000 Kč
@@ -398,52 +446,6 @@ Dům: 4 200 000 - 5 000 000 Kč
 - ✅ Chtějí klasický RD (hodnota pro budoucnost)
 - ✅ Hypotéka snadná (všechny banky)
 - ✅ Rychlejší než stavba na místě (18 měsíců)
-
----
-
-## ❓ ČASTO KLADENÉ OTÁZKY
-
-### Můžu mobilní dům "rozšířit" na 70 m²?
-
-**Odpověď:** NE (legálně) ❌
-
-**Proč:**
-- Mobilní dům = max 55 m²
-- Nad 55 m² = už to není mobilní dům
-- = Klasická stavba (potřebujete územní + stavební povolení)
-
-**Obcházení zákona (2× mobilní dům spojené):**
-- Někteří výrobci nabízejí: "Koupíte 2× mobilní dům 35 m² + spojíme = 70 m²"
-- **POZOR:** To je nelegální! (stavební úřad to zamítne)
-
----
-
-### Je modulární dům "mobilní"?
-
-**Odpověď:** NE ❌
-
-**Proč:**
-- Modulární dům = klasická stavba (jen vyrobená jinde)
-- Není přemístitelný (natrvalo spojené moduly)
-- Potřebuje plná povolení (jako klasická stavba)
-
----
-
-### Který je levnější?
-
-**Záleží na velikosti:**
-
-**50 m²:**
-- **Mobilní:** 2,1 - 2,4M ✅ (lepší volba)
-- **Modulární:** Nelze (moc malý)
-
-**80 m²:**
-- **Mobilní:** Nelze (max 55 m²)
-- **Modulární:** 2,8 - 3,4M ✅ (jediná volba)
-
-**120 m²:**
-- **Mobilní:** Nelze (max 55 m²)
-- **Modulární:** 4,2 - 5M ✅ (jediná volba)
 
 ---
 
@@ -490,4 +492,3 @@ Napište nám na **[info@novyrozmerbydleni.cz](mailto:info@novyrozmerbydleni.cz)
 ---
 
 **Klíčová slova:** modulární vs mobilní domy, rozdíl modulární mobilní dům, mobilní dům do 55 m2, modulární domy legislativa, mobilní dům nebo modulární, co je modulární dům
-

@@ -7,26 +7,35 @@
 
 ---
 
+## TL;DR - Rychlý přehled
+
+**Mobilní dům jako Airbnb = pasivní příjem 170 000 - 300 000 Kč/rok**
+
+**Klíčové čísla (50 m², 40 km od Prahy):**
+- Investice: 3 500 000 Kč (dům + pozemek)
+- Příjem: 476 800 Kč/rok
+- Náklady: 198 000 Kč/rok
+- Čistý zisk: 170 800 Kč/rok (po zdanění)
+- ROI: 20 let (rok 1), 14-15 let (rok 2+)
+
+**MUST-HAVE:**
+✅ Vířivka (hot tub)
+✅ Profesionální fotky
+✅ Lokace max. 90 km od velkého města
+
+**NENÍ PRO:**
+❌ Chcete rychlé peníze
+❌ Nemáte čas na správu
+
+---
+
 ## Úvod
 
-**Investice: 3 500 000 Kč. Roční zisk: 300 000 - 500 000 Kč.** 💰
+Investice 3,5 milionu korun. Roční zisk 300 000 až 500 000 Kč. To je realita Airbnb byznysu s mobilními domy.
 
-To je **AIRBNB BYZNYS** s mobilními domy!
+Proč jsou mobilní domy ideální pro krátkodobé pronájmy? Nižší investice než klasický RD nebo byt, rychlý start (3-6 měsíců), vysoká poptávka po "unikátním ubytování" a nízké provozní náklady.
 
-**Proč je mobilní dům ideální pro Airbnb:**
-- ✅ **Nižší investice** (vs. klasický RD nebo byt)
-- ✅ **Rychlý start** (3-6 měsíců od nápadu po první hosty)
-- ✅ **Vysoká poptávka** (lidé hledají "unikátní ubytování")
-- ✅ **Nízké provozní náklady** (energie, údržba)
-
-**V tomto článku najdete:**
-- ✅ **Kolik můžete vydělat** (reálné kalkulace)
-- ✅ **Jak začít** (krok za krokem)
-- ✅ **Nejlepší lokace** (kde stavět)
-- ✅ **Co hosté chtějí** (vybavení, design)
-- ✅ **Reálné příklady** (úspěšné projekty)
-
-**Pojďme na to!** 🏡💼
+V tomto článku najdete kompletní průvodce od první kalkulace po první hosty. Reálné příklady, detailní rozpočty a tipy od úspěšných provozovatelů.
 
 ---
 
@@ -44,8 +53,10 @@ Vířivka (hot tub): 80 000 Kč
 Marketing (web, fotky): 50 000 Kč
 Rezerva: 120 000 Kč
 ────────────────────────────
-CELKEM: 3 500 000 Kč ✅
+CELKEM: 3 500 000 Kč
 ```
+
+> **Chcete snížit investici? Zjistěte, jak získat dotace až 500 000 Kč v článku [Dotace na mobilní dům 2025](07-dotace-na-mobilni-dum.md).**
 
 ---
 
@@ -62,7 +73,7 @@ CELKEM: 3 500 000 Kč ✅
 Vysoká sezóna: 5 měs × 20 nocí × 3 200 Kč = 320 000 Kč
 Nízká sezóna: 7 měs × 8 nocí × 2 800 Kč = 156 800 Kč
 ────────────────────────────────────────────
-CELKEM: 476 800 Kč/rok ✅
+CELKEM: 476 800 Kč/rok
 ```
 
 ---
@@ -91,12 +102,12 @@ CELKEM: 476 800 Kč/rok ✅
 Příjmy: 476 800 Kč
 Náklady: -198 000 Kč
 ────────────────────
-Hrubý zisk: 278 800 Kč/rok ✅
+Hrubý zisk: 278 800 Kč/rok
 ```
 
 **Daň z příjmu (OSVČ, paušál 9 000 Kč/měs):**
 - Daň: 108 000 Kč/rok (paušální daň)
-- **Čistý zisk: 170 800 Kč/rok** 💰
+- **Čistý zisk: 170 800 Kč/rok**
 
 ---
 
@@ -106,13 +117,12 @@ Hrubý zisk: 278 800 Kč/rok ✅
 Investice: 3 500 000 Kč
 Čistý zisk: 170 800 Kč/rok
 ────────────────────────
-ROI: 20,5 let ⚠️
+ROI: 20,5 let
 ```
 
-**Poznámka:**
-- ROI dlouhá (20 let)
-- **ALE:** Rok 2+ = vyšší obsazenost (recenze) → vyšší zisk (250 000+ Kč/rok) → ROI kratší (14-15 let)
-- + Máte nemovitost (hodnota 2,5-3M po odpočtu hypotéky)
+> **Poznámka:** ROI je dlouhá (20 let), ale rok 2+ = vyšší obsazenost (recenze) → vyšší zisk (250 000+ Kč/rok) → ROI kratší (14-15 let). Plus máte nemovitost (hodnota 2,5-3M po odpočtu hypotéky).
+
+> **Připraveni urychlit ROI? Zkombinujte Airbnb byznys s energeticky úsporným domem. Více v článku [Energeticky úsporný mobilní dům](08-energeticky-usporny-mobilni-dum.md).**
 
 ---
 
@@ -123,9 +133,9 @@ ROI: 20,5 let ⚠️
 #### 1️⃣ **Blízko Prahy** (30-60 km)
 
 **Proč:**
-- ✅ Velká poptávka (Praha = 1,3M obyvatel)
-- ✅ Celoroční obsazenost (víkendy + prázdniny)
-- ✅ Vyšší ceny (3 000 - 4 000 Kč/noc)
+- Velká poptávka (Praha = 1,3M obyvatel)
+- Celoroční obsazenost (víkendy + prázdniny)
+- Vyšší ceny (3 000 - 4 000 Kč/noc)
 
 **Oblasti:**
 - Kokořínsko (50 km od Prahy)
@@ -139,9 +149,9 @@ ROI: 20,5 let ⚠️
 #### 2️⃣ **Hory** (Krkonoše, Šumava, Beskydy)
 
 **Proč:**
-- ✅ Vysoká poptávka (lyžování zima, turistika léto)
-- ✅ Celoroční obsazenost
-- ✅ Premium ceny (3 500 - 5 000 Kč/noc)
+- Vysoká poptávka (lyžování zima, turistika léto)
+- Celoroční obsazenost
+- Premium ceny (3 500 - 5 000 Kč/noc)
 
 **Nejlepší:**
 - Krkonoše (Špindlerův Mlýn, Harrachov)
@@ -155,9 +165,9 @@ ROI: 20,5 let ⚠️
 #### 3️⃣ **U vody** (rybníky, jezera)
 
 **Proč:**
-- ✅ Unikátní zážitek (hosté milují vodu!)
-- ✅ Vysoká obsazenost (léto)
-- ✅ Premium ceny (3 000 - 4 500 Kč/noc)
+- Unikátní zážitek (hosté milují vodu!)
+- Vysoká obsazenost (léto)
+- Premium ceny (3 000 - 4 500 Kč/noc)
 
 **Nejlepší:**
 - Lipno
@@ -167,15 +177,19 @@ ROI: 20,5 let ⚠️
 
 **Cena pozemku:** 1 500 - 3 000 Kč/m² (dražší u vody)
 
+> **VAROVÁNÍ:** Lokace je kritická! Dům 150+ km od velkého města má o 50% nižší obsazenost. Max. vzdálenost: 90 km.
+
 ---
 
 ### Co HLEDAT v pozemku:
 
-- ✅ **Dostupnost:** Max. 2 hodiny z velkého města (Praha, Brno)
-- ✅ **Příroda:** Les, louka, výhled
-- ✅ **Soukromí:** Min. 50 m od sousedů
-- ✅ **Aktivity:** Turistika, cyklo, lyže (v blízkosti)
-- ✅ **Přípojky:** Elektřina alespoň (voda může být studna)
+- **Dostupnost:** Max. 2 hodiny z velkého města (Praha, Brno)
+- **Příroda:** Les, louka, výhled
+- **Soukromí:** Min. 50 m od sousedů
+- **Aktivity:** Turistika, cyklo, lyže (v blízkosti)
+- **Přípojky:** Elektřina alespoň (voda může být studna)
+
+> **Připravujete se na výběr pozemku? Přečtěte si komplexní průvodce [Jak vybrat pozemek](06-jak-vybrat-pozemek.md).**
 
 ---
 
@@ -183,17 +197,19 @@ ROI: 20,5 let ⚠️
 
 ### MUST-HAVE (nutnost):
 
-#### 1️⃣ **Vířivka (hot tub)** 🔥
+#### 1️⃣ **Vířivka (hot tub)**
 
 **Proč:**
-- #1 důvod, proč hosté rezervují!
-- Umožňuje vyšší ceny (+30%)
+
+#1 důvod, proč hosté rezervují! Umožňuje vyšší ceny (+30%).
 
 **Cena:** 60 000 - 100 000 Kč (kvalitní hot tub)
 
 **Provoz:** 3 000 - 5 000 Kč/měs (elektřina + chemie)
 
 **ROI:** 1-2 roky (vyšší příjmy)
+
+> **VAROVÁNÍ:** BEZ vířivky má váš dům o 50% nižší obsazenost než konkurence. Vířivka není optional, je MUST-HAVE!
 
 ---
 
@@ -238,7 +254,8 @@ ROI: 20,5 let ⚠️
 #### 5️⃣ **Kvalitní postele a ložní prádlo**
 
 **Proč:**
-- #1 hodnocení hostů = pohodlí postele!
+
+#1 hodnocení hostů = pohodlí postele!
 
 **Investice:**
 - Kvalitní matrace: 15 000 - 25 000 Kč/ks
@@ -248,20 +265,20 @@ ROI: 20,5 let ⚠️
 
 ### NICE-TO-HAVE (zvýší obsazenost):
 
-- 🔥 **Krb nebo kamna** (romantika)
-- 🎮 **Stolní hry, knihy** (zábava)
-- 🐕 **Pet-friendly** (psi vítáni → +20% obsazenost)
-- 🍿 **Netflix, TV** (večerní relax)
-- 🚴 **Kola, koloběžky** (aktivní odpočinek)
-- 🧺 **Piknikový koš** (výlety do přírody)
+- **Krb nebo kamna** (romantika)
+- **Stolní hry, knihy** (zábava)
+- **Pet-friendly** (psi vítáni → +20% obsazenost)
+- **Netflix, TV** (večerní relax)
+- **Kola, koloběžky** (aktivní odpočinek)
+- **Piknikový koš** (výlety do přírody)
 
 ---
 
 ## 🎨 DESIGN (Instagram-worthy)
 
 **Proč je design důležitý:**
-- ✅ Hosté REZERVUJÍ podle fotek!
-- ✅ Krásné fotky = více rezervací
+
+Hosté REZERVUJÍ podle fotek! Krásné fotky = více rezervací.
 
 **Trendy 2025:**
 
@@ -304,7 +321,8 @@ ROI: 20,5 let ⚠️
 ### 1️⃣ **Profesionální fotky** (NUTNÉ!)
 
 **Proč:**
-- 90% hostů rozhoduje podle fotek!
+
+90% hostů rozhoduje podle fotek!
 
 **Co fotografovat:**
 - Exteriér (z různých úhlů)
@@ -316,24 +334,26 @@ ROI: 20,5 let ⚠️
 
 **ROI:** Okamžitý (více rezervací)
 
+> **VAROVÁNÍ:** Špatné fotky = 0 rezervací! Profesionální fotky jsou investice s nejrychlejší návratností. Nikdy nefotit mobilem!
+
 ---
 
 ### 2️⃣ **Airbnb optimalizace**
 
 **Co dělat:**
-- ✅ **Titulek:** Catching (např. "Luxusní mobilní dům s vířivkou a výhledem")
-- ✅ **Popis:** Detailní (co je v okolí, aktivity)
-- ✅ **Cena:** Konkurenceschopná (zkontrolujte okolí)
-- ✅ **Instant booking:** ANO (vyšší obsazenost)
-- ✅ **Superhost:** Cíl (lepší umístění v search)
+- **Titulek:** Catching (např. "Luxusní mobilní dům s vířivkou a výhledem")
+- **Popis:** Detailní (co je v okolí, aktivity)
+- **Cena:** Konkurenceschopná (zkontrolujte okolí)
+- **Instant booking:** ANO (vyšší obsazenost)
+- **Superhost:** Cíl (lepší umístění v search)
 
 ---
 
 ### 3️⃣ **Recenze (nejdůležitější!)**
 
 **Proč:**
-- Hosté NEREZERVUJÍ bez recenzí!
-- 5× recenzí 5★ = +50% obsazenost
+
+Hosté NEREZERVUJÍ bez recenzí! 5× recenzí 5★ = +50% obsazenost.
 
 **Jak získat dobré recenze:**
 1. **Překvapte hosty:** Dárek (víno, koláč, čokoláda)
@@ -380,11 +400,13 @@ ROI: 20,5 let ⚠️
 - **Hypotéka:** 80% (2 800 000 Kč)
 
 **Banky pro Airbnb byznys:**
-- ✅ Raiffeisenbank (nejlepší pro investice)
-- ✅ Fio banka
-- ⚠️ ČSOB (individuálně)
+- **Raiffeisenbank** (nejlepší pro investice)
+- **Fio banka**
+- **ČSOB** (individuálně)
 
 **Úrok:** 6,0 - 7,0% (investiční nemovitost = vyšší úrok)
+
+> **Více informací o hypotéce najdete v článku [Hypotéka na mobilní dům](03-hypoteka-na-mobilni-dum.md).**
 
 ---
 
@@ -423,7 +445,7 @@ ROI: 20,5 let ⚠️
 
 **Čas:** 4-8 týdnů
 
-**Montáž domu:** 1-3 dny ✅
+**Montáž domu:** 1-3 dny
 
 ---
 
@@ -455,8 +477,9 @@ ROI: 20,5 let ⚠️
 ### Krok 8: Spuštění a první hosté!
 
 **První rezervace:**
-- Nabídněte slevu (-20%) pro první 3 hosty
-- **Cíl:** Získat 5× recenzí 5★ (pak zdražte na plnou cenu)
+
+Nabídněte slevu (-20%) pro první 3 hosty.
+**Cíl:** Získat 5× recenzí 5★ (pak zdražte na plnou cenu).
 
 **Čas:** 1-2 měsíce (první hosté)
 
@@ -467,8 +490,8 @@ ROI: 20,5 let ⚠️
 ### TIP 1: Pet-friendly (psi vítáni)
 
 **Proč:**
-- +20% obsazenost (mnoho lidí hledá ubytování pro psy)
-- Můžete účtovat +300 Kč/noc (poplatek za psa)
+
++20% obsazenost (mnoho lidí hledá ubytování pro psy). Můžete účtovat +300 Kč/noc (poplatek za psa).
 
 **Extra náklady:**
 - Důkladnější úklid: +50 Kč/úklid
@@ -490,9 +513,9 @@ ROI: 20,5 let ⚠️
 ### TIP 3: Automatizace (smart home)
 
 **Co automatizovat:**
-- 🔐 Zámek (kód pro hosty, žádné předávání klíčů)
-- 🌡️ Topení (automatické zapnutí před příjezdem)
-- 💡 Osvětlení (časovač)
+- Zámek (kód pro hosty, žádné předávání klíčů)
+- Topení (automatické zapnutí před příjezdem)
+- Osvětlení (časovač)
 
 **Cena:** 30 000 - 60 000 Kč
 
@@ -505,33 +528,36 @@ ROI: 20,5 let ⚠️
 ### ❌ Chyba 1: Špatná lokace (příliš daleko)
 
 **Problém:**
+
 > *"Postavil jsem mobilní dům 150 km od Prahy. Myslel jsem, že to stačí. Obsazenost: 30% (vs. 70% konkurence blíž). Rok 1: ztráta 80 000 Kč!"* – Martin (42)
 
-**Řešení:** Max. 90 km od velkého města ✅
+**Řešení:** Max. 90 km od velkého města
 
 ---
 
 ### ❌ Chyba 2: Bez vířivky
 
 **Problém:**
+
 > *"Chtěl jsem ušetřit (bez hot tubu). Konkurence s hot tubem měla 2× více rezervací! Musel jsem koupit později → extra 120 000 Kč."* – Jana (38)
 
-**Řešení:** Hot tub = MUST (není optional!) ✅
+**Řešení:** Hot tub = MUST (není optional!)
 
 ---
 
 ### ❌ Chyba 3: Špatné fotky
 
 **Problém:**
+
 > *"Fotil jsem sám (mobilem). Rezervace: 0 první měsíc! Najal jsem fotografa → +10 rezervací druhý měsíc!"* – Petr (45)
 
-**Řešení:** VŽDY profesionální fotky (ROI okamžitý) ✅
+**Řešení:** VŽDY profesionální fotky (ROI okamžitý)
 
 ---
 
 ## 🎯 Závěr: Vyplatí se Airbnb byznys?
 
-**ANO!** ✅ (pokud máte správnou lokaci + vybavení)
+**ANO!** (pokud máte správnou lokaci + vybavení)
 
 **Proč:**
 - **ROI:** 12-20 let (pasivní příjem)
@@ -539,26 +565,24 @@ ROI: 20,5 let ⚠️
 - **Nemovitost:** Máte majetek (hodnota 2,5-3M)
 
 **Pro koho:**
-- ✅ Máte kapitál (700k vlastních + hypotéka)
-- ✅ Jste šikovní (údržba, komunikace)
-- ✅ Chcete pasivní příjem
+- Máte kapitál (700k vlastních + hypotéka)
+- Jste šikovní (údržba, komunikace)
+- Chcete pasivní příjem
 
 **Není pro:**
-- ❌ Chcete rychlé peníze (ROI dlouhá)
-- ❌ Nemáte čas (úklid, komunikace, údržba)
+- Chcete rychlé peníze (ROI dlouhá)
+- Nemáte čas (úklid, komunikace, údržba)
 
 ---
 
 ## 📞 Chcete začít s Airbnb?
 
 Napište nám na **[info@novyrozmerbydleni.cz](mailto:info@novyrozmerbydleni.cz)** a pomůžeme vám:
-- ✅ Vybrat lokaci (kde stavět)
-- ✅ Navrhnout dům (design + vybavení)
-- ✅ Spočítat ROI (reálné čísla pro váš projekt)
+- Vybrat lokaci (kde stavět)
+- Navrhnout dům (design + vybavení)
+- Spočítat ROI (reálné čísla pro váš projekt)
 
 ---
-
-**Líbil se vám článek? Sdílejte ho!**
 
 **Další články:**
 - [Kolik stojí mobilní dům](04-kolik-stoji-mobilni-dum.md)
@@ -568,4 +592,3 @@ Napište nám na **[info@novyrozmerbydleni.cz](mailto:info@novyrozmerbydleni.cz)
 ---
 
 **Klíčová slova:** Airbnb mobilní dům, byznys mobilní domy, pronájem mobilní dům, investice Airbnb, pasivní příjem mobilní dům, mobilní dům s vířivkou
-

@@ -7,18 +7,30 @@
 
 ---
 
+## ⚡ TL;DR (Rychlý přehled)
+
+**Hlavní bod 1:** Hypotéka na mobilní dům JE možná, ale jen s kolaudací a zápisem do katastru
+**Hlavní bod 2:** Pouze 3 banky půjčují: ČSOB, Raiffeisenbank, Moneta (úrok 5,5-6,5%)
+**Hlavní bod 3:** Banka půjčí max. 80% hodnoty, musíte mít vlastní prostředky na 20%
+**Top tip:** Nejdřív získejte předběžné schválení hypotéky, PAK teprve objednávejte dům
+**Největší chyba:** Objednat mobilní dům bez kolaudace a pak zjistit, že na něj nedostanete hypotéku
+
+---
+
 ## Úvod
 
-Chcete si koupit mobilní dům a nevíte, jak ho financovat? **Dobrá zpráva:** Hypotéka na mobilní dům je možná! **Špatná zpráva:** Ne vždycky a ne u všech bank.
+Představte si: Našli jste perfektní mobilní dům za 2 miliony. Zaplatili jste zálohu 600 tisíc. A pak vám banka řekne: "Bez kolaudace vám hypotéku nedáme." Co teď? Záloha je pryč, dům je na cestě, a vy nemáte jak zaplatit.
+
+Této situaci se můžete vyhnout. Chcete si koupit mobilní dům a nevíte, jak ho financovat? Dobrá zpráva: Hypotéka na mobilní dům je možná! Špatná zpráva: Ne vždycky a ne u všech bank.
 
 V tomto článku se dozvíte:
-- ✅ **Kdy můžete** (a kdy nemůžete) dostat hypotéku
-- ✅ **Které banky** půjčují na mobilní domy
-- ✅ **Jaké podmínky** musíte splnit
-- ✅ **Krok za krokem** průvodce žádostí
-- ✅ **Alternativy** k hypotéce
+- ✅ Kdy můžete (a kdy nemůžete) dostat hypotéku
+- ✅ Které banky půjčují na mobilní domy
+- ✅ Jaké podmínky musíte splnit
+- ✅ Krok za krokem průvodce žádostí
+- ✅ Alternativy k hypotéce
 
-**Pojďme na to!** 💰
+Pojďme na to!
 
 ---
 
@@ -26,27 +38,24 @@ V tomto článku se dozvíte:
 
 ### Základní podmínka: Mobilní dům = STAVBA
 
-Banky poskytují hypotéku pouze na **nemovitost**. To znamená, že váš mobilní dům musí být:
+Banky poskytují hypotéku pouze na nemovitost. To znamená, že váš mobilní dům musí být:
 
-✅ **Zapsaný v katastru nemovitostí** (jako stavba spojená se zemí)
-✅ **Kolaudovaný** (má číslo evidenční nebo popisné)
-✅ **Trvalý** (ne dočasný)
-✅ **Na vašem pozemku** (nebo s právem stavby)
+✅ Zapsaný v katastru nemovitostí (jako stavba spojená se zemí)
+✅ Kolaudovaný (má číslo evidenční nebo popisné)
+✅ Trvalý (ne dočasný)
+✅ Na vašem pozemku (nebo s právem stavby)
 
----
+⚠️ **VAROVÁNÍ:** Nový stavební zákon (283/2021 Sb.) od července 2024 stanoví, že mobilní domy do 55 m² nepotřebují kolaudaci. Bez kolaudace nejsou v katastru. Nejsou v katastru = banka na ně nedá hypotéku!
 
 ### Problém s mobilními domy pod 55 m²:
-
-**Nový stavební zákon (283/2021 Sb.) od července 2024:**
-- Mobilní domy **do 55 m² nepotřebují kolaudaci**
-- Bez kolaudace → nejsou v katastru
-- Nejsou v katastru → **banka na ně nedá hypotéku** ❌
 
 **Řešení:**
 1. **Dobrovolná kolaudace** – i když ji nepotřebujete, můžete ji udělat
 2. **Větší mobilní dům** (nad 55 m²) – automaticky potřebuje kolaudaci
 3. **Spotřebitelský úvěr** – místo hypotéky (dražší)
 
+---
+💡 **Co dělat dál:** Pokud plánujete hypotéku, zvolte dům nad 55 m² nebo požádejte o dobrovolnou kolaudaci.
 ---
 
 ## 🏦 Které banky půjčují na mobilní domy?
@@ -62,13 +71,15 @@ Ne všechny banky akceptují mobilní domy jako zástavu. Zde je přehled:
 | **Komerční banka** | ❌ NE | Akceptuje jen klasické stavby | - |
 | **UniCredit Bank** | ⚠️ Výjimečně | Jen pro velké mobilní domy (80+ m²) | 6 - 7% |
 
-**Závěr:** **ČSOB a Raiffeisenbank** jsou nejlepší volby pro hypotéku na mobilní dům.
+**ČSOB a Raiffeisenbank** jsou nejlepší volby pro hypotéku na mobilní dům.
 
+---
+💡 **Co dělat dál:** Zavolejte do ČSOB a Raiffeisenbank, porovnejte nabídky a vyjednejte lepší úrok.
 ---
 
 ## ✅ Jaké podmínky musíte splnit?
 
-### 1. **Podmínky týkající se DOMU:**
+### 1. Podmínky týkající se DOMU:
 
 ✅ **Kolaudace** – mobilní dům musí být zkolaudovaný
 ✅ **Zápis v katastru** – jako stavba spojená se zemí
@@ -76,9 +87,7 @@ Ne všechny banky akceptují mobilní domy jako zástavu. Zde je přehled:
 ✅ **Technický stav** – dobrý (posudek znalce)
 ✅ **Pozemek** – vlastní nebo právo stavby
 
----
-
-### 2. **Podmínky týkající se VÁS:**
+### 2. Podmínky týkající se VÁS:
 
 ✅ **Věk:** 18-70 let (u některých bank do 75)
 ✅ **Příjem:** Minimálně 25 000 Kč čistého (liší se dle banky)
@@ -86,15 +95,15 @@ Ne všechny banky akceptují mobilní domy jako zástavu. Zde je přehled:
 ✅ **Nezadluženost:** Žádné exekuce, insolvence
 ✅ **Dobrá platební morálka:** Žádné pozdní splátky úvěrů
 
----
-
-### 3. **Podmínky týkající se POZEMKU:**
+### 3. Podmínky týkající se POZEMKU:
 
 ✅ **Vlastnictví:** Pozemek musíte vlastnit (nebo spoluvlastnictví s manželem/partnerem)
 ✅ **Územní plán:** Pozemek určený k bydlení
 ✅ **Přístup:** Pozemek má přístupovou cestu
 ✅ **Sítě:** Elektřina a voda (připojené nebo přípojky schválené)
 
+---
+💡 **Co dělat dál:** Projděte si checklist výše a zkontrolujte, zda splňujete všechny podmínky.
 ---
 
 ## 📋 Krok za krokem: Jak získat hypotéku na mobilní dům
@@ -123,25 +132,28 @@ Ne všechny banky akceptují mobilní domy jako zástavu. Zde je přehled:
 ### Krok 2: Předběžná schůzka s bankéřem (1 týden)
 
 **Co udělat:**
-1. **Zavolejte do banky** – domluvte si schůzku s hypotečním poradcem
-2. **Připravte dotazy:**
+
+1. Zavolejte do banky – domluvte si schůzku s hypotečním poradcem
+2. Připravte dotazy:
    - Jaké jsou podmínky pro mobilní dům?
    - Kolik maximálně můžu dostat?
    - Jaký bude úrok?
    - Jaké jsou poplatky?
-3. **Nezavazujte se hned!** – projděte si nabídky více bank
+3. Nezavazujte se hned! – projděte si nabídky více bank
 
-**Tip:** Využijte **hypotečního makléře** (zdarma) – porovná nabídky za vás.
+**Tip:** Využijte hypotečního makléře (zdarma) – porovná nabídky za vás.
 
 ---
 
 ### Krok 3: Podání žádosti (1-2 dny)
 
 **Co budete potřebovat:**
+
 - Všechny dokumenty z Kroku 1
 - Vyplněná žádost o hypotéku (online nebo na pobočce)
 
 **Banka ověří:**
+
 - ✅ Váš příjem (zda stačí na splátky)
 - ✅ Vaši bonitu (historie splátek)
 - ✅ Hodnotu domu (znalecký posudek)
@@ -151,18 +163,20 @@ Ne všechny banky akceptují mobilní domy jako zástavu. Zde je přehled:
 ### Krok 4: Znalecký posudek (2-4 týdny)
 
 **Co to je:**
-Znalec z banky přijede na pozemek a **ocení mobilní dům** (a pozemek).
+
+Znalec z banky přijede na pozemek a ocení mobilní dům (a pozemek).
 
 **Cena:** 3 000 - 8 000 Kč (platíte vy)
 
 **Co znalec hodnotí:**
+
 - Technický stav domu
 - Kvalita konstrukce
 - Vybavení
 - Umístění (lokalita)
 - Hodnota pozemku
 
-**POZOR:** Znalec může ocenit dům **NIŽŠÍ** než kupní cena!
+⚠️ **VAROVÁNÍ:** Znalec může ocenit dům NIŽŠÍ než kupní cena!
 
 **Příklad:**
 ```
@@ -177,37 +191,44 @@ Vlastní prostředky: 2 200 000 - 1 440 000 = 760 000 Kč
 ### Krok 5: Schválení hypotéky (1-3 týdny)
 
 **Banka rozhodne:**
+
 - ✅ **Schváleno** – hurá!
 - ⚠️ **Schváleno s výhradou** – musíte splnit další podmínky
 - ❌ **Zamítnuto** – zkuste jinou banku nebo spotřebitelský úvěr
 
 **Pokud schváleno:**
-Banka vám pošle **návrh smlouvy** – důkladně si ji přečtěte!
+
+Banka vám pošle návrh smlouvy – důkladně si ji přečtěte!
 
 ---
 
 ### Krok 6: Podpis smlouvy + čerpání (1-2 týdny)
 
 **Co podepíšete:**
+
 - Smlouva o hypotečním úvěru
 - Zástavní smlouva (zastava = dům + pozemek)
 - Pojistná smlouva (pojištění nemovitosti je většinou povinné)
 
 **Čerpání peněz:**
+
 - **Jednorázově** – celá částka najednou (pokud už je dům hotový)
 - **Po etapách** – pokud se teprve staví
 
 **Peníze jdou:**
+
 - Prodávajícímu (pokud kupujete hotový dům)
 - Výrobci (pokud objednáváte nový)
 
+---
+💡 **Co dělat dál:** Přečtěte si smlouvu 2x a zkontrolujte všechny parametry (úrok, splátka, poplatky).
 ---
 
 ## 💰 Kolik můžete dostat?
 
 ### LTV (Loan-to-Value):
 
-**Banky půjčí max. 80-90% hodnoty nemovitosti.**
+Banky půjčí max. 80-90% hodnoty nemovitosti.
 
 **Příklad:**
 ```
@@ -219,9 +240,7 @@ Hypotéka max. (80% LTV): 2 400 000 Kč
 Vlastní prostředky min.: 600 000 Kč
 ```
 
-**POZOR:** Pokud nemáte vlastní prostředky, můžete:
-- ✅ Kombinovat hypotéku + spotřebitelský úvěr (na chybějících 20%)
-- ✅ Použít dotace (NZÚ, Úvěr od rodin)
+⚠️ **VAROVÁNÍ:** Pokud nemáte vlastní prostředky, můžete kombinovat hypotéku + spotřebitelský úvěr (na chybějících 20%) nebo použít dotace (NZÚ, Úvěr od rodin).
 
 ---
 
@@ -238,8 +257,6 @@ Vlastní prostředky min.: 600 000 Kč
 
 **Celkem zaplatíte:** 3 870 000 Kč (z toho 1 870 000 Kč úroků)
 
----
-
 ### Vliv splatnosti na splátku:
 
 | Splatnost | Měsíční splátka | Celkem zaplatíte |
@@ -249,11 +266,29 @@ Vlastní prostředky min.: 600 000 Kč
 | **25 let** | 12 900 Kč | 3 870 000 Kč |
 | **30 let** | 12 000 Kč | 4 320 000 Kč |
 
-**Závěr:** Kratší splatnost = vyšší splátka, ale **nižší celkové náklady**.
+Kratší splatnost = vyšší splátka, ale nižší celkové náklady.
 
+---
+💡 **Co dělat dál:** Použijte hypoteční kalkulačku a zjistěte, jaká splátka je pro vás únosná.
 ---
 
 ## 🚫 Co když vám NEDAJÍ hypotéku?
+
+## FAQ: Často kladené otázky
+
+### 1. Je mobilní dům levnější než klasická stavba?
+
+Ano, pokud porovnáváte celkovou investici. Ale cena za m² je vyšší.
+
+### 2. Dá se ušetřit na kvalitě izolace?
+
+NE! Špatná izolace = vysoké náklady na vytápění (celoživotně). Investujte do dobré izolace (min. 150 mm).
+
+### 3. Kolik stojí údržba ročně?
+
+10 000 - 20 000 Kč/rok (v závislosti na velikosti a kvalitě domu).
+
+---
 
 ### Alternativy:
 
@@ -282,8 +317,9 @@ Měsíční splátka: 26 400 Kč ⚠️
 #### 2️⃣ **Stavební spoření**
 
 **Princip:**
+
 - Spoříte 2-5 let
-- Pak si půjčíte za **nižší úrok** (4-5%)
+- Pak si půjčíte za nižší úrok (4-5%)
 
 **Výhody:**
 - ✅ Nižší úrok než spotřebitelský
@@ -313,6 +349,7 @@ CELKEM: 19 500 Kč/měs
 #### 4️⃣ **Leasing**
 
 **Princip:**
+
 - Firma koupí mobilní dům a pronajme vám ho
 - Po x letech odkoupíte (nebo vrátíte)
 
@@ -325,12 +362,14 @@ CELKEM: 19 500 Kč/měs
 - ❌ Celkové náklady vyšší než úvěr
 
 ---
+💡 **Co dělat dál:** Pokud vám banky odmítly hypotéku, zkuste kombinaci hypotéka (na co můžete) + spotřebitelský úvěr (na zbytek).
+---
 
 ## 💡 Tipy jak zvýšit šanci na schválení
 
-### 1. **Mějte spolužadatele**
+### 1. Mějte spolužadatele
 
-Pokud máte partnera/manželku s příjmem → **přidejte ho/ji jako spolužadatele**.
+Pokud máte partnera/manželku s příjmem → přidejte ho/ji jako spolužadatele.
 
 **Výhoda:** Banka počítá s oběma příjmy → můžete dostat víc.
 
@@ -341,32 +380,29 @@ Příjem partnera: 28 000 Kč
 CELKEM: 63 000 Kč → banka půjčí víc!
 ```
 
----
-
-### 2. **Vyčistěte si úvěrovou historii**
+### 2. Vyčistěte si úvěrovou historii
 
 - Splaťte malé úvěry (kreditky, kontokorenty)
 - Zrušte nevyužívané úvěrové rámce
 - Zaplaťte všechny exekuce (pokud máte)
 
----
+### 3. Zvyšte vlastní prostředky
 
-### 3. **Zvyšte vlastní prostředky**
+Čím více vlastních peněz máte, tím lepší:
 
-**Čím více vlastních peněz máte, tím lepší:**
 - Vyšší vlastní podíl (30% místo 20%) → banka dá lepší úrok
 - Nižší LTV → menší riziko pro banku
 
----
+### 4. Zvolte delší splatnost (můžete předčasně splatit)
 
-### 4. **Zvolte delší splatnost (můžete předčasně splatit)**
-
-Pokud si nejste jisti, zvolte **delší splatnost** (nižší splátka) → schválení snazší.
+Pokud si nejste jisti, zvolte delší splatnost (nižší splátka) → schválení snazší.
 
 Pak můžete:
 - Předčasně splácet (zkrátit dobu)
 - Nebo ponechat nižší splátku (pokud potřebujete rezervu)
 
+---
+💡 **Co dělat dál:** Pokud máte partnera, požádejte o hypotéku společně. Zvýšíte šanci na schválení.
 ---
 
 ## 🔍 Časté chyby, kterým se vyhnout
@@ -374,20 +410,26 @@ Pak můžete:
 ### ❌ Chyba 1: Objednat dům BEZ schválené hypotéky
 
 **Realita:**
+
 - Objednáte dům → zaplatíte zálohu 30% → banka hypotéku NESCHVÁLÍ → ztráta zálohy ❌
 
 **Správně:**
+
 - Nejdřív žádost o hypotéku → pak objednávka domu ✅
+
+⚠️ **VAROVÁNÍ:** VŽDY získejte předběžné schválení hypotéky PŘED objednávkou domu!
 
 ---
 
 ### ❌ Chyba 2: Počítat jen s cenou "pod klíč"
 
 **Realita:**
+
 - Dům "pod klíč" 2M → ale pak přípojky 200k, základy 50k, ČOV 150k...
 - Celkem 2,4M → hypotéka na 2M nestačí ❌
 
 **Správně:**
+
 - Spočítejte CELKOVÝ rozpočet (vč. pozemku, přípojek, atd.)
 - Žádejte hypotéku na celou částku ✅
 
@@ -396,22 +438,30 @@ Pak můžete:
 ### ❌ Chyba 3: Nezajistit si kolaudaci
 
 **Realita:**
+
 - Mobilní dům pod 55 m² → bez kolaudace → banka nedá hypotéku ❌
 
 **Správně:**
+
 - Pokud potřebujete hypotéku → VŽDY žádejte kolaudaci (i když ji formálně nepotřebujete) ✅
 
+⚠️ **VAROVÁNÍ:** Bez kolaudace = bez hypotéky!
+
+---
+💡 **Co dělat dál:** Ujistěte se, že vaše kalkulace zahrnuje VŠECHNY náklady, ne jen cenu domu.
 ---
 
 ## 🎯 Závěr: Je hypotéka na mobilní dům dobrý nápad?
 
 **ANO, pokud:**
-- ✅ Váš mobilní dům bude **zkolaudovaný a v katastru**
-- ✅ Máte **stabilní příjem** a dobrou platební morálku
-- ✅ Chcete **nižší úrok** než u spotřebitelského úvěru
-- ✅ Máte **vlastní prostředky** na 20-30% (nebo dotace)
+
+- ✅ Váš mobilní dům bude zkolaudovaný a v katastru
+- ✅ Máte stabilní příjem a dobrou platební morálku
+- ✅ Chcete nižší úrok než u spotřebitelského úvěru
+- ✅ Máte vlastní prostředky na 20-30% (nebo dotace)
 
 **NE, pokud:**
+
 - ❌ Váš dům nebude kolaudovaný (pod 55 m² a nechcete dobrovolnou kolaudaci)
 - ❌ Nemáte stabilní příjem
 - ❌ Chcete to mít rychle (hypotéka trvá 1-2 měsíce)
@@ -421,6 +471,7 @@ Pak můžete:
 ## 📞 Potřebujete pomoc s financováním?
 
 Napište nám na **[info@novyrozmerbydleni.cz](mailto:info@novyrozmerbydleni.cz)** a pomůžeme vám:
+
 - ✅ Zjistit, zda máte nárok na hypotéku
 - ✅ Porovnat nabídky bank
 - ✅ Optimalizovat financování (kombinace úvěrů, dotace)
@@ -432,9 +483,8 @@ Napište nám na **[info@novyrozmerbydleni.cz](mailto:info@novyrozmerbydleni.cz)
 **Další články:**
 - [Mobilní dům vs. klasická stavba: Co se vyplatí víc?](01-mobilni-dum-vs-klasicka-stavba.md)
 - [10 věcí, které nikdo neříká o mobilních domech](02-10-veci-ktere-nikdo-nerika.md)
-- [Dotace na mobilní dům 2025: Jak získat až 500 000 Kč](#)
+- [Dotace na mobilní dům 2025: Jak získat až 500 000 Kč](07-dotace-na-mobilni-dum.md)
 
 ---
 
 **Klíčová slova:** hypotéka na mobilní dům, úvěr na mobilní dům, financování mobilního domu, hypotéka dřevostavba, ČSOB hypotéka mobilní dům, podmínky hypotéky mobilní dům
-

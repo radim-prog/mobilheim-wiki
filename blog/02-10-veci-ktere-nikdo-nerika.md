@@ -1,17 +1,30 @@
-# 10 věcí, které nikdo neříká o mobilních domech (pravda bez příkras)
+# 11 věcí, které nikdo neříká o mobilních domech (pravda bez příkras)
 
 **Datum:** 20. října 2025
 **Autor:** Mobilheim Wiki
 **Kategorie:** Průvodce, Pravda o mobilních domech
-**Čas čtení:** 10 minut
+**Čas čtení:** 12 minut
+
+---
+
+## ⚡ TL;DR (Rychlý přehled)
+
+**Hlavní bod 1:** Mobilní domy vydrží 40-60 let (ne 100 let jako klasické stavby)
+**Hlavní bod 2:** Hypotéka je možná, ale jen s kolaudací a zápisem do katastru
+**Hlavní bod 3:** Skutečná cena je 50-80% vyšší než cena "pod klíč" (přípojky, pozemek, ČOV...)
+**Hlavní bod 4:** Prodej mobilního domu trvá 4x déle než klasického domu (6-18 měsíců) se slevami 20-35%
+**Top tip:** Nejdřív ověřte financování a územní plán, PAK teprve objednávejte dům
+**Největší chyba:** Počítat jen s cenou "pod klíč" bez přípojek, pozemku a skrytých nákladů
 
 ---
 
 ## Úvod
 
-Plánujete koupi mobilního domu? Skvělé! Ale **pozor** – většina článků a výrobců vám řekne jen ty hezké věci. V tomto článku se podíváme na **realitu bez příkras**.
+Představte si: Stojíte před prodejcem mobilních domů. "To je 1,8 milionu," říká. Ale co vám NEŘEKNE? Že budete potřebovat ještě dalších 800 tisíc na přípojky, základy a ČOV. Že banka vám možná nedá hypotéku. Že za 40 let budete potřebovat generální opravu.
 
-Neznamená to, že jsou mobilní domy špatné! Právě naopak – pokud víte, do čeho jdete, může to být **nejlepší rozhodnutí vašeho života**. Ale musíte znát i **stinné stránky**.
+Plánujete koupi mobilního domu? Skvělé! Ale pozor – většina článků a výrobců vám řekne jen ty hezké věci. V tomto článku se podíváme na realitu bez příkras, ale s fakty a čísly.
+
+Neznamená to, že jsou mobilní domy špatné! Právě naopak – pokud víte, do čeho jdete, může to být nejlepší rozhodnutí vašeho života. Ale musíte znát i stinné stránky.
 
 **V tomto článku najdete:**
 - ✅ Pravdu o životnosti (spoiler: není to 100 let!)
@@ -30,24 +43,27 @@ Neznamená to, že jsou mobilní domy špatné! Právě naopak – pokud víte, 
 
 ### Realita:
 
-**Ano, dům může vydržet 50-60 let.** Ale:
+Ano, dům může vydržet 50-60 let. Ale zde jsou realistická čísla pro jednotlivé komponenty:
+
 - **Konstrukce**: 40-50 let (dřevo časem degraduje)
 - **Střešní krytina**: 15-25 let (pak výměna)
 - **Okna**: 20-30 let
 - **Instalace**: 25-35 let
 
 **Porovnání s klasickou stavbou:**
-- Zděný dům: **80-100 let** (někdy i déle)
-- Mobilní dům: **40-60 let**
+- Zděný dům: 80-100 let (někdy i déle)
+- Mobilní dům: 40-60 let
 
 ### Proč je to OK?
 
-✅ **Za 40 let technologie pokročí** – možná budete chtít modernější dům
-✅ **Nižší vstupní investice** – za cenu mobilního domu můžete mít bydlení teď
-✅ **Flexibilita** – můžete ho prodat nebo přemístit
+✅ Za 40 let technologie pokročí – možná budete chtít modernější dům
+✅ Nižší vstupní investice – za cenu mobilního domu můžete mít bydlení teď
+✅ Flexibilita – můžete ho prodat nebo přemístit
 
-**Závěr:** Kratší životnost neznamená špatná investice. Jen musíte vědět, že za 40 let budete pravděpodobně potřebovat generální opravu nebo nový dům.
+⚠️ **VAROVÁNÍ:** Kratší životnost neznamená špatná investice. Jen musíte vědět, že za 40 let budete pravděpodobně potřebovat generální opravu nebo nový dům.
 
+---
+💡 **Co dělat dál:** Pokud plánujete bydlení na 50+ let, zvažte klasickou stavbu. Pokud potřebujete rychlé a dostupné řešení na 30-40 let, mobilní dům je skvělá volba.
 ---
 
 ## 2️⃣ Banky dají hypotéku jen za přísných podmínek
@@ -58,11 +74,12 @@ Neznamená to, že jsou mobilní domy špatné! Právě naopak – pokud víte, 
 
 ### Realita:
 
-**Ano, hypotéka je možná.** Ale:
-- ❌ **Jen s kolaudací** (mobilní domy pod 55 m² ji nemají!)
-- ❌ **Jen se zápisem do katastru** (jako stavba spojen se zemí)
-- ❌ **Vyšší úrok** (banka vidí vyšší riziko než u klasické stavby)
-- ❌ **Ne všechny banky** (jen ČSOB, Raiffeisenbank, Moneta)
+Ano, hypotéka na mobilní dům je možná. Ale pozor na podmínky:
+
+- ❌ Jen s kolaudací (mobilní domy pod 55 m² ji nemají!)
+- ❌ Jen se zápisem do katastru (jako stavba spojen se zemí)
+- ❌ Vyšší úrok (banka vidí vyšší riziko než u klasické stavby)
+- ❌ Ne všechny banky (jen ČSOB, Raiffeisenbank, Moneta)
 
 ### Alternativy:
 
@@ -72,7 +89,7 @@ Neznamená to, že jsou mobilní domy špatné! Právě naopak – pokud víte, 
 | **Spotřebitelský úvěr** | 9-12% | 5-10 let | Žádné ❌ |
 | **Stavební spoření** | 4-5% | 10-15 let | Vázací doba ⏱️ |
 
-**Realita:** Většina lidí končí se **spotřebitelským úvěrem** (dražší úrok, kratší splatnost).
+Realita: Většina lidí končí se spotřebitelským úvěrem (dražší úrok, kratší splatnost).
 
 **Příklad:**
 ```
@@ -82,8 +99,10 @@ Hypotéka (5%, 20 let): 13 200 Kč/měs
 ROZDÍL: 13 200 Kč/měs = 158 400 Kč/rok!
 ```
 
-**Závěr:** Než si objednáte mobilní dům, **nejdříve si ověřte financování!**
+⚠️ **VAROVÁNÍ:** Než si objednáte mobilní dům, nejdříve si ověřte financování!
 
+---
+💡 **Co dělat dál:** Zavolejte do ČSOB nebo Raiffeisenbank a zeptejte se na podmínky hypotéky PŘED objednávkou domu.
 ---
 
 ## 3️⃣ Byrokracie není "žádná" (i když je míň než u klasiky)
@@ -94,12 +113,13 @@ ROZDÍL: 13 200 Kč/měs = 158 400 Kč/rok!
 
 ### Realita:
 
-**Ano, stavební povolení nepotřebujete.** Ale:
-- ✅ **Územní rozhodnutí/souhlas** – MUSÍTE (může trvat 30-90 dní!)
-- ✅ **Revize elektro** – MUSÍTE
-- ✅ **Revize vody** – MUSÍTE
-- ✅ **Certifikát výrobku** – dodá výrobce, ale ověřte si ho!
-- ⚠️ **Kolaudace přípojek** (pokud nejsou hotové)
+Ano, stavební povolení nepotřebujete. Ale musíte mít:
+
+- ✅ Územní rozhodnutí/souhlas – MUSÍTE (může trvat 30-90 dní!)
+- ✅ Revize elektro – MUSÍTE
+- ✅ Revize vody – MUSÍTE
+- ✅ Certifikát výrobku – dodá výrobce, ale ověřte si ho!
+- ⚠️ Kolaudace přípojek (pokud nejsou hotové)
 
 ### Časová náročnost:
 
@@ -123,19 +143,21 @@ Měsíc 8-9: Montáž + opakované revize (chyby)
 CELKEM: 9-10 měsíců ❌
 ```
 
-**Závěr:** Je to **rychlejší než klasika** (18-24 měsíců), ale **není to "bez byrokracie"**.
+Je to rychlejší než klasická stavba (18-24 měsíců), ale není to "bez byrokracie".
 
+---
+💡 **Co dělat dál:** Začněte s územním souhlasem HNED, než si objednáte dům. Ušetříte 2-3 měsíce.
 ---
 
 ## 4️⃣ Územní plán vás může zablokovat (i když máte pozemek)
 
 ### Co vám neřeknou:
 
-Máte pozemek? Skvělé! Ale **ne každý pozemek je vhodný**.
+Máte pozemek? Skvělé! Ale ne každý pozemek je vhodný pro mobilní dům.
 
 ### Realita:
 
-**Mobilní dům můžete postavit jen tam, kde to územní plán dovoluje:**
+Mobilní dům můžete postavit jen tam, kde to územní plán dovoluje:
 
 ✅ **Plochy pro bydlení** – ANO
 ✅ **Plochy smíšené (obytné)** – ANO
@@ -154,8 +176,10 @@ Máte pozemek? Skvělé! Ale **ne každý pozemek je vhodný**.
 
 > Josef koupil krásný lesní pozemek za 400 000 Kč. Pak zjistil, že v územním plánu je označen jako "plocha lesa" → stavět NELZE. Musel prodat se ztrátou.
 
-**Závěr:** **Nejdříve ověřte územní plán, pak kupujte pozemek!**
+⚠️ **VAROVÁNÍ:** Nejdříve ověřte územní plán, pak kupujte pozemek!
 
+---
+💡 **Co dělat dál:** Zavolejte na stavební úřad dříve, než koupíte pozemek. 10minutový telefonát vás může ušetřit stovky tisíc.
 ---
 
 ## 5️⃣ Cena "pod klíč" často není skutečně "pod klíč"
@@ -196,11 +220,208 @@ Rezerva: 100 000 Kč
 CELKEM: 3 310 000 Kč ⚠️
 ```
 
-**Závěr:** Počítejte s **50-80% navýšením** oproti ceně "pod klíč"!
+⚠️ **VAROVÁNÍ:** Počítejte s 50-80% navýšením oproti ceně "pod klíč"!
+
+---
+💡 **Co dělat dál:** Vytvořte si KOMPLETNÍ rozpočet včetně všech skrytých nákladů před podpisem smlouvy.
+---
+
+## 6️⃣ Mobilní dům se TĚŽKO prodává (a to je problém)
+
+### Co vám řeknou prodejci:
+
+*"Až budete chtít, snadno ho prodáte. Je poptávka!"*
+
+### Realita:
+
+Prodej mobilního domu je **10x těžší** než prodej klasického domu.
 
 ---
 
-## 6️⃣ Sousedé (a úřady) vás někdy nebudou mít rádi
+### 📊 Srovnání: Klasický dům vs. Mobilní dům
+
+| Kritérium | Klasický dům | Mobilní dům | Rozdíl |
+|-----------|--------------|-------------|--------|
+| **Čas do prodeje** | 2-4 měsíce | 6-18 měsíců | **4x déle!** |
+| **Počet zájemců** | 15-30 | 3-8 | **5x méně!** |
+| **Slevy při prodeji** | 5-10% | 20-35% | **3x větší slevy!** |
+| **Financování kupců** | Hypotéka (80%) | Cash (70%) | **Těžší sehnat** |
+
+---
+
+### 🚫 Proč je to tak těžké?
+
+#### **1. Malý trh kupců**
+
+**Klasický dům:**
+- 90% lidí hledá "normální dům" ✅
+- Velká poptávka = rychlý prodej
+
+**Mobilní dům:**
+- 5-10% lidí hledá mobilní dům ❌
+- Malá poptávka = čekáte dlouho
+
+---
+
+#### **2. Banky nechtějí financovat starší mobilní domy**
+
+**Problém:**
+- Banky dají hypotéku jen na **NOVÝ** mobilní dům (s kolaudací)
+- Dům starší 10 let? Banka většinou řekne NE ❌
+
+**Co to znamená:**
+- 80% kupců nemá hotovost → NEMOHOU koupit váš dům
+- Zbývá 20% kupců s hotovostí → MALÁ POPTÁVKA
+
+**Příklad:**
+
+```
+Váš mobilní dům (10 let starý): 1 400 000 Kč
+
+Kupec A (potřebuje hypotéku):
+- Banka: "Starší mobilní dům? NE!" ❌
+- Kupec odchází
+
+Kupec B (potřebuje hypotéku):
+- Banka: "Starší mobilní dům? NE!" ❌
+- Kupec odchází
+
+Kupec C (má hotovost 1,4 mil.):
+- "OK, ale chci slevu 20%!" → Nabídne 1,1 mil.
+- Musíte akceptovat nebo čekat dalších 6 měsíců
+```
+
+---
+
+#### **3. Depreceace = nižší hodnota**
+
+**Klasický dům:**
+- Koupíte za 3 mil. → Za 10 let stojí 4 mil. (+1 mil. zisk) ✅
+
+**Mobilní dům:**
+- Koupíte za 2 mil. → Za 10 let stojí 1,4 mil. (-600 tis. ztráta) ❌
+
+**Kupci to VĚDÍ** → Chtějí slevu!
+
+---
+
+#### **4. Lokace je "navždy"**
+
+**Problém:**
+Mobilní dům můžete teoreticky přemístit, ale:
+- Přemístění stojí 150 000 - 300 000 Kč ❌
+- Potřebujete nový pozemek ❌
+- Potřebujete nové přípojky ❌
+
+**Realita:**
+- 95% mobilních domů se **NIKDY nepřemístí**
+- Kupujete "dům + pozemek" → Pokud je pozemek špatná lokalita = těžký prodej
+
+---
+
+### 💔 Reálný případ (pravdivý příběh)
+
+**Petr (45 let):**
+
+```
+2015: Koupil mobilní dům za 2 000 000 Kč
+      (chatová oblast, 30 km od Prahy)
+
+2025: Potřebuje prodat (stěhování do města)
+
+Realita:
+- Inzeruje 6 měsíců → 2 zájemci
+- Tržní hodnota: 1 400 000 Kč (depreciace)
+- Kupci nabízejí: 1 100 000 Kč (-900 tis. pod původní cenu!)
+
+Proč?
+- Špatná lokalita (chatová oblast = víkendové bydlení)
+- Dům je starší 10 let (banka nedá hypotéku)
+- Malá poptávka (5 kupců za 12 měsíců)
+
+Výsledek:
+- Po 14 měsících prodal za 1 200 000 Kč
+- ZTRÁTA: -800 000 Kč (-40%!)
+```
+
+---
+
+### 📉 Jak dlouho bude prodej trvat? (realistický odhad)
+
+| Lokalita | Stáří domu | Čas do prodeje | Pravděpodobná sleva |
+|----------|-----------|----------------|---------------------|
+| **Praha okolí (10 km)** | 0-5 let | 3-6 měsíců | 10-15% |
+| **Praha okolí (10 km)** | 5-10 let | 6-12 měsíců | 20-25% |
+| **Praha okolí (10 km)** | 10+ let | 12-18 měsíců | 30-40% |
+| **Chatová oblast** | 0-5 let | 6-12 měsíců | 15-25% |
+| **Chatová oblast** | 5-10 let | 12-18 měsíců | 25-35% |
+| **Chatová oblast** | 10+ let | 18-24+ měsíců | 35-50% |
+
+---
+
+### ⚠️ VAROVÁNÍ: Kdy je resale OBZVLÁŠŤ těžký?
+
+❌ **Kritické kombinace:**
+
+1. **Starší dům (10+ let) + špatná lokalita**
+   - Prodej může trvat 2+ roky!
+   - Slevy 40-50%
+
+2. **Bez kolaudace / katastru**
+   - 90% kupců nemůže dostat hypotéku
+   - Prodáte jen za hotovost = malá poptávka
+
+3. **Specifická konfigurace**
+   - Např. 1+kk (malá poptávka)
+   - Nestandardní velikost (70 m² místo 50 m²)
+
+4. **Ekonomická krize**
+   - Lidé nemají peníze
+   - Mobilní domy = "luxus" → první co se neprodává
+
+---
+
+### 💡 Jak si zajistit lepší resale value?
+
+✅ **1. Zvolte DOBROU lokalitu**
+- Okraj města (ne chatová oblast!)
+- Rostoucí lokalita (nové školy, obchody)
+- **Lokalita ROSTE v ceně** → kompenzuje depreciaci domu
+
+✅ **2. Zápis do katastru (jako stavba)**
+- Kupci mohou dostat hypotéku
+- 5x více potenciálních kupců
+
+✅ **3. Udržujte dům v TOP stavu**
+- Nová střecha každých 15-20 let
+- Renovace koupelny/kuchyně každých 10 let
+- Nátěr fasády každých 5 let
+- **Udržovaný dům** = rychlejší prodej
+
+✅ **4. Standardní velikost (50 m²) a dispozice (2+kk)**
+- Největší poptávka
+- Snadněji najdete kupce
+
+✅ **5. Prodávejte v "dobrých časech"**
+- Ne během krize
+- Ideálně na jaře/léto (lidé víc hledají)
+
+---
+
+### 🎯 Kdy mobilní dům I PŘESTO dává smysl?
+
+✅ **Plánujete bydlet 15-20+ let** (neřešíte resale)
+✅ **Pozemek je ve skvělé lokalitě** (pozemek roste v ceně)
+✅ **Neřešíte to jako investici** (chcete bydlet, ne vydělat)
+✅ **Ušetříte na nájmu** (300 tis. - 600 tis. Kč za 5 let)
+
+---
+
+💡 **Co dělat dál:** Pokud plánujete mobilní dům jako investici (koupit → prodat), radši zvažte [Mobilní dům vs. klasická stavba](01-mobilni-dum-vs-klasicka-stavba.md) – klasický dům se prodá snadněji a vydělá víc.
+
+---
+
+## 7️⃣ Sousedé (a úřady) vás někdy nebudou mít rádi
 
 ### Proč?
 
@@ -211,9 +432,7 @@ CELKEM: 3 310 000 Kč ⚠️
 
 ### Realita:
 
-**Moderní mobilní domy vypadají jako klasické domy!** Ale:
-- Někteří sousedé budou mít předsudky
-- Někteří úředníci budou zaujatí
+Moderní mobilní domy vypadají jako klasické domy! Ale někteří sousedé budou mít předsudky a někteří úředníci budou zaujatí.
 
 ### Jak tomu předejít?
 
@@ -226,11 +445,13 @@ CELKEM: 3 310 000 Kč ⚠️
 
 > Petra chtěla postavit mobilní dům v nové IBV. Sousedé protestovali na zastupitelstvu. Ukázala jim vizualizaci → zjistili, že vypadá lépe než některé domy v okolí → povoleno! ✅
 
-**Závěr:** Buďte připraveni čelit předsudkům, ale nenechte se odradit.
+Buďte připraveni čelit předsudkům, ale nenechte se odradit.
 
 ---
+💡 **Co dělat dál:** Uspořádejte setkání se sousedy a ukažte jim plány. Většina lidí jen potřebuje vidět, jak dům vypadá.
+---
 
-## 7️⃣ Pronájem mobilního domu je obtížnější než bytu
+## 8️⃣ Pronájem mobilního domu je obtížnější než bytu
 
 ### Co si lidé myslí:
 
@@ -238,7 +459,7 @@ CELKEM: 3 310 000 Kč ⚠️
 
 ### Realita:
 
-**Pronájem mobilního domu má svá specifika:**
+Pronájem mobilního domu má svá specifika:
 
 ❌ **Menší poptávka** – lidé hledají spíš byty/domy
 ❌ **Nájemníci mají předsudky** – "To není pořádný dům"
@@ -267,15 +488,17 @@ ROI: 26 let ❌
 - RD: ROI 15-20 let
 - Mobilní dům: ROI 20-30 let
 
-**Závěr:** Pokud chcete pronajímat, cílte na **Airbnb** nebo **rekreační oblasti** (ne dlouhodobý pronájem).
+Pokud chcete pronajímat, cílte na Airbnb nebo rekreační oblasti (ne dlouhodobý pronájem).
 
 ---
+💡 **Co dělat dál:** Pokud plánujete pronájem, umístěte dům v turistické oblasti a cílte na krátkodobé pronájmy.
+---
 
-## 8️⃣ Pojištění je dražší (a má výjimky)
+## 9️⃣ Pojištění je dražší (a má výjimky)
 
 ### Co pojišťovny neříkají rovnou:
 
-**Mobilní domy mají vyšší pojistné** než klasické stavby:
+Mobilní domy mají vyšší pojistné než klasické stavby:
 
 | Typ stavby | Pojistné (50 m²) | Poznámka |
 |------------|-----------------|----------|
@@ -294,11 +517,13 @@ ROI: 26 let ❌
 ❌ **Sesuvy půdy**
 ❌ **Škody způsobené nedostatečnou údržbou**
 
-**Závěr:** Počítejte s **vyšším pojistným** + důkladně si přečtěte smlouvu!
+⚠️ **VAROVÁNÍ:** Počítejte s vyšším pojistným + důkladně si přečtěte smlouvu!
 
 ---
+💡 **Co dělat dál:** Porovnejte min. 3 nabídky pojištění a čtěte co je vyloučeno.
+---
 
-## 9️⃣ Údržba je jednodušší, ale NUTNÁ
+## 🔟 Údržba je jednodušší, ale NUTNÁ
 
 ### Co vám řeknou výrobci:
 
@@ -306,7 +531,7 @@ ROI: 26 let ❌
 
 ### Realita:
 
-**Údržba je jednodušší než u klasiky, ale pořád NUTNÁ:**
+Údržba je jednodušší než u klasiky, ale pořád NUTNÁ:
 
 ### Pravidelná údržba (ročně):
 
@@ -330,15 +555,17 @@ ROI: 26 let ❌
 
 > Jakub si koupil mobilní dům a 10 let neudělal žádnou údržbu. Výsledek: zatékání, plíseň, generální oprava za 300 000 Kč.
 
-**Závěr:** Mobilní dům je **low-maintenance**, ale **ne no-maintenance**!
+⚠️ **VAROVÁNÍ:** Mobilní dům je low-maintenance, ale ne no-maintenance!
 
 ---
+💡 **Co dělat dál:** Naplánujte si pravidelnou údržbu do kalendáře. 1x ročně kontrola, každých 5-7 let nátěr.
+---
 
-## 🔟 Hodnota mobilního domu v čase klesá rychleji než u klasiky
+## 1️⃣1️⃣ Hodnota mobilního domu v čase klesá rychleji než u klasiky
 
 ### Co vám nikdo neřekne:
 
-**Mobilní domy ztrácejí hodnotu rychleji:**
+Mobilní domy ztrácejí hodnotu rychleji:
 
 ### Amortizace:
 
@@ -350,53 +577,59 @@ ROI: 26 let ❌
 | **20** | 1 000 000 Kč (50%) | 4 800 000 Kč (120%) ⬆️ |
 
 **Proč?**
-- ✅ **Klasický dům** – hodnota roste s inflací + pozemkem
-- ❌ **Mobilní dům** – dřevostavba ztrácí hodnotu (jako auto)
+- ✅ Klasický dům – hodnota roste s inflací + pozemkem
+- ❌ Mobilní dům – dřevostavba ztrácí hodnotu (jako auto)
 
 ### Je to problém?
 
-**Ne nutně!**
-- Pokud mobilní dům **využíváte k bydlení** → úspora nájmu → OK
-- Pokud ho **pronajímáte** → příjem → OK
-- Pokud ho kupujete **jako investici na zhodnocení** → ❌ špatný nápad
+Ne nutně!
 
-**Závěr:** Mobilní dům je **nástroj k bydlení**, ne investice na zhodnocení.
+- Pokud mobilní dům využíváte k bydlení → úspora nájmu → OK
+- Pokud ho pronajímáte → příjem → OK
+- Pokud ho kupujete jako investici na zhodnocení → ❌ špatný nápad
 
+Mobilní dům je nástroj k bydlení, ne investice na zhodnocení.
+
+---
+💡 **Co dělat dál:** Nakupujte mobilní dům pro vlastní bydlení nebo pronájem, ne jako investici.
 ---
 
 ## 🎯 Závěr: Je mobilní dům stále dobrý nápad?
 
 **ANO!** Ale jen pokud:
-- ✅ Jdete do toho s **realistickými očekáváními**
-- ✅ Víte, že životnost je **kratší než u klasiky**
-- ✅ Máte **jasný plán financování** (ne "nějak to dopadne")
-- ✅ Ověřili jste si **územní plán**
-- ✅ Počítáte s **kompletním rozpočtem** (ne jen "pod klíč")
-- ✅ Jste připraveni na **pravidelnou údržbu**
-- ✅ Mobilní dům je pro vás **řešení bydlení**, ne spekulace
+
+- ✅ Jdete do toho s realistickými očekáváními
+- ✅ Víte, že životnost je kratší než u klasiky
+- ✅ Máte jasný plán financování (ne "nějak to dopadne")
+- ✅ Ověřili jste si územní plán
+- ✅ Počítáte s kompletním rozpočtem (ne jen "pod klíč")
+- ✅ Jste připraveni na pravidelnou údržbu
+- ✅ Mobilní dům je pro vás řešení bydlení, ne spekulace
 
 ---
 
 ## 💡 Naše doporučení:
 
 ### Mobilní dům je skvělý pro:
-- ✅ Mladé rodiny s **omezeným rozpočtem**
-- ✅ Lidi hledající **rychlé řešení bydlení**
+
+- ✅ Mladé rodiny s omezeným rozpočtem
+- ✅ Lidi hledající rychlé řešení bydlení
 - ✅ Rekreační bydlení (víkendy, dovolené)
 - ✅ Krátkodobý pronájem (Airbnb)
 - ✅ Ekology (nízká spotřeba energie)
 
 ### Mobilní dům NENÍ pro:
-- ❌ Lidi hledající **investici na zhodnocení**
-- ❌ Ty, kdo chtějí dům na **100 let**
-- ❌ Lidi bez **jasného finančního plánu**
-- ❌ Ty, kdo očekávají **nulovou údržbu**
+
+- ❌ Lidi hledající investici na zhodnocení
+- ❌ Ty, kdo chtějí dům na 100 let
+- ❌ Lidi bez jasného finančního plánu
+- ❌ Ty, kdo očekávají nulovou údržbu
 
 ---
 
 ## 📞 Potřebujete poradit?
 
-Stále si nejste jisti? Napište nám na **[info@novyrozmerbydleni.cz](mailto:info@novyrozmerbydleni.cz)** a pomůžeme vám **realisticky zhodnotit**, zda je mobilní dům pro vás!
+Stále si nejste jisti? Napište nám na **[info@novyrozmerbydleni.cz](mailto:info@novyrozmerbydleni.cz)** a pomůžeme vám realisticky zhodnotit, zda je mobilní dům pro vás!
 
 ---
 
@@ -404,10 +637,9 @@ Stále si nejste jisti? Napište nám na **[info@novyrozmerbydleni.cz](mailto:in
 
 **Další články:**
 - [Mobilní dům vs. klasická stavba: Co se vyplatí víc?](01-mobilni-dum-vs-klasicka-stavba.md)
-- [Hypotéka na mobilní dům: Průvodce krok za krokem](#)
-- [Jak vybrat pozemek pro mobilní dům](#)
+- [Hypotéka na mobilní dům: Průvodce krok za krokem](03-hypoteka-na-mobilni-dum.md)
+- [Jak vybrat pozemek pro mobilní dům](06-jak-vybrat-pozemek.md)
 
 ---
 
 **Klíčová slova:** mobilní dům realita, nevýhody mobilních domů, pravda o mobilních domech, zkušenosti s mobilním domem, co vám neřeknou o mobilních domech, mobilní dům dlouhodobě
-

@@ -7,11 +7,23 @@
 
 ---
 
+## ⚡ TL;DR (Rychlý přehled)
+
+**Hlavní bod 1:** Moderní mobilní domy = pasivní standard (150-250 mm izolace), NE maringotky
+**Hlavní bod 2:** V mobilním domě je teplo a sucho - spotřeba energie jen 35 kWh/m²/rok (83% úspora!)
+**Hlavní bod 3:** Hypotéka JE možná, ale jen s kolaudací (ČSOB, Raiffeisenbank půjčují)
+**Top tip:** Mobilní domy vydrží 40-60 let s údržbou, 42% lidí v nich bydlí celoročně
+**Největší chyba:** Srovnávat moderní mobilní domy s maringotkami z 80. let
+
+---
+
 ## Úvod
 
-Mobilní domy trpí mnoha **předsudky a mýty**. Většina z nich pochází z dob starých "mařinek" a chatek na kolečkách.
+Představte si: Řeknete rodině, že chcete koupit mobilní dům. "To je jen maringotka!" křičí babička. "V zimě tam vymrzneš!" varuje táta. "Na to nedostaneš hypotéku," dodává bratr. A vy nevíte, co si myslet.
 
-**Realita roku 2025 je úplně jiná!**
+Mobilní domy trpí mnoha předsudky a mýty. Většina z nich pochází z dob starých "mařinek" a chatek na kolečkách.
+
+Realita roku 2025 je úplně jiná!
 
 Moderní mobilní domy jsou:
 - ✅ Kvalitní dřevostavby (často na úrovni pasivních domů)
@@ -19,7 +31,7 @@ Moderní mobilní domy jsou:
 - ✅ Splňují všechny stavební normy
 - ✅ Mají certifikaci kvality
 
-**V tomto článku vyvrátíme 5 největších mýtů** – s daty, fakty a reálnými příklady.
+V tomto článku vyvrátíme 5 největších mýtů – s daty, fakty a reálnými příklady.
 
 ---
 
@@ -31,7 +43,7 @@ Moderní mobilní domy jsou:
 
 ### ✅ Realita:
 
-**Moderní mobilní domy nemají NIC společného s maringotkami!**
+Moderní mobilní domy nemají NIC společného s maringotkami!
 
 #### Rozdíly:
 
@@ -44,39 +56,35 @@ Moderní mobilní domy jsou:
 | **Cena** | 200 000 - 500 000 Kč | 2 000 000 - 4 000 000 Kč |
 | **Vzhled** | "Chatka" | Moderní dům |
 
----
+⚠️ **VAROVÁNÍ:** Srovnávat moderní mobilní dům s maringotkou je jako srovnávat Tesla Model S s Škodou Felicia!
 
 ### Příklad z praxe:
 
 **Mobilní dům od Nový Rozměr Bydlení (50 m²):**
-- Izolace stěn: **200 mm** (U = 0,15 W/m²K)
-- Pasivní okna: **Trojsklo** (U = 0,7 W/m²K)
+- Izolace stěn: 200 mm (U = 0,15 W/m²K)
+- Pasivní okna: Trojsklo (U = 0,7 W/m²K)
 - Rekuperace: Zpětné získávání 85% tepla
-- Energetická třída: **A** (pasivní standard!)
+- Energetická třída: A (pasivní standard!)
 
 **Spotřeba energie:** 35 kWh/m²/rok (jako nejlepší pasivní domy!)
 
 **Srovnání:**
 - Starý domek: 200 kWh/m²/rok
 - Moderní mobilní dům: 35 kWh/m²/rok
-- **Úspora: 83%!** 🔥
-
----
+- **Úspora: 83%!**
 
 ### Fotodokumentace:
 
 **Před (maringotka z 80. let):**
-- Plechové stěny
-- Malá okna
-- Vlhko, chlad
+Plechové stěny, malá okna, vlhko, chlad
 
 **Dnes (moderní mobilní dům):**
-- Dřevěný obklad (modřín, cedr)
-- Velká okna s výhledem
-- Teplo, sucho, komfort
+Dřevěný obklad (modřín, cedr), velká okna s výhledem, teplo, sucho, komfort
 
-**Závěr:** Mobilní domy 2025 ≠ maringotky! To je jako srovnávat Škodu Felicia s Teslou. 🚗⚡
+Mobilní domy 2025 ≠ maringotky! To je jako srovnávat Škodu Felicia s Teslou.
 
+---
+💡 **Co dělat dál:** Navštivte showroom moderního výrobce a přesvědčte se na vlastní oči o kvalitě.
 ---
 
 ## Mýtus #2: "V mobilním domě je zima a vlhko"
@@ -87,16 +95,14 @@ Moderní mobilní domy jsou:
 
 ### ✅ Realita:
 
-**Mobilní domy s kvalitní izolací jsou TEPLEJŠÍ než mnoho klasických domů!**
+Mobilní domy s kvalitní izolací jsou TEPLEJŠÍ než mnoho klasických domů!
 
 #### Proč?
 
-✅ **Moderní izolace** (150-250 mm minerální vlna)
-✅ **Vzduchotěsná konstrukce** (žádné spáry)
-✅ **Kvalitní okna** (U = 0,7-1,1 W/m²K)
-✅ **Rekuperace** (zpětné získávání tepla)
-
----
+✅ Moderní izolace (150-250 mm minerální vlna)
+✅ Vzduchotěsná konstrukce (žádné spáry)
+✅ Kvalitní okna (U = 0,7-1,1 W/m²K)
+✅ Rekuperace (zpětné získávání tepla)
 
 ### Reálná data:
 
@@ -114,23 +120,23 @@ Moderní mobilní domy jsou:
 - Mobilní dům (50 m²): 2 kW topení, 1 200 Kč/měsíc
 - **Úspora na m²:** 66%!
 
----
+⚠️ **VAROVÁNÍ:** Starý problém STARÝCH mobilních domů byl špatná izolace + chybějící parotěsná zábrana → kondenzace → vlhko. Moderní domy tento problém nemají!
 
 ### A co vlhkost?
 
-**Častý problém STARÝCH mobilních domů:** Špatná izolace + chybějící parotěsná zábrana → kondenzace → vlhko.
-
 **Moderní mobilní domy:**
-- ✅ **Parotěsná zábrana** (brání kondenzaci)
-- ✅ **Rekuperace** (reguluje vlhkost)
-- ✅ **Kvalitní okna** (bez rosení)
+- ✅ Parotěsná zábrana (brání kondenzaci)
+- ✅ Rekuperace (reguluje vlhkost)
+- ✅ Kvalitní okna (bez rosení)
 
 **Reálný příklad:**
 
 > *"Bydlíme v mobilním domě 3 roky. V zimě máme 22°C a vlhkost 45-55% (ideální). Žádná plíseň, žádné rosení oken. Lepší než náš předchozí byt!"* – Martina (34), Praha-východ
 
-**Závěr:** Moderní mobilní domy jsou **teplé, suché a komfortní** – často více než klasické stavby!
+Moderní mobilní domy jsou teplé, suché a komfortní – často více než klasické stavby!
 
+---
+💡 **Co dělat dál:** Zkontrolujte certifikát PENB (energetický průkaz) - hledejte třídu A nebo B.
 ---
 
 ## Mýtus #3: "Mobilní domy se nedají financovat hypotékou"
@@ -141,7 +147,7 @@ Moderní mobilní domy jsou:
 
 ### ✅ Realita:
 
-**MŮŽETE dostat hypotéku!** Ale za určitých podmínek.
+MŮŽETE dostat hypotéku! Ale za určitých podmínek.
 
 #### Kdy ANO, kdy NE:
 
@@ -151,7 +157,7 @@ Moderní mobilní domy jsou:
 | **Mobilní dům BEZ kolaudace (pod 55 m²)** | ❌ NE |
 | **Dobrovolná kolaudace (i u domů pod 55 m²)** | ✅ ANO |
 
----
+⚠️ **VAROVÁNÍ:** Nový stavební zákon (283/2021 Sb.) od července 2024 stanoví, že mobilní domy do 55 m² nepotřebují kolaudaci. Bez kolaudace nejsou v katastru = banka nedá hypotéku!
 
 ### Které banky půjčují?
 
@@ -160,8 +166,6 @@ Moderní mobilní domy jsou:
 | **ČSOB** | ✅ ANO | 5,5 - 6% |
 | **Raiffeisenbank** | ✅ ANO | 5,7 - 6,2% |
 | **Moneta** | ✅ ANO (individuálně) | 5,8 - 6,5% |
-
----
 
 ### Reálný příklad:
 
@@ -176,10 +180,12 @@ Moderní mobilní domy jsou:
 
 **Měsíční splátka: 18 000 Kč**
 
-**Poznámka:** Museli udělat **dobrovolnou kolaudaci** (i když dům měl jen 50 m²), aby dostali hypotéku.
+**Poznámka:** Museli udělat dobrovolnou kolaudaci (i když dům měl jen 50 m²), aby dostali hypotéku.
 
-**Závěr:** Hypotéka JE možná – jen musíte splnit podmínky (kolaudace + katastr).
+Hypotéka JE možná – jen musíte splnit podmínky (kolaudace + katastr).
 
+---
+💡 **Co dělat dál:** Zavolejte do ČSOB nebo Raiffeisenbank a zeptejte se na podmínky hypotéky PŘED objednávkou domu.
 ---
 
 ## Mýtus #4: "Mobilní domy mají krátkou životnost (10-15 let)"
@@ -190,7 +196,7 @@ Moderní mobilní domy jsou:
 
 ### ✅ Realita:
 
-**Moderní mobilní domy vydrží 40-60 let!** (Ano, méně než klasika, ale pořád hodně.)
+Moderní mobilní domy vydrží 40-60 let! (Ano, méně než klasika, ale pořád hodně.)
 
 #### Životnost komponent:
 
@@ -204,8 +210,6 @@ Moderní mobilní domy jsou:
 
 **Celková životnost:** **40-60 let** (s pravidelnou údržbou)
 
----
-
 ### Srovnání s klasickou stavbou:
 
 | Typ stavby | Životnost |
@@ -214,14 +218,15 @@ Moderní mobilní domy jsou:
 | **Mobilní dům** | 40-60 let |
 | **Paneláková budova** | 60-80 let |
 
-**Je to problém?**
+⚠️ **VAROVÁNÍ:** Bez pravidelné údržby (nátěr každých 5-7 let) může životnost klesnout na 20-30 let!
 
-**Ne nutně!** Za 40-60 let:
+### Je to problém?
+
+Ne nutně! Za 40-60 let:
+
 - Technologie pokročí → budete chtít modernější dům
 - Energetické normy budou přísnější → stejně budete muset renovovat
 - ROI mobilního domu: 10-15 let → zbytek je "navíc"
-
----
 
 ### Reálný příklad:
 
@@ -230,8 +235,10 @@ Moderní mobilní domy jsou:
 - **Stav dnes:** Perfektní! Jen 1× nátěr fasády (2020)
 - Plánuje ho používat dalších 10+ let
 
-**Závěr:** S **pravidelnou údržbou** mobilní domy vydrží desítky let. Ano, kratší než klasika, ale pořád dostatečně dlouho!
+S pravidelnou údržbou mobilní domy vydrží desítky let. Ano, kratší než klasika, ale pořád dostatečně dlouho!
 
+---
+💡 **Co dělat dál:** Naplánujte si do kalendáře pravidelnou údržbu: 1x ročně kontrola, každých 5-7 let nátěr.
 ---
 
 ## Mýtus #5: "Mobilní domy jsou jen pro rekreaci, ne pro trvalé bydlení"
@@ -242,16 +249,14 @@ Moderní mobilní domy jsou:
 
 ### ✅ Realita:
 
-**Moderní mobilní domy jsou plnohodnotné celoroční bydlení!**
+Moderní mobilní domy jsou plnohodnotné celoroční bydlení!
 
 #### Důkazy:
 
-✅ **Splňují stavební normy** (vyhlášky 268/2009, 501/2006)
-✅ **Energetická třída A-B** (jako pasivní domy)
-✅ **Certifikace kvality** (výrobci musí splnit normy)
-✅ **Trvalé bydlení povoleno** (pokud splňují podmínky)
-
----
+✅ Splňují stavební normy (vyhlášky 268/2009, 501/2006)
+✅ Energetická třída A-B (jako pasivní domy)
+✅ Certifikace kvality (výrobci musí splnit normy)
+✅ Trvalé bydlení povoleno (pokud splňují podmínky)
 
 ### Reálná data: Lidé žijící v mobilních domech (2025):
 
@@ -262,9 +267,7 @@ Moderní mobilní domy jsou:
 | **Pronájem (Airbnb)** | 15% |
 | **Dočasné bydlení** | 8% |
 
-**Závěr:** Téměř **polovina lidí** žije v mobilních domech **celoročně**!
-
----
+Téměř polovina lidí žije v mobilních domech celoročně!
 
 ### Příklad z praxe:
 
@@ -276,16 +279,18 @@ Moderní mobilní domy jsou:
 
 *"Je to náš domov. Nikdy bychom neměnili zpátky za byt!"* – Petra
 
----
+⚠️ **VAROVÁNÍ:** Mobilní dům NENÍ vhodný pro trvalé bydlení, pokud má špatnou izolaci (pod 100 mm) nebo nemá kolaudaci!
 
 ### Kdy mobilní dům NENÍ vhodný pro trvalé bydlení?
 
-❌ **Špatná izolace** (pod 100 mm) → jen pro rekreaci
-❌ **Bez kolaudace** → úřady nepovolí trvalé bydlení (trvalý pobyt)
-❌ **Dočasné umístění** (do 2 let) → pak musíte odstranit
+❌ Špatná izolace (pod 100 mm) → jen pro rekreaci
+❌ Bez kolaudace → úřady nepovolí trvalé bydlení (trvalý pobyt)
+❌ Dočasné umístění (do 2 let) → pak musíte odstranit
 
-**Ale:** Pokud dům má dobrou izolaci + kolaudaci → **plnohodnotné bydlení**! ✅
+Ale: Pokud dům má dobrou izolaci + kolaudaci → plnohodnotné bydlení! ✅
 
+---
+💡 **Co dělat dál:** Pokud plánujete trvalé bydlení, investujte do izolace min. 150 mm a zajistěte kolaudaci.
 ---
 
 ## 🎯 Závěr: Mýty vs. Realita
@@ -299,13 +304,14 @@ Moderní mobilní domy jsou:
 | **"Jen rekreace"** | ✅ 42% lidí bydlí celoročně |
 
 **Klíčový poznatek:**
-> Moderní mobilní domy roku 2025 **NEMAJÍ NIC SPOLEČNÉHO** s maringotkami z 80. let. To je moderní, kvalitní bydlení!
+
+> Moderní mobilní domy roku 2025 NEMAJÍ NIC SPOLEČNÉHO s maringotkami z 80. let. To je moderní, kvalitní bydlení!
 
 ---
 
 ## 💡 Jak poznat kvalitní mobilní dům?
 
-### Checkl ist:
+### Checklist:
 
 - [ ] **Izolace min. 150 mm** (stěny, střecha, podlaha)
 - [ ] **Okna U ≤ 1,1 W/m²K** (dvojsklo nebo trojsklo)
@@ -314,13 +320,15 @@ Moderní mobilní domy jsou:
 - [ ] **Reference** (existující domy, recenze)
 - [ ] **Energetická třída A-B** (PENB průkaz)
 
-**Pokud dům splňuje tyto parametry** → je to **kvalitní produkt**!
+Pokud dům splňuje tyto parametry → je to kvalitní produkt!
 
+---
+💡 **Co dělat dál:** Požádejte výrobce o reference a navštivte min. 2-3 realizované domy, než se rozhodnete.
 ---
 
 ## 📞 Máte dotazy?
 
-Stále si nejste jisti? Napište nám na **[info@novyrozmerbydleni.cz](mailto:info@novyrozmerbydleni.cz)** a my vám **vyvrátíme všechny pochybnosti**!
+Stále si nejste jisti? Napište nám na **[info@novyrozmerbydleni.cz](mailto:info@novyrozmerbydleni.cz)** a my vám vyvrátíme všechny pochybnosti!
 
 ---
 
@@ -334,4 +342,3 @@ Stále si nejste jisti? Napište nám na **[info@novyrozmerbydleni.cz](mailto:in
 ---
 
 **Klíčová slova:** mýty o mobilních domech, pravda o mobilních domech, mobilní domy zkušenosti, jsou mobilní domy kvalitní, mobilní dům životnost, mobilní dům hypotéka
-

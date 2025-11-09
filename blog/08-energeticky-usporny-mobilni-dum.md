@@ -7,11 +7,27 @@
 
 ---
 
+## ⚡ TL;DR (Rychlý přehled)
+
+**Hlavní bod 1:** Dobrá izolace (200 mm) může snížit náklady na vytápění z 10 500 Kč/rok na 2 640 Kč/rok – úspora 7 860 Kč ročně
+
+**Hlavní bod 2:** Tepelné čerpadlo s fotovoltaikou = náklady na vytápění téměř 0 Kč/rok (přebytek FV pokryje spotřebu TČ)
+
+**Hlavní bod 3:** S dotací NZÚ (160 000 Kč) je návratnost TČ + FV jen 6 let – pak ušetříte 16 000 Kč každý rok
+
+**Top tip:** Investujte primárně do izolace – má nejlepší ROI a působí 50+ let bez údržby
+
+**Největší chyba:** Šetřit na izolaci a pak platit tisíce Kč měsíčně za vytápění – špatná izolace se vrací celý život
+
+---
+
 ## Úvod
 
-**Víte, že správně postavený mobilní dům může mít náklady na vytápění JEN 500 Kč/měsíc?** 🔥💰
+**Představte si účet za elektřinu jen 500 Kč měsíčně. V zimě. Na celý dům.**
 
-Zatímco klasický dům může stát 3 000 - 5 000 Kč/měsíc, moderní mobilní dům s dobrou izolací a tepelným čerpadlem může být **6× úspornější**!
+Zní to jako science fiction? Není! Správně postavený energeticky úsporný mobilní dům s dobrou izolací a tepelným čerpadlem může být **6× úspornější** než klasický dům.
+
+Zatímco běžný dům spotřebuje 3 000 - 5 000 Kč měsíčně na vytápění, moderní mobilní dům s dobrou izolací může mít náklady pod 1 000 Kč.
 
 **V tomto článku se dozvíte:**
 - ✅ **Jak ušetřit** na vytápění (izolace, okna, vytápění)
@@ -20,7 +36,7 @@ Zatímco klasický dům může stát 3 000 - 5 000 Kč/měsíc, moderní mobiln�
 - ✅ **ROI** (návratnost investice do úsporných opatření)
 - ✅ **Energetická třída A** – jak ji dosáhnout
 
-**Připraveni snížit účty za energie? Jdeme na to!** 🚀
+**Připraveni snížit účty za energie? Jdeme na to!**
 
 ---
 
@@ -30,6 +46,8 @@ Zatímco klasický dům může stát 3 000 - 5 000 Kč/měsíc, moderní mobiln�
 
 **80% tepelných ztrát** jde přes **špatnou izolaci**!
 
+Žádné superdrahé tepelné čerpadlo nenahradí dobrou izolaci. Můžete mít sebevětší fotovoltaiku – pokud teplo uniká přes stěny a střechu, jen vyhazujete peníze.
+
 Dobrá izolace = nízké náklady na vytápění = úspora **tisíců Kč ročně**.
 
 ---
@@ -38,11 +56,11 @@ Dobrá izolace = nízké náklady na vytápění = úspora **tisíců Kč ročn�
 
 | Kvalita | Tloušťka izolace | U-value (W/m²K) | Energetická třída | Náklady na vytápění (50 m²) |
 |---------|-----------------|----------------|------------------|---------------------------|
-| **Slabá** | 50-80 mm | 0,40-0,50 | D-E | 3 500 Kč/měs ❌ |
-| **Standardní** | 100-120 mm | 0,25-0,30 | C | 1 800 Kč/měs ⚠️ |
-| **Dobrá** | 150-180 mm | 0,15-0,20 | B | 900 Kč/měs ✅ |
-| **Výborná** | 200-250 mm | 0,10-0,15 | A | 500 Kč/měs 🔥 |
-| **Pasivní** | 300+ mm | ≤ 0,10 | A+ | 300 Kč/měs 🌟 |
+| **Slabá** | 50-80 mm | 0,40-0,50 | D-E | 3 500 Kč/měs |
+| **Standardní** | 100-120 mm | 0,25-0,30 | C | 1 800 Kč/měs |
+| **Dobrá** | 150-180 mm | 0,15-0,20 | B | 900 Kč/měs |
+| **Výborná** | 200-250 mm | 0,10-0,15 | A | 500 Kč/měs |
+| **Pasivní** | 300+ mm | ≤ 0,10 | A+ | 300 Kč/měs |
 
 **Závěr:** Investice do **dobré izolace** (150-200 mm) se vyplatí!
 
@@ -71,7 +89,7 @@ Spotřeba energie: 35 kWh/m²/rok
 Cena (TČ): 1 750 / 4 = 440 kWh elektřiny
 440 × 6 Kč = 2 640 Kč/rok
 ────────────────────────────
-Měsíčně: 220 Kč ✅
+Měsíčně: 220 Kč
 ```
 
 **Rozdíl:** 7 500 - 2 640 = **4 860 Kč/rok úspora!**
@@ -83,6 +101,10 @@ Měsíčně: 220 Kč ✅
 
 ---
 
+💡 **Co dělat dál:** Konzultujte s výrobcem mobilního domu minimální tloušťku izolace 150 mm – není důvod šetřit na tom nejdůležitějším.
+
+---
+
 ### Kde izolovat?
 
 #### Priorita #1: **Střecha** (30% tepelných ztrát!)
@@ -90,6 +112,8 @@ Měsíčně: 220 Kč ✅
 **Doporučení:**
 - Min. **200 mm** minerální vlna (lepší 250-300 mm)
 - U-value: **≤ 0,15 W/m²K**
+
+Teplý vzduch stoupá nahoru – špatně izolovaná střecha = vyhazování peněz komínem.
 
 ---
 
@@ -115,18 +139,20 @@ Měsíčně: 220 Kč ✅
 
 **Špatná okna = teplo "uniká ven"** → vyšší náklady na vytápění.
 
+Okna jsou nejslabším místem každé obálky budovy. I malé zlepšení má velký dopad na komfort.
+
 ---
 
 ### Jaké okna vybrat?
 
 | Typ okna | U-value (W/m²K) | Energetická třída | Cena (okno 120×120 cm) |
 |----------|----------------|-------------------|----------------------|
-| **Jednosklo** | 5,0-6,0 | G (nejhorší) | 3 000 Kč ❌ |
-| **Dvojsklo (staré)** | 2,5-3,0 | E | 5 000 Kč ⚠️ |
-| **Dvojsklo (nové)** | 1,1-1,2 | C | 8 000 Kč ✅ |
-| **Dvojsklo (Low-E)** | 0,9-1,0 | B | 10 000 Kč ✅ |
-| **Trojsklo** | 0,7-0,8 | A | 12 000 Kč 🔥 |
-| **Trojsklo pasivní** | 0,5-0,6 | A+ | 15 000 Kč 🌟 |
+| **Jednosklo** | 5,0-6,0 | G (nejhorší) | 3 000 Kč |
+| **Dvojsklo (staré)** | 2,5-3,0 | E | 5 000 Kč |
+| **Dvojsklo (nové)** | 1,1-1,2 | C | 8 000 Kč |
+| **Dvojsklo (Low-E)** | 0,9-1,0 | B | 10 000 Kč |
+| **Trojsklo** | 0,7-0,8 | A | 12 000 Kč |
+| **Trojsklo pasivní** | 0,5-0,6 | A+ | 15 000 Kč |
 
 **Doporučení:** Min. **dvojsklo (U = 1,1)**, ideálně **trojsklo (U = 0,7)**.
 
@@ -151,7 +177,7 @@ Cena: 154 / 4 (TČ) × 6 = 231 Kč/rok
 ```
 Tepelná ztráta: 8 × 1,44 m² × 0,7 = 8 W/K
 Roční ztráta: 8 × 24 × 200 dní = 38 kWh
-Cena: 38 / 4 × 6 = 57 Kč/rok ✅
+Cena: 38 / 4 × 6 = 57 Kč/rok
 ```
 
 **Úspora:** 231 - 57 = **174 Kč/rok** (na jeden dům)
@@ -159,9 +185,13 @@ Cena: 38 / 4 × 6 = 57 Kč/rok ✅
 **ROI lepších oken:**
 - Náklady navíc (8 oken): 8 × (12 000 - 8 000) = 32 000 Kč
 - Roční úspora: 174 Kč (+ komfort!)
-- **ROI: cca 180 let** ❌
+- **ROI: cca 180 let**
 
 **Závěr:** Lepší okna se nevyplatí **čistě finančně**, ale **výrazně zvyšují komfort** (žádné studené závaněcké zóny).
+
+---
+
+💡 **Co dělat dál:** Investujte do minimálně dvojskla Low-E – komfort je stejně důležitý jako úspora.
 
 ---
 
@@ -171,17 +201,19 @@ Cena: 38 / 4 × 6 = 57 Kč/rok ✅
 
 **Správný systém vytápění** může ušetřit **50-70% nákladů** oproti elektrickému topení!
 
+Můžete mít dokonalou izolaci, ale pokud topíte elektrinou, stále platíte zbytečně moc.
+
 ---
 
 ### Porovnání systémů:
 
 | Systém | COP/Účinnost | Cena energie (50 m², 1750 kWh/rok) | Provozní náklady |
 |--------|-------------|-----------------------------------|-----------------|
-| **Elektřina (konvektory)** | 1,0 | 1 750 × 6 = **10 500 Kč/rok** | Žádné ❌ |
+| **Elektřina (konvektory)** | 1,0 | 1 750 × 6 = **10 500 Kč/rok** | Žádné |
 | **Krbová kamna (dřevo)** | 0,7-0,8 | 7 prms × 1 300 = **9 100 Kč/rok** | Údržba komína |
 | **Plynový kotel** | 0,9 | Plyn nedostupný většinou | - |
-| **Tepelné čerpadlo (TČ)** | 3,5-4,5 | 1 750 / 4 × 6 = **2 640 Kč/rok** ✅ | Servis (1×/2 roky) |
-| **TČ + FV** | 4,0+ | **500-1000 Kč/rok** 🔥 | Servis TČ + FV |
+| **Tepelné čerpadlo (TČ)** | 3,5-4,5 | 1 750 / 4 × 6 = **2 640 Kč/rok** | Servis (1×/2 roky) |
+| **TČ + FV** | 4,0+ | **500-1000 Kč/rok** | Servis TČ + FV |
 
 **Závěr:** **Tepelné čerpadlo** (případně s fotovoltaikou) je **nejvýhodnější**!
 
@@ -197,14 +229,14 @@ Cena: 38 / 4 × 6 = 57 Kč/rok ✅
 **Roční náklady (50 m², 1750 kWh tepla):**
 ```
 Spotřeba elektřiny: 1 750 / 4 = 440 kWh
-Cena: 440 × 6 = 2 640 Kč/rok ✅
+Cena: 440 × 6 = 2 640 Kč/rok
 ```
 
 **Srovnání s elektrickým topením:**
 ```
 Elektřina: 10 500 Kč/rok
 TČ: 2 640 Kč/rok
-ÚSPORA: 7 860 Kč/rok ✅
+ÚSPORA: 7 860 Kč/rok
 ```
 
 **ROI:**
@@ -217,8 +249,12 @@ ROI: 20 let
 **Ale:** S dotací NZÚ (80 000 Kč):
 ```
 Vlastní náklady: 80 000 Kč
-ROI: 10 let ✅
+ROI: 10 let
 ```
+
+---
+
+💡 **Co dělat dál:** Požádejte o dotaci NZÚ na tepelné čerpadlo – snížíte investici na polovinu a ROI z 20 na 10 let.
 
 ---
 
@@ -240,10 +276,10 @@ ROI: 10 let ✅
 ```
 TČ potřebuje: 440 kWh elektřiny
 FV vyrábí: 5 000 kWh/rok
-→ TČ běží ZDARMA z FV! ✅
+→ TČ běží ZDARMA z FV!
 Přebytek: 4 560 kWh (pro domácnost)
 ────────────────────────────
-Náklady na vytápění: 0 Kč/rok 🔥
+Náklady na vytápění: 0 Kč/rok
 Úspora na domácnosti: ~6 000 Kč/rok
 CELKOVÁ ÚSPORA: ~16 000 Kč/rok
 ```
@@ -252,7 +288,7 @@ CELKOVÁ ÚSPORA: ~16 000 Kč/rok
 ```
 Vlastní náklady: 100 000 Kč
 Roční úspora: 16 000 Kč
-ROI: 6 let ✅
+ROI: 6 let
 ```
 
 **Závěr:** **TČ + FV** je **nejlepší kombinace** pro maximální úspory!
@@ -293,7 +329,7 @@ S rekuperací: 7 900 Kč/rok
 ```
 Cena: 80 000 Kč
 Roční úspora: 2 600 Kč
-ROI: 31 let ❌ (čistě finančně se nevyplatí)
+ROI: 31 let (čistě finančně se nevyplatí)
 ```
 
 **Ale:** Rekuperace přináší **další výhody**:
@@ -305,6 +341,10 @@ ROI: 31 let ❌ (čistě finančně se nevyplatí)
 
 ---
 
+💡 **Co dělat dál:** Pokud stavíte pasivní dům nebo máte alergii, rekuperace je must-have. Pro standardní mobilní dům ji zvažte podle rozpočtu.
+
+---
+
 ## 📊 KOMPLETNÍ SROVNÁNÍ: Náklady na vytápění
 
 ### Mobilní dům 50 m², celoroční bydlení
@@ -313,8 +353,8 @@ ROI: 31 let ❌ (čistě finančně se nevyplatí)
 |-------------|--------------|---------|-----------|-----|
 | **Basic (100mm, elektřina)** | 10 500 Kč | 875 Kč | 1 500 000 Kč | - |
 | **Standard (150mm, TČ)** | 4 200 Kč | 350 Kč | 1 650 000 Kč | 18 let |
-| **Premium (200mm, TČ)** | 2 640 Kč | 220 Kč | 1 700 000 Kč | 13 let ✅ |
-| **Pasivní (250mm, TČ+FV)** | 500 Kč | 42 Kč | 1 900 000 Kč | 10 let 🔥 |
+| **Premium (200mm, TČ)** | 2 640 Kč | 220 Kč | 1 700 000 Kč | 13 let |
+| **Pasivní (250mm, TČ+FV)** | 500 Kč | 42 Kč | 1 900 000 Kč | 10 let |
 
 **Závěr:** **Premium** nebo **Pasivní** varianta se dlouhodobě vyplatí!
 
@@ -325,12 +365,16 @@ ROI: 31 let ❌ (čistě finančně se nevyplatí)
 ### Podmínky pro třídu A:
 
 ✅ **Spotřeba energie:** ≤ **50 kWh/m²/rok**
+
 ✅ **Izolace:**
   - Stěny: U ≤ 0,18 W/m²K (180 mm)
   - Střecha: U ≤ 0,15 W/m²K (250 mm)
   - Podlaha: U ≤ 0,20 W/m²K (150 mm)
+
 ✅ **Okna:** U ≤ 0,9 W/m²K (dvojsklo Low-E nebo trojsklo)
+
 ✅ **Vytápění:** Tepelné čerpadlo (COP ≥ 3,5)
+
 ✅ **Rekuperace** (účinnost ≥ 75%)
 
 ---
@@ -344,9 +388,13 @@ ROI: 31 let ❌ (čistě finančně se nevyplatí)
 - Rekuperace: 85%
 - FV: 5 kWp (volitelné, ale doporučené)
 
-**Spotřeba energie:** **35 kWh/m²/rok** → **Třída A** ✅
+**Spotřeba energie:** **35 kWh/m²/rok** → **Třída A**
 
 **Roční náklady:** **2 640 Kč** (bez FV) nebo **500 Kč** (s FV)
+
+---
+
+💡 **Co dělat dál:** Konzultujte s výrobcem, zda může dům dodržet parametry třídy A – často to není o moc dražší.
 
 ---
 
@@ -396,7 +444,7 @@ Dotace NZÚ: -160 000 Kč
 ────────────────────────
 Investice: +100 000 Kč (po dotacích)
 Roční úspora: 16 000 Kč
-ROI: 6 let ✅
+ROI: 6 let
 Energetická třída: A
 ```
 
@@ -421,4 +469,3 @@ Napište nám na **[info@novyrozmerbydleni.cz](mailto:info@novyrozmerbydleni.cz)
 ---
 
 **Klíčová slova:** energeticky úsporný mobilní dům, náklady na vytápění mobilní dům, tepelné čerpadlo mobilní dům, fotovoltaika mobilní dům, izolace mobilního domu, energetická třída A
-

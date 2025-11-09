@@ -7,11 +7,23 @@
 
 ---
 
+## TL;DR - Rychlé shrnutí
+
+**Kolik stojí údržba mobilního domu?** 10 000-30 000 Kč/rok (záleží na velikosti).
+
+**Klíčové náklady:** Kontroly (zdarma DIY), nátěr fasády každých 5-7 let (15 000-60 000 Kč), údržba terasy (2 000-4 000 Kč), revize elektro každých 5 let (3 000-5 000 Kč).
+
+**Nejdůležitější:** Pravidelná údržba ušetří 50-60% nákladů oproti opravám po zanedbání. Mobilní dům = 3× levnější údržba než klasický RD.
+
+---
+
 ## Úvod
+
+Plánujete koupit mobilní dům, ale nevíte, kolik času a peněz vás bude stát jeho údržba? Nebo už vlastníte mobilní dům a chcete mít přehled, co kdy dělat? **Pravidelná údržba může ušetřit stovky tisíc korun** – zatímco zanedbání vede k nákladným opravám.
 
 **"Mobilní dům je bez údržby!"** – slyšeli jste to někdy?
 
-**To je MÝ TUS!** ❌
+**To je MÝTUS!** ❌
 
 Pravda je: Mobilní dům vyžaduje **pravidelnou údržbu** (jako každá stavba). Ale **je jednodušší a levnější** než u klasického domu!
 
@@ -62,6 +74,8 @@ Pravda je: Mobilní dům vyžaduje **pravidelnou údržbu** (jako každá stavba
 **Cena:**
 - DIY: 0 Kč
 - Profesionál: 2 000 - 5 000 Kč
+
+> **⚠️ VAROVÁNÍ:** Ucpaný odtok na ploché střeše může způsobit hromadění vody, zatékání a poškození izolace. Oprava: až 80 000 Kč!
 
 ---
 
@@ -115,6 +129,8 @@ Pravda je: Mobilní dům vyžaduje **pravidelnou údržbu** (jako každá stavba
 ---
 
 ### 💰 Náklady JARO: 0 - 8 000 Kč (dle toho, zda DIY nebo profesionál)
+
+**💡 TIP:** Jarní kontroly zvládnete sami za jedno odpoledne. Ušetříte až 8 000 Kč ročně!
 
 ---
 
@@ -173,9 +189,13 @@ Pravda je: Mobilní dům vyžaduje **pravidelnou údržbu** (jako každá stavba
 
 **Frekvence:** Každé 3-5 let
 
+> **⚠️ VAROVÁNÍ:** Prasklý silikon v koupelně = zatékání do stěn = plíseň a hniloba konstrukce!
+
 ---
 
 ### 💰 Náklady LÉTO: 2 000 - 20 000 Kč (záleží na frekvenci nátěru terasy)
+
+**💡 TIP:** Údržbu oken a silikonů zvládnete sami. Profesionál vám ušetří čas, ale ne peníze.
 
 ---
 
@@ -201,6 +221,8 @@ Pravda je: Mobilní dům vyžaduje **pravidelnou údržbu** (jako každá stavba
 - Profesionál: 40 000 - 60 000 Kč
 
 **Frekvence:** Každých 5-7 let → **ročně 6 000 Kč** (rezerva)
+
+> **⚠️ VAROVÁNÍ:** Zanedbání nátěru = hniloba dřeva = výměna celého obkladu (až 180 000 Kč)!
 
 ---
 
@@ -232,6 +254,8 @@ Pravda je: Mobilní dům vyžaduje **pravidelnou údržbu** (jako každá stavba
 ---
 
 ### 💰 Náklady PODZIM: 500 - 60 000 Kč (záleží na nátěru fasády)
+
+**💡 TIP:** Podzim je nejlepší čas pro nátěr fasády (suché počasí, ideální teplota).
 
 ---
 
@@ -360,6 +384,27 @@ Pravda je: Mobilní dům vyžaduje **pravidelnou údržbu** (jako každá stavba
 | **Roční náklady** | 14 400 Kč | 50 000 Kč |
 | **Měsíčně** | 1 200 Kč | 4 200 Kč |
 | **Úspora** | | **3 000 Kč/měs** ✅ |
+
+**💡 TIP:** Mobilní dům = menší plocha = méně materiálu = nižší náklady na údržbu!
+
+---
+
+## ❓ FAQ: Často kladené otázky
+
+### Kolik stojí roční údržba mobilního domu?
+**Odpověď:** 10 000-30 000 Kč/rok (záleží na velikosti a zda děláte DIY nebo najímáte profesionála).
+
+### Co když údržbu zanedbám?
+**Odpověď:** Náklady na opravu jsou 2-3× vyšší než pravidelná údržba. Příklad: Zanedbání nátěru fasády = hniloba = výměna obkladu za 180 000 Kč místo pravidelného nátěru za 15 000 Kč.
+
+### Můžu vše dělat sám (DIY)?
+**Odpověď:** Většinu ano! Kontroly, čištění, nátěr fasády zvládnete sami. Profesionála potřebujete jen na revizi elektro (povinná) a složitější opravy.
+
+### Jak dlouho trvá roční údržba?
+**Odpověď:** 10-14 hodin/rok (cca 1 hodina/měsíc), pokud děláte vše sami.
+
+### Kdy je nejlepší čas pro nátěr fasády?
+**Odpověď:** Podzim (září-říjen) – suché počasí, ideální teplota (10-20°C).
 
 ---
 
@@ -496,6 +541,8 @@ Pravda je: Mobilní dům vyžaduje **pravidelnou údržbu** (jako každá stavba
 
 **Mobilní dům = 3× levnější údržba!** 🔥
 
+**💡 TIP:** Začněte s údržbou hned od prvního dne. Pravidelná údržba = dlouhá životnost domu!
+
 ---
 
 ## 📞 Potřebujete pomoc s údržbou?
@@ -517,4 +564,3 @@ Napište nám na **[info@novyrozmerbydleni.cz](mailto:info@novyrozmerbydleni.cz)
 ---
 
 **Klíčová slova:** údržba mobilního domu, roční plán údržba, náklady údržba mobilní dům, nátěr fasády mobilní dům, čištění okapů, revize mobilní dům
-

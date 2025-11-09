@@ -7,11 +7,17 @@
 
 ---
 
-## Úvod
+## TL;DR
 
-**Mladá rodina + omezený rozpočet + touha po vlastním bydlení = Mobilní dům!** ✅
+Mobilní dům je ideální řešení pro mladé rodiny s omezeným rozpočtem. **Klíčové výhody:** nižší investice (3,5M vs. 4M za byt), rychlá realizace (6-8 měsíců), vlastní zahrada (800 m²), nízké náklady na provoz (úspora 98k Kč/rok oproti bytu), dotace až 500k Kč. **Pro koho:** rodiny 3-4 osoby, které chtějí vlastní bydlení RYCHLE, mají omezený rozpočet do 3,5M a nevadí jim dojíždění 20-30 km. **Rizika:** pozemek příliš daleko, dům menší než 45 m², špatná izolace.
 
-Stále více mladých rodin (25-35 let) volí mobilní dům místo bytu nebo klasické stavby. **Proč?**
+---
+
+## Proč mladé rodiny volí mobilní domy místo bytů
+
+Stále více mladých rodin (25-35 let) volí mobilní dům místo bytu nebo klasické stavby.
+
+Důvod je jednoduchý: kombinace rychlosti, dostupnosti a vlastní zahrady pro děti. Zatímco klasická stavba trvá 18-24 měsíců a byt ve městě stojí přes 4 miliony, mobilní dům postavíte za 6-8 měsíců s celkovou investicí kolem 3,5 milionu včetně pozemku.
 
 **V tomto článku najdete:**
 - ✅ **Proč je mobilní dům ideální** pro mladé rodiny
@@ -43,8 +49,10 @@ Stále více mladých rodin (25-35 let) volí mobilní dům místo bytu nebo kla
 **Mobilní dům:** 6-8 měsíců ✅
 
 **Proč je to důležité:**
-- Rodina roste → potřebujete bydlet RYCHLE
-- Kratší doba = méně placený nájem
+
+Rodina roste a potřebujete bydlet RYCHLE. Kratší doba znamená méně placený nájem.
+
+Každý měsíc ušetříte 18 000 - 23 000 Kč na nájmu.
 
 ---
 
@@ -59,6 +67,8 @@ Stále více mladých rodin (25-35 let) volí mobilní dům místo bytu nebo kla
 - Trampolína 🤸
 - Bazének 🏊
 - Pes 🐕
+
+👉 **Chcete poradit s výběrem pozemku?** [Přečtěte si náš průvodce výběrem pozemku](06-jak-vybrat-pozemek.md)
 
 ---
 
@@ -97,7 +107,7 @@ CELKEM: 23 900 Kč/měs ✅
 
 ---
 
-### 6️⃣ Flexibilita (můžete prodat/přest ěhovat)
+### 6️⃣ Flexibilita (můžete prodat/přestěhovat)
 
 **Co když:**
 - Změníte práci (jiné město)?
@@ -120,6 +130,8 @@ CELKEM: 23 900 Kč/měs ✅
 - ✅ Vlastní dům (žádní sousedé přes zeď)
 - ✅ Děti můžou být hlučné
 - ✅ Můžete mít psa
+
+👉 **Zvažujete mezi mobilním domem a klasickou stavbou?** [Porovnání modulární vs. mobilní domy](21-modularni-vs-mobilni-domy.md)
 
 ---
 
@@ -154,6 +166,8 @@ SKUTEČNÁ HYPOTÉKA: 2 590 000 Kč ✅
 **S Úvěrem od rodin (2 děti):**
 - Podpora úroků: -3 300 Kč/měs (prvních 5 let)
 - **Nová splátka: 13 400 Kč/měs** 🔥
+
+👉 **Potřebujete pomoc s hypotékou?** [Průvodce hypotékou na mobilní dům](03-hypoteka-na-mobilni-dum.md)
 
 ---
 
@@ -191,16 +205,16 @@ SKUTEČNÁ HYPOTÉKA: 2 590 000 Kč ✅
 
 ---
 
-## 📏 Jaká velikost domu?
+## ❓ ČASTO KLADENÉ OTÁZKY
 
-### Pro 3-4 osoby (2 děti):
+### Jaká velikost domu je ideální pro mladou rodinu?
+
+**Pro 3-4 osoby (2 děti):**
 
 **Minimum:** 45 m²
 **Ideál:** 50-60 m²
 
----
-
-### Dispozice 50 m² (2+kk):
+**Dispozice 50 m² (2+kk):**
 
 ```
 Obývací pokoj + kuchyň: 28 m²
@@ -215,13 +229,33 @@ CELKEM: 54 m²
 
 ---
 
-### Pro 5+ osob (3+ děti):
+### Můžeme získat dotace na mobilní dům?
 
-**Doporučeno:** 60-70 m² (3+kk)
+**Ano!** Mladé rodiny s dětmi mohou získat až 500 000 Kč.
 
-**Dispozice:**
-- 2× dětský pokoj (patrové postele)
-- Nebo galerie (3. lůžko)
+**Dotace NZÚ (Nová zelená úsporám):**
+- Fotovoltaika + tepelné čerpadlo: 210 000 Kč
+- Pasivní standard: až 300 000 Kč
+
+**Úvěr od rodin (podpora úroků):**
+- 1 dítě: 120 000 Kč
+- 2 děti: 200 000 Kč
+- 3 děti: 300 000 Kč
+
+👉 [Kompletní průvodce dotacemi](07-dotace-na-mobilni-dum.md)
+
+---
+
+### Je lepší koupit pozemek blízko města nebo levněji dál?
+
+**Doporučení:** Max. 20-30 km od práce.
+
+**Praha okolí:** 3 000 - 5 000 Kč/m²
+**Malé město (30 km od Prahy):** 800 - 1 500 Kč/m²
+
+**Úspora na pozemku 800 m²:** 800 000 - 1 600 000 Kč! 🔥
+
+**ALE pozor:** Dojíždění 1 hodina denně = 2 hodiny v autě + vyšší náklady na benzín.
 
 ---
 
@@ -247,7 +281,7 @@ CELKEM: 54 m²
 
 ### TIP 2: Kombinujte hypotéku + NZÚ dotace
 
-**Přklad:**
+**Příklad:**
 ```
 Hypotéka: 2 800 000 Kč
 Dotace NZÚ (FV+TČ): -210 000 Kč
@@ -283,31 +317,35 @@ Skutečná hypotéka: 2 590 000 Kč ✅
 
 **ÚSPORA:** až 10 000 Kč/rok!
 
+👉 **Zajímá vás off-grid bydlení?** [Kompletní průvodce off-grid mobilními domy](20-off-grid-mobilni-dum.md)
+
 ---
 
-## ⚠️ Na co si dát pozor
+## ⚠️ VAROVÁNÍ: Na co si dát pozor
 
-### Chyba 1: Pozemek příliš daleko (dojíždění > 30 km)
+### ⚠️ Chyba 1: Pozemek příliš daleko (dojíždění > 30 km)
 
 **Problém:**
 - 1 hodina denně v autě (2× denně = 2 hodiny!)
-- Vyšší náklady na benzín
+- Vyšší náklady na benzín (15 000 - 25 000 Kč/rok)
+- Méně času s rodinou
 
 **Řešení:** Max. 20-30 km od práce ✅
 
 ---
 
-### Chyba 2: Příliš malý dům (pod 45 m²)
+### ⚠️ Chyba 2: Příliš malý dům (pod 45 m²)
 
 **Problém:**
 - 2 děti + rodiče = těsno
 - Děti rostou → potřebují více místa
+- Žádný prostor pro hru/úložný prostor
 
 **Řešení:** Min. 45 m² (ideálně 50 m²) ✅
 
 ---
 
-### Chyba 3: Špatná izolace (úspora při stavbě → drahé topení)
+### ⚠️ Chyba 3: Špatná izolace (úspora při stavbě → drahé topení)
 
 **Problém:**
 - Ušetříte 50k při stavbě
@@ -357,4 +395,3 @@ Napište nám na **[info@novyrozmerbydleni.cz](mailto:info@novyrozmerbydleni.cz)
 ---
 
 **Klíčová slova:** mobilní dům pro mladou rodinu, mobilní dům s dětmi, bydlení pro mladou rodinu, levné bydlení rodina, mobilní dům 2 děti
-

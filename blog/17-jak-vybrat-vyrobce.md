@@ -7,7 +7,19 @@
 
 ---
 
+## TL;DR - Rychlé shrnutí
+
+**10 klíčových otázek pro výrobce:** Izolace (min. 150 mm), okna (U ≤ 1,2), certifikace (ČSN EN 15254), záruka (min. 5 let), reference, vlastní výroba, doba na trhu (5+ let), termín dodání, co je v ceně "pod klíč", platební harmonogram.
+
+**Red flags:** Tlak na rychlé rozhodnutí, žádné reference, příliš nízká cena (-25% pod trhem), nejasná adresa, odmítnutí návštěvy výroby.
+
+**Nejdůležitější:** Vyberte střední cestu (ne nejlevnější, ne nejdražší), navštivte 3 výrobce, mluvte se zákazníky, čtěte smlouvu důkladně. Špatný výrobce = problémy na 40 let!
+
+---
+
 ## Úvod
+
+Vybíráte výrobce mobilního domu a nevíte, na co se zaměřit? **Výběr výrobce je nejdůležitější rozhodnutí celého procesu** – kvalitní výrobce znamená kvalitní dům na desítky let, špatný výrobce může vést k problémům, které vás budou trápit celý život.
 
 **Výběr výrobce = nejdůležitější rozhodnutí!**
 
@@ -51,6 +63,10 @@ Dobrý výrobce = kvalitní dům → spokojenost na 40 let! ✅
 **Red flag:** ❌
 - *"Máme standardní izolaci"* (bez čísla!)
 - Méně než 100 mm
+
+> **⚠️ VAROVÁNÍ:** Izolace pod 120 mm = vysoké náklady na topení (až 2× více). Investice do tlusté izolace se vrátí za 5-7 let!
+
+**💡 TIP:** Požadujte PŘESNÁ ČÍSLA (mm). "Standardní izolace" = vyhýbavá odpověď = pravděpodobně slabá!
 
 ---
 
@@ -100,9 +116,11 @@ Dobrý výrobce = kvalitní dům → spokojenost na 40 let! ✅
 - *"Certifikaci nepotřebujeme"*
 - *"Máme vlastní certifikát"* (neoficiální)
 
+> **⚠️ VAROVÁNÍ:** Bez certifikace ČSN EN 15254 nemusíte získat kolaudaci! Ověřte si certifikaci PŘED podpisem smlouvy.
+
 ---
 
-### 4️⃣ "Jakou zárukamate?"
+### 4️⃣ "Jakou záruku máte?"
 
 **Proč je to důležité:**
 - Záruka = důvěra výrobce v kvalitu
@@ -128,6 +146,8 @@ Dobrý výrobce = kvalitní dům → spokojenost na 40 let! ✅
 - Záruka kratší než 5 let
 - *"Záruka jen 2 roky"* → nekvalitní!
 
+**💡 TIP:** Záruka 2 roky = zákonné minimum = žádná skutečná záruka. Kvalitní výrobci dávají 5-10 let!
+
 ---
 
 ### 5️⃣ "Můžu vidět reference?"
@@ -151,6 +171,8 @@ Dobrý výrobce = kvalitní dům → spokojenost na 40 let! ✅
 **Red flag:** ❌
 - *"Reference nemáme"* (nová firma = riziko)
 - *"Nemůžeme vám dát kontakty"* (proč?)
+
+**💡 TIP:** Navštivte MINIMÁLNĚ 2 reference a mluvte s majiteli. Zeptejte se: "Co byste změnili?" a "Doporučili byste tohoto výrobce?"
 
 ---
 
@@ -222,6 +244,8 @@ Dobrý výrobce = kvalitní dům → spokojenost na 40 let! ✅
 - *"Dodáme za 6 měsíců"* → dlouho
 - Bez penále ve smlouvě → nedodají včas!
 
+**💡 TIP:** Penále za zpoždění = motivace dodat včas. Bez penále = riziko zpoždění o měsíce!
+
 ---
 
 ### 9️⃣ "Co je zahrnuto v ceně 'pod klíč'?"
@@ -242,6 +266,8 @@ Dobrý výrobce = kvalitní dům → spokojenost na 40 let! ✅
 **Red flag:** ❌
 - *"Všechno je v ceně"* (bez specifikace)
 - Pak zjistíte → přípojky +200k navíc!
+
+> **⚠️ VAROVÁNÍ:** "Pod klíč" může znamenat cokoliv! Žádejte písemný seznam, co JE a co NENÍ zahrnuto v ceně.
 
 ---
 
@@ -265,6 +291,27 @@ Dobrý výrobce = kvalitní dům → spokojenost na 40 let! ✅
 **Red flag:** ❌
 - *"Platba 100% předem"* → riziko!
 - *"Platba v hotovosti"* → podezřelé!
+
+**💡 TIP:** Nikdy neplaťte 100% předem! Zadržení 10% na 30 dní po kolaudaci = páka pro případné reklamace.
+
+---
+
+## ❓ FAQ: Často kladené otázky
+
+### Kolik výrobců mám navštívit před rozhodnutím?
+**Odpověď:** Minimum 3. Získáte přehled o trhu, cenách a kvalitě. Ideálně navštivte jejich výrobu a min. 2 reference každého.
+
+### Jak dlouho trvá výběr výrobce?
+**Odpověď:** 2-3 měsíce v průměru. Není to o rychlosti, ale o správném rozhodnutí pro investici 2-4 miliony Kč.
+
+### Jsou zahraniční výrobci vždy lepší?
+**Odpověď:** NE. Zahraniční = často vyšší kvalita, ale +30-50% cena. Čeští výrobci nabízejí dobrý poměr cena/kvalita + snazší komunikaci.
+
+### Co když výrobce odmítne ukázat výrobu?
+**Odpověď:** RED FLAG! Seriózní výrobci rádi ukazují výrobu. Pokud odmítají, mají co skrývat.
+
+### Mám požadovat smlouvu ke kontrole před podpisem?
+**Odpověď:** ANO, vždy! Nechte si ji poslat 7-14 dní předem. V klidu pročtěte nebo nechte zkontrolovat právníkem.
 
 ---
 
@@ -300,6 +347,8 @@ Oni: 1,5M Kč ⚠️
 **Proč je to špatně:**
 - Příliš levné = špatná kvalita (tenká izolace, špatná okna)
 
+> **⚠️ VAROVÁNÍ:** Cena 25%+ pod trhem = vždy kompromis v kvalitě! Ušetříte 500k, zaplatíte 1M navíc na topení a opravy.
+
 ---
 
 ### ❌ 4. Nejasná adresa / kontakt
@@ -319,6 +368,8 @@ Oni: 1,5M Kč ⚠️
 **Proč je to špatně:**
 - Co skrývají?
 - Možná nevyrábějí sami (subdodavatelé)
+
+**💡 TIP:** Každý RED FLAG = důvod říct NE. 2+ RED FLAGS = okamžitě utíkejte!
 
 ---
 
@@ -343,7 +394,9 @@ Oni: 1,5M Kč ⚠️
 - [ ] Navštívit existující dům (reference)
 - [ ] Mluvit se zákazníky (zkušenosti?)
 - [ ] Porovnat 3 nabídky (cena, kvalita)
-- [ ] Přečíst smlouvu (terminované penále?)
+- [ ] Přečíst smlouvu (termín, penále?)
+
+**💡 TIP:** Vytiskněte si tento checklist a berte ho na každou schůzku s výrobcem!
 
 ---
 
@@ -389,6 +442,8 @@ Oni: 1,5M Kč ⚠️
 | **Maximální kvalita** | Zahraniční výrobci ✅ |
 | **Jednoduchá komunikace** | Čeští výrobci ✅ |
 
+**💡 TIP:** Čeští výrobci dohnali kvalitu zahraničních. Pro většinu lidí = nejlepší volba (kvalita + cena + komunikace).
+
 ---
 
 ## 💡 TIPY od zkušených majitelů
@@ -406,7 +461,7 @@ Oni: 1,5M Kč ⚠️
 
 ---
 
-### TIP 2: Nedejte se ukvap it
+### TIP 2: Nedejte se ukvapіt
 
 **Průměrná doba rozhodování:** 2-3 měsíce
 
@@ -425,8 +480,10 @@ Oni: 1,5M Kč ⚠️
 - Penále za zpoždění
 - Záruka (co kryje)
 
-**Pokud něco nechápe:**
+**Pokud něco nechápete:**
 → Zeptejte se / nechte přečíst právníka
+
+**💡 TIP:** Smlouva = nejdůležitější dokument. 1 hodina s právníkem (3 000 Kč) = ušetří stovky tisíc při problémech!
 
 ---
 
@@ -444,7 +501,9 @@ Oni: 1,5M Kč ⚠️
 
 **Jana (38 let):**
 
-> *"Vybr ala jsem výrobce Y (nejlevnější: 1,7M). Slibovali dodání za 3 měsíce → dodali za 8 měsíců! Po roce: zatékání, prasklé okna. Reklamace? 'To je běžné opotřebení.' Oprava: 150 000 Kč navíc. Katastrofa!"*
+> *"Vybrala jsem výrobce Y (nejlevnější: 1,7M). Slibovali dodání za 3 měsíce → dodali za 8 měsíců! Po roce: zatékání, prasklé okna. Reklamace? 'To je běžné opotřebení.' Oprava: 150 000 Kč navíc. Katastrofa!"*
+
+**💡 TIP:** Nejlevnější cena = VŽDY kompromis. Střední cena = nejlepší poměr kvalita/cena.
 
 ---
 
@@ -459,6 +518,8 @@ Oni: 1,5M Kč ⚠️
 5. **Porovnejte cenu + kvalitu** (ne jen cenu!)
 6. **Přečtěte smlouvu** (pozor na detaily)
 7. **Vyberte** (ne nejlevnější, ne nejdražší → střed ✅)
+
+**💡 TIP:** Výběr výrobce = 80% úspěchu. Investujte do tohoto času 2-3 měsíce. Ušetříte roky starostí!
 
 ---
 
@@ -481,4 +542,3 @@ Napište nám na **[info@novyrozmerbydleni.cz](mailto:info@novyrozmerbydleni.cz)
 ---
 
 **Klíčová slova:** jak vybrat výrobce mobilního domu, nejlepší výrobci mobilních domů, čeští výrobci mobilních domů, na co se ptát výrobce mobilní dům, reference mobilní domy
-

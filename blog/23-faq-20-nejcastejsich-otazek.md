@@ -7,19 +7,31 @@
 
 ---
 
+## TL;DR - Rychlý přehled
+
+**Máte otázky o mobilních domech? Zde jsou odpovědi na 20 nejčastějších dotazů.**
+
+**Nejdůležitější fakta:**
+- Stavební povolení: NE (do 55 m² stačí oznámení)
+- Trvalé bydliště: ANO (s kolaudací)
+- Hypotéka: ANO (Raiffeisenbank, Fio)
+- Cena: 1,8 - 2,8 mil. Kč (50 m² komplet)
+- Provoz: 1 500 - 3 000 Kč/měs
+- Životnost: 40-60 let
+
+**Pro rychlou orientaci:**
+- Legislativa: otázky 1-4
+- Náklady: otázky 5-8
+- Technika: otázky 9-13
+- Praxe: otázky 14-20
+
+---
+
 ## Úvod
 
-**Máte otázky o mobilních domech?** 🤔
+Každý den dostáváme desítky dotazů o mobilních domech. Lidé se ptají na povolení, náklady, technické detaily i praktické záležitosti. Proto jsme vybrali 20 nejčastějších otázek a připravili kompletní odpovědi.
 
-Každý den dostáváme desítky dotazů. Vybrali jsme **20 NEJČASTĚJŠÍCH** a odpovídáme jednou provždy!
-
-**V tomto článku najdete odpovědi na:**
-- ✅ Legislativu (povolení, kolaudace)
-- ✅ Náklady (kolik to stojí, financování)
-- ✅ Technické otázky (izolace, vytápění, životnost)
-- ✅ Praktické záležitosti (hypotéka, pojištění, údržba)
-
-**Pojďme na to!** 📋
+Nepotřebujete procházet celé články. Najděte svou otázku a získejte jasnou, stručnou odpověď s odkazy na detailní informace.
 
 ---
 
@@ -27,12 +39,13 @@ Každý den dostáváme desítky dotazů. Vybrali jsme **20 NEJČASTĚJŠÍCH** 
 
 ### 1. Potřebuji stavební povolení na mobilní dům?
 
-**Odpověď:** NE! (pokud je do 55 m²) ✅
+**Odpověď:** NE! (pokud je do 55 m²)
 
 **Vysvětlení:**
-- Mobilní dům **do 55 m²** = "výrobek plnící funkci stavby"
-- **Stačí oznámení** stavby (15 dní na odpověď úřadu)
-- **Nad 55 m²** = klasická stavba → potřebujete územní + stavební povolení
+
+Mobilní dům **do 55 m²** = "výrobek plnící funkci stavby". Stačí oznámení stavby (15 dní na odpověď úřadu).
+
+**Nad 55 m²** = klasická stavba → potřebujete územní + stavební povolení.
 
 **Co potřebujete:**
 - [ ] Projekt (od autorizovaného technika)
@@ -41,27 +54,33 @@ Každý den dostáváme desítky dotazů. Vybrali jsme **20 NEJČASTĚJŠÍCH** 
 
 **Více:** [Legislativa 2025](19-legislativa-2025-kompletni-pruvodce.md)
 
+> **VAROVÁNÍ:** Vždy zkontrolujte územní plán před koupí pozemku! I mobilní dům do 55 m² nelze postavit mimo zastavitelné území.
+
 ---
 
 ### 2. Můžu postavit mobilní dům na zemědělské půdě?
 
-**Odpověď:** NE! (bez změny územního plánu) ❌
+**Odpověď:** NE! (bez změny územního plánu)
 
 **Vysvětlení:**
-- **ZPF (zemědělský půdní fond)** = určeno pro zemědělství
-- Stavba možná **JEN v zastavitelném území** (dle územního plánu)
-- **Výjimka:** Můžete žádat o změnu ÚP (2-3 roky, náklady 100 000 - 300 000 Kč)
+
+**ZPF (zemědělský půdní fond)** = určeno pro zemědělství. Stavba možná **JEN v zastavitelném území** (dle územního plánu).
+
+**Výjimka:** Můžete žádat o změnu ÚP (2-3 roky, náklady 100 000 - 300 000 Kč)
 
 **Řešení:**
-- VŽDY zkontrolujte územní plán PŘED koupí pozemku! ✅
+
+VŽDY zkontrolujte územní plán PŘED koupí pozemku!
 
 **Více:** [Jak vybrat pozemek](06-jak-vybrat-pozemek.md)
+
+> **Připravujete se na výběr pozemku? Přečtěte si náš komplexní průvodce [Jak vybrat pozemek](06-jak-vybrat-pozemek.md) a vyhněte se nákladným chybám.**
 
 ---
 
 ### 3. Můžu mít v mobilním domě trvalé bydliště?
 
-**Odpověď:** ANO! ✅ (ale musíte splnit podmínky)
+**Odpověď:** ANO! (ale musíte splnit podmínky)
 
 **Podmínky:**
 - [ ] **Kolaudace** nebo souhlas s užíváním
@@ -69,7 +88,7 @@ Každý den dostáváme desítky dotazů. Vybrali jsme **20 NEJČASTĚJŠÍCH** 
 - [ ] **Přípojky:** voda, elektřina, kanalizace
 - [ ] **Pozemek v zastavitelném území** (dle ÚP)
 
-**Pokud splníte → trvalé bydliště (TP) OK!** ✅
+**Pokud splníte → trvalé bydliště (TP) OK!**
 
 **BEZ kolaudace:** Nelze mít TP (úřad zamítne)
 
@@ -77,7 +96,7 @@ Každý den dostáváme desítky dotazů. Vybrali jsme **20 NEJČASTĚJŠÍCH** 
 
 ### 4. Jak dlouho trvá povolovací proces?
 
-**Odpověď:** 2-6 měsíců ✅
+**Odpověď:** 2-6 měsíců
 
 **Timeline:**
 1. **Projekt:** 2-4 týdny
@@ -90,9 +109,11 @@ Každý den dostáváme desítky dotazů. Vybrali jsme **20 NEJČASTĚJŠÍCH** 
 
 **Porovnání:**
 - Klasická stavba: 12-24 měsíců
-- Mobilní dům: **3-6 měsíců** → 3× rychleji! ✅
+- Mobilní dům: **3-6 měsíců** → 3× rychleji!
 
 **Více:** [Průvodce výstavbou](12-pruvodce-vystavbou-krok-za-krokem.md)
+
+> **Chcete urychlit proces? V článku [Průvodce výstavbou krok za krokem](12-pruvodce-vystavbou-krok-za-krokem.md) najdete tipy, jak zkrátit čekání na úřady.**
 
 ---
 
@@ -116,7 +137,7 @@ Každý den dostáváme desítky dotazů. Vybrali jsme **20 NEJČASTĚJŠÍCH** 
 **Dotace:**
 - NZÚ (FV+TČ): -210 000 Kč
 - Úvěr od rodin (2 děti): -200 000 Kč
-- **→ Skutečná cena: 3 030 000 Kč** ✅
+- **→ Skutečná cena: 3 030 000 Kč**
 
 **Více:** [Kolik stojí mobilní dům](04-kolik-stoji-mobilni-dum.md)
 
@@ -124,7 +145,7 @@ Každý den dostáváme desítky dotazů. Vybrali jsme **20 NEJČASTĚJŠÍCH** 
 
 ### 6. Dá se na mobilní dům dostat hypotéku?
 
-**Odpověď:** ANO! ✅ (ale ne všude)
+**Odpověď:** ANO! (ale ne všude)
 
 **Podmínky:**
 - [ ] **Kolaudace** (nebo souhlas s užíváním)
@@ -147,7 +168,7 @@ Každý den dostáváme desítky dotazů. Vybrali jsme **20 NEJČASTĚJŠÍCH** 
 
 ### 7. Jaké dotace můžu získat?
 
-**Odpověď:** Až 500 000 Kč! 🔥
+**Odpověď:** Až 500 000 Kč!
 
 **Dotace (2025):**
 
@@ -162,10 +183,12 @@ Každý den dostáváme desítky dotazů. Vybrali jsme **20 NEJČASTĚJŠÍCH** 
 NZÚ (TČ + FV): 210 000 Kč
 Úvěr od rodin: 200 000 Kč
 ────────────────────────
-CELKEM: 410 000 Kč ✅
+CELKEM: 410 000 Kč
 ```
 
 **Více:** [Dotace 2025](07-dotace-na-mobilni-dum.md)
+
+> **Maximalizujte dotace! Náš článek [Dotace na mobilní dům 2025](07-dotace-na-mobilni-dum.md) obsahuje krok-za-krokem návod, jak získat až 500 000 Kč.**
 
 ---
 
@@ -181,13 +204,13 @@ CELKEM: 410 000 Kč ✅
 | **Elektřina** (spotřebiče) | 600 - 900 Kč |
 | **Voda** | 200 - 400 Kč |
 | **Kanalizace** | 200 - 500 Kč |
-| **CELKEM** | **1 500 - 3 000 Kč/měs** ✅ |
+| **CELKEM** | **1 500 - 3 000 Kč/měs** |
 
 **Porovnání:**
-- Byt (2+kk, 55 m²): 5 000 - 7 000 Kč/měs ❌
-- Mobilní dům: **1 500 - 3 000 Kč/měs** ✅
+- Byt (2+kk, 55 m²): 5 000 - 7 000 Kč/měs
+- Mobilní dům: **1 500 - 3 000 Kč/měs**
 
-**ÚSPORA: 3 500 - 4 500 Kč/měs = 42 000 - 54 000 Kč/rok!** 💰
+**ÚSPORA: 3 500 - 4 500 Kč/měs = 42 000 - 54 000 Kč/rok!**
 
 **Více:** [Energeticky úsporný dům](08-energeticky-usporny-mobilni-dum.md)
 
@@ -197,7 +220,7 @@ CELKEM: 410 000 Kč ✅
 
 ### 9. Je v mobilním domě v zimě zima?
 
-**Odpověď:** NE! ❌ (moderní mobilní dům je teplejší než mnoho klasických domů)
+**Odpověď:** NE! (moderní mobilní dům je teplejší než mnoho klasických domů)
 
 **Proč:**
 - **Kvalitní izolace:** 150-200 mm (vs. 100 mm starší domy)
@@ -206,16 +229,18 @@ CELKEM: 410 000 Kč ✅
 
 **Reálný test (zima -15°C):**
 - Venku: -15°C
-- Uvnitř: 22°C ✅
+- Uvnitř: 22°C
 - Spotřeba (TČ): 1 200 Kč/měs
 
 **Více:** [Zimní bydlení](15-zimni-bydleni-myty-realita.md)
+
+> **VAROVÁNÍ:** Špatně izolovaný mobilní dům může mít v zimě problémy. Vyžadujte min. 150 mm izolaci ve stěnách a 200 mm ve střeše.
 
 ---
 
 ### 10. Jak dlouho vydrží mobilní dům?
 
-**Odpověď:** 40-60 let ✅ (při správné údržbě)
+**Odpověď:** 40-60 let (při správné údržbě)
 
 **Faktory:**
 - **Kvalita výroby:** Dobrý výrobce = 50+ let
@@ -243,7 +268,7 @@ CELKEM: 410 000 Kč ✅
 | Standard | Stěny | Střecha | Podlaha |
 |----------|-------|---------|---------|
 | **Minimum** | 120 mm | 150 mm | 100 mm |
-| **Standard** | 150 mm | 200 mm | 150 mm ✅ |
+| **Standard** | 150 mm | 200 mm | 150 mm |
 | **Pasivní** | 250-300 mm | 350 mm | 250 mm |
 
 **Proč:**
@@ -254,7 +279,7 @@ CELKEM: 410 000 Kč ✅
 **ROI:**
 - Extra náklad (150 → 200 mm): +100 000 Kč
 - Úspora ročně: 8 000 Kč
-- **ROI: 12 let** ✅
+- **ROI: 12 let**
 
 **Více:** [Energeticky úsporný dům](08-energeticky-usporny-mobilni-dum.md)
 
@@ -262,7 +287,7 @@ CELKEM: 410 000 Kč ✅
 
 ### 12. Které vytápění je nejlepší?
 
-**Odpověď:** Tepelné čerpadlo (TČ) + fotovoltaika (FV) ✅
+**Odpověď:** Tepelné čerpadlo (TČ) + fotovoltaika (FV)
 
 **Proč:**
 - **TČ:** Efektivní (COP 4,0 = 1 kW → 4 kW tepla)
@@ -273,10 +298,10 @@ CELKEM: 410 000 Kč ✅
 
 | Vytápění | Náklady/rok |
 |----------|-------------|
-| **Elektřina (konvektory)** | 18 000 Kč ❌ |
+| **Elektřina (konvektory)** | 18 000 Kč |
 | **Plyn (kotel)** | 12 000 Kč |
-| **TČ** | 7 200 Kč ✅ |
-| **TČ + FV** | 1 200 Kč 🔥 |
+| **TČ** | 7 200 Kč |
+| **TČ + FV** | 1 200 Kč |
 
 **Investice:**
 - TČ: 120 000 - 180 000 Kč
@@ -287,11 +312,13 @@ CELKEM: 410 000 Kč ✅
 
 **Více:** [Energeticky úsporný dům](08-energeticky-usporny-mobilni-dum.md)
 
+> **Zvažujete vytápění? Porovnejte všechny možnosti včetně nákladů v článku [Energeticky úsporný mobilní dům](08-energeticky-usporny-mobilni-dum.md).**
+
 ---
 
 ### 13. Můžu mobilní dům přemístit?
 
-**Odpověď:** ANO! ✅ (technicky možné)
+**Odpověď:** ANO! (technicky možné)
 
 **Jak:**
 1. Odpojit přípojky (voda, elektřina, kanalizace)
@@ -308,9 +335,7 @@ CELKEM: 410 000 Kč ✅
 - Prodej pozemku
 - Dočasné bydlení (pak přesun)
 
-**Poznámka:**
-- Většina lidí mobilní dům NEPŘEMÍSŤUJE (zůstává na místě)
-- Ale možnost existuje! ✅
+**Poznámka:** Většina lidí mobilní dům NEPŘEMÍSŤUJE (zůstává na místě). Ale možnost existuje!
 
 ---
 
@@ -318,7 +343,7 @@ CELKEM: 410 000 Kč ✅
 
 ### 14. Potřebuji pojištění?
 
-**Odpověď:** ANO! ✅ (nutné)
+**Odpověď:** ANO! (nutné)
 
 **Typy:**
 1. **Pojištění nemovitosti** (požár, povodeň, vichřice): 4 000 - 8 000 Kč/rok
@@ -334,8 +359,8 @@ CELKEM: 410 000 Kč ✅
 - ⚠️ Generali (většinou ne)
 
 **Podmínky:**
-- Kolaudace ✅
-- Zápis v katastru ✅
+- Kolaudace
+- Zápis v katastru
 
 **Více:** [Pojištění mobilního domu](16-pojisteni-mobilniho-domu.md)
 
@@ -356,11 +381,11 @@ CELKEM: 410 000 Kč ✅
 | **Rekuperace (filtry)** | 2×/rok | 800 Kč |
 | **Servis TČ** | 1×/rok | 3 000 Kč |
 | **Nátěr fasády** | 1× za 7 let | 4 000 Kč/rok (průměr) |
-| **CELKEM** | - | **10 000 - 15 000 Kč/rok** ✅ |
+| **CELKEM** | - | **10 000 - 15 000 Kč/rok** |
 
 **Porovnání:**
 - Klasický RD (120 m²): 30 000 - 50 000 Kč/rok
-- Mobilní dům (50 m²): **10 000 - 15 000 Kč/rok** ✅
+- Mobilní dům (50 m²): **10 000 - 15 000 Kč/rok**
 
 **Více:** [Údržba - roční plán](14-udrzba-rocni-plan.md)
 
@@ -374,23 +399,23 @@ CELKEM: 410 000 Kč ✅
 
 | Kritérium | Byt | Mobilní dům |
 |-----------|-----|-------------|
-| **Cena** | 4 000 000 Kč (Praha) | 3 500 000 Kč ✅ |
-| **Měsíční náklady** | 6 000 Kč (energie + fond) | 2 500 Kč ✅ |
-| **Zahrada** | NE ❌ | ANO (800 m²) ✅ |
-| **Soukromí** | NE (sousedé) ❌ | ANO ✅ |
-| **Hypotéka** | Snadná ✅ | Složitější ⚠️ |
-| **Hodnota** | Roste ✅ | Klesá ⚠️ |
+| **Cena** | 4 000 000 Kč (Praha) | 3 500 000 Kč |
+| **Měsíční náklady** | 6 000 Kč (energie + fond) | 2 500 Kč |
+| **Zahrada** | NE | ANO (800 m²) |
+| **Soukromí** | NE (sousedé) | ANO |
+| **Hypotéka** | Snadná | Složitější |
+| **Hodnota** | Roste | Klesá |
 
 **Mobilní dům vyberte, pokud:**
-- ✅ Chcete zahradu
-- ✅ Chcete soukromí (žádní sousedé přes zeď)
-- ✅ Chcete nízké náklady
-- ✅ Máte auto (dojíždění OK)
+- Chcete zahradu
+- Chcete soukromí (žádní sousedé přes zeď)
+- Chcete nízké náklady
+- Máte auto (dojíždění OK)
 
 **Byt vyberte, pokud:**
-- ✅ Chcete bydlet ve městě (centrum)
-- ✅ Chcete investici (hodnota roste)
-- ✅ Nemáte auto (MHD)
+- Chcete bydlet ve městě (centrum)
+- Chcete investici (hodnota roste)
+- Nemáte auto (MHD)
 
 **Více:** [Mobilní dům vs. byt](11-mobilni-dum-vs-byt.md)
 
@@ -398,13 +423,13 @@ CELKEM: 410 000 Kč ✅
 
 ### 17. Je mobilní dům vhodný pro seniory?
 
-**Odpověď:** ANO! ✅ (ideální)
+**Odpověď:** ANO! (ideální)
 
 **Proč:**
-- ✅ **Bezbariérový:** Jeden patro (žádné schody)
-- ✅ **Levný provoz:** 1 500 - 3 000 Kč/měs (vs. 5 000+ Kč byt)
-- ✅ **Zahrada:** Hobby (pěstování, relax)
-- ✅ **Klid:** Žádní hlučné sousedé
+- **Bezbariérový:** Jedno patro (žádné schody)
+- **Levný provoz:** 1 500 - 3 000 Kč/měs (vs. 5 000+ Kč byt)
+- **Zahrada:** Hobby (pěstování, relax)
+- **Klid:** Žádní hlučné sousedé
 
 **Doporučení pro seniory:**
 - Větší dveře (90 cm → invalidní vozík)
@@ -420,14 +445,14 @@ CELKEM: 410 000 Kč ✅
 
 ### 18. Můžu mobilní dům pronajímat (Airbnb)?
 
-**Odpověď:** ANO! ✅ (dobrý byznys)
+**Odpověď:** ANO! (dobrý byznys)
 
 **Příklad (50 m², 40 km od Prahy):**
 - **Nájemné:** 2 500 Kč/noc
 - **Obsazenost:** 12 nocí/měs (průměr)
-- **Příjem:** 30 000 Kč/měs ✅
+- **Příjem:** 30 000 Kč/měs
 - **Náklady:** 5 000 Kč/měs (energie, úklid, údržba)
-- **Zisk:** 25 000 Kč/měs = 300 000 Kč/rok! 🔥
+- **Zisk:** 25 000 Kč/měs = 300 000 Kč/rok!
 
 **ROI:**
 - Investice (dům + pozemek): 3 500 000 Kč
@@ -439,7 +464,9 @@ CELKEM: 410 000 Kč ✅
 - Daň z příjmu (15% nebo 23%)
 - Pojištění (+ odpovědnost)
 
-**Více:** Připravujeme článek o Airbnb byznysu!
+**Více:** [Airbnb byznys s mobilními domy](24-airbnb-byznys-s-mobilnimi-domy.md)
+
+> **Uvažujete o Airbnb? Kompletní průvodce včetně kalkulací a tipů najdete v článku [Airbnb byznys s mobilními domy](24-airbnb-byznys-s-mobilnimi-domy.md).**
 
 ---
 
@@ -450,13 +477,13 @@ CELKEM: 410 000 Kč ✅
 **Mobilní dům:**
 - Max. 55 m²
 - BEZ územního/stavebního povolení (jen oznámení)
-- Přemístitelný ✅
+- Přemístitelný
 - Rychlý (3-6 měsíců)
 
 **Modulární dům:**
 - Bez limitu velikosti (80-200 m²)
 - Potřebuje územní + stavební povolení
-- NENÍ přemístitelný ❌
+- NENÍ přemístitelný
 - Pomalejší (8-14 měsíců)
 
 **Kdy vybrat mobilní:**
@@ -489,12 +516,14 @@ CELKEM: 410 000 Kč ✅
 10. Platební harmonogram? (30% záloha, 60% po montáži, 10% po 30 dnech)
 
 **Red flags:**
-- ❌ Tlačí vás k rychlému rozhodnutí
-- ❌ Nemají webové stránky/recenze
-- ❌ Cena příliš nízká (vs. konkurence)
-- ❌ Odmítají návštěvu výroby
+- Tlačí vás k rychlému rozhodnutí
+- Nemají webové stránky/recenze
+- Cena příliš nízká (vs. konkurence)
+- Odmítají návštěvu výroby
 
 **Více:** [Jak vybrat výrobce](17-jak-vybrat-vyrobce.md)
+
+> **VAROVÁNÍ:** Nekvalitní výrobce může znamenat roky problémů. Před podpisem smlouvy si vždy nechte ukázat reálné reference a navštivte výrobu.
 
 ---
 
@@ -511,7 +540,4 @@ Napište nám na **[info@novyrozmerbydleni.cz](mailto:info@novyrozmerbydleni.cz)
 
 ---
 
-**Líbil se vám článek? Sdílejte ho!**
-
 **Klíčová slova:** FAQ mobilní domy, otázky mobilní domy, mobilní dům povolení, kolik stojí mobilní dům, hypotéka mobilní dům, mobilní dům zima, mobilní dům životnost
-

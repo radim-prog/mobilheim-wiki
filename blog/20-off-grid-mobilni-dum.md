@@ -7,17 +7,21 @@
 
 ---
 
-## Úvod
+## TL;DR
+
+**Off-grid = 100% nezávislost na sítích** (elektřina, voda, kanalizace). **Investice:** 585k - 1,3M Kč navíc oproti klasickému domu (FV 255-690k, studna 100-200k, ČOV 80-150k, vytápění 150-250k). **Provozní náklady:** 1 460 Kč/měs (vs. 2 730 Kč on-grid) = úspora 15k Kč/rok. **Pro koho:** lidé s levným pozemkem BEZ přípojek (úspora 400-800k na pozemku), šikovní (údržba), chtějí nezávislost. **Rizika:** vysoká vstupní investice, zimní omezení (málo slunce), nutná údržba, složitější hypotéka.
+
+---
+
+## Co je off-grid a proč ho lidé volí
 
 **Žádné účty za energie. Žádná závislost na sítích. Úplná svoboda.** 🌍
 
 To je **OFF-GRID** bydlení!
 
-**Off-grid mobilní dům = dům ZCELA NEZÁVISLÝ** na veřejných sítích:
-- ❌ Žádná elektřina ze sítě
-- ❌ Žádná voda z vodovodu
-- ❌ Žádná kanalizace
-- ✅ **100% soběstačnost!**
+**Off-grid mobilní dům = dům ZCELA NEZÁVISLÝ** na veřejných sítích.
+
+Místo klasických přípojek používáte vlastní zdroje: fotovoltaiku pro elektřinu, studnu pro vodu, septik pro odpad. Výsledek? Žádné měsíční účty a naprostá energetická soběstačnost.
 
 **V tomto článku najdete:**
 - ✅ **Co je off-grid** (definice, typy)
@@ -58,11 +62,15 @@ To je **OFF-GRID** bydlení!
 
 > *"Koupil jsem levný pozemek (500k místo 1,5M). Ale je bez přípojek. Připojení by stálo 300k. Off-grid je levnější!"*
 
+Pozemky bez přípojek jsou typicky 30-50% levnější. Úspora může být 400 000 - 800 000 Kč.
+
 ---
 
 #### 3️⃣ **Ekologie**
 
 > *"Chci žít udržitelně. Obnovitelné zdroje, žádný odpad."*
+
+👉 **Zajímá vás energetická úspornost?** [Energeticky úsporný mobilní dům](08-energeticky-usporny-mobilni-dum.md)
 
 ---
 
@@ -154,11 +162,13 @@ Slunce → FV panely → Regulátor → Baterie → Měnič → Elektřina 230V
 
 ---
 
-#### Zimní problém:
+#### ⚠️ VAROVÁNÍ: Zimní problém
 
 **Prosinec - únor:**
-- Slunečních hodin: 50-60 hodin/měs (vs. 250 hodin v létě)
-- **Výroba FV: 10-20% ročního průměru** ❄️
+
+Slunečních hodin v zimě je výrazně méně než v létě. V prosinci a lednu může FV systém vyrobit pouze 10-20% ročního průměru.
+
+**Výroba FV: 10-20% ročního průměru** ❄️
 
 **Řešení:**
 - Větší FV systém (10 kWp)
@@ -249,9 +259,8 @@ CELKEM: 100 - 430k
 #### B) **Kompostovací záchod** (off-grid hardcore)
 
 **Jak to funguje:**
-- Suché WC (bez vody)
-- Exkrementy se kompostují (s pilinami/trávou)
-- Po 1-2 letech → hnojivo (bezpečné)
+
+Suché WC (bez vody) kompostuje exkrementy s pilinami nebo trávou. Po 1-2 letech vznikne bezpečné hnojivo.
 
 **Výhody:**
 - ✅ Žádná spotřeba vody (úspora 30% vody domácnosti!)
@@ -320,9 +329,11 @@ CELKEM: 100 - 430k
 
 ---
 
-## 💰 KOLIK TO CELKEM STOJÍ?
+## ❓ ČASTO KLADENÉ OTÁZKY
 
-### Investice (off-grid systém):
+### Kolik to celkem stojí?
+
+#### Investice (off-grid systém):
 
 | Položka | Minimum | Standard | Komfort |
 |---------|---------|----------|---------|
@@ -337,7 +348,7 @@ CELKEM: 100 - 430k
 
 ---
 
-### Porovnání: Off-grid vs. On-grid (se sítěmi)
+### Je off-grid levnější než klasické připojení?
 
 **Off-grid:**
 ```
@@ -361,11 +372,13 @@ CELKEM: 3 400 000 Kč ✅
 
 **ALE:** Pozemek bez přípojek je **400k levnější** → celkově off-grid může vyjít **levněji**!
 
+👉 **Chcete znát detailní náklady?** [Kolik stojí mobilní dům](04-kolik-stoji-mobilni-dum.md)
+
 ---
 
-## 💸 PROVOZNÍ NÁKLADY (roční)
+### Jaké jsou provozní náklady?
 
-### Off-grid:
+#### Off-grid:
 
 | Položka | Cena/rok |
 |---------|----------|
@@ -380,7 +393,7 @@ CELKEM: 3 400 000 Kč ✅
 
 ---
 
-### On-grid (se sítěmi):
+#### On-grid (se sítěmi):
 
 | Položka | Cena/rok |
 |---------|----------|
@@ -394,7 +407,7 @@ CELKEM: 3 400 000 Kč ✅
 
 ---
 
-### ÚSPORA (off-grid vs. on-grid):
+#### ÚSPORA (off-grid vs. on-grid):
 
 **15 300 Kč/rok** 💰
 
@@ -481,6 +494,8 @@ CELKEM: 3 400 000 Kč ✅
 - 30-50% levnější než s přípojkami
 - **Úspora: 400 000 - 800 000 Kč!** 💰
 
+👉 **Hledáte pozemek?** [Jak vybrat pozemek pro mobilní dům](06-jak-vybrat-pozemek.md)
+
 ---
 
 ### 3️⃣ Ekologie
@@ -546,6 +561,8 @@ vs.
 **Řešení:**
 - Vybrat banku, která akceptuje off-grid (Raiffeisen, Fio) ✅
 
+👉 **Potřebujete hypotéku?** [Hypotéka na mobilní dům 2025](03-hypoteka-na-mobilni-dum.md)
+
 ---
 
 ## 🎯 Je OFF-GRID pro vás?
@@ -585,8 +602,8 @@ vs.
 ### TIP 2: Oversizujte FV systém (větší než potřeba)
 
 **Proč:**
-- Zima = málo slunce
-- Větší systém = i v zimě dost elektřiny
+
+Zima má málo slunce. Větší systém znamená dostatek elektřiny i v zimních měsících.
 
 **Doporučení:** 7-10 kWp (místo 5 kWp) ✅
 
@@ -611,7 +628,7 @@ vs.
 
 ---
 
-## 📞 Potřebujete pomoct s off-grid?
+## 📞 Potřebujete pomoc s off-grid?
 
 Napište nám na **[info@novyrozmerbydleni.cz](mailto:info@novyrozmerbydleni.cz)** a pomůžeme vám:
 - ✅ Navrhnout FV systém (správná velikost)
@@ -630,4 +647,3 @@ Napište nám na **[info@novyrozmerbydleni.cz](mailto:info@novyrozmerbydleni.cz)
 ---
 
 **Klíčová slova:** off-grid mobilní dům, soběstačný mobilní dům, mobilní dům bez přípojek, fotovoltaika mobilní dům, studna mobilní dům, náklady off-grid, off-grid celoročně
-

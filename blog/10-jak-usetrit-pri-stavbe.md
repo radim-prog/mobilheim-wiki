@@ -7,11 +7,23 @@
 
 ---
 
+## ⚡ TL;DR (Rychlý přehled)
+
+**Hlavní bod 1:** Mobilní dům stojí 2-4M Kč, ale můžete ušetřit až 30% (600k-1,2M Kč) bez ztráty kvality
+**Hlavní bod 2:** Největší úspory: pozemek mimo město (až 2M Kč), dotace NZÚ (210k Kč), porovnání výrobců (200k Kč)
+**Hlavní bod 3:** DIY práce ušetří 80-150k Kč, stavba v zimě až 300k Kč (slevy 5-15%)
+**Top tip:** Kupte pozemek S přípojkami - ušetříte až 300k Kč na prodloužení sítí
+**Největší chyba:** Ušetřit na izolaci - zaplatíte 7 860 Kč/rok navíc na topení (ROI 6 let)
+
+---
+
 ## Úvod
 
-**Mobilní dům může stát 2-4 miliony Kč.** Ale co když vám řekneme, že **můžete ušetřit až 30%** (600 000 - 1 200 000 Kč) bez ztráty kvality?
+**Představte si:** Stojíte před svým vysněným mobilním domem, klíče v ruce. Všude kolem klid, velká zahrada, vlastní bydlení. A nejlepší na tom? **Ušetřili jste přes milion korun** oproti původnímu plánu!
 
-**Je to možné!** 💰
+Zní to jako pohádka? Není. Každý rok stovky lidí v Česku postaví mobilní dům výrazně levněji, než je standard - a přitom neslevili z kvality.
+
+**Mobilní dům může stát 2-4 miliony Kč.** Ale co když vám řekneme, že **můžete ušetřit až 30%** (600 000 - 1 200 000 Kč) bez ztráty kvality? **Je to možné!** 💰
 
 V tomto článku najdete **15 ověřených tipů**, jak ušetřit na stavbě mobilního domu:
 - ✅ **Kde ušetřit** (pozemek, dům, přípojky)
@@ -55,6 +67,8 @@ V tomto článku najdete **15 ověřených tipů**, jak ušetřit na stavbě mob
 - Důchodci
 - Rodiny s autem
 
+> **Akce:** Máte práci na dálku? Nevázejte se na město - ušetříte miliony! [Zjistěte jak vybrat pozemek](06-jak-vybrat-pozemek.md)
+
 ---
 
 ## 💰 TIP 2: Zvolte MENŠÍ dům
@@ -91,6 +105,8 @@ V tomto článku najdete **15 ověřených tipů**, jak ušetřit na stavbě mob
 - Singles
 - Rekreační bydlení
 
+> **Akce:** Opravdu potřebujete 70 m²? Menší = levnější stavba + nižší náklady na topení!
+
 ---
 
 ## 💰 TIP 3: Některé práce udělejte SAMI (DIY)
@@ -109,12 +125,16 @@ V tomto článku najdete **15 ověřených tipů**, jak ušetřit na stavbě mob
 
 ---
 
-### Co NEDĚLEJTE sami:
+### ⚠️ VAROVÁNÍ: Co NEDĚLEJTE sami
 
 ❌ **Elektroinstalace** (riziko požáru + potřeba revize)
 ❌ **Vodoinstalace** (riziko zatékání)
 ❌ **Montáž domu** (nutný jeřáb + odborníci)
 ❌ **Izolace** (špatně = tepelné ztráty)
+
+**Proč?** Špatná elektroinstalace může způsobit požár a ztrátu až 3M Kč. Revize stojí 3 000 Kč - vyplatí se!
+
+> **Akce:** Máte volné víkendy? Vezměte si dovolenou a postavte terasu sami - ušetříte 20 000 Kč!
 
 ---
 
@@ -131,6 +151,8 @@ V tomto článku najdete **15 ověřených tipů**, jak ušetřit na stavbě mob
 | **CELKEM** | **až 810 000 Kč** 🔥 |
 
 👉 [Více o dotacích zde](07-dotace-na-mobilni-dum.md)
+
+> **Akce:** Plánujete fotovoltaiku? Registrujte projekt NZÚ PŘED instalací - získáte až 210 000 Kč!
 
 ---
 
@@ -165,6 +187,12 @@ V tomto článku najdete **15 ověřených tipů**, jak ušetřit na stavbě mob
 
 **Doporučení:** Střední cena + ověřené reference ✅
 
+### ⚠️ VAROVÁNÍ: Nejlevnější = často špatná kvalita
+
+**Reálný příklad:** Martin koupil nejlevnější dům za 1,7M Kč. Po roce: zatékání, plíseň, prasklé okna. Oprava: 400 000 Kč. Celkem zaplatil víc než za kvalitní dům!
+
+> **Akce:** Získejte 3 nabídky a porovnejte izolaci + okna. Střední cena = nejlepší poměr!
+
 ---
 
 ## 💰 TIP 6: Stavte v ZIMĚ (mimo sezónu)
@@ -192,6 +220,8 @@ V tomto článku najdete **15 ověřených tipů**, jak ušetřit na stavbě mob
 - Terénní úpravy (zmrzlá půda)
 
 **Řešení:** Objednejte dům v zimě (sleva), montáž naplánujte na jaro ✅
+
+> **Akce:** Objednávejte v listopadu-lednu! Získáte slevu 5-15% = až 300 000 Kč úspora!
 
 ---
 
@@ -240,6 +270,8 @@ CELKEM: 800 000 Kč
 - ✅ Rychlejší realizace
 - ✅ Vyšší jistota (žádné nečekané náklady)
 
+> **Akce:** Při výběru pozemku kontrolujte vzdálenost sítí! Ideálně do 50 m = standardní cena.
+
 ---
 
 ## 💰 TIP 8: Kombinujte hypotéku + spotřebitelský úvěr (místo jen spotřebitelský)
@@ -283,6 +315,8 @@ Celkem zaplatíte: 3 850 000 Kč
 
 **Podmínka:** Mobilní dům musí mít **kolaudaci + zápis v katastru**.
 
+> **Akce:** Plánujete hypotéku? Udělejte dobrovolnou kolaudaci - ušetříte až 110 000 Kč na úrocích!
+
 ---
 
 ## 💰 TIP 9: Studna místo vodovodu (pokud je daleko)
@@ -314,6 +348,8 @@ Celkem zaplatíte: 3 850 000 Kč
 - ❌ Musíte najít vodu (hydrogeologický průzkum)
 - ❌ Údržba čerpadla
 
+> **Akce:** Vodovod dál než 100 m? Zvažte studnu - úspora 45 000 Kč + žádné poplatky za vodu!
+
 ---
 
 ## 💰 TIP 10: ČOV místo kanalizace (pokud je daleko)
@@ -342,6 +378,8 @@ Celkem zaplatíte: 3 850 000 Kč
 
 **ROI:** 31 let (ale pokud kanalizace není dostupná, nemáte jinou volbu)
 
+> **Akce:** Kanalizace dál než 150 m? ČOV je o 140 000 Kč levnější řešení!
+
 ---
 
 ## 💰 TIP 11: Zvolte plochou střechu (levnější než sedlová)
@@ -368,6 +406,8 @@ Celkem zaplatíte: 3 850 000 Kč
 - ❌ Méně estetická (subjektivní)
 - ❌ Nutná pravidelná kontrola (ucpané odtoky)
 
+> **Akce:** Preferujete moderní design? Plochá střecha ušetří 50 000 Kč + snadnější instalace FV!
+
 ---
 
 ## 💰 TIP 12: Standardní vybavení (ne luxus)
@@ -389,6 +429,8 @@ Celkem zaplatíte: 3 850 000 Kč
 **Ano, ale:**
 - Standardní vybavení je **plně funkční**
 - Můžete vyměnit **později** (když budete mít peníze)
+
+> **Akce:** Nemáte peníze na luxus? Standardní vybavení ušetří 145 000 Kč - vyměníte za 3 roky!
 
 ---
 
@@ -451,9 +493,11 @@ Celkem zaplatíte: 3 850 000 Kč
 
 **Úspora: 720 000 Kč + 10 000 Kč/rok údržby**
 
+> **Akce:** Opravdu potřebujete 1 500 m²? Menší pozemek = úspora 720 000 Kč + 10k Kč/rok údržby!
+
 ---
 
-## ⚠️ Kde NEUŠETŘIT (riziko!)
+## ⚠️ VAROVÁNÍ: Kde NEUŠETŘIT (riziko!)
 
 ### ❌ Neušetřujte na IZOLACI
 
@@ -558,4 +602,3 @@ Napište nám na **[info@novyrozmerbydleni.cz](mailto:info@novyrozmerbydleni.cz)
 ---
 
 **Klíčová slova:** jak ušetřit mobilní dům, levný mobilní dům, mobilní dům za milion, tipy mobilní dům, dotace mobilní dům, DIY mobilní dům
-

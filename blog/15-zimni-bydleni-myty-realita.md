@@ -7,7 +7,19 @@
 
 ---
 
+## TL;DR - Rychlé shrnutí
+
+**Je v mobilním domě v zimě zima?** NE! Moderní mobilní domy jsou teplejší než klasické domy díky lepší izolaci (150-200 mm) a vzduchotěsnosti.
+
+**Náklady na vytápění:** 800-1 500 Kč/měsíc (mobilní dům 50 m² s TČ) vs. 2 500-4 500 Kč/měsíc (klasický dům/panelák).
+
+**Zásadní:** Kvalitní izolace (min. 150 mm) + tepelné čerpadlo + rekuperace = teplá zima za 3× nižší náklady než klasický dům.
+
+---
+
 ## Úvod
+
+Bojíte se, že budete v mobilním domě v zimě mrznout? Nebo věříte mýtu, že mobilní domy jsou jen na letní bydlení? **Moderní mobilní domy jsou plnohodnotné celoroční domy** – ve skutečnosti často teplejší a úspornější než tradiční stavby.
 
 **"V mobilním domě v zimě vymrzneš!"** – slyšeli jste to někdy?
 
@@ -21,7 +33,7 @@ Pravda je: **Moderní mobilní dům je v zimě teplejší** než mnoho klasický
 - ✅ **Náklady na vytápění** (kolik to stojí)
 - ✅ **Tipy** pro teplou zimu
 
-**Pojďme vrátit mýty!** ❄️🔥
+**Pojďme vyvracet mýty!** ❄️🔥
 
 ---
 
@@ -85,6 +97,8 @@ Spotřeba topení: 2 kW (TČ)
 Náklady: 1 200 Kč/měsíc ✅
 ```
 
+**💡 TIP:** Tovární výroba mobilního domu = přesnější spoje = lepší tepelná izolace než klasická stavba!
+
 ---
 
 ## ❌ MÝTUS #2: "Vysoké náklady na vytápění"
@@ -121,6 +135,8 @@ Náklady: 1 200 Kč/měsíc ✅
 **Jana (38 let), mobilní dům 45 m² (standardní izolace 150 mm):**
 
 > *"Před mobilním domem jsem bydlela v bytě (panelák, 2+kk, 55 m²). Náklady na vytápění v zimě: 2 500 Kč/měs. V mobilním domě: 900 Kč/měs (TČ). Úspora: 1 600 Kč/měs = 4 800 Kč/zima!"*
+
+**💡 TIP:** Investice do kvalitní izolace (min. 150 mm) se vrátí za 5-7 let na úsporách za vytápění!
 
 ---
 
@@ -198,6 +214,8 @@ Náklady: 1 200 Kč/měsíc ✅
 
 **Cena:** 500 - 1 500 Kč (celý dům)
 
+> **⚠️ VAROVÁNÍ:** Nezateplené potrubí v neobytvených částech domu může zamrznout už při -5°C. Prasklé potrubí = zatopení = škody 50 000-200 000 Kč!
+
 ---
 
 #### 2️⃣ **Topení STÁLE zapnuté** (min. 15°C)
@@ -250,6 +268,8 @@ Náklady: 1 200 Kč/měsíc ✅
 - Zavřená okna → vlhkost se neodvětrává
 - Chladné stěny (tepelné mosty) → kondenzace
 
+> **⚠️ VAROVÁNÍ:** Vlhkost nad 65% + špatné větrání = plíseň do 2-3 měsíců! Rekuperace nebo pravidelné větrání je nutnost!
+
 ---
 
 ### Jak zabránit plísni:
@@ -290,6 +310,27 @@ Náklady: 1 200 Kč/měsíc ✅
 **Petra (41 let), mobilní dům 50 m² (s rekuperací):**
 
 > *"Vlhkost v zimě: 50%. Žádná plíseň, žádné rosení oken. V předchozím bytě (bez rekuperace) jsme měli plíseň každou zimu!"*
+
+**💡 TIP:** Rekuperace se vrátí za 8-10 let na úsporách za topení + eliminuje riziko plísně!
+
+---
+
+## ❓ FAQ: Často kladené otázky
+
+### Je mobilní dům vhodný pro celoroční bydlení v zimě?
+**Odpověď:** ANO! S kvalitní izolací (min. 150 mm), dobrými okny (U ≤ 1,2) a rekuperací je mobilní dům plnohodnotný celoroční dům.
+
+### Kolik stojí vytápění mobilního domu v zimě?
+**Odpověď:** 800-1 500 Kč/měsíc (50 m² s tepelným čerpadlem) vs. 2 500-4 500 Kč/měsíc klasický dům.
+
+### Potřebuji rekuperaci?
+**Odpověď:** Pro celoroční bydlení DŮRAZNĚ DOPORUČENO. Bez rekuperace musíte větrat ručně (2-3× denně), jinak hrozí plíseň.
+
+### Co dělat, když nebydlím v zimě?
+**Odpověď:** Vypustit vodu z potrubí, bojleru a sifonů před nástupem mrazu. Zabere to 30 minut a ušetříte tisíce za opravy.
+
+### Zamrznou mi okna?
+**Odpověď:** Pouze při špatné izolaci nebo vysoké vlhkosti (>65%). Rekuperace nebo pravidelné větrání to vyřeší.
 
 ---
 
@@ -342,6 +383,8 @@ Pokryje: 50-70% spotřeby na vytápění ✅
 - Žádná plíseň
 - Úspora tepla (85%)
 
+**💡 TIP:** Kombinace tepelné čerpadlo + fotovoltaika + rekuperace = zimní náklady pod 500 Kč/měsíc!
+
 ---
 
 ## 🎯 Závěr: Je mobilní dům vhodný pro zimu?
@@ -385,4 +428,3 @@ Napište nám na **[info@novyrozmerbydleni.cz](mailto:info@novyrozmerbydleni.cz)
 ---
 
 **Klíčová slova:** zimní bydlení mobilní dům, mobilní dům v zimě, je v mobilním domě zima, vytápění mobilní dům zima, náklady topení mobilní dům, zamrzání potrubí mobilní dům
-

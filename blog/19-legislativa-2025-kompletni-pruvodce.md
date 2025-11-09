@@ -7,15 +7,21 @@
 
 ---
 
-## Úvod
+## TL;DR
+
+**Mobilní dům do 55 m² = jen oznámení stavby (15 dní lhůta), BEZ územního/stavebního povolení.** Nad 55 m² = klasická stavba s plnými povoleními. **Klíčové změny od 2021:** nový stavební zákon 283/2021 Sb. zjednodušil proces z 12-18 měsíců na 2-6 měsíců. **MUSÍTE:** zkontrolovat územní plán (pozemek musí být zastavitelný), podat oznámení, získat vyjádření správců sítí, kolaudovat. **POZOR:** stavba bez oznámení = pokuta 50-500k Kč + příkaz k odstranění. Celkové náklady na administrativu: 36-66k Kč.
+
+---
+
+## Nový stavební zákon: Co se změnilo v roce 2021
 
 **"Můžu na ten pozemek postavit mobilní dům bez povolení?"**
 
 Tohle je **NEJČASTĚJŠÍ otázka**, kterou dostáváme!
 
-**Odpověď:** Záleží! (na velikosti, umístění, účelu...) 🤔
+**Odpověď:** Záleží na velikosti, umístění a účelu. Legislativa pro mobilní domy se v roce 2021 ZMĚNILA díky novému stavebnímu zákonu 283/2021 Sb.
 
-**Legislativa pro mobilní domy se v roce 2021 ZMĚNILA** (nový stavební zákon). Mnoho lidí si myslí, že stále platí stará pravidla → **CHYBA!**
+Mnoho lidí si myslí, že stále platí stará pravidla → **CHYBA!**
 
 **V tomto článku najdete:**
 - ✅ **Co je mobilní dům podle zákona** (definice 2025)
@@ -63,6 +69,8 @@ Tohle je **NEJČASTĚJŠÍ otázka**, kterou dostáváme!
 ❌ **Mobilheim na kolečkách** (to je karavan!)
 ❌ **Chatka** (menší než 25 m², jiná legislativa)
 
+👉 **Zajímá vás rozdíl mezi mobilním a modulárním domem?** [Porovnání modulární vs. mobilní domy](21-modularni-vs-mobilni-domy.md)
+
 ---
 
 ## 🆕 Nový stavební zákon (283/2021 Sb.) - Co se změnilo?
@@ -89,9 +97,11 @@ Tohle je **NEJČASTĚJŠÍ otázka**, kterou dostáváme!
 
 ---
 
-## 🔍 Kdy potřebujete povolení? (rozhodovací strom)
+## ❓ ČASTO KLADENÉ OTÁZKY
 
-### Otázka 1: Jaká je velikost?
+### Kdy potřebuji povolení a kdy ne?
+
+Záleží na velikosti domu a umístění pozemku.
 
 ---
 
@@ -136,7 +146,9 @@ Tohle je **NEJČASTĚJŠÍ otázka**, kterou dostáváme!
 
 ---
 
-### Otázka 2: Co říká územní plán?
+### Co říká územní plán a jak ho zkontrolovat?
+
+**KRITICKÉ:** Před koupí pozemku VŽDY zkontrolujte územní plán!
 
 **Kontrola:**
 - Jděte na úřad (odbor územního plánování)
@@ -146,14 +158,17 @@ Tohle je **NEJČASTĚJŠÍ otázka**, kterou dostáváme!
 - Je pozemek v **zastavitelném území**? ✅
 - Je označen pro **bydlení** (BI, BH)? ✅
 - Nebo **smíšené území** (SV)? ✅
-- **NENÍ v:**
-  - Zemědělské půdě (ZPF) – bez změny ÚP nelze! ❌
-  - Lesy (LH) – nelze! ❌
-  - Chráněném území (CHKO, NATURA) – složitější! ⚠️
+
+**NENÍ možné stavět v:**
+- Zemědělské půdě (ZPF) – bez změny ÚP nelze! ❌
+- Lesy (LH) – nelze! ❌
+- Chráněném území (CHKO, NATURA) – složitější! ⚠️
+
+👉 **Potřebujete pomoc s výběrem pozemku?** [Jak vybrat pozemek pro mobilní dům](06-jak-vybrat-pozemek.md)
 
 ---
 
-### Otázka 3: Trvalé bydlení nebo rekreace?
+### Jaký je rozdíl mezi trvalým bydlením a rekreací?
 
 ---
 
@@ -205,6 +220,8 @@ Tohle je **NEJČASTĚJŠÍ otázka**, kterou dostáváme!
 - Nebo nezávislý projektant (15 000 - 40 000 Kč)
 
 **Čas:** 2-4 týdny
+
+👉 **Potřebujete vybrat výrobce?** [Jak vybrat výrobce mobilních domů](17-jak-vybrat-vyrobce.md)
 
 ---
 
@@ -259,6 +276,8 @@ Tohle je **NEJČASTĚJŠÍ otázka**, kterou dostáváme!
 
 **Čas:** 1-2 měsíce
 
+👉 **Zvažujete off-grid řešení?** [Off-grid mobilní dům: Kompletní soběstačnost](20-off-grid-mobilni-dum.md)
+
 ---
 
 ### Krok 6: Dodání a montáž domu
@@ -304,13 +323,15 @@ Tohle je **NEJČASTĚJŠÍ otázka**, kterou dostáváme!
 - Žádost o zápis (Katastrální úřad)
 - **Lhůta:** 30 dní
 
+👉 **Potřebujete hypotéku?** [Hypotéka na mobilní dům 2025](03-hypoteka-na-mobilni-dum.md)
+
 ---
 
-## ⚠️ Časté chyby (a sankce!)
+## ⚠️ VAROVÁNÍ: Časté chyby (a sankce!)
 
-### ❌ Chyba 1: Stavba bez oznámení
+### ⚠️ Chyba 1: Stavba bez oznámení
 
-**Problém:**
+**Reálný příklad:**
 
 > *"Postavil jsem dům (50 m²) bez oznámení. 'Nikdo to nepozná.' Po roce: Soused nahlásil. Stavební úřad: Odstranit stavbu nebo dodatečné povolení (80 000 Kč pokuta)!"* – Petr (45)
 
@@ -323,9 +344,9 @@ Tohle je **NEJČASTĚJŠÍ otázka**, kterou dostáváme!
 
 ---
 
-### ❌ Chyba 2: Stavba na zemědělské půdě (bez změny ÚP)
+### ⚠️ Chyba 2: Stavba na zemědělské půdě (bez změny ÚP)
 
-**Problém:**
+**Reálný příklad:**
 
 > *"Koupil jsem levný pozemek (ZPF = zemědělská půda). Myslel jsem, že mobilní dům je OK. Stavební úřad: 'Na ZPF nelze stavět!' Musel jsem žádat o změnu ÚP (2 roky + 150 000 Kč)!"* – Martin (38)
 
@@ -333,9 +354,9 @@ Tohle je **NEJČASTĚJŠÍ otázka**, kterou dostáváme!
 
 ---
 
-### ❌ Chyba 3: Zapomenutí na vyjádření správců sítí
+### ⚠️ Chyba 3: Zapomenutí na vyjádření správců sítí
 
-**Problém:**
+**Reálný příklad:**
 
 > *"Postavili jsme dům. Pak jsme chtěli připojit elektřinu. ČEZ: 'Nemáte vyjádření z před stavby. Musíte žádat znovu + zaplatit penále.' Extra náklady: 40 000 Kč!"* – Jana (42)
 
@@ -343,9 +364,9 @@ Tohle je **NEJČASTĚJŠÍ otázka**, kterou dostáváme!
 
 ---
 
-### ❌ Chyba 4: Mobilní dům nad 55 m² (snaha obejít zákon)
+### ⚠️ Chyba 4: Mobilní dům nad 55 m² (snaha obejít zákon)
 
-**Problém:**
+**Reálný příklad:**
 
 > *"Chtěl jsem dům 70 m². Výrobce: 'Uděláme dva mobilní domy 35 m² + spojíme = 70 m².' Stavební úřad: 'To je obcházení zákona! Musíte mít stavební povolení!' Pokuta: 100 000 Kč + dodatečné povolení."* – David (52)
 
@@ -353,9 +374,9 @@ Tohle je **NEJČASTĚJŠÍ otázka**, kterou dostáváme!
 
 ---
 
-### ❌ Chyba 5: Trvalé bydliště bez kolaudace
+### ⚠️ Chyba 5: Trvalé bydliště bez kolaudace
 
-**Problém:**
+**Reálný příklad:**
 
 > *"Postavili jsme mobilní dům (bez kolaudace). Chtěli jsme trvalé bydliště (děti do školy). Úřad: 'Bez kolaudace nelze TP!' Museli jsme dodatečně kolaudovat: 50 000 Kč navíc."* – Lucie (34)
 
@@ -378,6 +399,8 @@ Tohle je **NEJČASTĚJŠÍ otázka**, kterou dostáváme!
 | **CELKEM (administrativa)** | **36 000 - 66 000 Kč** |
 
 **+ Samotný dům + pozemek + přípojky** (viz [článek o cenách](04-kolik-stoji-mobilni-dum.md))
+
+👉 **Chcete znát celkové náklady?** [Kolik stojí mobilní dům 2025](04-kolik-stoji-mobilni-dum.md)
 
 ---
 
@@ -448,6 +471,8 @@ Tohle je **NEJČASTĚJŠÍ otázka**, kterou dostáváme!
 
 **Výhoda:** Méně stresu, rychlejší proces ✅
 
+👉 **Potřebujete pomoc s výběrem?** [Průvodce výstavbou krok za krokem](12-pruvodce-vystavbou-krok-za-krokem.md)
+
 ---
 
 ## 📞 Potřebujete pomoc s legislativou?
@@ -469,4 +494,3 @@ Napište nám na **[info@novyrozmerbydleni.cz](mailto:info@novyrozmerbydleni.cz)
 ---
 
 **Klíčová slova:** legislativa mobilní domy 2025, stavební zákon mobilní domy, povolení mobilní dům, mobilní dům bez povolení, nový stavební zákon 283/2021, oznámení stavby mobilní dům, kolaudace mobilní dům
-
