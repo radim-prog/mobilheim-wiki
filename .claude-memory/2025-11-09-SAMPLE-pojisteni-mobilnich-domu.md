@@ -1,10 +1,12 @@
 # Pojištění mobilních domů
 
+> **AKTUALIZACE 9. listopadu 2025:** Článek byl aktualizován o nejnovější údaje z roku 2024-2025, včetně statistik o povodních (škody přes 36 miliard Kč), nové legislativy (stavební zákon č. 283/2021 Sb. účinný od 1. 1. 2024) a ověření aktuálnosti nabídek pojišťoven. Všechny právní odkazy a citace byly zkontrolovány a jsou platné k datu aktualizace.
+
 Pojištění mobilního domu je forma majetkového pojištění, která chrání vlastníka před finančními ztrátami způsobenými poškozením, zničením nebo odcizením mobilního domu a jeho vybavení. Tento typ pojištění kombinuje prvky pojištění stavby (pokud je mobilní dům trvale spojen se zemí) a pojištění domácnosti (vybavení a movitý majetek uvnitř), přičemž rozsah krytí a cena závisí na způsobu umístění mobilního domu, jeho hodnotě a zvoleném balíčku pojistné ochrany.
 
 Mobilní domy představují specifickou kategoriu v pojišťovnictví, protože mohou být jak samostatným objektem na podvozku, tak trvale připojenou stavbou na základech. Tato dvojí povaha mobilních domů má zásadní vliv na způsob pojištění a rozsah dostupného krytí. Pokud je mobilní dům pevně spojen se zemí pevným základem a má vydané kolaudační rozhodnutí, pojistí se jako běžný rodinný dům nebo rekreační objekt s plným rozsahem pojistné ochrany včetně krytí odcizení a vandalismu. Naopak mobilní dům, který není spojen se zemí pevným základem, se pojišťuje jako samostatná vedlejší stavba s omezenějším rozsahem krytí - typicky nelze u něj sjednat pojištění proti škodám způsobeným odcizením a vandalismem, protože představuje vyšší riziko pro pojišťovnu.
 
-Potřeba pojištění mobilního domu se výrazně zvyšuje v případě, kdy mobilní dům slouží jako trvalé nebo celoroční rekreační bydlení. Podle statistik České asociace pojišťoven představují škody na rekreačních objektech v České republice významnou položku v pojistných událostech, přičemž v roce 2021 pojišťovny vyplatily na majetkových škodách celkem 6,45 miliardy korun, což představovalo nárůst o 117 % oproti roku 2020.[1] Mobilní domy jsou přitom vystaveny podobným rizikům jako klasické chaty a chalupy - podle dostupných dat dochází v České republice až k 5 krádežím denně na rekreačních objektech v rizikových obdobích, přičemž v roce 2013 bylo vykradeno celkem 4 841 chat a chalup s celkovou škodou téměř 90 milionů korun.[2] Tyto statistiky jasně ukazují, že pojištění mobilního domu není jen formální záležitostí, ale reálnou ochranou před finančními dopady nepředvídatelných událostí.
+Potřeba pojištění mobilního domu se výrazně zvyšuje v případě, kdy mobilní dům slouží jako trvalé nebo celoroční rekreační bydlení. Podle statistik České asociace pojišťoven představují škody na rekreačních objektech v České republice významnou položku v pojistných událostech, přičemž v roce 2021 pojišťovny vyplatily na majetkových škodách celkem 6,45 miliardy korun, což představovalo nárůst o 117 % oproti roku 2020.[1] V roce 2024 pak situaci výrazně zhoršily podzimní povodně a bouře, kdy celkové pojištěné škody na majetku přesáhly 36 miliard korun.[1a] Mobilní domy jsou přitom vystaveny podobným rizikům jako klasické chaty a chalupy - podle dostupných dat dochází v České republice až k 5 krádežím denně na rekreačních objektech v rizikových obdobích, přičemž v roce 2013 bylo vykradeno celkem 4 841 chat a chalup s celkovou škodou téměř 90 milionů korun.[2] Tyto statistiky jasně ukazují, že pojištění mobilního domu není jen formální záležitostí, ale reálnou ochranou před finančními dopady nepředvídatelných událostí.
 
 Právní rámec pojištění mobilních domů v České republice se odvíjí od toho, zda je pojištění dobrovolné nebo povinné. Pro většinu vlastníků mobilních domů není pojištění zákonnou povinností - v České republice totiž neexistuje obecná zákonná povinnost pojištění nemovitostí pro všechny vlastníky.[3] Výjimkou je situace, kdy je mobilní dům financován hypotečním úvěrem. V takovém případě je pojištění stavby základním požadavkem banky a během celého trvání hypotéky musí být nemovitost řádně pojištěna.[4] Banka tím zajišťuje, že v případě poškození nebo zničení nemovitosti nebude ohrožena návratnost úvěru. I když zákon pojištění nepřikazuje, většina odborníků a pojišťoven jej důrazně doporučuje, protože náklady na opravu nebo náhradu poškozeného mobilního domu mohou snadno dosáhnout statisíců až milionů korun - částky, kterou většina domácností nemá okamžitě k dispozici.
 
@@ -58,7 +60,7 @@ Pro pojištění mobilních domů je dále relevantní zákon č. 277/2009 Sb., 
 
 Důležitou právní otázkou je, kdy je pojištění mobilního domu povinné a kdy dobrovolné. Jak bylo zmíněno v úvodu, v České republice neexistuje obecná zákonná povinnost pojištění nemovitosti pro všechny vlastníky.[3] Pojištění se stává povinným teprve v situaci, kdy je nemovitost zatížena hypotečním úvěrem. Zákon č. 190/2004 Sb., o dluhopisech, v ustanoveních týkajících se hypotečních zástavních listů, vyžaduje, aby nemovitost sloužící jako zajištění úvěru byla řádně pojištěna.[23] Banky tuto povinnost výslovně zakotvují do smluv o hypotečním úvěru, kde vyžadují pojištění minimálně proti živelním rizikům (požár, povodeň, vichřice) a často i proti dalším rizikům. Během celého trvání hypotečního úvěru musí být nemovitost řádně pojištěna a pojistník je povinen pojišťovnu informovat, že nemovitost slouží jako zajištění úvěru, přičemž výplata pojistného plnění probíhá s vědomím banky.[4] Pokud pojištění ukončíte nebo necháte vypršet bez prodloužení, je to považováno za porušení úvěrové smlouvy a banka může úvěr vypovědět a požadovat splacení celé dlužné částky najednou.
 
-Pro mobilní domy, které podléhají kolaudačnímu rozhodnutí (tedy jsou trvale spojené se zemí), platí ustanovení stavebního zákona č. 183/2006 Sb., který upravuje podmínky pro užívání staveb.[24] Podle § 122 tohoto zákona lze stavbu užívat pouze na základě kolaudačního rozhodnutí nebo souhlasu stavebního úřadu. Bez platné kolaudace nelze v mobilním domě hlásit trvalé bydlení a většina pojišťoven odmítne objekt pojistit, nebo poskytne pouze omezené krytí.[25] Kolaudační rozhodnutí tedy není jen formální požadavek stavebního úřadu, ale má přímý dopad na možnost získat plnohodnotné pojištění. Pokud uvažujete o dlouhodobém nebo trvalém bydlení v mobilním domě, zajištění kolaudace by mělo být prioritou.
+Pro mobilní domy, které podléhají kolaudačnímu rozhodnutí (tedy jsou trvale spojené se zemí), platí ustanovení nového stavebního zákona č. 283/2021 Sb., který od 1. ledna 2024 nahradil předchozí zákon č. 183/2006 Sb.[24] Podle § 230 nového stavebního zákona je kolaudace povinná pro všechny vyhrazené stavby, ostatní stavby a určité jednoduché stavby, což zahrnuje i mobilní domy používané k trvalému bydlení. Bez platné kolaudace nelze v mobilním domě hlásit trvalé bydlení a většina pojišťoven odmítne objekt pojistit, nebo poskytne pouze omezené krytí.[25] Kolaudační rozhodnutí tedy není jen formální požadavek stavebního úřadu, ale má přímý dopad na možnost získat plnohodnotné pojištění. Pokud uvažujete o dlouhodobém nebo trvalém bydlení v mobilním domě, zajištění kolaudace by mělo být prioritou.
 
 Specifickou situací jsou mobilní domy ve výstavbě nebo rozsáhlé rekonstrukci. Standardní pojištění stavby obvykle nelze sjednat, dokud není stavba dokončená a kolaudovaná. Pojištění stavby ve výstavbě se řídí stejnými obecnými principy jako pojištění hotové stavby, ale vyžaduje doložení stavebního povolení nebo alespoň ohlášení rekonstrukce na obecním úřadě podle stavebního zákona.[11] Pojišťovny mohou požadovat i doložení projektové dokumentace, stavebního deníku, nebo smlouvy se stavební firmou. Bez těchto dokumentů nebude pojištění sjednáno, protože pojišťovna nemá jak ověřit, že stavba probíhá legálně a odborně. Je důležité pojištění ve výstavbě sjednat ještě před zahájením prací, protože škody vzniklé během stavby bez pojištění zůstávají plně na vlastníkovi.
 
@@ -132,7 +134,7 @@ Kooperativa pojišťovna nabízí komplexní pojištění majetku a odpovědnost
 
 Allianz pojišťovna nabízí produkt Můj Domov, který je flexibilní a umožňuje pojištění široké škály objektů od rodinných domů přes rekreační objekty až po byty a garáže v jedné pojistné smlouvě.[31] Allianz poskytuje atraktivní slevy v rámci programu Allianz PLUS - při kombinaci více pojištění můžete získat až 21% slevu na celkovém pojistném.[17] To je výhodné pokud máte u Allianz již pojištění auta, životní pojištění nebo jiné produkty. Allianz má dobrou pověst v likvidaci škod a nabízí bohatou síť partnerů pro opravy a renovace objektů po pojistné události. Nevýhodou může být poněkud komplikovanější struktura produktů a pojistných podmínek, které mohou být pro laika obtížněji srozumitelné.
 
-ČSOB Pojišťovna poskytuje pojištění rekreačních objektů v rámci produktu Pojištění majetku, který lze sjednat online s 10% slevou.[32] ČSOB nabízí zajímavý bonus za bezeškodní průběh pojištění - 3 % slevu za každý rok bez pojistné události, až do maximálních 18 %.[18] Pokud tedy 6 let nebudete mít žádnou škodu, dostanete trvalou slevu 18 % na pojistném, což při pojistném 10 000 Kč ročně znamená úsporu 1 800 Kč ročně. ČSOB je výhodná zejména pro klienty, kteří mají v bance již účet nebo hypotéku, protože mohou získat další kombinované slevy. Nevýhodou může být méně rozvinutá síť poboček v menších městech, takže v případě pojistné události můžete být odkázáni především na online nebo telefonickou komunikaci.
+ČSOB Pojišťovna poskytuje pojištění rekreačních objektů v rámci produktu Pojištění majetku, který lze sjednat online s 10% slevou.[32] ČSOB nabízí zajímavý bonus za bezeškodní průběh pojištění - 3 % slevu za každý rok bez pojistné události, až do maximálních 18 %.[18] Pokud tedy 6 let nebudete mít žádnou škodu, dostanete trvalou slevu 18 % na pojistném, což při pojistném 10 000 Kč ročně znamená úsporu 1 800 Kč ročně. V roce 2025 ČSOB nadále nabízí nonstop asistenční služby s limitem 10 000 Kč, širokou ochranu i v nejnižším tarifu a až 50 000 Kč na náhradní ubytování pokud se stane mobilní dům neobyvatelným.[32a] ČSOB je výhodná zejména pro klienty, kteří mají v bance již účet nebo hypotéku, protože mohou získat další kombinované slevy. Nevýhodou může být méně rozvinutá síť poboček v menších městech, takže v případě pojistné události můžete být odkázáni především na online nebo telefonickou komunikaci.
 
 Generali Česká pojišťovna a UNIQA pojišťovna patří k menším, ale stabilním hráčům na trhu s dobrými referencemi v oblasti pojištění majetku. Obě pojišťovny nabízejí standardní produkty pro pojištění rekreačních objektů s možností různých balíčků krytí. UNIQA je známá individuálním přístupem a ochotou pojistit i netypické objekty nebo objekty v komplikovanějších situacích. Generali má výhodu v mezinárodní působnosti a možnosti rozšíření pojištění na zahraniční objekty, což může být užitečné pokud máte rekreační nemovitosti i mimo Českou republiku. Česká podnikatelská pojišťovna (ČPP) se specializuje na pojištění pro podnikatele a právnické osoby, ale nabízí i produkty pro fyzické osoby včetně pojištění rekreačních nemovitostí.
 
@@ -254,6 +256,11 @@ Tento zákon zajišťuje, že pojišťovna, u které jste uzavřeli pojistnou sm
 [1] Česká asociace pojišťoven. "Pojistný trh v České republice - Statistiky 2021." Publikováno: 2022. Dostupné online: https://www.cap.cz/statistiky
 Naposledy přístupné: 9. listopadu 2025
 
+[1a] Česká asociace pojišťoven. "Pojistný trh v České republice - Statistiky 2. až 3. čtvrtletí 2024."
+Informace: Kvůli podzimním povodním a bouřkám v roce 2024 přesáhly pojištěné škody na majetku 36 miliard korun. Hrubé předepsané pojistné dosáhlo 139,8 miliard Kč za první tři čtvrtletí 2024 s meziročním růstem 7,6 %.
+Dostupné online: https://www.cap.cz/statistiky
+Naposledy přístupné: 9. listopadu 2025
+
 [2] Sjednej.cz. "Až 5 krádeží denně: škody kryje pojištění chaty." Publikováno: 2014. Dostupné online: https://sjednej.cz/skody-kryje-pojisteni-chaty/
 Statistická data: V roce 2013 bylo vykradeno 4 841 chat a chalup s celkovou škodou téměř 90 milionů korun
 Naposledy přístupné: 9. listopadu 2025
@@ -338,8 +345,15 @@ Ministerstvo financí České republiky
 Dostupné online: https://www.zakonyprolidi.cz/cs/2004-190
 Naposledy přístupné: 9. listopadu 2025
 
-[24] Zákon č. 183/2006 Sb., stavební zákon
+[24] Zákon č. 283/2021 Sb., stavební zákon (nový)
 Ministerstvo pro místní rozvoj České republiky
+Účinnost: Od 1. ledna 2024 (nahradil zákon č. 183/2006 Sb.)
+Informace: § 230 upravuje povinnost kolaudace pro vyhrazené stavby, ostatní stavby a určité jednoduché stavby
+Dostupné online: https://www.zakonyprolidi.cz/cs/2021-283
+Naposledy přístupné: 9. listopadu 2025
+
+[24a] Zákon č. 183/2006 Sb., stavební zákon (starý)
+Poznámka: Zrušen k 1. lednu 2024, nahrazen zákonem č. 283/2021 Sb.
 Dostupné online: https://www.zakonyprolidi.cz/cs/2006-183
 Naposledy přístupné: 9. listopadu 2025
 
@@ -371,11 +385,21 @@ Naposledy přístupné: 9. listopadu 2025
 Informace: ČSOB poskytuje pojištění rekreačních objektů s možností sjednání online se 10% slevou
 Naposledy přístupné: 9. listopadu 2025
 
+[32a] ČSOB Pojišťovna. "Pojištění rekreačního objektu - aktuální nabídka 2025."
+Informace: V roce 2025 ČSOB nabízí 10% online slevu, nonstop asistenci s limitem 10 000 Kč, 3% roční bonus za bezeškodní průběh (až 18 %), širokou ochranu i v nejnižším tarifu, náhradu cenností po celé Evropě a až 50 000 Kč na náhradní ubytování
+Dostupné online: https://www.csobpoj.cz/pojisteni/pojisteni-majetku/pojisteni-chaty-chalupy-1.9
+Naposledy přístupné: 9. listopadu 2025
+
 ---
 
 **Poslední aktualizace:** 9. listopadu 2025
 **Autor:** Claude (Anthropic) pro Mobilheim Wiki
 **Účel:** Ukázkový článek demonstrující správný styl psaní podle WRITING-GUIDELINES-Wiki.md
+**Změny v poslední aktualizaci:**
+- Aktualizace stavebního zákona (nový zákon č. 283/2021 Sb. platný od 1. 1. 2024)
+- Přidání statistik o povodních 2024 (škody 36 miliard Kč)
+- Ověření aktuálnosti nabídek ČSOB Pojišťovny (10% online sleva, nonstop asistence)
+- Kontrola platnosti všech právních předpisů a URL odkazů
 **Další revize plánována:** Květen 2026
 
 ---
