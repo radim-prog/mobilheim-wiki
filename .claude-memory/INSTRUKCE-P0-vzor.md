@@ -197,17 +197,19 @@ TŘI různé významy tohoto pojmu:
 
 ---
 
-## 📐 ROZDÍL WIKI vs BLOG vs FAQ
+## 📐 ROZDÍL WIKI vs BLOG
 
-| Aspekt | WIKI | BLOG | FAQ |
-|--------|------|------|-----|
-| **Délka** | 5000+ slov (450+ ř.) | 1500-2500 slov | 50-100 slov |
-| **Právní texty** | Celé zákony | Jen klíčové pointy | Žádné |
-| **Příběh** | Případové studie | Pavel (hlavní story) | Žádný |
-| **Tech detaily** | Všechno | Jen důležité | Minimum |
-| **Reference** | Každé tvrzení | Jen hlavní zdroje | Link na wiki |
-| **Tone** | Odborný ale srozumitelný | Konverzační | Přímý |
-| **Cílová skupina** | Expert + studium | Běžný zákazník | Quick answer |
+| Aspekt | WIKI | BLOG |
+|--------|------|------|
+| **Délka** | 5000+ slov (450+ ř.) | 1500-2500 slov |
+| **Právní texty** | Celé zákony | Jen klíčové pointy |
+| **Příběh** | Případové studie | Pavel/Martin (hlavní story) |
+| **Tech detaily** | Všechno | Jen důležité |
+| **Reference** | Každé tvrzení | Jen hlavní zdroje |
+| **Tone** | Odborný ale srozumitelný | Konverzační |
+| **Cílová skupina** | Expert + studium | Běžný zákazník |
+
+**POZNÁMKA:** FAQ děláme JEN když jsou reálné otázky od zákazníků, ne umělé!
 
 ---
 
@@ -231,6 +233,8 @@ Read wiki/legislativa/stavebni-zakon/[nazev-souboru].md
 **Výstup:** `2025-11-15-P0-XX-NALEZ.md`
 
 ### 2️⃣ WIKI - Encyclopedická verze
+
+**⚠️ FAQ NEDĚLÁME** (jen pokud jsou reálné otázky od zákazníků, ne vymyšlené!)
 
 **KRITICKÉ PRAVIDLA:**
 - ✅ MINIMÁLNĚ 400+ řádků (raději víc!)
