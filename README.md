@@ -1,8 +1,19 @@
-# 🏠 Mobilheim Wiki - Komplexní průvodce světem mobilních domů
+# 🏠 Mobilheim Wiki - Kompletní průvodce mobilními domy
 
 > **Projekt:** Wikipedie o mobilních domech pro Nový Rozměr Bydlení (novyrozmerbydleni.cz)
 >
-> **Cíl:** Vytvořit nejkomplexnější český zdroj informací o mobilních domech - od legislativy po technické detaily.
+> **Verze:** 1.0 Production
+>
+> **Poslední aktualizace:** 15. listopadu 2025
+
+---
+
+## 📊 Obsah projektu
+
+- **40 wiki článků** (kompletní dokumentace v 9 kategoriích)
+- **25 blogových článků** (~112,000 slov)
+- **121 FAQ otázek** (1 komplexní soubor)
+- **5 případových studií** (reálné kalkulace a ROI)
 
 ---
 
@@ -10,150 +21,191 @@
 
 ```
 mobilheim-wiki/
-├── ZADANI.md                    # Původní zadání projektu
-├── QA.md                        # Otázky a odpovědi k projektu
 ├── README.md                    # Tento soubor
-├── wiki/                        # Hlavní wikipedie
-│   ├── legislativa/             # Zákony, vyhlášky, judikatura
-│   │   ├── stavebni-zakon/
-│   │   ├── vyhlašky/
-│   │   ├── metodiky-mmr/
-│   │   └── judikatura/
-│   ├── technicke-specifikace/   # Materiály, konstrukce, izolace
+├── wiki/                        # 40 hlavních wiki článků
+│   ├── legislativa/             # 6 článků - zákony, vyhlášky, judikatura
+│   ├── technicke-specifikace/   # 18 článků - konstrukce, materiály, izolace
+│   │   ├── energetika/          # 5 článků - FV, vytápění, off-grid
 │   │   ├── izolace/
-│   │   ├── materialy/
 │   │   ├── konstrukce/
-│   │   └── energetika/
-│   ├── pripojeni-k-sitim/       # Elektřina, voda, kanalizace
-│   │   ├── elektrina/
-│   │   ├── voda/
-│   │   └── kanalizace/
-│   ├── financovani-a-dotace/    # Financování, dotace, náklady
-│   ├── udrzba-a-zivotnost/      # Údržba, životnost, opravy
-│   └── case-studies/            # Reálné příběhy zákazníků
-├── blog/                        # Blogové články (min. 25)
-└── faq/                         # Nejčastější dotazy
+│   │   ├── materialy/
+│   │   └── pripojky/            # 3 články - elektřina, voda, kanalizace
+│   ├── pripojeni-siti/          # 3 články - sítě infrastruktury
+│   ├── financovani/             # 2 články - hypotéky, dotace
+│   ├── udrzba/                  # 1 článek - péče a životnost
+│   ├── pripadove-studie/        # 5 článků - reálné case studies
+│   ├── lifestyle/               # 3 články - život v mobilním domě
+│   ├── zakladni-koncepty/       # 3 články - srovnání typů
+│   ├── prakticke-pruvodce/      # 4 články - doprava, inspekce
+│   └── porovnani/               # 1 článek - mobilní vs klasická stavba
+├── blog/                        # 25 SEO optimalizovaných článků
+├── faq/                         # 121 nejčastějších otázek
+└── archive/                     # Archiv starých verzí
 
 ```
 
 ---
 
-## 🎯 Co projekt obsahuje
+## 🎯 Wiki obsah (40 článků)
 
-### 1. **Wiki** - Komplexní znalostní báze
-- ✅ **Legislativa** - stavební zákon, vyhlášky, metodiky MMR, judikatura
-- ✅ **Technické specifikace** - izolace, materiály, konstrukce, energetika
-- ✅ **Připojení k sítím** - elektřina, voda, kanalizace
-- ✅ **Financování** - dotace, úvěry, náklady
-- ✅ **Údržba** - péče, opravy, životnost
-- ✅ **Case studies** - reálné příběhy
+### ⚖️ Legislativa (6 článků)
+- Přehled legislativy
+- Stavební zákon č. 283/2021 Sb. (nový)
+- Stavební zákon č. 183/2006 Sb. (starý)
+- Vyhláška 501/2006 Sb.
+- Metodika MMR pro mobilní domy
+- Přehled soudních rozhodnutí (judikatura)
 
-### 2. **Blog** - 25+ článků
-- Profesionálně psané, lidsky srozumitelné
-- SEO optimalizované
-- S obrázky a grafikou
+### 🏗️ Technické specifikace (18 článků)
+**Energetika (5):**
+- Energetická náročnost a PENB
+- Fotovoltaika a off-grid systémy
+- Vytápění mobilních domů
+- Generátory a záložní zdroje
+- Chytré technologie
 
-### 3. **FAQ** - Nejčastější dotazy
-- Promyšlené, ne kopírované
-- Komplexní odpovědi
-- Profesionální úroveň
+**Konstrukce (3):**
+- Tepelná izolace
+- Konstrukční systémy
+- Přehled materiálů
+
+**Připojky (3):**
+- Elektřina
+- Voda
+- Kanalizace
+
+**Ostatní (7):**
+- Klimatizace a větrání
+- Konstrukce a statika
+- Okna a dveře
+- Podlahy a krytiny
+- Stropy a podhled
+- Testování kvality
+- Doplňky a příslušenství
+
+### 🔌 Připojení k sítím (3 články)
+- Připojení elektřiny
+- Připojení vody
+- Kanalizace a ČOV
+
+### 💰 Financování (2 články)
+- Hypotéky a úvěry
+- Dotace a podpory
+
+### 🔧 Údržba (1 článek)
+- Údržba a životnost
+
+### 📊 Případové studie (5 článků)
+- Mladá rodina - celoroční bydlení
+- Senior v chatové oblasti
+- Off-grid dům
+- Dočasné bydlení
+- Airbnb business
+
+### 🏡 Lifestyle (3 články)
+- Komunitní život
+- Bydlení vs rekreace
+- Minimalistický životní styl
+
+### 📚 Základní koncepty (3 články)
+- Kontejnery vs mobilní domy
+- Mobilní domy vs tiny houses
+- Modulární vs mobilní domy
+
+### 🛠️ Praktické průvodce (4 články)
+- Doprava a instalace
+- Inspekce před koupí
+- Park vs vlastní pozemek
+- Záruka a servis
+
+### ⚔️ Porovnání (1 článek)
+- Mobilní dům vs klasická stavba
 
 ---
 
-## 🚀 Fáze projektu
+## 📝 Blog (25 článků)
 
-### ✅ Fáze 1: Setup (HOTOVO)
-- [x] Vytvoření GitHub repozitáře
-- [x] Uložení zadání
-- [x] Vytvoření struktury
+SEO optimalizované články zaměřené na praktické aspekty:
+- Porovnání s klasickou stavbou
+- 10 věcí, které vám nikdo neřekne
+- Hypotéka na mobilní dům
+- Kolik skutečně stojí mobilní dům
+- Mýty o mobilních domech
+- Jak vybrat pozemek
+- Dotace na mobilní dům
+- Energeticky úsporné řešení
+- ... a další
 
-### ✅ Fáze 2: Research (HOTOVO)
-- [x] Legislativní dokumenty (zákony, vyhlášky)
-- [x] Konkurenční analýza
-- [x] Diskuze a fóra
-- [x] Odborné zdroje
-
-### ✅ Fáze 3: Tvorba Wiki (HOTOVO)
-- [x] Legislativa - detailní zpracování (6 souborů)
-- [x] Technické specifikace (9 souborů)
-- [x] Energetika (4 soubory)
-- [x] Připojení sítí (3 soubory)
-- [x] Financování a dotace (4 soubory)
-- [x] Údržba a životnost (3 soubory)
-
-### ✅ Fáze 4: Blog (HOTOVO)
-- [x] 25 kvalitních článků (~112 000 slov)
-- [x] SEO optimalizace (klíčová slova, interní odkazy)
-- [x] Reálná data a kalkulace
-
-### ✅ Fáze 5: FAQ (HOTOVO)
-- [x] 112 otázek a odpovědí
-- [x] Kategorizace (7 kategorií)
-- [x] Cross-linking s Wiki
-
-### ✅ Fáze 6: Případové studie (HOTOVO)
-- [x] 5 detailních případových studií
-- [x] Reálné kalkulace (investice, ROI)
-- [x] Různé use-case (off-grid, Airbnb, seniory, tiny house, chatová osada)
+**Celkem:** ~112,000 slov
 
 ---
 
-## 📚 Jak číst tento projekt
+## ❓ FAQ (121 otázek)
 
-### Pro vývojáře
-- Vše je v Markdown formátu
-- Verzované přes Git
-- Postupně commitované části
-
-### Pro majitele firmy
-- Každá sekce je samostatná
-- Čitelné i bez technických znalostí
-- Připraveno pro export do Notionu
-
-### Pro návštěvníky webu (budoucnost)
-- Hierarchická navigace
-- Tagování a vyhledávání
-- Postupné rozklikávání do detailu
+Kompletní soubor nejčastějších dotazů pokrývající:
+- Legislativu a povolení
+- Technické specifikace
+- Financování a dotace
+- Připojení k sítím
+- Životnost a údržbu
+- Praktické aspekty bydlení
 
 ---
 
 ## 🎓 Kvalitativní standardy
 
-### Legislativa
-- Psáno jako právník s praxí
-- Citace přesné, odkazy validní
-- Srozumitelně i pro laiky
+### ✅ Všechny články splňují:
+- Profesionální tekutý text (ne bullet points)
+- Ověřená data pro rok 2025
+- Odkazy na právní předpisy a normy (50+ zákonů, vyhlášek, ČSN norem)
+- Praktické příklady a výpočty
+- Konkrétní ceny a parametry
+- Cross-linking mezi články
 
-### Technické články
-- Úroveň stavebního inženýra
-- Přesné údaje, normy, standardy
-- Praktické rady
-
-### Blog
-- Copywriter s letitou praxí
-- Poutavé, ale věcné
-- SEO optimalizované
-
----
-
-## 📈 Metriky úspěchu
-
-- ✅ **25 blogových článků** (~112 000 slov)
-- ✅ **29 Wiki souborů** (kompletní dokumentace)
-- ✅ **112 FAQ otázek**
-- ✅ **5 případových studií** (reálné příklady)
-- ✅ **Všechny relevantní zákony** zpracované (Stavební zákon, vyhlášky, MMR)
-- ✅ **SEO optimalizace** (klíčová slova, meta popisy, interní odkazy)
-- ✅ **100% čeština** (profesionální úroveň)
-- ✅ **Reálná data** (ceny 2025, aktuální dotace, kalkulace)
+### 📚 Použité zdroje:
+- Zákony: č. 283/2021 Sb., č. 183/2006 Sb., č. 406/2000 Sb.
+- Vyhlášky: č. 501/2006 Sb., č. 264/2020 Sb., č. 371/2023 Sb.
+- ČSN normy: EN 338, EN 300, 73 0540-2
+- Oficiální weby: MMR, MŽP, MPO, SFŽP, distributorů energií
+- Technické portály: TZB-info
 
 ---
 
-## 🔐 License & Usage
+## 📈 Statistiky
 
-- **Interní projekt** pro Nový Rozměr Bydlení
-- Obsah chráněn autorskými právy
-- Použití pouze se souhlasem majitele
+- **Celkem článků wiki:** 40
+- **Celkem řádků wiki:** 5,900+
+- **Průměrná délka článku:** 147 řádků
+- **Blogové články:** 25 (~112,000 slov)
+- **FAQ otázky:** 121
+
+---
+
+## 🔄 Git Workflow
+
+### Branch struktura:
+- **`main`** - Produkční verze (FREEZE - změny jen na schválení!)
+- **`dev`** - Pracovní prostředí (experimenty, drafty, WIP)
+
+### Verzování:
+- Verze tagované pomocí Git tags (v1.0, v1.1, v2.0...)
+- Změny do `main` POUZE na explicitní pokyn
+- Běžná práce v `dev` branch
+
+### Archiv:
+- Staré drafty a zastaralá zadání v `archive/`
+
+---
+
+## 🚀 Nasazení
+
+**Live verze:** https://novy-rozmer-bydleni.vercel.app/wiki
+
+**Tech stack:**
+- Next.js 16
+- MkDocs pro wiki
+- Vercel hosting
+- GitHub verzování
 
 ---
 
@@ -165,29 +217,14 @@ mobilheim-wiki/
 
 ---
 
-## 🔄 Nejnovější aktualizace (28. 10. 2025)
+## 🔐 License & Usage
 
-### ✅ Kompletní revize všech 23 wiki článků
-
-**Co bylo provedeno:**
-- Systematická kontrola a revize VŠECH wiki článků
-- Ověření aktuálnosti dat pro rok 2025
-- Oprava 8 kritických chyb v cenách a legislativě
-- Verifikace 50+ právních předpisů a norem
-- 4,396+ řádků profesionálního obsahu zkontrolováno
-
-**Klíčové opravy:**
-- ❌ NZÚ fotovoltaika: ~~15,000~~ → **10,000 Kč/kWp**
-- ❌ Max dotace FV: ~~180,000~~ → **100,000-140,000 Kč**
-- ❌ Stavební spoření: ~~2,000~~ → **1,000 Kč/rok**
-- ❌ Distribuční poplatky: ~~150-350~~ → **50-330 Kč/měs**
-- ✅ Odpočet úroků z hypotéky: NENÍ zrušen (jen snížen na 150k)
-- ✅ Revize elektro: NENÍ povinná pro domácnosti (jen doporučená)
-
-**Detaily:** Viz [CHANGELOG.md](CHANGELOG.md)
+- **Interní projekt** pro Nový Rozměr Bydlení
+- Obsah chráněn autorskými právy
+- Použití pouze se souhlasem majitele
 
 ---
 
-**Status:** ✅ DOKONČENO a REVIDOVÁNO
-**Poslední update:** 28. října 2025
-**Verze:** 1.1.0 - Complete Project + 2025 Revision
+**Verze:** 1.0 Production
+**Status:** ✅ DOKONČENO
+**Poslední aktualizace:** 15. listopadu 2025
