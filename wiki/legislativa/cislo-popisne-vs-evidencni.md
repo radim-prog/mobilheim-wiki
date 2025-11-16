@@ -1,10 +1,14 @@
-# Číslo popisné vs. Číslo evidenční: Kompletní průvodce pro mobilní domy
+# [P1-04] Číslo popisné vs. Číslo evidenční: Kompletní průvodce pro mobilní domy
 
 > **AKTUALIZACE 16. listopadu 2025:** Článek založen na aktuální právní rešerši včetně zákona 133/2000 Sb. (§ 10), vyhlášky 326/2000 Sb. a stavebního zákona 283/2021 Sb. Všechny právní odkazy jsou platné k datu publikace.
 
+**Důležité terminologické rozlišení:**
+- **"Mobilní domy" (levné, nekvalitní):** Bazarové kontejnery, levné buňky z nekontrolované výroby, často bez certifikátů. Tyto objekty mohou mít problémy s kolaudací.
+- **"Montované domy" (kvalitní, tovární výroba):** Moderní továrně vyráběné domy s certifikací CE, garantovanou kvalitou, profesionální izolací. **Tohle jsou naše domy** - o těchto mluvíme v tomto článku!
+
 Číslo popisné a číslo evidenční jsou dvě základní formy označení staveb v České republice, které se liší nejen barvou tabulky na fasádě, ale především **náklady, právními požadavky a možnostmi využití**. Zatímco mnoho lidí se mylně domnívá, že pro trvalý pobyt je nutné číslo popisné zapsané v katastru nemovitostí, **právní realita je jiná** - zákon 133/2000 Sb. § 10 výslovně umožňuje hlášení trvalého pobytu na adrese s **číslem popisným i evidenčním**.[1]
 
-Rozdíl mezi těmito typy čísel není pouze formální. **Volba mezi č.p. a č.e. může znamenat rozdíl 99 000 až 125 000 Kč v prvních deseti letech vlastnictví mobilního domu**.[2] Tento článek objasňuje všechny klíčové aspekty obou systémů, vychází z aktuální legislativy a praktických zkušeností vlastníků mobilních domů, kteří volili mezi č.p. a č.e. pro své bydlení.
+Rozdíl mezi těmito typy čísel není pouze formální. **Volba mezi č.p. a č.e. může znamenat rozdíl 99 000 až 125 000 Kč v prvních deseti letech vlastnictví kvalitního montovaného domu**.[2] Tento článek objasňuje všechny klíčové aspekty obou systémů, vychází z aktuální legislativy a praktických zkušeností vlastníků montovaných domů, kteří volili mezi č.p. a č.e. pro své bydlení.
 
 ## Čtyři pojmy, které si lidé zaměňují
 

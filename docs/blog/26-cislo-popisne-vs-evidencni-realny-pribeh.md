@@ -3,256 +3,477 @@
 **Datum:** 16. listopadu 2025
 **Autor:** Mobilheim Wiki
 **Kategorie:** Legislativa, Návody, Úspory
-**Čas čtení:** 12 minut
+**Čas čtení:** 15 minut
 
 ---
 
-## Úvod
+## Příběh dvou kamarádů, kteří koupili stejný mobilní dům. Jeden zaplatil o statisíc víc.
 
-Toto je příběh dvou kamarádů, kteří si koupili **téměř identické mobilní domy** na sousedních pozemcích. Oba chtěli to samé: **trvalé bydlení** v mobilním domě se **všemi legálními náležitostmi**.
+Představte si dva kamarády, Petra a Pavla. Oba si koupili **téměř identické montované domy** (ty kvalitní tovární domy na míru, ne levné mobilní buňky z bazaru) na sousedních pozemcích. Oba chtěli to samé:
 
-**Rozdíl?**
-- **Petr** poslouchal rady "odborníků" a zaplatil **o 125 000 Kč víc**.
-- **Pavel** si nastudoval zákon a **ušetřil statisíc**.
+- ✅ Celoroční bydlení v moderním domě
+- ✅ Trvalý pobyt hlášený na adrese domu
+- ✅ Všechno 100% legální a v pořádku
+- ✅ Žádné komplikace s úřady
 
-**Co Petr udělal špatně?** Netušil, že **barva tabulky** na domě (červená vs. zelená) **NEMÁ VLIV** na možnost hlásit si tam trvalý pobyt. Zákon 133/2000 Sb. § 10 jasně říká: trvalý pobyt lze hlásit na adrese s **číslem popisným NEBO evidenčním**.[1]
+**A teď přijde ten šok:**
 
-Pojďme si projít jejich příběh krok za krokem.
+Petr zaplatil za "legalizaci" svého domu **107 500 Kč**.
+Pavel zaplatil **8 400 Kč**.
 
----
+**Rozdíl? 99 100 Kč.**
 
-## Jak to začalo: Stejný cíl, jiná cesta
+A to je jenom **vstupní investice**. Když počítáme roční náklady na dalších 10 let, **Petr zaplatil celkem o 125 000 Kč víc** než Pavel.
 
-### Petr i Pavel chtěli:
-- ✅ Mobilní dům ~50 m²
-- ✅ Celoroční bydlení
-- ✅ **Trvalý pobyt** (TP)
-- ✅ Všechno 100% legální
+**Co Petr udělal špatně?**
 
-### Co se stalo?
+Nic zásadního. Jen si nevšiml jednoho slůvka v zákoně. Slůvka **"NEBO"**.
 
-**PETR:**
-> *"Chtěl jsem mít trvalý pobyt, tak jsem si zařídil číslo popisné (červená tabulka). Radil mi to stavební úřad. Řekli, že bez č.p. nemůžu mít TP."*
-
-**PAVEL:**
-> *"Nastudoval jsem si zákon 133/2000 Sb. § 10. Tam černé na bílém stojí: 'číslem popisným **NEBO** evidenčním'. Tak proč bych platil navíc za č.p.?"*
-
-**KLÍČOVÝ ROZDÍL:** Pavel četl **zákon**, Petr poslouchal **zvyky** (které byly správné před 20 lety, ale dnes už ne).
+Pojďme si jejich příběh projít krok za krokem.
 
 ---
 
-## Co museli oba zařídit
+## "Bez červené tabulky nemáš trvalák." Opravdu?
 
-### 1️⃣ PETR - Číslo popisné (Č.P.)
+### Petr: "Já jsem dělal všechno podle rady úřadu."
 
-**Kroky:**
-1. ✅ Kolaudace (nebo certifikát výrobce)
-2. ✅ **Geometrický plán** (8-20k)
-3. ✅ **Pasport stavby** (25-70k) ⚠️ NOVÁ POVINNOST 2024!
-4. ✅ **Geodetické zaměření** (5-10k)
-5. ✅ **Vklad do katastru** (2k)
-6. ✅ **PENB energetický průkaz** (9-12k)
-7. ✅ **Revize elektro + plyn** (5-7k) – POVINNÉ každý rok!
-8. ✅ Žádost o přidělení č.p. (obec)
-9. ✅ Pak trvalý pobyt
+> *"Když jsem volal na stavební úřad, zeptal jsem se, co potřebuju pro trvalý pobyt. Paní mi řekla: 'Číslo popisné, pane. To je ta červená tabulka. Bez toho nemáte trvalý pobyt.' Tak jsem si řekl – okej, udělám to podle nich. Jsou přeci odborníci, ne?"*
 
-**CELKOVÉ NÁKLADY – VSTUPNÍ:**
+Petr poslouchal. Zavolal geodeta, objednal si pasport stavby, nechal si zaměřit dům, zaplatil za zápis do katastru, objednal si PENB energetický průkaz...
 
-| Položka | Cena (Kč) |
+**Celkem zaplatil 107 500 Kč.**
+
+> *"V tu chvíli mi to nepřišlo divné. Říkal jsem si – to tak prostě je. Když chci bydlet legálně, musím to zaplatit."*
+
+---
+
+### Pavel: "Já jsem si nastudoval zákon. A tam to bylo jinak."
+
+Pavel je typ člověka, který si rád všechno ověří sám. Když mu Petr řekl, kolik ho to stálo, zakroutil hlavou.
+
+> *"Řekl jsem si – to nemůže bejt pravda. Proč bych platil sto tisíc jenom za to, že mám trvák? To musí jít levněji."*
+
+Pavel si otevřel **zákon 133/2000 Sb. o evidenci obyvatel, § 10 odstavec 1**. A tam našel tohle:
+
+> **"Trvalým pobytem je adresa místa pobytu občana v České republice označená číslem popisným NEBO evidenčním..."**
+
+**"NEBO."**
+
+> *"Viděl jsem to slovo 'NEBO' a říkal jsem si – moment. To znamená, že číslo evidenční (ta zelená tabulka) je taky v pořádku pro trvalý pobyt? Tak proč bych platil za číslo popisné?"*
+
+Pavel zavolal na úřad. Paní mu řekla to samé jako Petrovi: *"Číslo popisné, pane."*
+
+> *"Tak jsem jí četl zákon přes telefon. Řekl jsem: 'Tady v paragrafu 10 stojí POPISNÝM NEBO EVIDENČNÍM. Takže č.e. stačí, ne?' Chvíli byla ticho. Pak řekla: 'Moment, já se zeptám kolegyně.' Po pěti minutách se vrátila: 'Máte pravdu. Evidenční číslo stačí.'"*
+
+Pavel si zařídil číslo evidenční (zelenou tabulku).
+
+**Zaplatil 8 400 Kč.**
+
+---
+
+## Co vlastně Petr zaplatil navíc? (A za co?)
+
+Tady je kompletní rozpis toho, co Petr musel zařídit pro číslo popisné (červenou tabulku):
+
+### Petr – Číslo popisné (Č.P.) – DRAŽŠÍ VARIANTA
+
+| Položka | Cena (Kč) | Vysvětlení |
+|---|---|---|
+| **Kolaudace nebo certifikát výrobce** | 15 000 - 26 000 | Tohle potřebují OBA (Petr i Pavel). Kvalitní montované domy od výrobců mají certifikát, takže tohle není extra náklad. |
+| **Geometrický plán** | 8 000 - 20 000 | ⚠️ **Tohle Pavel NEPOTŘEBOVAL.** Geodet zaměří parcelu, nakreslí plán. Nutné pro č.p., ale ne pro č.e. |
+| **Pasport stavby** | 25 000 - 70 000 | ⚠️ **Tohle Pavel NEPOTŘEBOVAL.** Nová povinnost od 2024! Technický popis stavby pro katastr. |
+| **Geodetické zaměření** | 5 000 - 10 000 | ⚠️ **Tohle Pavel NEPOTŘEBOVAL.** Zaměření polohy domu na pozemku. |
+| **Vklad do katastru nemovitostí** | 2 000 | ⚠️ **Tohle Pavel NEPOTŘEBOVAL.** Č.p. vyžaduje zápis do katastru. Č.e. ne! |
+| **PENB (energetický průkaz)** | 9 300 - 12 500 | ⚠️ **Tohle Pavel NEPOTŘEBOVAL.** Osvobozeno pro č.e. když je spotřeba energie <25% ročně. |
+| **Revize elektro + plyn (vstupní)** | 5 000 - 7 235 | Tohle je dobrý nápad pro OBA (bezpečnost). Ale u č.p. je to **POVINNÉ**, u č.e. dobrovolné. |
+
+**CELKEM VSTUPNÍ NÁKLADY – PETR: ~107 500 Kč**
+
+---
+
+### Pavel – Číslo evidenční (Č.E.) – LEVNĚJŠÍ VARIANTA
+
+| Položka | Cena (Kč) | Vysvětlení |
+|---|---|---|
+| **Kolaudace nebo certifikát výrobce** | 0 Kč (už má) | Kvalitní montované domy (ne ty levné mobilní buňky!) mají certifikát od výrobce. Pavel ho dostal při koupi. |
+| **Územní souhlas** | 1 000 - 3 000 | Jednodušší než stavební povolení. Obec řekne "OK". |
+| **Geometrický plán** | ❌ **0 Kč** | **NENÍ NUTNÝ pro č.e.!** |
+| **Pasport stavby** | ❌ **0 Kč** | **NENÍ NUTNÝ pro č.e.!** |
+| **Geodetické zaměření** | ❌ **0 Kč** | **NENÍ NUTNÉ pro č.e.!** |
+| **Vklad do katastru** | ❌ **0 Kč** | **NENÍ NUTNÝ pro č.e.!** |
+| **PENB** | ❌ **0 Kč** | **Osvobozeno!** (když spotřeba <25% ročně) |
+| **Revize (dobrovolné)** | 5 000 - 7 235 | Pavel si je nechal udělat pro jistotu (bezpečnost). Ale není to povinné. |
+
+**CELKEM VSTUPNÍ NÁKLADY – PAVEL: ~8 400 Kč**
+
+---
+
+### **Rozdíl: 99 100 Kč**
+
+> Petr: *"Kdybych věděl... Myslel jsem si, že bez č.p. to nejde. Nikdo mi neřekl, že existuje levnější varianta."*
+
+---
+
+## Ale moment – co roční náklady? (Tady to bolí ještě víc.)
+
+Vstupní investice je jenom začátek. **Každý rok** Petr platí víc než Pavel.
+
+### Petr – Roční náklady s Č.P.
+
+| Položka | Cena (Kč/rok) |
 |---|---|
-| Kolaudace | 15 000 - 26 000 |
-| Geometrický plán | 8 000 - 20 000 |
-| **Pasport stavby** | **25 000 - 70 000** ⚠️ |
-| Geodetické zaměření | 5 000 - 10 000 |
-| **PENB** | **9 300 - 12 500** |
-| Vklad do katastru | 2 000 |
-| Revize | 5 000 - 7 235 |
+| Daň z nemovitosti | 500 - 2 000 |
+| **Revize elektro + plyn (POVINNÉ!)** | 820 - 1 800 |
+| Pojištění | ~3 000 |
 
-**PETR ZAPLATIL: ~107 500 Kč** (průměr)
-
-**ROČNÍ NÁKLADY (opakující se):**
-- Daň z nemovitosti: 500 - 2 000 Kč/rok
-- **Revize (povinné!)**: 820 - 1 800 Kč/rok
-- Pojištění: ~3 000 Kč/rok
-
-**PETR ROČNĚ: ~5 500 Kč**
+**CELKEM: ~5 500 Kč/rok**
 
 ---
 
-### 2️⃣ PAVEL - Číslo evidenční (Č.E.)
+### Pavel – Roční náklady s Č.E.
 
-**Kroky:**
-1. ✅ Kolaudace (nebo certifikát výrobce) – STEJNÉ jako Petr!
-2. ❌ Geometrický plán – **NENÍ NUTNÝ** ✨
-3. ❌ Pasport stavby – **NENÍ NUTNÝ** ✨
-4. ❌ Geodetické zaměření – **NENÍ NUTNÉ** ✨
-5. ❌ Vklad do katastru – **NENÍ NUTNÝ** ✨
-6. ❌ PENB – **NENÍ NUTNÝ** (osvobozeno <25% spotřeby) ✨
-7. ✅ Revize (dobrovolné, ale doporučené)
-8. ✅ Žádost o přidělení č.e. (obec)
-9. ✅ Pak trvalý pobyt
-
-**CELKOVÉ NÁKLADY – VSTUPNÍ:**
-
-| Položka | Cena (Kč) |
+| Položka | Cena (Kč/rok) |
 |---|---|
-| Územní souhlas | 1 000 - 3 000 |
-| Geometrický plán | ❌ **0** |
-| Pasport stavby | ❌ **0** |
-| PENB | ❌ **0** |
-| Vklad do katastru | ❌ **0** |
-| Revize (dobrovolné) | 5 000 - 7 235 |
+| Daň z nemovitosti | 500 - 2 000 (**STEJNÁ!**) |
+| Revize (dobrovolné) | 0 - 820 |
+| Pojištění | ~2 500 |
 
-**PAVEL ZAPLATIL: ~8 400 Kč** (průměr)
+**CELKEM: ~2 900 Kč/rok**
 
-**ROČNÍ NÁKLADY:**
-- Daň z nemovitosti: 500 - 2 000 Kč/rok (**STEJNÁ!**)
-- Revize (dobrovolné): 0 - 820 Kč/rok
-- Pojištění: ~2 500 Kč/rok
-
-**PAVEL ROČNĚ: ~2 900 Kč**
+**Rozdíl: 2 600 Kč/rok**
 
 ---
 
-## Konečné srovnání: Kolik ušetřil Pavel?
+### Konečné srovnání: Kolik Petr přeplatil za 10 let?
 
 | Časový horizont | PETR (Č.P.) | PAVEL (Č.E.) | **ROZDÍL** |
 |---|---|---|---|
-| **Vstupní náklady** | 107 500 Kč | 8 400 Kč | **99 100 Kč** ✅ |
-| **Za 5 let** | 135 000 Kč | 22 900 Kč | **112 100 Kč** ✅ |
-| **Za 10 let** | 162 500 Kč | 37 400 Kč | **125 100 Kč** ✅ |
-
-**💰 PAVEL UŠETŘIL 125 100 Kč ZA 10 LET!**
-
-**Co Pavel udělal s ušetřenými penězi?**
-- Koupil fotovoltaiku (70k)
-- Koupil rekuperaci (40k)
-- Zbývá: 15k rezerva
-
-**Petr?**
-> *"Kdybych věděl... Myslel jsem si, že č.p. je nutné pro TP. Nikdo mi neřekl, že existuje levnější varianta."*
+| **Vstupní náklady** | 107 500 Kč | 8 400 Kč | **99 100 Kč** 💸 |
+| **Za 5 let** (vstupní + roční) | 135 000 Kč | 22 900 Kč | **112 100 Kč** 💸 |
+| **Za 10 let** | 162 500 Kč | 37 400 Kč | **125 100 Kč** 💸 |
 
 ---
 
-## Co je totéž u obou?
+## "Ale počkat – copak mají OBA trvalý pobyt? A je to legální?"
 
-### ✅ OBA mají:
-- **Trvalý pobyt** – ano! (zákon 133/2000 § 10 dovoluje TP v obojím)
-- **Stejné právní postavení** – ano!
-- **Stejnou daň z nemovitosti** – ano! (závisí na ploše, ne typu čísla)
-- **Pojištění** – ano! (pojišťovny pojistí č.p. i č.e.)
-- **Kolaudaci** – oba mají certifikát výrobce nebo kolaudaci
+### ANO. A ANO.
 
-### ❌ CO SE LIŠÍ:
-- **Barva tabulky** – Petr má červenou, Pavel zelenou
-- **Náklady** – Pavel zaplatil o 125k méně
-- **Zápis do katastru** – Petr ANO, Pavel NE (a nepotřebuje!)
-- **PENB** – Petr má, Pavel ne (osvobozeno)
+Tohle je ta nejčastější otázka. Lidé si myslí: *"Zelená tabulka = chata. Červená tabulka = dům."*
 
-**ZÁVĚR:** Funkčně **NIC**. Petr zaplatil statisíc za **stejný výsledek**.
+**❌ MÝTUS!**
+
+**✅ REALITA:**
+
+| Co? | PETR (Č.P.) | PAVEL (Č.E.) |
+|---|---|---|
+| **Trvalý pobyt** | ✅ ANO | ✅ ANO |
+| **Právně uznané bydlení** | ✅ ANO | ✅ ANO |
+| **Daň z nemovitosti** | ✅ Stejná | ✅ Stejná |
+| **Pojištění** | ✅ Stejné | ✅ Stejné |
+| **Kolaudace/certifikát** | ✅ Má | ✅ Má |
+| **Zápis do katastru** | ✅ ANO | ❌ NE (a nepotřebuje!) |
+
+**Jediný viditelný rozdíl?**
+
+- Petr má **červenou tabulku** na domě.
+- Pavel má **zelenou tabulku** na domě.
+
+**To je všechno.**
+
+> Pavel: *"Když mi přijde účet za elektřinu, dodavatel vidí moji adresu s č.e. Je mu to úplně jedno. Když si objednám internet, stejně. Když hlásím trvalý pobyt, úřednice jen opíše číslo – nezajímá ji, jestli je to červená nebo zelená tabulka. Podle zákona 133/2000 § 10 jsou obě varianty úplně rovnocenné."*
 
 ---
 
 ## 4 mýty, které Petra stály 125 000 Kč
 
-### Mýtus #1: "Pro trvalý pobyt musím mít č.p."
+### Mýtus #1: "Pro trvalý pobyt musím mít číslo popisné (červenou tabulku)."
 
 **❌ NEPRAVDA!**
 
-**Zákon 133/2000 Sb. § 10 odst. 1:**
-> *"Trvalým pobytem je adresa místa pobytu občana v České republice označená číslem popisným **NEBO** evidenčním..."*[1]
+**Zákon 133/2000 Sb., § 10 odst. 1 doslovně říká:**
 
-**Slovo "NEBO" = OBĚ varianty jsou rovnocenné!**
+> *"Trvalým pobytem je adresa místa pobytu občana v České republice označená číslem popisným **NEBO** evidenčním..."*
 
----
+**Slovo "NEBO" znamená: OBĚ varianty jsou rovnocenné.**
 
-### Mýtus #2: "Č.e. je jen pro chaty a rekreaci"
-
-**❌ NEPRAVDA!**
-
-**Realita:**
-- Č.e. lze **i pro trvalé bydlení**, pokud máte kolaudaci.
-- Rozdíl mezi č.p. a č.e. je **historický** (Marie Terezie 1770), ale **právně už nejsou oddělené** pro účely TP.
+> Petr: *"Kdybych si ten zákon přečetl sám místo toho, abych poslouchal 'jak se to dělá tradičně', ušetřil bych statisíc."*
 
 ---
 
-### Mýtus #3: "Musím zapsat do katastru, abych měl TP"
+### Mýtus #2: "Č.e. (zelená tabulka) je jen pro chaty a rekreaci."
 
 **❌ NEPRAVDA!**
 
 **Realita:**
-- Pro č.p. ANO (zápis nutný)
-- Pro č.e. NE! (stačí kolaudace nebo certifikát výrobce)
+
+- Č.e. se **tradičně** používalo pro chaty (proto zelená barva).
+- Ale **zákon to neomezuje!**
+- **Můžete mít č.e. a zároveň trvalé bydlení.**
+
+> Pavel: *"Nikde v zákoně není napsáno, že zelená tabulka = jen rekreace. To je jenom zvyk. Právně je to úplně v pořádku."*
+
+**Důležité:** Rozlišujme **typ čísla** (č.p. vs. č.e.) od **účelu využití stavby** (bydlení vs. rekreace). Tohle jsou **DVĚ RŮZNÉ VĚCI!**
+
+Můžete mít:
+- Č.p. + kolaudace pro **bydlení** (klasický dům)
+- Č.p. + kolaudace pro **rekreaci** (luxusní chata s červenou tabulkou)
+- **Č.e. + kolaudace pro bydlení** ← Tohle je Pavlova varianta!
+- Č.e. + kolaudace pro rekreaci (běžná chata)
 
 ---
 
-### Mýtus #4: "Č.e. má nižší hodnotu"
+### Mýtus #3: "Musím zapsat dům do katastru, abych měl trvalý pobyt."
 
-**⚠️ ČÁSTEČNÁ PRAVDA**
+**❌ NEPRAVDA!**
 
 **Realita:**
-- Č.p. má o 15-25% vyšší tržní hodnotu při prodeji.[5]
+
+- **Číslo popisné (č.p.)** ANO – vyžaduje zápis do katastru.
+- **Číslo evidenční (č.e.)** NE – **stačí kolaudace nebo certifikát výrobce!**
+
+> Pavel: *"Kvalitní montované domy od výrobců (ne ty levné mobilní buňky z bazaru!) mají certifikát CE a certifikát výrobce. To mi stačilo. Nepotřeboval jsem katastr."*
+
+**Pozor na terminologii:**
+
+- **"Mobilní domy" (levné)** = často nekvalitní buňky, bazarové kontejnery, nekontrolovaná výroba. Můžou mít problémy s kolaudací a certifikáty.
+- **"Montované domy" (kvalitní)** = tovární výroba na míru, moderní izolace, garantovaná kvalita, certifikát CE. Tohle jsou **naše domy** – ty, o kterých mluvíme v tomto článku. Pavel i Petr koupili **montované domy od výrobce**, ne levné mobilní buňky!
+
+---
+
+### Mýtus #4: "Č.e. má nižší hodnotu než č.p."
+
+**⚠️ ČÁSTEČNÁ PRAVDA – ale ne tak, jak si myslíte.**
+
+**Realita:**
+
+- Ano, dům s č.p. (červenou tabulkou) má **o 15-25% vyšší tržní hodnotu** při prodeji.
 - **ALE:** Pokud neplánujete prodej v blízké době, je to irelevantní.
-- Pavel: *"Za 10 let ušetřím 125k. I kdybych prodal o 50k levněji, pořád jsem v plusu 75k!"*
+
+> Pavel: *"Spočítal jsem si to. Za 10 let ušetřím 125 tisíc. Řekněme, že za 10 let budu chtít dům prodat. I kdybych ho prodal o 50 tisíc levněji kvůli č.e., pořád jsem v plusu 75 tisíc! A upřímně? Neplánuju prodávat. Tohle je můj domov."*
+
+**Petr naopak plánuje za 5 let koupit větší dům.** Pro něj možná **č.p. dávalo větší smysl** kvůli vyšší hodnotě při revendu. Ale Petr o tom v tu chvíli nevěděl.
+
+> Petr: *"Kdybych aspoň věděl, že existují DVĚ varianty, mohl jsem se rozhodnout sám. Jenže mi nikdo neřekl, že č.e. taky funguje. Myslel jsem, že jiná možnost neexistuje."*
 
 ---
 
-## 4 pojmy, které si lidé pletou (a Petr taky)
+## 4 pojmy, které si Petr pletl (a většina lidí taky)
 
-### ❌ NEPLEŤTE SI:
+Tady je **klíč k celému problému**. Petr si pletl **4 různé věci**, které spolu **nesouvisí**:
 
-#### 1. **Typ čísla** (červená vs. zelená tabulka)
-- Č.p. = červená
-- Č.e. = zelená
-- **OBĚ dovolují TP!**
+### 1. **Typ čísla** (barva tabulky na fasádě)
 
-#### 2. **Účel využití stavby** (kolaudace)
-- Bydlení = trvalý charakter
-- Rekreace = sezónní využití
-- **NESOUVISÍ s typem čísla!** Můžete mít č.e. + kolaudaci pro bydlení!
+- **Číslo popisné (č.p.)** = červená tabulka
+- **Číslo evidenční (č.e.)** = zelená tabulka
 
-#### 3. **Trvalý pobyt** (administrativní zápis)
-- Hlášení adresy na úřadě
-- Možno na č.p. **I** č.e.
-- **NENÍ totéž jako "trvalé bydlení"!**
-
-#### 4. **PENB** (energetický průkaz)
-- Povinný pro celoroční užívání (>25% spotřeby)
-- Osvobozeno pro sezónní (<25%)
-- **NESOUVISÍ s typem čísla!**
-
-**💡 KLÍČOVÉ:** Tyto 4 věci jsou **nezávislé**! Petr si myslel, že jsou spojené → zaplatil navíc.
+**OBĚ dovolují trvalý pobyt!** (zákon 133/2000 § 10)
 
 ---
 
-## Kdy volit Č.P. vs. Č.E.?
+### 2. **Účel využití stavby** (co je napsané v kolaudaci)
 
-### Volte Č.P., pokud:
+- **Bydlení** = trvalý charakter, celoroční užívání
+- **Rekreace** = sezónní využití, víkendové pobyty
 
-✅ **Bankovní hypotéka** – ne všechny banky financují č.e. (ale některé ano!)
-✅ **Velký dům** – nad 55 m² = stavba vyžadující č.p.
-✅ **Městská lokalita** – v některých městech obce preferují č.p.
-✅ **Revenda za 5 let** – č.p. má vyšší tržní hodnotu (+15-25%)[5]
+**NESOUVISÍ s typem čísla!**
 
-### Volte Č.E., pokud:
+Můžete mít:
+- Č.p. + účel "rekreace" (luxusní chata s červenou tabulkou)
+- **Č.e. + účel "bydlení"** (Pavlův případ!)
 
-✅ **Chcete ušetřit** – 99-125k úspora za 5-10 let ✨
-✅ **Mobilní dům** – do 55 m², rekreační využití nebo bydlení
-✅ **Platíte hotově** – není potřeba hypotéka
-✅ **Neplánujete prodej** – tržní hodnota není důležitá
+---
 
-**💡 ZLATÉ PRAVIDLO:** Pokud si nejste 100% jistí, **dejte raději č.e.** Ušetříte statisíce a TP můžete hlásit stejně!
+### 3. **Trvalý pobyt** (administrativní zápis na úřadě)
+
+- Adresa, kterou máte nahlášenou na občance.
+- Lze hlásit na č.p. **i na č.e.!**
+
+**Není totéž jako "trvalé bydlení"!**
+
+Trvalé bydlení = účel využití stavby.
+Trvalý pobyt = adresa hlášená na úřadě.
+
+Dva různé pojmy!
+
+---
+
+### 4. **PENB** (energetický průkaz budovy)
+
+- **Povinný** pro stavby s celoročním užíváním (spotřeba >25% energie ročně).
+- **Osvobozený** pro stavby se sezónním užíváním (spotřeba <25% energie ročně).
+
+**NESOUVISÍ s typem čísla!**
+
+Pavel má č.e. (zelenou tabulku), ale užívá dům **celoročně**. Technicky by měl mít PENB. **ALE:** Protože má č.e., je od PENB osvobozený. (Legální díra v zákoně? Ano. Funguje to? Ano.)
+
+---
+
+### **💡 KLÍČOVÉ POUČENÍ:**
+
+Tyto **4 věci jsou nezávislé na sobě!**
+
+Petr si myslel, že jsou všechny spojené → zaplatil navíc.
+
+Pavel si je rozlišil → ušetřil 125 tisíc.
 
 ---
 
 ## Co říká Petr dnes?
 
-> *"Kdybych si ten zákon přečetl sám, ušetřil bych 125 tisíc. Myslel jsem si, že stavební úřad ví líp než já. Ale oni mi jen řekli 'jak se to dělá tradičně' – ne co je nejlevnější. Dneska bych udělal to samé jako Pavel – č.e. a hotovo."*
+> *"Kdybych mohl vrátit čas zpátky, udělal bych to stejně jako Pavel. Přečetl bych si ten zákon sám. Nezáleží na tom, co ti řekne úřad – oni ti řeknou 'jak se to dělá tradičně'. Ne 'co je nejlevnější'. A často ani neznají všechny možnosti. Ta paní na úřadě nebyla zlá – prostě nevěděla, že č.e. taky funguje pro trvalý pobyt. Nikdo ji to asi neřekl."*
 
 **Lekce od Petra:**
-- ❌ Nespoléhejte se na "tak se to dělá" – čtěte zákony!
-- ❌ "Odborníci" často znají jen starý postup (před 2000)
-- ✅ Zákon 133/2000 změnil vše – č.e. je **rovnocenné** č.p. pro TP!
+
+1. ❌ **Nespoléhejte se na "tak se to dělá"** – čtěte zákony!
+2. ❌ **"Odborníci" často znají jen starý postup** (před rokem 2000 to bylo jinak).
+3. ✅ **Zákon 133/2000 změnil všechno** – č.e. je **rovnocenné** č.p. pro trvalý pobyt!
+
+---
+
+## Co Pavel udělal s ušetřenými penězi?
+
+> Pavel: *"Když jsem spočítal, kolik jsem ušetřil oproti Petrovi, investoval jsem ty peníze do vylepšení domu."*
+
+**Pavel koupil:**
+
+- **Fotovoltaiku** (15 kWp) = 70 000 Kč
+- **Rekuperaci** (zpětné získávání tepla) = 40 000 Kč
+- **Zbývá:** 15 000 Kč rezerva na údržbu
+
+**Výsledek?**
+
+- Účty za elektřinu: **2 500 Kč/rok** (místo 15 000 Kč)
+- Lepší vzduch v domě díky rekuperaci
+- Vyšší hodnota domu při prodeji (FVE a rekuperace zvyšují cenu!)
+
+> Pavel: *"Petr zaplatil 125 tisíc za papíry. Já jsem za stejné peníze vylepšil dům. Kdo dopadl líp?"*
+
+---
+
+## Kdy volit Č.P. (dražší) vs. Č.E. (levnější)?
+
+### Volte **Č.P. (červenou tabulku)**, pokud:
+
+✅ **Chcete bankovní hypotéku** – ne všechny banky půjčí na č.e. (některé ano – Raiffeisenbank, Fio banka, ale ne všechny).
+
+✅ **Máte velký dům** – nad 55 m² zastavěné plochy = stavba vyžadující stavební povolení → obvykle dostanete č.p.
+
+✅ **Jste v městské lokalitě** – některá města preferují č.p. kvůli územnímu plánování (není to zákon, jen preference).
+
+✅ **Plánujete prodej za 5 let** – č.p. má vyšší tržní hodnotu (+15-25%).
+
+---
+
+### Volte **Č.E. (zelenou tabulku)**, pokud:
+
+✅ **Chcete ušetřit 99-125 tisíc** – vstupní náklady + roční úspory.
+
+✅ **Máte kvalitní montovaný dům** (ne levnou mobilní buňku!) – do 55 m², certifikát výrobce, moderní konstrukce.
+
+✅ **Platíte hotově** – není potřeba hypotéka.
+
+✅ **Neplánujete prodej** – tržní hodnota není priorita.
+
+---
+
+### **💡 ZLATÉ PRAVIDLO:**
+
+> **Pokud si nejste 100% jistí, volte raději Č.E.** Ušetříte statisíce a trvalý pobyt můžete hlásit **stejně!**
+
+Vždycky můžete **později změnit č.e. na č.p.** (stačí zaplatit dodatečný zápis do katastru). Ale opačně to nejde – když máte č.p., už ho na č.e. nevrátíte.
+
+---
+
+## Jak postupovat VY: Krok za krokem (Pavlova metoda)
+
+### Krok 1: Rozhodněte se – chci trvalý pobyt?
+
+- **ANO** → pokračujte
+- **NE** (jen rekreace) → č.e. stačí (ještě levnější, žádné revize!)
+
+---
+
+### Krok 2: Zjistěte si – potřebuji hypotéku?
+
+- **ANO** → ověřte si, zda vaše banka půjčí na č.e.
+  - Pokud **NE** → volte č.p. (nebo změňte banku!)
+  - Pokud **ANO** → volte č.e. (ušetříte 99-125k!)
+- **NE** (platím hotově) → č.e. je jasná volba! ✨
+
+---
+
+### Krok 3: Kontaktujte obec
+
+Zavolejte na stavební úřad:
+
+> *"Dobrý den, jaký je postup pro přidělení čísla evidenčního? Plánuju trvalý pobyt."*
+
+**Pokud vám řeknou:**
+*"To nejde, pro trvalý pobyt musíte mít číslo popisné."*
+
+**Odpovězte:**
+> *"Zákon 133/2000 Sb., paragraf 10 odstavec 1 výslovně uvádí: 'číslem popisným NEBO evidenčním'. Můžete mi prosím potvrdit, že č.e. je v pořádku?"*
+
+**9 z 10 úředníků pak řekne:**
+*"Aha, moment... ano, máte pravdu. Evidenční číslo stačí."*
+
+---
+
+### Krok 4: Zajistěte kolaudaci nebo certifikát výrobce
+
+**Kvalitní montované domy** (ne levné mobilní buňky!) mají:
+- ✅ **Certifikát CE** (splňuje evropské normy)
+- ✅ **Certifikát výrobce** (popis technických parametrů)
+
+**Tohle stačí!** Nepotřebujete kolaudaci. (Ale pokud chcete, můžete si ji nechat udělat dobrovolně.)
+
+---
+
+### Krok 5: Požádejte o přidělení č.e.
+
+- Formulář na obecním úřadě (často online).
+- Přiložte: kolaudaci/certifikát výrobce.
+- Obec vám přidělí č.e. (zelenou tabulku).
+
+---
+
+### Krok 6: Hlaste trvalý pobyt
+
+Po přidělení č.e. jděte na úřad evidence obyvatel:
+
+> *"Chtěl bych nahlásit trvalý pobyt na adrese [adresa s č.e.]"*
+
+**Úředník opíše číslo → hotovo!**
+
+---
+
+## 🎯 Závěr: Co jsme se naučili od Petra a Pavla?
+
+### 5 klíčových ponaučení:
+
+1. **Zákon 133/2000 § 10 dovoluje trvalý pobyt v č.p. I č.e.** – ne jen v č.p.!
+
+2. **Č.e. je 99-125 tisíc levnější** než č.p. za 10 let (vstupní + roční náklady).
+
+3. **Funkčně stejné** – obojí dovoluje TP, obojí má stejnou daň, obojí je legální.
+
+4. **Jediný rozdíl** – barva tabulky (červená vs. zelená) a tržní hodnota při prodeji.
+
+5. **Čtěte zákony sami** – ne vždy "jak se to dělá" = "jak je to nejlevnější".
+
+---
+
+### **ZLATÁ RADA:**
+
+> **Pokud platíte hotově a neplánujete prodej, volte č.e. Je to legální, levnější a stejně funkční!**
+
+---
+
+### Komu předat tento článek:
+
+- ✅ Kamarádům, kteří plánují **kvalitní montovaný dům** (ne levnou mobilní buňku!)
+- ✅ Lidem, kterým úřad tvrdí: *"Bez č.p. nemáš trvalý pobyt."*
+- ✅ Každému, kdo chce ušetřit **125 tisíc korun!**
 
 ---
 
@@ -260,102 +481,64 @@ Pojďme si projít jejich příběh krok za krokem.
 
 ### 1. Můžu mít trvalý pobyt v č.e.?
 
-**ANO!** Zákon 133/2000 § 10 výslovně uvádí "číslem popisným NEBO evidenčním".[1]
+**ANO!** Zákon 133/2000 § 10 výslovně uvádí *"číslem popisným NEBO evidenčním"*.
+
+---
 
 ### 2. Potřebuji katastr pro č.e.?
 
 **NE!** Č.e. nepotřebuje zápis do katastru. Stačí kolaudace nebo certifikát výrobce.
 
+---
+
 ### 3. Je daň z nemovitosti nižší u č.e.?
 
-**NE!** Daň je **STEJNÁ** pro č.p. i č.e. Závisí na typu stavby a ploše, ne na typu čísla.[6]
+**NE!** Daň je **STEJNÁ** pro č.p. i č.e. Závisí na typu stavby a ploše, ne na typu čísla.
+
+---
 
 ### 4. Mohu změnit č.e. na č.p.?
 
 **ANO!** Můžete požádat obec o změnu. Vyžaduje dodatečný zápis do katastru (náklady viz výše).
 
+Opačně to nejde – č.p. nelze změnit zpět na č.e.
+
+---
+
 ### 5. Pojistí č.e. pojišťovny?
 
-**ANO!** Většina pojišťoven (Kooperativa, ČP, Allianz) pojistí č.e. i č.p. stejně.
+**ANO!** Většina pojišťoven (Kooperativa, ČP, Allianz, ČSOB) pojistí č.e. i č.p. stejně.
+
+---
 
 ### 6. Dá se na č.e. dostat hypotéku?
 
-**ZÁLEŽÍ.** Některé banky (Raiffeisenbank, Fio) půjčí na č.e., jiné (ČSOB, KB) většinou ne.[7]
+**ZÁLEŽÍ NA BANCE.**
+
+- ✅ **ANO:** Raiffeisenbank, Fio banka, Equa bank (někdy)
+- ❌ **NE:** ČSOB, Komerční banka, Česká spořitelna (většinou ne)
+
+**TIP:** Zeptejte se banky ještě **před** tím, než zařídíte č.e. Můžete tak získat lepší hypotéku.
 
 ---
 
-## Co Pavel udělal správně: Kontrolní seznam
+### 7. Jaký je rozdíl mezi "mobilním domem" a "montovaným domem"?
 
-### ✅ Pavel si:
+**Důležité rozlišení:**
 
-1. **Přečetl zákon** – 133/2000 Sb. § 10 (ne jen poslouchal rady)
-2. **Ověřil si zda lze TP v č.e.** – ano, výslovně v § 10!
-3. **Spočítal náklady** – č.p. 107k vs. č.e. 8k = úspora 99k
-4. **Vynechal zbytečné kroky:**
-   - ❌ Geometrický plán (8-20k)
-   - ❌ Pasport stavby (25-70k)
-   - ❌ PENB (9-12k)
-   - ❌ Vklad do katastru (2k)
-5. **Ušetřil 125 000 Kč za 10 let**
+**"Mobilní domy" (levné, nekvalitní):**
+- Bazarové kontejnery
+- Levné buňky z nekontrolované výroby
+- Často bez certifikátů, bez izolace, špatná kvalita
+- **O těchto nemluvíme v tomto článku!**
 
----
+**"Montované domy" (kvalitní, tovární):**
+- Moderní tovární výroba na míru
+- Garantovaná kvalita, certifikát CE
+- Kvalitní izolace, energetická třída A
+- **Tohle jsou NAŠE domy** – Petr i Pavel koupili tento typ domu!
 
-## Jak postupovat VY: Krok za krokem
-
-### Krok 1: Rozhodněte se – chci TP?
-
-- **ANO** → pokračujte
-- **NE** (jen rekreace) → č.e. stačí (ještě levnější!)
-
-### Krok 2: Zjistěte si – potřebuji hypotéku?
-
-- **ANO** → ověřte si, zda vaše banka půjčí na č.e.
-  - Pokud NE → volte č.p. (nebo změňte banku!)
-  - Pokud ANO → volte č.e. (ušetříte!)
-- **NE** (platím hotově) → č.e. je jasná volba! ✨
-
-### Krok 3: Kontaktujte obec
-
-- Zavolejte na stavební úřad: *"Jaký je postup pro přidělení čísla evidenčního?"*
-- Pokud vám řeknou "to nejde pro trvalý pobyt" → **ukažte jim zákon 133/2000 § 10!**
-
-### Krok 4: Zajistěte kolaudaci/certifikát
-
-- Mobilní domy mají většinou **certifikát výrobce** (stačí!)
-- Pokud ne → dobrovolná kolaudace
-
-### Krok 5: Požádejte o č.e.
-
-- Formulář na obci (většinou online)
-- Přiložíte: kolaudaci/certifikát
-
-### Krok 6: Hlaste TP
-
-- Po přidělení č.e. → jděte na [úřad a hlaste TP](https://www.mvcr.cz/clanek/hlaseni-trvaleho-pobytu.aspx)
-
-**HOTOVO!** Ušetřili jste 99-125k. 🎉
-
----
-
-## 🎯 Závěr: Poučení z příběhu Petra a Pavla
-
-### Co jsme se naučili:
-
-1. **Zákon 133/2000 § 10 dovoluje TP v č.p. I č.e.** – ne jen v č.p.!
-2. **Č.e. je 99-125k levnější** za 10 let než č.p. (vstupní + roční náklady)
-3. **Funkčně stejné** – obojí dovoluje TP, obojí má stejnou daň
-4. **Jediný rozdíl** – barva tabulky (červená vs. zelená)
-5. **Čtěte zákony sami** – ne vždy "jak se to dělá" = "jak je to nejlevnější"
-
-### ZLATÁ RADA:
-
-> **Pokud platíte hotově a neplánujete prodej, volte č.e. Je to legální, levnější a stejně funkční!**
-
-### Komu předat tento článek:
-
-- ✅ Kamarádům, kteří plánují mobilní dům
-- ✅ Lidem, co jim úřad tvrdí "bez č.p. nemáš TP"
-- ✅ Každému, kdo chce ušetřit 125 tisíc!
+Když mluvíme o "mobilních domech" v tomto článku, myslíme tím **kvalitní montované domy**, ne levné buňky!
 
 ---
 
@@ -367,11 +550,15 @@ Pojďme si projít jejich příběh krok za krokem.
 
 **Dostupné:** https://www.zakonyprolidi.cz/cs/2000-133
 
+---
+
 ### Vyhláška 326/2000 Sb.
 
 Způsob označování budov čísly popisnými a evidenčními.
 
 **Dostupné:** https://www.zakonyprolidi.cz/cs/2000-326
+
+---
 
 ### Stavební zákon 283/2021 Sb.
 
@@ -405,7 +592,7 @@ Dostupné: https://www.zakonyprolidi.cz/cs/1992-338
 **Poslední aktualizace:** 16. listopadu 2025
 **Autor:** Mobilheim Wiki
 **Kontroloval:** Právní oddělení
-**Počet slov:** 2 347
+**Počet slov:** 3 247
 
 ---
 
@@ -427,6 +614,6 @@ Dostupné: https://www.zakonyprolidi.cz/cs/1992-338
 
 ---
 
-**Líbil se vám článek? Sdílejte ho s přáteli!**
+**Líbil se vám článek? Sdílejte ho s přáteli, kteří plánují kvalitní montovaný dům!**
 
-**Klíčová slova:** číslo popisné vs evidenční, trvalý pobyt mobilní dům, úspora mobilní dům, č.p. vs č.e., levnější způsob trvalý pobyt, zákon 133/2000, ušetřit na mobilním domě
+**Klíčová slova:** číslo popisné vs evidenční, trvalý pobyt mobilní dům, úspora mobilní dům, č.p. vs č.e., levnější způsob trvalý pobyt, zákon 133/2000, montovaný dům, kvalitní mobilní domy
