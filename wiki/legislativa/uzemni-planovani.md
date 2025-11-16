@@ -4,7 +4,7 @@
 
 V praxi to znamená, že před koupí jakéhokoliv pozemku pro mobilní dům musíte zjistit, zda je daná lokalita podle územního plánu určena pro bydlení, rekreaci nebo smíšené využití. Každá obec má svůj vlastní územní plán, který definuje funkční plochy - například čistě obytné zóny, rekreační oblasti, průmyslové areály nebo zemědělskou půdu. Mobilní dům můžete umístit pouze na pozemek v lokalitě, kde to územní plán výslovně umožňuje. Kontrola územního plánu je tedy úplně první krok před jakoukoliv investicí.
 
-Územní plánování v České republice prošlo v posledních letech významnou změnou. Od 1. července 2024 platí nový stavební zákon č. 283/2021 Sb., který významně změnil proces povolovacích řízení a zavedl nové kategorie staveb. Pro mobilní domy je klíčové, že jsou nově kategorizovány jako "výrobky plnící funkci stavby" s vyššími limity než klasické drobné stavby - konkrétně až 55 m² zastavěné plochy místo původních 40 m². To v praxi znamená větší svobodu při výběru velikosti mobilního domu, ale stále platí povinnost získat územní rozhodnutí, územní souhlas nebo veřejnoprávní smlouvu před umístěním mobilního domu na pozemek.
+**Důležitá legislativní aktualizace (2024):** Územní plánování v České republice prošlo v posledních letech zásadní změnou. Od 1. července 2024 platí nový stavební zákon č. 283/2021 Sb. společně s vyhláškou č. 146/2024 Sb., která nahradila dřívější vyhlášky č. 500/2006 Sb. a č. 501/2006 Sb. Tato legislativní reforma významně změnila proces povolovacích řízení a zavedla nové kategorie staveb. Pro mobilní domy je klíčové, že jsou nově kategorizovány jako "výrobky plnící funkci stavby" s vyššími limity než klasické drobné stavby - konkrétně až 55 m² zastavěné plochy místo původních 40 m². To v praxi znamená větší svobodu při výběru velikosti mobilního domu, ale stále platí povinnost získat územní rozhodnutí, územní souhlas nebo veřejnoprávní smlouvu před umístěním mobilního domu na pozemek.
 
 V tomto článku se dozvíte, jak funguje územní plánování v České republice, kde a jak zjistit údaje o funkčním využití konkrétního pozemku, jaké kategorie ploch umožňují umístění mobilního domu, jak číst územní plán, a co dělat, pokud váš pozemek není podle současného územního plánu určen pro váš záměr. Provedeme vás krok za krokem celým procesem od vyhledání územního plánu přes jeho interpretaci až po podání žádosti o územní souhlas nebo změnu územního plánu.
 
@@ -30,7 +30,7 @@ Pro mobilní domy je klíčový § 24 nového stavebního zákona, který definu
 
 Důležité je také rozlišení mezi různými typy povolovacích procesů. Podle nového stavebního zákona existují čtyři základní kategorie staveb: drobné stavby (příloha č. 1 zákona), jednoduché stavby (příloha č. 2 zákona), vyhrazené stavby (příloha č. 3 zákona) a ostatní stavby.[11] Mobilní domy do 55 m² patří mezi drobné stavby, které nevyžadují stavební povolení ani ohlášení stavebnímu úřadu. To ale neznamená, že nepotřebujete žádné povolení vůbec - stále musíte získat územní souhlas, který ověřuje, že váš záměr je v souladu s územním plánem.[12]
 
-Kromě stavebního zákona se územní plánování řídí také prováděcími vyhláškami. Klíčová je vyhláška č. 500/2006 Sb., o územně analytických podkladech, územně plánovací dokumentaci a způsobu evidence územně plánovací činnosti, která detailně stanovuje, jak musí vypadat územní plán, co musí obsahovat, jak se zpracovává a jak se mění.[13] Další důležitou vyhláškou je vyhláška č. 501/2006 Sb., o obecných požadavcích na využívání území, která stanovuje minimální standardy pro umisťování staveb - například odstupy od hranic pozemků, velikost zastavěné plochy, poměr zastavěné a nezastavěné části pozemku.[14]
+Kromě stavebního zákona se územní plánování řídí také prováděcími vyhláškami. Klíčová je vyhláška č. 146/2024 Sb., která od 1. července 2024 nahradila původní vyhlášky č. 500/2006 Sb. a č. 501/2006 Sb. Vyhláška č. 146/2024 Sb. komplexně upravuje požadavky na výstavbu, územně analytické podklady a územně plánovací dokumentaci.[13] Stanovuje mimo jiné minimální standardy pro umisťování staveb - například odstupy od hranic pozemků, velikost zastavěné plochy, poměr zastavěné a nezastavěné části pozemku.[14]
 
 ## Funkční plochy v územním plánu - kde mobilní dům můžete umístit
 
@@ -862,13 +862,13 @@ Mobilní dům 55 m² teoreticky můžete umístit i na pozemek 200 m², ale v pr
       Dostupné online: https://www.justice.cz
       Naposledy přístupné: 9. listopadu 2025
 
-[107] Vyhláška č. 501/2006 Sb., § 25 odst. 2-3
-      Plné znění viz poznámka [14]
-      Naposledy přístupné: 9. listopadu 2025
+[107] Vyhláška č. 146/2024 Sb., § 25 odst. 2-3
+      Nahradila vyhlášku č. 501/2006 Sb. s účinností od 1. července 2024
+      Naposledy přístupné: 16. listopadu 2025
 
 ---
 
-**Poslední aktualizace:** 9. listopadu 2025
+**Poslední aktualizace:** 16. listopadu 2025
 **Autor:** Expert na územní plánování - Nový Rozměr Bydlení
 **Další revize plánována:** Květen 2026
 
