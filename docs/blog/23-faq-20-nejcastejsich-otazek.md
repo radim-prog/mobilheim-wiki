@@ -65,9 +65,11 @@ Každý den dostáváme desítky dotazů. Vybrali jsme **20 NEJČASTĚJŠÍCH** 
 
 **Podmínky:**
 - [ ] **Kolaudace** nebo souhlas s užíváním
-- [ ] **Zapsáno v katastru** (jako stavba)
+- [ ] **Číslo popisné NEBO evidenční** (obojí dovoluje TP podle zákona 133/2000 § 10)
 - [ ] **Přípojky:** voda, elektřina, kanalizace
 - [ ] **Pozemek v zastavitelném území** (dle ÚP)
+
+**💡 TIP:** Číslo evidenční (č.e.) je **levnější** než číslo popisné (úspora až 125k Kč!), a přitom TP můžete hlásit v obojím. Pro č.e. NENÍ nutný zápis do katastru - stačí kolaudace. Podrobnosti viz [Č.p. vs. Č.e.](/wiki/legislativa/cislo-popisne-vs-evidencni.md).
 
 **Pokud splníte → trvalé bydliště (TP) OK!** ✅
 

@@ -163,8 +163,10 @@ Tohle je **NEJČASTĚJŠÍ otázka**, kterou dostáváme!
 - ✅ Pozemek v zastavitelném území (ÚP)
 - ✅ Přípojky (voda, elektřina, kanalizace)
 - ✅ Kolaudace nebo souhlas s užíváním
-- ✅ Zápis do katastru (jako stavba)
+- ✅ **Číslo popisné NEBO evidenční** (č.e. JE levnější, úspora ~125k!)
 - ✅ Pak můžete mít **trvalé bydliště** (TP)
+
+**💡 TIP:** Č.e. NEPOTŘEBUJE zápis do katastru, stačí kolaudace! Detaily [zde](/wiki/legislativa/cislo-popisne-vs-evidencni.md).
 
 ---
 
