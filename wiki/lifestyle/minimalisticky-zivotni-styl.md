@@ -357,7 +357,7 @@ Pro ty, kteří zvažují tuto cestu, je klíčové sdělení: minimalistický �
 
 ---
 
-**Poslední aktualizace:** 9. listopadu 2025
+**Poslední aktualizace:** 16. listopadu 2025
 **Počet slov:** Přibližně 5,900
 **Kategorie:** Lifestyle / Minimalistické bydlení
 **Další revize plánována:** Listopad 2026
