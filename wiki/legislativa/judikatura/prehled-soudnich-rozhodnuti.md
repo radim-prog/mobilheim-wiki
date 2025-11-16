@@ -1,11 +1,11 @@
 # Judikatura k mobilním domům a stavebnímu právu
 
-**Poslední aktualizace:** 15. listopadu 2025 (verze 2)
+**Poslední aktualizace:** 16. listopadu 2025 (verze 3)
 **Původní verze:** 9. listopadu 2025
 
 ---
 
-> **AKTUALIZACE 15. listopadu 2025:** Článek byl rozšířen o business kontext a praktická varování založená na reálných soudních rozhodnutích. Všechny citované rozsudky jsou reálné a dostupné v databázích justice.cz a nssoud.cz. Právní odkazy byly aktualizovány podle nového stavebního zákona č. 283/2021 Sb. platného od 1. července 2024.
+> **AKTUALIZACE 16. listopadu 2025:** Článek byl zkontrolován a aktualizován. Všechny citované rozsudky jsou reálné a dostupné v databázích justice.cz a nssoud.cz. Rozsudek NSS 4 As 78/2016-26 byl ověřen v oficiální metodice MMR (květen 2022). Právní odkazy byly aktualizovány podle nového stavebního zákona č. 283/2021 Sb. platného od 1. července 2024.
 
 Judikatura k mobilním domům je soubor soudních rozhodnutí, která v průběhu posledních patnácti let postupně vytvořila právní rámec pro posuzování, zda se konkrétní mobilní dům řídí stavebním právem nebo zda jde o vozidlo či výrobek podléhající jiným předpisům. Tato soudní rozhodnutí mají zásadní praktický význam pro každého majitele mobilního domu, protože právě z judikatury vyplývá, kdy potřebujete stavební povolení, kdy stačí ohlášení stavby a kdy lze mobilní dům umístit bez jakéhokoliv povolení od stavebního úřadu. České soudy, zejména Nejvyšší správní soud (NSS), řešily desítky sporů o to, zda je konkrétní objekt stavbou vyžadující povolení, nebo výrobkem plnícím funkci stavby osvobozeným od této povinnosti.
 
@@ -647,7 +647,7 @@ Viz reference [10]
 
 ---
 
-**Poslední aktualizace:** 9. listopadu 2025
+**Poslední aktualizace:** 16. listopadu 2025
 **Autor:** Mobilheim Wiki
 **Revidoval:** Právní expert (stavební právo)
 **Další revize plánována:** Květen 2026

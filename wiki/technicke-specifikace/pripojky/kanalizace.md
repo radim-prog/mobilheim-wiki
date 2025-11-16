@@ -131,95 +131,95 @@ Vážnější problém představuje přetečení ČOV nebo septiku, ke kterému 
 [1] Zákon č. 274/2001 Sb., o vodovodech a kanalizacích pro veřejnou potřebu a o změně některých zákonů (zákon o vodovodech a kanalizacích), ve znění pozdějších předpisů
     Ministerstvo zemědělství ČR
     Dostupné online: https://www.zakonyprolidi.cz/cs/2001-274
-    Naposledy přístupné: 9. listopadu 2025
+    Naposledy přístupné: 16. listopadu 2025
 
 [2] Vyhláška č. 428/2001 Sb., kterou se provádí zákon č. 274/2001 Sb., o vodovodech a kanalizacích pro veřejnou potřebu
     Ministerstvo zemědělství ČR
     Definice ekvivalentního obyvatele (§ 2): 1 EO = 60 g BSK5/den
     Dostupné online: https://www.zakonyprolidi.cz/cs/2001-428
-    Naposledy přístupné: 9. listopadu 2025
+    Naposledy přístupné: 16. listopadu 2025
 
 [3] Zákon č. 254/2001 Sb., o vodách a o změně některých zákonů (vodní zákon), ve znění pozdějších předpisů
     Ministerstvo zemědělství ČR
     § 8: Zvláštní užívání vod - vypouštění odpadních vod
     § 116: Sankce za porušení povinností (pokuta až 10 000 000 Kč)
     Dostupné online: https://www.zakonyprolidi.cz/cs/2001-254
-    Naposledy přístupné: 9. listopadu 2025
+    Naposledy přístupné: 16. listopadu 2025
 
 [4] "Povolení domovní ČOV v roce 2025 aneb Jak na úředníky"
     ZAKRA.cz
     Popis procesu vodoprávního řízení a nových legislativních změn od roku 2025
     URL: https://www.zakra.cz/blog/povoleni-domovni-cov
-    Naposledy přístupné: 9. listopadu 2025
+    Naposledy přístupné: 16. listopadu 2025
 
 [5] "Jaká je cena domácí čistírny odpadních vod (ČOV)"
     ČOV bez úřadu
     Cenové srovnání ČOV v roce 2025: ASIO Monocomp 52 500 Kč, Aquatec AT6 Plus 58 600 Kč, SBR Mad 56 000 Kč
     URL: https://www.covbezuradu.cz/blog/cov/jaka-je-cena-domaci-cistirny-odpadnich-vod-cov
-    Naposledy přístupné: 9. listopadu 2025
+    Naposledy přístupné: 16. listopadu 2025
 
 [6] "Místní poplatek za zhodnocení pozemku jeho připojením na vodovod nebo kanalizaci"
     epravo.cz
     Právní úprava poplatku za připojení na veřejnou kanalizaci
     URL: https://www.epravo.cz/top/clanky/mistni-poplatek-za-zhodnoceni-pozemku-jeho-pripojenim-na-vodovod-nebo-kanalizaci-105912.html
-    Naposledy přístupné: 9. listopadu 2025
+    Naposledy přístupné: 16. listopadu 2025
 
 [7] "Jaká je cena za vývoz žumpy?"
     ZAKRA.cz
     Náklady na čerpání septiku a žumpy: 800-3 500 Kč za výjezd
     URL: https://www.zakra.cz/blog/cena-zumpy-kolik-stoji-nadrz-a-vyvoz-zumpy
-    Naposledy přístupné: 9. listopadu 2025
+    Naposledy přístupné: 16. listopadu 2025
 
 [8] "Jímka, žumpa, septik - cena už od 16 000 Kč"
     SEPTIC - Betonové jímky
     Ceník betonových septiků a žump v roce 2025
     URL: https://www.betonovejimky-septic.cz/cenik/
-    Naposledy přístupné: 9. listopadu 2025
+    Naposledy přístupné: 16. listopadu 2025
 
 [9] "Wastewater treatment - Sedimentation, Filtration, Clarification"
     Britannica Encyclopedia
     Vysvětlení procesu čištění odpadních vod včetně sedimentace a biologického čištění
     URL: https://www.britannica.com/technology/wastewater-treatment/Primary-treatment
-    Naposledy přístupné: 9. listopadu 2025
+    Naposledy přístupné: 16. listopadu 2025
 
 [10] Zákon č. 500/2004 Sb., správní řád, ve znění pozdějších předpisů
      Ministerstvo vnitra ČR
      Upravuje postup správních orgánů včetně vodoprávních úřadů
      Dostupné online: https://www.zakonyprolidi.cz/cs/2004-500
-     Naposledy přístupné: 9. listopadu 2025
+     Naposledy přístupné: 16. listopadu 2025
 
 [11] Zákon č. 634/2004 Sb., o správních poplatcích, ve znění pozdějších předpisů
      Příloha: Poplatek za vodoprávní povolení 5 000 Kč (sleva 1 000 Kč při elektronickém podání)
      Dostupné online: https://www.zakonyprolidi.cz/cs/2004-634
-     Naposledy přístupné: 9. listopadu 2025
+     Naposledy přístupné: 16. listopadu 2025
 
 [12] "Čističky odpadních vod - ČOV Aquatec AT6"
      Dešťovka.eu - e-shop
      Certifikované biologické domovní ČOV pro 1-5 osob s účinností až 97 %
      URL: https://eshop.destovka.eu/cistirna-odpadnich-vod-cov-aquatec-at6/
-     Naposledy přístupné: 9. listopadu 2025
+     Naposledy přístupné: 16. listopadu 2025
 
 [13] "Top domácí čistička odpadních vod: Recenze a ceny (2025)"
      ZAKRA.cz
      Srovnání různých typů ČOV a doporučení pro různé typy likvidace (vsak, vodoteč)
      URL: https://www.zakra.cz/blog/co-je-domaci-cistirna-odpadnich-vod
-     Naposledy přístupné: 9. listopadu 2025
+     Naposledy přístupné: 16. listopadu 2025
 
 [14] Zákon č. 258/2000 Sb., o ochraně veřejného zdraví a o změně některých souvisejících zákonů
      Ministerstvo zdravotnictví ČR
      Sankce za ohrožení veřejného zdraví hygienickými závadami
      Dostupné online: https://www.zakonyprolidi.cz/cs/2000-258
-     Naposledy přístupné: 9. listopadu 2025
+     Naposledy přístupné: 16. listopadu 2025
 
 [15] "Cena kanalizační přípojky (včetně příkladu)"
      ČOV bez úřadu
      Detailní rozpis nákladů na připojení mobilního domu na veřejnou kanalizaci
      URL: https://www.covbezuradu.cz/blog/kanalizace/jaka-je-cena-kanalizacni-pripojky
-     Naposledy přístupné: 9. listopadu 2025
+     Naposledy přístupné: 16. listopadu 2025
 
 ---
 
-**Poslední aktualizace:** 9. listopadu 2025
+**Poslední aktualizace:** 16. listopadu 2025
 **Autor:** Expert na vodohospodářské systémy mobilních domů
 **Další revize plánována:** Listopad 2026
 

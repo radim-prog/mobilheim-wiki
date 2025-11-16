@@ -30,7 +30,7 @@ Výhodou rámové konstrukce je její nízká hmotnost, která se pohybuje mezi 
 
 Nevýhodou rámové konstrukce jsou tepelné mosty vytvářené dřevěnými sloupky, které mají tepelnou vodivost kolem 0,13 W/mK, což je výrazně více než izolační materiály vkládané mezi sloupky. Tyto tepelné mosty snižují celkovou tepelně izolační schopnost stěny a mohou vést k lokálnímu ochlazování vnitřního povrchu stěn v místech sloupků, což může způsobovat kondenzaci vodní páry a růst plísní. Problém lze částečně řešit překřížením konstrukce dodatečnou vrstvou izolace kolmo na původní sloupky nebo použitím externího zateplení. Další nevýhodou je citlivost dřeva na vlhkost, proto je nutné používat pouze dostatečně vysušené dřevo s relativní vlhkostí pod 18 procent a ošetřené fungicidními a insekticidními přípravky proti biotickým škůdcům.
 
-Z hlediska celkových nákladů se cena hrubé stavby rámového mobilního domu pohybuje mezi 8 000 až 12 000 korunami za metr čtvereční zastavěné plochy v závislosti na kvalitě použitých materiálů a tloušťce izolace.
+Z hlediska celkových nákladů se cena hrubé stavby rámového mobilního domu pohybuje mezi 10 000 až 16 000 korunami za metr čtvereční zastavěné plochy v závislosti na kvalitě použitých materiálů a tloušťce izolace (ceny aktualizovány k listopadu 2025).
 
 ---
 
@@ -44,9 +44,9 @@ Nejrozšířenějším typem sendvičových panelů jsou PUR panely s jádrem z 
 
 Výhodou PUR panelů je jejich vysoká pevnost v tlaku i tahu, vodotěsnost a odolnost vůči vlhkosti, neboť polyuretanová pěna s uzavřenou buněčnou strukturou nepřijímá vodu a zachovává si své izolační vlastnosti i při dlouhodobé expozici vlhkosti. Montáž sendvičových panelů je velmi rychlá, neboť jeden montážní tým může sestavit hrubou stavbu mobilního domu o ploše 50 metrů čtverečních během jednoho až dvou dnů. Panely se spojují systémem pero-drážka nebo pomocí H-profilů, přičemž spáry se dotěsňují polyuretanovou montážní pěnou pro zajištění vzduchotěsnosti.
 
-Nevýhodou PUR panelů je jejich vyšší cena, která se pohybuje mezi 1 200 až 1 800 korunami za metr čtvereční v závislosti na tloušťce a typu opláštění, což představuje asi o 40 procent vyšší náklady oproti rámové konstrukci. Další nevýhodou je hořlavost polyuretanu, který je klasifikován do třídy reakce na oheň E, což znamená hořlavý materiál přispívající k šíření požáru. Moderní PUR panely jsou sice ošetřeny zpomalovači hoření (retardéry), ale v případě požáru uvolňují toxické plyny nebezpečné pro zdraví. Pokud dojde k mechanickému poškození panelu, není možná lokální oprava a celý panel musí být vyměněn.
+Nevýhodou PUR panelů je jejich vyšší cena, která se pohybuje mezi 1 400 až 2 200 korunami za metr čtvereční v závislosti na tloušťce a typu opláštění (ceny k listopadu 2025), což představuje asi o 40 procent vyšší náklady oproti rámové konstrukci. Další nevýhodou je hořlavost polyuretanu, který je klasifikován do třídy reakce na oheň E, což znamená hořlavý materiál přispívající k šíření požáru. Moderní PUR panely jsou sice ošetřeny zpomalovači hoření (retardéry), ale v případě požáru uvolňují toxické plyny nebezpečné pro zdraví. Pokud dojde k mechanickému poškození panelu, není možná lokální oprava a celý panel musí být vyměněn.
 
-Alternativou k PUR panelům jsou sendvičové panely s jádrem z minerální vlny, která má tepelnou vodivost λ = 0,035 W/mK a je nehořlavá (třída reakce na oheň A1). Minerální vlna poskytuje rovněž výbornou zvukovou izolaci, což je výhodné v hlučném prostředí nebo při umístění mobilního domu v blízkosti komunikace. Nevýhodou minerální vlny je její vyšší tepelná vodivost oproti polyuretanu, takže pro dosažení stejného součinitele prostupu tepla je nutný tlustší panel. Cena minerálních sendvičových panelů se pohybuje mezi 1 000 až 1 500 korunami za metr čtvereční.
+Alternativou k PUR panelům jsou sendvičové panely s jádrem z minerální vlny, která má tepelnou vodivost λ = 0,035 W/mK a je nehořlavá (třída reakce na oheň A1). Minerální vlna poskytuje rovněž výbornou zvukovou izolaci, což je výhodné v hlučném prostředí nebo při umístění mobilního domu v blízkosti komunikace. Nevýhodou minerální vlny je její vyšší tepelná vodivost oproti polyuretanu, takže pro dosažení stejného součinitele prostupu tepla je nutný tlustší panel. Cena minerálních sendvičových panelů se pohybuje mezi 1 200 až 1 800 korunami za metr čtvereční (ceny k listopadu 2025).
 
 Sendvičové panely jsou vhodné zejména pro investory, kteří požadují rychlou realizaci a minimální práci na staveništi, nebo pro projekty s vysokými nároky na přesnost a kvalitu provedení. V komerčních aplikacích, jako jsou mobilní kanceláře, prodejní stánky nebo dočasná ubytování, jsou sendvičové panely standardním řešením.
 
@@ -68,11 +68,11 @@ Vnitřní opláštění se provádí z desek OSB, sádrokartonu nebo dřevěnýc
 
 Instalace elektřiny a vody se vede v instalačních předstěnách nebo pod podlahou, přičemž je nutné pečlivě izolovat kovové rozvody od ocelové konstrukce kontejneru, aby nedocházelo ke vzniku elektrických proudů v konstrukci. Vytápění se řeší nejčastěji elektrickými přímotopy, infrapanely nebo klimatizačními jednotkami s funkcí vytápění.
 
-Výhodou kontejnerové konstrukce je její extrémní pevnost a odolnost vůči mechanickému poškození, vandalismu i extrémním povětrnostním podmínkám. Modulárnost kontejnerů umožňuje snadné spojování více kontejnerů vedle sebe horizontálně pro zvětšení půdorysné plochy, nebo vertikálně pro vytvoření vícepodlažního objektu. Kontejnery lze snadno transportovat standardními kamiony, vlaky nebo loděmi, což umožňuje jejich přemístění na jiné místo v případě potřeby. Použité lodní kontejnery jsou relativně levné, přičemž cena se pohybuje mezi 30 000 až 80 000 korunami v závislosti na stavu a stáří.
+Výhodou kontejnerové konstrukce je její extrémní pevnost a odolnost vůči mechanickému poškození, vandalismu i extrémním povětrnostním podmínkám. Modulárnost kontejnerů umožňuje snadné spojování více kontejnerů vedle sebe horizontálně pro zvětšení půdorysné plochy, nebo vertikálně pro vytvoření vícepodlažního objektu. Kontejnery lze snadno transportovat standardními kamiony, vlaky nebo loděmi, což umožňuje jejich přemístění na jiné místo v případě potřeby. Použité lodní kontejnery jsou relativně levné, přičemž cena 40stopého kontejneru se pohybuje mezi 53 000 až 95 000 korunami v závislosti na stavu a stáří (ceny k listopadu 2025).
 
 Nevýhodou kontejnerové konstrukce jsou významné tepelné mosty vytvářené ocelovou konstrukcí, které je velmi obtížné eliminovat a které mohou vést k lokální kondenzaci vodní páry na vnitřním povrchu stěn. Úzká vnitřní šířka kontejneru po izolaci (asi 2,15 metru) omezuje možnosti dispozičního řešení a může působit stísněně, zejména pokud není možné spojit více kontejnerů vedle sebe. Nízká světlá výška 2,4 metru (nebo 2,7 metru u High Cube kontejnerů po izolaci stropu) je na hranici komfortní výšky místností a může působit klaustrofobicky. Celková hmotnost kontejneru včetně izolace a vnitřního vybavení se pohybuje mezi 4 000 až 6 500 kilogramy, což vyžaduje pevné betonové základy.
 
-Celkové náklady na přeměnu lodního kontejneru na obytný mobilní dům se pohybují mezi 10 000 až 16 000 korunami za metr čtvereční zastavěné plochy včetně nákupu kontejneru, izolace, oken, dveří a vnitřního vybavení.
+Celkové náklady na přeměnu lodního kontejneru na obytný mobilní dům se pohybují mezi 12 000 až 20 000 korunami za metr čtvereční zastavěné plochy včetně nákupu kontejneru, izolace, oken, dveří a vnitřního vybavení (ceny aktualizovány k listopadu 2025).
 
 ---
 
@@ -92,11 +92,11 @@ Výhodou CLT panelů je jejich velmi vysoká pevnost v tlaku, tahu i ohybu, dík
 
 Masivní dřevo CLT panelů má schopnost akumulovat tepelnou energii, což stabilizuje vnitřní teplotu a zabraňuje jejím rychlým výkyvům v průběhu dne. Jeden metr krychlový CLT panelu ze smrkového dřeva váží přibližně 450 až 500 kilogramů, což představuje tepelnou kapacitu kolem 1 000 kJ/K, tedy asi desetinásobně více než stejný objem minerální vlny. Tato vlastnost je výhodná pro letní tepelnou pohodu, neboť CLT panely absorbují přebytečné teplo během dne a v noci jej pozvolna vyzařují. Estetická hodnota CLT panelů spočívá v možnosti ponechat jejich povrch viditelný jako architektonický prvek interiéru s přirozenou texturou a vůní dřeva.
 
-Nevýhodou CLT panelů je jejich velmi vysoká cena, která se pohybuje mezi 8 000 až 15 000 korunami za metr krychlový panelu v závislosti na tloušťce, druhu dřeva a kvalitě opracování. To představuje nárůst celkových nákladů na hrubou stavbu o 80 až 120 procent oproti rámové konstrukci. Další nevýhodou je nutnost dodatečné externí tepelné izolace, neboť samotný CLT panel o tloušťce 100 mm má součinitel prostupu tepla U = 0,6 W/m²K, což nevyhovuje současným normovým požadavkům pro obvodové stěny. Je proto nutné přidat externí vrstvu izolace z dřevovláknitých desek, minerální vlny nebo jiného izolačního materiálu o tloušťce 60 až 100 mm, což zvyšuje celkovou tloušťku stěny a náklady.
+Nevýhodou CLT panelů je jejich velmi vysoká cena, která se pohybuje mezi 10 000 až 18 000 korunami za metr krychlový panelu v závislosti na tloušťce, druhu dřeva a kvalitě opracování (ceny k listopadu 2025). To představuje nárůst celkových nákladů na hrubou stavbu o 80 až 120 procent oproti rámové konstrukci. Další nevýhodou je nutnost dodatečné externí tepelné izolace, neboť samotný CLT panel o tloušťce 100 mm má součinitel prostupu tepla U = 0,6 W/m²K, což nevyhovuje současným normovým požadavkům pro obvodové stěny. Je proto nutné přidat externí vrstvu izolace z dřevovláknitých desek, minerální vlny nebo jiného izolačního materiálu o tloušťce 60 až 100 mm, což zvyšuje celkovou tloušťku stěny a náklady.
 
 Dodací lhůty CLT panelů se pohybují mezi třemi až šesti měsíci od objednávky, neboť výrobci CLT panelů jsou v současnosti vytíženi poptávkou a kapacity výroby jsou omezené. Hmotnost CLT panelů vyžaduje použití jeřábu nebo jiného zvedacího zařízení pro montáž, což zvyšuje náklady a komplikuje montáž na obtížně přístupných pozemcích.
 
-CLT panely jsou vhodné pro prémiové mobilní domy s důrazem na ekologii, design a vysokou kvalitu vnitřního prostředí. Celkové náklady na hrubou stavbu mobilního domu z CLT panelů včetně dodatečné izolace se pohybují mezi 20 000 až 35 000 korunami za metr čtvereční zastavěné plochy.
+CLT panely jsou vhodné pro prémiové mobilní domy s důrazem na ekologii, design a vysokou kvalitu vnitřního prostředí. Celkové náklady na hrubou stavbu mobilního domu z CLT panelů včetně dodatečné izolace se pohybují mezi 24 000 až 42 000 korunami za metr čtvereční zastavěné plochy (ceny aktualizovány k listopadu 2025).
 
 ---
 
@@ -120,15 +120,15 @@ Výhodou SIP panelů je jejich kombinace nosné funkce a tepelné izolace v jedn
 
 Nevýhodou SIP panelů je hořlavost expandovaného polystyrenu, který je klasifikován do třídy reakce na oheň E, tedy hořlavý materiál přispívající k šíření požáru. Při hoření polystyrénu vznikají toxické plyny včetně styrenu a oxidu uhelnatého nebezpečné pro zdraví. Z ekologického hlediska je polystyrén problematický, neboť se vyrábí z ropy a jeho likvidace na konci životnosti stavby je náročná. Spoje mezi panely vyžadují pečlivé dotěsnění polyuretanovou pěnou, aby nedocházelo k únikům tepla a pronikání vzduchu.
 
-Cena SIP panelů se pohybuje mezi 900 až 1 400 korunami za metr čtvereční v závislosti na tloušťce a kvalitě OSB desek. Celkové náklady na hrubou stavbu mobilního domu z SIP panelů včetně montáže se pohybují mezi 11 000 až 16 000 korunami za metr čtvereční zastavěné plochy.
+Cena SIP panelů se pohybuje mezi 1 100 až 1 700 korunami za metr čtvereční v závislosti na tloušťce a kvalitě OSB desek (ceny k listopadu 2025). Celkové náklady na hrubou stavbu mobilního domu z SIP panelů včetně montáže se pohybují mezi 13 000 až 19 000 korunami za metr čtvereční zastavěné plochy (ceny aktualizovány k listopadu 2025).
 
 ---
 
 ## Srovnání konstrukčních systémů a volba podle účelu
 
-Každý konstrukční systém má své specifické výhody i nevýhody a hodí se pro jiné využití a požadavky investora. Pro rekreační mobilní dům určený k víkendovému využití je nejvhodnější volbou rámová konstrukce nebo SIP panely, které nabízejí nízkou pořizovací cenu mezi 8 000 až 12 000 korunami za metr čtvereční, dostatečnou tepelnou izolaci pro občasné topení a možnost výstavby svépomocí pro zkušené stavitele. Pro celoroční bydlení s trvalým pobytem jsou vhodnější sendvičové panely s minerální vlnou nebo rámová konstrukce s extra izolací o tloušťce 180 až 200 mm, které poskytují výbornou tepelnou izolaci s součinitelem prostupu tepla U pod 0,20 W/m²K a nízké náklady na vytápění. Celková cena se pohybuje mezi 12 000 až 18 000 korunami za metr čtvereční.
+Každý konstrukční systém má své specifické výhody i nevýhody a hodí se pro jiné využití a požadavky investora. Pro rekreační mobilní dům určený k víkendovému využití je nejvhodnější volbou rámová konstrukce nebo SIP panely, které nabízejí nízkou pořizovací cenu mezi 10 000 až 16 000 korunami za metr čtvereční (ceny k listopadu 2025), dostatečnou tepelnou izolaci pro občasné topení a možnost výstavby svépomocí pro zkušené stavitele. Pro celoroční bydlení s trvalým pobytem jsou vhodnější sendvičové panely s minerální vlnou nebo rámová konstrukce s extra izolací o tloušťce 180 až 200 mm, které poskytují výbornou tepelnou izolaci s součinitelem prostupu tepla U pod 0,20 W/m²K a nízké náklady na vytápění. Celková cena se pohybuje mezi 14 000 až 22 000 korunami za metr čtvereční (ceny aktualizovány k listopadu 2025).
 
-Pro designové nebo prémiové mobilní domy s důrazem na ekologii a estetiku jsou nejvhodnější CLT panely, které nabízejí přirozenou krásu masivního dřeva, vysokou tepelnou akumulaci stabilizující vnitřní teplotu a prestižní charakter odpovídající náročným klientům. Cena se pohybuje mezi 20 000 až 35 000 korunami za metr čtvereční. Pro modulární nebo dočasné mobilní domy, které mají být snadno přemístitelné nebo rozšiřitelné, je nejvhodnější kontejnerová konstrukce, která umožňuje rychlou montáž, demontáž a transport standardními přepravními prostředky. Cena se pohybuje mezi 10 000 až 16 000 korunami za metr čtvereční.
+Pro designové nebo prémiové mobilní domy s důrazem na ekologii a estetiku jsou nejvhodnější CLT panely, které nabízejí přirozenou krásu masivního dřeva, vysokou tepelnou akumulaci stabilizující vnitřní teplotu a prestižní charakter odpovídající náročným klientům. Cena se pohybuje mezi 24 000 až 42 000 korunami za metr čtvereční (ceny k listopadu 2025). Pro modulární nebo dočasné mobilní domy, které mají být snadno přemístitelné nebo rozšiřitelné, je nejvhodnější kontejnerová konstrukce, která umožňuje rychlou montáž, demontáž a transport standardními přepravními prostředky. Cena se pohybuje mezi 12 000 až 20 000 korunami za metr čtvereční (ceny aktualizovány k listopadu 2025).
 
 ---
 
@@ -149,6 +149,6 @@ Investor by měl při rozhodování zohlednit nejen pořizovací náklady, ale t
 
 ---
 
-**Zpracováno:** 27. října 2025
+**Zpracováno:** 16. listopadu 2025
 **Autor:** Mobilheim Wiki
 **Zdroje:** ČSN normy, odborná literatura, výrobci mobilních domů, technické specifikace materiálů

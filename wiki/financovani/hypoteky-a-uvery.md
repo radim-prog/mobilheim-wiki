@@ -14,7 +14,7 @@ V následujícím textu podrobně probereme všechny dostupné možnosti financo
 
 Hypotéka je tradičně nejlevnější formou úvěrového financování nemovitostí, protože je zajištěna zástavním právem k nemovitosti. V případě, že byste přestali splácet, banka může nemovitost prodat a z výtěže uhradit svou pohledávku. Díky tomuto zajištění může banka nabídnout nižší úrokovou sazbu než u nezajištěných úvěrů, jako je spotřebitelský úvěr.
 
-**Aktuální úrokové sazby v roce 2025:** Průměrná úroková sazba nových hypoték v České republice činila v květnu 2025 přesně 4,60 % ročně, což představuje pokles oproti 4,65 % v dubnu 2025 a výrazný pokles oproti 5,41 % v lednu 2025.[1] Nejnižší nabídky od některých bank začínají již na 3,99 % ročně při splnění výhodných podmínek, jako je vysoký vlastní vklad (30 % a více), dlouhodobá fixace úrokové sazby (5 až 10 let) a výborná bonita žadatele. Naopak u méně výhodných parametrů se sazby pohybují kolem 5,5 až 6 % ročně.
+**Aktuální úrokové sazby v roce 2025:** Průměrná úroková sazba nových hypoték v České republice činila v říjnu 2025 pod 4,50 % ročně, což představuje pokles oproti 4,65 % v dubnu 2025 a výrazný pokles oproti 5,41 % v lednu 2025.[1] Nejnižší nabídky od některých bank začínají již na 3,99 % ročně při splnění výhodných podmínek, jako je vysoký vlastní vklad (30 % a více), dlouhodobá fixace úrokové sazby (5 až 10 let) a výborná bonita žadatele. Naopak u méně výhodných parametrů se sazby pohybují kolem 5,5 až 6 % ročně.
 
 **Hlavní výhody hypotéky:**
 - **Nejnižší úroková sazba** ze všech forem financování – při sazbě 4,6 % a částce 2 miliony korun na 25 let zaplatíte měsíčně přibližně 11 500 korun
@@ -768,16 +768,16 @@ Pokud přestanete splácet hypotéku, spotřebitelský úvěr nebo leasing, vě�
 
 ## Zákony a předpisy týkající se financování nemovitostí
 
-### Zákon č. 145/2010 Sb., o spotřebitelském úvěru
+### Zákon č. 257/2016 Sb., o spotřebitelském úvěru
 
-Tento zákon upravuje podmínky poskytování spotřebitelských úvěrů spotřebitelům (fyzickým osobám) a stanovuje povinnosti věřitelů (bank a nebankovních poskytovatelů).
+Tento zákon (který nahradil původní zákon č. 145/2010 Sb. od 1. 12. 2016) upravuje podmínky poskytování spotřebitelských úvěrů spotřebitelům (fyzickým osobám) a stanovuje povinnosti věřitelů (bank a nebankovních poskytovatelů).
 
 **Klíčová ustanovení:**
 - **§ 9 – Informační povinnost před uzavřením smlouvy:** Věřitel musí spotřebiteli před uzavřením smlouvy poskytnout Standardní evropský informační formulář (SEIF) s klíčovými informacemi o úvěru včetně RPSN (roční procentní sazba nákladů)
 - **§ 11 – Právo na předčasné splacení:** Spotřebitel má právo kdykoliv předčasně splatit úvěr, věřitel může účtovat sankci maximálně 1 % z předčasně splacené částky (pokud zbývá více než 1 rok) nebo 0,5 % (pokud zbývá méně než 1 rok)[10]
 - **§ 14 – Obsah smlouvy:** Smlouva musí obsahovat RPSN, výši úvěru, dobu trvání, výši splátek, úrokovou sazbu a další podmínky
 
-**Plné znění zákona:** [Zákon č. 145/2010 Sb. na Zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2010-145)
+**Plné znění zákona:** [Zákon č. 257/2016 Sb. na Zakonyprolidi.cz](https://www.zakonyprolidi.cz/cs/2016-257)
 
 ### Zákon č. 89/2012 Sb., občanský zákoník – ustanovení o úvěrových smlouvách
 
@@ -827,47 +827,47 @@ Občanský zákoník upravuje obecná pravidla pro uzavírání smluv včetně �
 
 ## Reference a zdroje
 
-[1] Česká bankovní asociace. "CBA Hypomonitor: Průměrná úroková sazba hypotek klesla na 4,6 %." Květen 2025.
+[1] Česká bankovní asociace. "CBA Hypomonitor: Průměrná úroková sazba hypotek klesla na 4,6 %." Říjen 2025.
 URL: https://www.cbamonitor.cz/actuality/cba-hypomonitor-flower-2025-larger-volume-hypothecary-setting-dropped-to-460
-Naposledy přístupné: 9. listopadu 2025
+Naposledy přístupné: 16. listopadu 2025
 
-[2] Česká bankovní asociace. "CBA Hypomonitor: Průměrná výše hypotéky vzrostla na 4,14 milionu Kč." Květen 2025.
+[2] Česká bankovní asociace. "CBA Hypomonitor: Průměrná výše hypotéky vzrostla na 4,14 milionu Kč." Říjen 2025.
 URL: https://www.cbamonitor.cz
-Naposledy přístupné: 9. listopadu 2025
+Naposledy přístupné: 16. listopadu 2025
 
 [3] Finance.cz. "Hypoteční banka nově nabízí hypotéky i na mobilní domy." 2019.
 URL: https://www.finance.cz/527169-hypoteka-na-mobilni-domy/
-Naposledy přístupné: 9. listopadu 2025
+Naposledy přístupné: 16. listopadu 2025
 
 [4] Česká národní banka. "Requirements for LTV, DSTI and DTI limits." Aktualizováno 2025.
 URL: https://www.cnb.cz/en/financial-stability/macroprudential-policy/requirements-for-ltv-dsti-and-dti-limits/
-Naposledy přístupné: 9. listopadu 2025
+Naposledy přístupné: 16. listopadu 2025
 
 [5] Air Bank. "Půjčka online se sazbou už od 4,4 %." Duben 2025.
 URL: https://www.airbank.cz/produkty/pujcka/
-Naposledy přístupné: 9. listopadu 2025
+Naposledy přístupné: 16. listopadu 2025
 
 [6] Raiffeisenbank (Equa Bank). "Minutová půjčka." 2025.
 URL: https://www.rb.cz (podmínky individuální)
-Naposledy přístupné: 9. listopadu 2025
+Naposledy přístupné: 16. listopadu 2025
 
 [7] Modrá pyramida (Komerční banka). "Stavební spoření s úrokovou sazbou 3 % ročně." 2025.
 URL: https://www.kb.cz/cs/modra-pyramida/podpora/vse-o-stavebnim-sporeni
-Naposledy přístupné: 9. listopadu 2025
+Naposledy přístupné: 16. listopadu 2025
 
 [8] Zákon č. 183/2006 Sb., stavební zákon, § 122 – Kolaudační řízení.
 Ministerstvo pro místní rozvoj ČR
 URL: https://www.zakonyprolidi.cz/cs/2006-183
-Naposledy přístupné: 9. listopadu 2025
+Naposledy přístupné: 16. listopadu 2025
 
 [9] Hypotecnispecialista.cz. "Mobilheimy 2025 – postup, podmínky, stavební povolení, financování."
 URL: https://www.hypotecnispecialista.cz/mobilheimy/
-Naposledy přístupné: 9. listopadu 2025
+Naposledy přístupné: 16. listopadu 2025
 
 [10] Zákon č. 145/2010 Sb., o spotřebitelském úvěru, § 11 – Právo na předčasné splacení.
 Ministerstvo financí ČR
 URL: https://www.zakonyprolidi.cz/cs/2010-145
-Naposledy přístupné: 9. listopadu 2025
+Naposledy přístupné: 16. listopadu 2025
 
 ---
 

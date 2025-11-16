@@ -4,7 +4,7 @@ Stropy a podhled v mobilních domech jsou konstrukční systémy tvořící horn
 
 Specifika konstrukce stropů v mobilních domech vyplývají z jejich prefabrikované povahy a nutnosti dopravy na místo určení. Na rozdíl od klasických zděných domů, kde se stropy betonují nebo montují na místě stavby z těžkých prefabrikovaných panelů, stropy mobilních domů se kompletně vyrábějí v továrně jako součást modulů a musí vydržet transport po silnici. To klade mimořádné nároky na pevnost konstrukce při minimální hmotnosti. Moderní mobilní domy využívají pokročilé technologie lehkých stropních trámů, vysoce účinných izolačních materiálů a konstrukčních řešení odvozených ze stavby dřevostaveb a pasivních domů. Výsledkem je stropní systém, který při hmotnosti často nižší než 25 kg/m² dosahuje tepelně-izolačních parametrů srovnatelných nebo lepších než klasické cihelné domy s dvojnásobnou tloušťkou konstrukce.[2]
 
-Z hlediska právního a normativního rámce musí stropy mobilních domů splňovat požadavky českých technických norem, zejména ČSN 73 4301, která stanovuje minimální světlou výšku místností 2,6 m (s výjimkou podkrovních prostor, kde je přípustná částečná redukce).[3] Tepelná ochrana se řídí normou ČSN 73 0540, jež vyžaduje pro střechy a stropy pod nevytápěným prostorem součinitel prostupu tepla U ≤ 0,24 W/(m²·K) pro splnění základních požadavků, přičemž doporučená hodnota pro nízkoenergetické a pasivní mobilní domy je U ≤ 0,15 W/(m²·K).[4] Akustické vlastnosti stropů mezi podlažími se řídí normou ČSN 73 0532, která stanovuje minimální vzduchovou neprůzvučnost Rw ≥ 52 dB a maximální normalizovanou hladinu kročejového hluku Ln,w ≤ 58 dB pro oddělení pobytových místností.[5]
+Z hlediska právního a normativního rámce musí stropy mobilních domů splňovat požadavky českých technických norem, zejména ČSN 73 4301, která stanovuje minimální světlou výšku místností 2,6 m (s výjimkou podkrovních prostor, kde je přípustná částečná redukce).[3] Tepelná ochrana se řídí normou ČSN 73 0540-2, jež vyžaduje pro střechy součinitel prostupu tepla U ≤ 0,24 W/(m²·K) a pro stropy pod nevytápěnou půdou U ≤ 0,30 W/(m²·K) pro splnění základních požadavků, přičemž doporučené hodnoty jsou U ≤ 0,16 W/(m²·K) pro střechy a U ≤ 0,20 W/(m²·K) pro stropy.[4] Akustické vlastnosti stropů mezi podlažími se řídí normou ČSN 73 0532, která stanovuje minimální vzduchovou neprůzvučnost Rw ≥ 52 dB a maximální normalizovanou hladinu kročejového hluku Ln,w ≤ 58 dB pro oddělení pobytových místností.[5]
 
 Ekonomická stránka stropních konstrukcí mobilních domů je významným faktorem při celkových nákladech na výrobu i následný provoz. Materiálové náklady na 1 m² stropu se pohybují v rozmezí 250 až 400 Kč v závislosti na typu konstrukce, použitých materiálech a požadované úrovni izolace.[6] Kompletní strop mobilního domu o podlahové ploše 50 m² tedy vyjde na materiálových nákladech 12 500 až 20 000 Kč, přičemž do této částky není zahrnut podhled, který může přidat dalších 100 až 250 Kč/m² podle zvoleného materiálu. Z dlouhodobého hlediska však kvalitní strop s vynikající tepelnou izolací představuje jednu z nejvýhodnějších investic - podle výpočtů může správně zateplený strop ušetřit až 25 až 30 % nákladů na vytápění, což při průměrných ročních nákladech na vytápění mobilního domu 20 000 až 40 000 Kč znamená úsporu 5 000 až 12 000 Kč ročně.[7]
 
@@ -48,7 +48,7 @@ SDK desky se vyrábějí v několika variantách: standardní bílá SDK pro bě
 
 Hlavní výhodou je rychlost montáže - desky se přišroubovávají samorezními šrouby přímo k dřevěné konstrukci stropu v osových vzdálenostech 250 až 300 mm.[22] Spáry se vyztužují papírovou páskou a přetmelují sádrovým tmelem. SDK desky také poskytují vynikající požární ochranu - standardní SDK deska tloušťky 12,5 mm zajišťuje požární odolnost EI 30.[23]
 
-Cena SDK desek se pohybuje kolem 90 až 150 Kč/m² podle typu a tloušťky, k tomu je třeba přičíst spojovací materiál (cca 30 až 50 Kč/m²), takže celkové náklady činí 120 až 200 Kč/m².[24]
+Cena SDK desek se pohybuje kolem 78 až 150 Kč/m² podle typu a tloušťky (základní KNAUF GKB 12,5mm: 78-92 Kč/m²), k tomu je třeba přičíst spojovací materiál (cca 30 až 50 Kč/m²), takže celkové náklady činí 108 až 200 Kč/m².[24]
 
 ### OSB desky
 
@@ -56,7 +56,7 @@ OSB desky jsou vyrobeny z oriented strand board - tenké dřevěné třísky sli
 
 Hlavní výhodou je vysoká pevnost a tuhost, které umožňují použít desku zároveň jako nosný prvek i podhled. OSB deska tloušťky 15 mm má hmotnost přibližně 10 kg/m² a ohybovou pevnost přesahující 18 MPa.[26] Cena je 150 až 250 Kč/m²,[27] což je srovnatelné s SDK.
 
-OSB má dobré akustické vlastnosti díky heterogenní struktuře a je ekologicky zajímavá, protože využívá dřevní odpad s formaldehyd-free lepidly splňující emisní limity E1 nebo E0.[28] Nevýhodou je specifický rustikální vzhled a náchylnost k bobtnání při dlouhodobé expozici vlhkosti. Z hlediska požární bezpečnosti je OSB hořlavý materiál třídy E.[29]
+OSB má dobré akustické vlastnosti díky heterogenní struktuře a je ekologicky zajímavá, protože využívá dřevní odpad s formaldehyd-free lepidly splňující emisní limity E1 nebo E0.[28] Cena OSB/3 desek 15mm je aktuálně 200-205 Kč/m² (Hornbach: 204 Kč/m²).[27] Nevýhodou je specifický rustikální vzhled a náchylnost k bobtnání při dlouhodobé expozici vlhkosti. Z hlediska požární bezpečnosti je OSB hořlavý materiál třídy E.[29]
 
 ### Dřevěné palubky a lambrie
 
@@ -64,7 +64,7 @@ Tradičním materiálem jsou dřevěné palubky z masivního dřeva (smrk, borov
 
 Hlavní výhodou je estetická hodnota a schopnost regulovat vlhkost vzduchu - dřevo absorbuje vodní páru při vysoké vlhkosti a uvolňuje ji při nízké, což přispívá ke stabilní relativní vlhkosti 45 až 55 %.[31] Dřevěné podhled y v alpských chatách slouží i více než 100 let.[32]
 
-Cena kvalitních smrkových palubek je 200 až 350 Kč/m², borovicových lambrie 250 až 400 Kč/m².[33] Nevýhodou je nutnost pravidelné údržby - ochranné nátěry je třeba obnovovat každých 5 až 7 let. Dřevo je hořlavý materiál (třída D nebo E).
+Cena kvalitních smrkových palubek je 195 až 350 Kč/m² bez DPH (234-420 Kč/m² s DPH), borovicových lambrie 250 až 400 Kč/m² bez DPH.[33] Nevýhodou je nutnost pravidelné údržby - ochranné nátěry je třeba obnovovat každých 5 až 7 let. Dřevo je hořlavý materiál (třída D nebo E).
 
 ## Tepelná izolace stropů
 
@@ -90,7 +90,7 @@ Tato skladba s 200 mm minerální vaty splňuje doporučení pro nízkoenergetic
 
 ### Typy izolačních materiálů
 
-**Minerální vata (skelná nebo kamenná)** má tepelnou vodivost λ = 0,033 až 0,040 W/(m·K).[36] Vyrábí se jako měkké role, tužší desky nebo vysoce stabilní lamelové desky. Hlavní výhodou je negořlavost (třída A1 nebo A2) a výborná akustická izolace. Cena: 160 až 300 Kč/m² pro tloušťku 200 mm.[37]
+**Minerální vata (skelná nebo kamenná)** má tepelnou vodivost λ = 0,033 až 0,040 W/(m·K).[36] Vyrábí se jako měkké role, tužší desky nebo vysoce stabilní lamelové desky. Hlavní výhodou je negořlavost (třída A1 nebo A2) a výborná akustická izolace. Cena: 350 Kč a více za m² pro tloušťku 200 mm (ISOVER Orsik 200mm: od 350 Kč/m²).[37]
 
 Nevýhodou je citlivost na vlhkost - je nutné chránit minerální vatu parozábranou ze strany interiéru a difuzní fólií ze strany exteriéru.
 
@@ -128,14 +128,14 @@ Tato skladba dosahuje Rw ≈ 57 dB a Ln,w ≈ 52 dB.[49]
 
 ## Výška a světlá výška stropu
 
-ČSN 73 4301 stanovuje minimální světlou výšku 2,6 m pro obytné místnosti.[3] Moderní mobilní domy obvykle nabízejí 2,65 až 2,75 m v přízemí. Pro podkrovní místnosti je přípustná redukce, pokud alespoň 50 % plochy má výšku minimálně 2,3 m.[3] Pro vedlejší místnosti (koupelny, WC) je minimální výška 2,3 m.[3]
+ČSN 73 4301 stanovuje minimální světlou výšku 2,6 m pro byty a 2,5 m pro rodinné domy v obytných místnostech.[3] Moderní mobilní domy obvykle nabízejí 2,65 až 2,75 m v přízemí. Pro podkrovní místnosti je přípustná redukce, pokud alespoň 50 % plochy má výšku minimálně 2,3 m.[3] Pro vedlejší místnosti (koupelny, WC) je minimální výška 2,3 m.[3]
 
 Celková konstrukční výška standardního mobilního domu je 2,85 až 3,00 m pro přízemí. Rozpočet:
 - Podlaha: 180-240 mm (konstrukce + OSB + krytina)
 - Světlá výška: 2,66-2,72 m
 - Strop: 270-340 mm (podhled + konstrukce + izolace + střecha)
 
-Výzkumy ukazují, že výška místností má vliv na emocionální stav - místnosti s vyšším stropem (2,7 m+) vyvolávají pocit svobody a kreativity, zatímco nízké stropy (2,4 m) mohou vyvolávat úzkost.[50] Z hlediska kvality vzduchu vyžaduje vyhláška č. 268/2009 Sb. minimálně 15 m³ vzduchu na osobu.[51]
+Výzkumy ukazují, že výška místností má vliv na emocionální stav - místnosti s vyšším stropem (2,7 m+) vyvolávají pocit svobody a kreativity, zatímco nízké stropy (2,4 m) mohou vyvolávat úzkost.[50] Z hlediska kvality vzduchu vyžaduje vyhláška č. 283/2021 Sb. (která nahradila vyhlášku č. 268/2009 Sb. k 1.1.2024) minimální množství vyměňovaného venkovního vzduchu 25 m³/h na osobu nebo minimální intenzitu větrání 0,5 1/h podle § 11 odst. 5.[51]
 
 ## Dodavatelé a ceny v České republice
 
@@ -156,9 +156,9 @@ Výrobci: WOOD SERVIS, STORA ROOF, BEST Bohemia, SWS Šumperk.[53]
 ### Izolační materiály
 
 **Minerální vata:**
-- ISOVER Orsik 200 mm: 160-200 Kč/m²
-- ROCKWOOL Airrock 200 mm: 200-250 Kč/m²
-- KNAUF Insulation 200 mm: 180-220 Kč/m²
+- ISOVER Orsik 200 mm: od 350 Kč/m²
+- ROCKWOOL Airrock 200 mm: 350-450 Kč/m²
+- KNAUF Insulation 200 mm: 320-400 Kč/m²
 
 **PIR desky:**
 - KINGSPAN Therma 150 mm: 450-550 Kč/m²
@@ -176,19 +176,19 @@ Dodavatelé: Hornbach, OBI, Bauhaus, DEKTRADE, IZOLACE.CZ.[54]
 ### Podhledové materiály
 
 **SDK desky:**
-- KNAUF standardní 12,5 mm: 90-110 Kč/m²
-- KNAUF impregnovaná 12,5 mm: 110-130 Kč/m²
-- RIGIPS Fire 12,5 mm: 120-150 Kč/m²
+- KNAUF standardní 12,5 mm: 78-110 Kč/m²
+- KNAUF impregnovaná 12,5 mm: 110-140 Kč/m²
+- RIGIPS Fire 12,5 mm: 120-160 Kč/m²
 - Kompletní systém včetně šroubů a tmelu: +30-50 Kč/m²
 
 **OSB desky:**
-- OSB/3 15 mm: 180-220 Kč/m²
-- OSB/3 18 mm: 200-250 Kč/m²
+- OSB/3 15 mm: 200-220 Kč/m²
+- OSB/3 18 mm: 220-270 Kč/m²
 
 **Dřevěné palubky:**
-- Smrkové palubky 12 mm: 200-300 Kč/m²
-- Borovicové lambrie 15 mm: 250-350 Kč/m²
-- Modřínové palubky 15 mm: 400-600 Kč/m²
+- Smrkové palubky 12-19 mm: 234-420 Kč/m² s DPH (195-350 Kč/m² bez DPH)
+- Borovicové lambrie 15 mm: 300-480 Kč/m² s DPH
+- Modřínové palubky 15 mm: 480-720 Kč/m² s DPH
 
 Dodavatelé: všechny větší stavební bazary, SDK centrum, KRONOSPAN.[55]
 
@@ -332,7 +332,7 @@ Pravidelná kontrola minimálně dvakrát ročně zahrnuje:
 
 [50] VISCHER, Jacqueline C. "Effects of physical environment on job performance." Stress and Health, Vol. 23 (2007): 175-184. DOI: 10.1002/smi.1134
 
-[51] Vyhláška č. 268/2009 Sb. o technických požadavcích na stavby. MMR ČR. § 3 odst. 2.
+[51] Vyhláška č. 283/2021 Sb. o technických požadavcích na stavby (nahradila vyhlášku č. 268/2009 Sb. k 1.1.2024). MMR ČR. § 11 odst. 5.
 
 [52] Ceník konstrukční řezivo. MAGNUM, WOOD SERVIS, 1. 1. 2025.
 
@@ -346,7 +346,7 @@ Pravidelná kontrola minimálně dvakrát ročně zahrnuje:
 
 ---
 
-**Poslední aktualizace:** 9. listopadu 2025
+**Poslední aktualizace:** 16. listopadu 2025
 **Autor:** Redakce Mobilheim Wiki
 **Další revize plánována:** Listopad 2026
 

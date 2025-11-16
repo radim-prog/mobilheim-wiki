@@ -12,7 +12,7 @@ Při výběru materiálů pro stavbu mobilního domu hraje roli několik faktor�
 
 Za druhé, **odolnost proti vibracím** - během přepravy po silnici je konstrukce vystavena neustálým otřesům a vibracím, které by u klasické cihlové stavby způsobily praskliny. Materiály musí být pružné a zároveň pevné, což opět hovoří pro dřevo a ocel před křehkými materiály. Za třetí, **rychlost montáže** - zatímco klasický dům se staví měsíce až roky, mobilní dům by měl být hotový za 2-3 měsíce. To vyžaduje prefabrikované komponenty, které se dají rychle smontovat bez dlouhého schnoucího betonu nebo malty.
 
-Za čtvrté, **tepelná izolace** - protože mobilní domy mají obvykle tenčí stěny než klasické domy (typicky 15-25 cm oproti 30-45 cm), musí být materiály extrémně účinné v zateplení. Moderní mobilní domy musí splňovat stejné požadavky na součinitel prostupu tepla (hodnotu U) jako novostavby, tedy maximálně 0,20-0,30 W/(m²·K) pro obvodové stěny podle ČSN 73 0540. To znamená, že nestačí jen levná minerální vlna - potřebujete špičkové izolační materiály jako polyuretan nebo polystyren s uzavřenými póry.
+Za čtvrté, **tepelná izolace** - protože mobilní domy mají obvykle tenčí stěny než klasické domy (typicky 15-25 cm oproti 30-45 cm), musí být materiály extrémně účinné v zateplení. Moderní mobilní domy musí splňovat stejné požadavky na součinitel prostupu tepla (hodnotu U) jako novostavby, tedy maximálně 0,20-0,30 W/(m²·K) pro obvodové stěny podle ČSN 73 0540-2:2025. To znamená, že nestačí jen levná minerální vlna - potřebujete špičkové izolační materiály jako polyuretan nebo polystyren s uzavřenými póry.
 
 A konečně, **cena a dostupnost** - zatímco při stavbě klasického domu můžete čekat několik týdnů na dodání speciálních materiálů, u mobilního domu chcete mít hotovo rychle. Proto se preferují standardizované materiály dostupné od běžných českých dodavatelů. Zároveň musí být cena rozumná, protože mobilní domy jsou často voleny jako cenově dostupnější alternativa ke klasickému bydlení.
 
@@ -375,8 +375,8 @@ Definuje třídy ochrany dřeva proti biologickým škůdcům podle míry vystav
 Dostupné z: https://www.cnni.cz
 Evropská norma pro OSB desky, definuje třídy OSB/2, OSB/3, OSB/4.
 
-[4] ČSN 73 0540 - Tepelná ochrana budov. Část 2: Požadavky. Praha: Český normalizační institut, 2011.
-Dostupné z: https://www.cnni.cz
+[4] ČSN 73 0540-2 - Tepelná ochrana budov. Část 2: Požadavky. Praha: Český normalizační institut, 2025.
+Dostupné z: https://www.technicke-normy-csn.cz
 Česká norma stanovující maximální hodnoty součinitele prostupu tepla U pro obvodové stěny, střechy, podlahy.
 
 [5] ČSN EN 13501-1 - Požární klasifikace stavebních výrobků a konstrukcí staveb. Část 1: Klasifikace podle výsledků zkoušek reakce na oheň. Praha: Český normalizační institut, 2019.
@@ -421,11 +421,11 @@ URL: https://pacificmobile.com/modular-construction/10-sustainable-materials-for
 Dostupné: 9. listopadu 2025
 Přehled ekologických materiálů pro modulární stavby včetně mobilních domů.
 
-[14] Ceníky stavebních materiálů - průměrné ceny z dodavatelů v ČR (Hornbach, Bauhaus, OBI, DEK Trade) za období leden-říjen 2025. Ceny ověřeny 9. listopadu 2025.
+[14] Ceníky stavebních materiálů - průměrné ceny z dodavatelů v ČR (Hornbach, Bauhaus, OBI, DEK Trade) za období leden-listopad 2025. Ceny ověřeny 16. listopadu 2025.
 
 ---
 
-**Poslední aktualizace:** 9. listopadu 2025
+**Poslední aktualizace:** 16. listopadu 2025
 **Autor:** Mobilheim Wiki
 **Kontroloval:** Odborný redaktor pro stavební materiály
 **Další revize plánována:** Listopad 2026

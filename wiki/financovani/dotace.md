@@ -12,7 +12,7 @@ Před zahájením jakéhokoli opatření je nezbytné důkladně prostudovat akt
 
 Majitelé kolaudovaných mobilních domů zapsaných v katastru nemovitostí jako stavba mohou v roce 2025 využít několik významných dotačních programů. Hlavním pilířem je program Nová zelená úsporám, který od února 2025 nabízí dva podprogramy: Nová zelená úsporám Light pro dílčí renovace a opatření (například instalace fotovoltaiky nebo tepelného čerpadla), a Oprav dům po babičce pro komplexní energetické renovace starších budov postavených před rokem 2013.
 
-Další možností je dotace na domovní čistírny odpadních vod, kterou poskytuje Státní fond životního prostředí ČR prostřednictvím obcí. Tato dotace je určena pro oblasti, kde není technicky nebo ekonomicky proveditelné připojení k veřejné kanalizaci. Kromě těchto přímých dotací mohou mladé rodiny a jednotlivci do 36 let využít zvýhodněné úvěry od Státního fondu rozvoje bydlení s úrokovými sazbami od 1,45 % ročně.
+Další možností je dotace na domovní čistírny odpadních vod, kterou poskytuje Státní fond životního prostředí ČR prostřednictvím obcí. Tato dotace je určena pro oblasti, kde není technicky nebo ekonomicky proveditelné připojení k veřejné kanalizaci. Dříve dostupné zvýhodněné úvěry pro mladé rodiny od Státního fondu rozvoje bydlení byly ukončeny k 31. 12. 2023 a dosud nebyly nahrazeny žádným ekvivalentním programem.
 
 Pro orientaci v dostupných dotacích je užitečné vědět, že Nová zelená úsporám preferuje kombinaci více opatření najednou – pokud například instalujete fotovoltaiku a zároveň vyměníte zdroj vytápění za tepelné čerpadlo, získáte kromě základních dotací také kombinační bonus až 100 000 Kč. Podobně fungují bonusy pro rodiny s dětmi (50 000 Kč na každé nezaopatřené dítě v programu Oprav dům po babičce) nebo pro žadatele z hospodářsky či sociálně ohrožených oblastí.
 
@@ -266,9 +266,9 @@ Obce mohou podávat žádosti od 14. března 2025 až do 6. ledna 2027, nebo do 
 
 Pořizovací náklady na domovní čistírnu odpadních vod pro rodinný dům (4–5 EO) se pohybují v rozmezí 100 000 až 200 000 Kč včetně instalace a přípojek. Dotace 150 000 Kč tedy pokryje 75–100 % nákladů, což dělá z tohoto opatření velmi výhodnou investici. Provozní náklady čistírny jsou nízké – pravidelný servis stojí 2 000–4 000 Kč ročně, spotřeba elektřiny pro provoz čerpadel a dmychadel přibližně 500–1 000 Kč ročně. Oproti platbám za svoz žumpy (10 000–20 000 Kč ročně) se investice do čistírny vrátí během 3–5 let.
 
-## ⚠️ Podpora bydlení pro mladé rodiny – AKTUALIZACE LISTOPAD 2025
+## ❌ Podpora bydlení pro mladé rodiny – PROGRAMY UKONČENY
 
-**DŮLEŽITÉ UPOZORNĚNÍ:** Státní fond rozvoje bydlení (SFRB) byl k 1. lednu 2024 transformován na **Státní fond pro podporu investic (SFPI)**. Následující dotační programy byly **UKONČENY v roce 2023** a již nejsou dostupné:
+**KRITICKÉ UPOZORNĚNÍ:** Státní fond rozvoje bydlení (SFRB) byl k 1. lednu 2024 transformován na **Státní fond pro podporu investic (SFPI)**. Následující dotační programy byly **UKONČENY k 31. prosinci 2023** a již NEJSOU dostupné:
 
 - ❌ **Program pro mladé** – ukončen 31. prosince 2023
 - ❌ **Úvěr na modernizaci bydlení** – ukončen 31. prosince 2023

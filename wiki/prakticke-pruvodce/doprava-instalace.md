@@ -8,7 +8,7 @@ Proces dopravy a instalace se výrazně liší podle typu mobilního domu, konkr
 
 Právní úprava dopravy mobilních domů vychází především ze zákona č. 361/2000 Sb., o provozu na pozemních komunikacích, a zákona č. 13/1997 Sb., o pozemních komunikacích, které stanovují podmínky pro přepravu nadrozměrných a nadměrných nákladů.[4] Instalace mobilního domu na pozemek pak podléhá stavebnímu zákonu č. 283/2021 Sb., který nabyl účinnosti 1. července 2024 a přinesl významné změny v regulaci mobilních domů.[5] Podle nové legislativy se za stavbu považuje i mobilní dům, který ztratil svou mobilitu tím, že byl umístěn na trvalé základy a napojen na inženýrské sítě. V tomto případě již nejde o dočasné umístění vozidla, ale o trvalou stavbu vyžadující příslušná povolení.
 
-Cílem tohoto článku je poskytnout komplexní přehled celého procesu dopravy a instalace mobilních domů v České republice, včetně aktuálních cen za rok 2024-2025, právních požadavků, praktických tipů a varování před nejčastějšími chybami. Článek je určen především lidem, kteří zvažují pořízení mobilního domu a chtějí předem vědět, s jakými náklady a komplikacemi mohou počítat.
+Cílem tohoto článku je poskytnout komplexní přehled celého procesu dopravy a instalace mobilních domů v České republice, včetně aktuálních cen za rok 2025, právních požadavků, praktických tipů a varování před nejčastějšími chybami. Článek je určen především lidem, kteří zvažují pořízení mobilního domu a chtějí předem vědět, s jakými náklady a komplikacemi mohou počítat.
 
 ## Právní rámec přepravy mobilních domů
 
@@ -46,7 +46,7 @@ Nejběžnějším způsobem přepravy mobilních domů v České republice je do
 
 Pro tuto dopravu se používají nákladní vozidla značky MAN, Scania, Mercedes-Benz nebo Volvo vybavená hydraulickou korbou nebo speciálními nájezdovými rampami. Ložná plocha nákladního vozidla musí být dostatečně dlouhá a široká, aby mobilní dům bezpečně pojala. Vozidla bývají vybavená GPS sledováním, což umožňuje dispečinku sledovat polohu nákladu v reálném čase a operativně reagovat na případné problémy. Zkušený řidič musí pečlivě plánovat trasu s ohledem na šířku a výšku nákladu - je nutné vyhnout se úzkým uličkám ve městech, nízko visícím elektrických vedením, úzkým mostům nebo tunelům s omezenou výškou.
 
-Typická cena za dopravu nákladním vozidlem se v roce 2024-2025 v České republice pohybuje kolem 40 Kč za ujetý kilometr, přičemž minimální cena za přepravu začíná obvykle na 15 000 až 20 000 Kč.[17] Do ceny je obvykle zahrnuto nakládání mobilheimu pomocí ramp a navijáku, přepravní pojištění, zajištění povolení k mimořádné přepravě a vykládání na cílovém místě. Není v ní však zahrnut případný jeřáb pro umístění mobilheimu na konečnou pozici, pokud není možné ho sjet přímo z návěsu na připravené místo. Pro ilustraci: přeprava mobilního domu na vzdálenost 100 km by stála přibližně 20 000 až 25 000 Kč, přeprava na 200 km kolem 30 000 až 35 000 Kč. Někteří výrobci a prodejci nabízejí dopravu zdarma do určité vzdálenosti od svého sídla (typicky 50 až 100 km) jako součást kupní ceny mobilního domu.
+Typická cena za dopravu nákladním vozidlem se v roce 2025 v České republice pohybuje kolem 40 Kč za ujetý kilometr, přičemž minimální cena za přepravu začíná obvykle na 15 000 až 20 000 Kč.[17] Do ceny je obvykle zahrnuto nakládání mobilheimu pomocí ramp a navijáku, přepravní pojištění, zajištění povolení k mimořádné přepravě a vykládání na cílovém místě. Není v ní však zahrnut případný jeřáb pro umístění mobilheimu na konečnou pozici, pokud není možné ho sjet přímo z návěsu na připravené místo. Pro ilustraci: přeprava mobilního domu na vzdálenost 100 km by stála přibližně 20 000 až 25 000 Kč, přeprava na 200 km kolem 30 000 až 35 000 Kč. Někteří výrobci a prodejci nabízejí dopravu zdarma do určité vzdálenosti od svého sídla (typicky 50 až 100 km) jako součást kupní ceny mobilního domu.
 
 Výhodami dopravy nákladním vozidlem jsou relativně nízká cena, rychlost (mobilní dům může být dopraven i několik set kilometrů během jednoho dne), a všeobecná dostupnost dopravců specializujících se na tento typ přepravy. Nevýhodou je omezení rozměru nákladu - velmi široké moduly nad 3,5 metru nebo extra dlouhé moduly nad 15 metrů už nemusí být přepravitelné na standardním návěsu a vyžadují speciální nízkopodlažní tahače nebo rozdělení do více částí.
 
@@ -56,7 +56,7 @@ Pro velmi velké nebo těžké mobilní domy, které nelze bezpečně naložit n
 
 Pro zdvihání mobilních domů se používají mobilní jeřáby s nosností 20 až 100 tun v závislosti na hmotnosti mobilního domu. Mobilní domy obvykle váží 5 až 25 tun, ale při zdvihání musí mít jeřáb značnou rezervu nosnosti, protože zatížení není rovnoměrně rozloženo a při zvedání vznikají dynamické síly. Jeřáb musí být vybaven speciálními rozvěrkami (tzv. spreader bars), které rozloží zatížení rovnoměrně po konstrukci mobilního domu, aby nedošlo k prasknutí střechy nebo stěn při zvedání. Nesprávné upnutí nebo zdvihání za nevhodné body může způsobit trvalé poškození konstrukce.
 
-Cena jeřábové dopravy a instalace se v České republice v roce 2024-2025 pohybuje od 25 000 Kč do 100 000 Kč v závislosti na vzdálenosti, nosnosti potřebného jeřábu a složitosti přístupu.[19] Základní instalace jeřábem v dobře přístupné lokalitě (rovný pozemek, volný přístup) stojí typicky 25 000 až 40 000 Kč. Pokud je ale nutné překonat překážky jako stromy, elektrické vedení, sousední budovy nebo zavěsit mobilní dům přes řeku, cena může vyšplhat až na 100 000 Kč nebo více. V extrémních případech těžko přístupných lokalit v horách byly v minulosti použity dokonce vrtulníky, jejichž pronájem se počítá na desítky tisíc korun za hodinu, což celkovou cenu instalace může vyšroubovat i přes 200 000 Kč.
+Cena jeřábové dopravy a instalace se v České republice v roce 2025 pohybuje od 25 000 Kč do 100 000 Kč v závislosti na vzdálenosti, nosnosti potřebného jeřábu a složitosti přístupu.[19] Základní instalace jeřábem v dobře přístupné lokalitě (rovný pozemek, volný přístup) stojí typicky 25 000 až 40 000 Kč. Pokud je ale nutné překonat překážky jako stromy, elektrické vedení, sousední budovy nebo zavěsit mobilní dům přes řeku, cena může vyšplhat až na 100 000 Kč nebo více. V extrémních případech těžko přístupných lokalit v horách byly v minulosti použity dokonce vrtulníky, jejichž pronájem se počítá na desítky tisíc korun za hodinu, což celkovou cenu instalace může vyšroubovat i přes 200 000 Kč.
 
 Jeřábová instalace vyžaduje velmi pečlivou přípravu. Před příjezdem jeřábu musí být přesně změřen a vytyčen přístup pro jeřáb včetně ověření nosnosti povrchu (jeřáb s rozpřaženými stabilizátory může vyvíjet na půdu tlak několika tun na metr čtvereční). Musí být identifikovány a případně odstraněny všechny překážky jako nízko visící větve stromů nebo elektrické vedení. Samotné zdvihání a usazování mobilního domu trvá obvykle 2 až 4 hodiny a vyžaduje koordinaci mezi obsluhou jeřábu, stavbou na pozemku a případnými pomocníky, kteří usměrňují mobilní dům během usazování na základy.
 
@@ -64,7 +64,7 @@ Jeřábová instalace vyžaduje velmi pečlivou přípravu. Před příjezdem je
 
 Pro některé specifické lokality s obtížným přístupem, kde není možné použít klasický nákladní automobil, ale zároveň jeřáb by byl příliš nákladný, se používá doprava pomocí terénního vozidla nebo stavebního traktoru. Mobilní dům je na cílové lokalitě vysazen z návěsu nebo vyložen jeřábem na okraji přístupného území a následně je připojen k traktoru nebo terénnímu vozidlu, které ho dotáhne na finální pozici po nezpevněném terénu, štěrkové cestě nebo přes měkkou půdu.[20] Tato služba je užitečná například při umístění mobilního domu na pozemek přístupný pouze polní cestou, nebo při instalaci na svažitém pozemku.
 
-Cena za asistenci terénním vozidlem se v roce 2024-2025 pohybuje kolem 3 000 Kč za vzdálenost do 50 km od místa vyložení, s příplatkem 15 Kč za každý další kilometr.[21] Do ceny je obvykle zahrnuto použití pojezdových ploten (ocelových nebo plastových panelů, které se kladou pod kola nebo podvozek mobilheimu, aby se neboří do měkké půdy) a základní asistence při manipulaci. Nevýhodou této metody je, že vyžaduje dva kroky: nejprve standardní dopravu do dostupného místa, pak teprve terénní transport na finální místo, což zvyšuje celkovou dobu i cenu.
+Cena za asistenci terénním vozidlem se v roce 2025 pohybuje kolem 3 000 Kč za vzdálenost do 50 km od místa vyložení, s příplatkem 15 Kč za každý další kilometr.[21] Do ceny je obvykle zahrnuto použití pojezdových ploten (ocelových nebo plastových panelů, které se kladou pod kola nebo podvozek mobilheimu, aby se neboří do měkké půdy) a základní asistence při manipulaci. Nevýhodou této metody je, že vyžaduje dva kroky: nejprve standardní dopravu do dostupného místa, pak teprve terénní transport na finální místo, což zvyšuje celkovou dobu i cenu.
 
 ## Instalace mobilního domu na pozemek
 
@@ -114,9 +114,9 @@ Poslední, ale velmi důležitou částí instalace je připojení mobilního do
 
 Po připojení všech inženýrských sítí by mělo být provedeno komplexní testování - kontrola těsnosti vody a plynu, měření napětí a funkčnosti elektroinstalace, zkouška odtoku kanalizace. Mobilní dům by měl být obyvatelný během 24 hodin od dokončení instalace.[35]
 
-## Náklady na dopravu a instalaci v roce 2024-2025
+## Náklady na dopravu a instalaci v roce 2025
 
-Celkové náklady na dopravu a instalaci mobilního domu v České republice se liší podle mnoha faktorů - velikosti a hmotnosti domu, vzdálenosti od místa výroby, složitosti přístupu, typu základů a rozsahu přípravy pozemku. Pro orientaci uvádíme přehled typických nákladů pro standardní mobilní dům o rozměrech 8 × 3,5 metru a hmotnosti 12 tun v roce 2024-2025.
+Celkové náklady na dopravu a instalaci mobilního domu v České republice se liší podle mnoha faktorů - velikosti a hmotnosti domu, vzdálenosti od místa výroby, složitosti přístupu, typu základů a rozsahu přípravy pozemku. Pro orientaci uvádíme přehled typických nákladů pro standardní mobilní dům o rozměrech 8 × 3,5 metru a hmotnosti 12 tun v roce 2025.
 
 ### Kalkulace nákladů - příklad 1: Blízká vzdálenost (do 100 km), jednoduchý přístup
 
@@ -300,7 +300,7 @@ Standardní mobilní domy mají výšku 3 až 3,5 metru, což obvykle limit nep�
 
 ## Reference a zdroje
 
-[1] Mobilni-domy-prodej.cz. "Doprava mobilheimů." Informační web o mobilních domech. Dostupné online: https://www.mobilni-domy-prodej.cz/doprava. Naposledy přístupné: 9. listopadu 2025.
+[1] Mobilni-domy-prodej.cz. "Doprava mobilheimů." Informační web o mobilních domech. Dostupné online: https://www.mobilni-domy-prodej.cz/doprava. Naposledy přístupné: 16. listopadu 2025.
 
 [2] Hrachovina, František. "Přeprava mobilního domu." František Hrachovina - speciální přeprava. Dostupné online: https://www.hrachovina.cz/preprava-mobilheimu.html. Naposledy přístupné: 9. listopadu 2025.
 
@@ -388,7 +388,7 @@ Standardní mobilní domy mají výšku 3 až 3,5 metru, což obvykle limit nep�
 
 ---
 
-**Poslední aktualizace:** 9. listopadu 2025
+**Poslední aktualizace:** 16. listopadu 2025
 **Autor:** Claude (Anthropic) pro Nový Rozměr Bydlení
 **Další revize plánována:** Listopad 2026
 **Délka článku:** Přibližně 5 900 slov

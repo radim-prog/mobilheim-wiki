@@ -1,6 +1,6 @@
 # Okna a dveře pro mobilní domy
 
-> **AKTUALIZACE 9. listopadu 2025:** Článek byl zpracován s nejnovějšími údaji z roku 2024-2025, včetně požadavků nové vyhlášky č. 146/2024 Sb. o požadavcích na výstavbu, aktuálních tržních cen českých výrobců a současných technických standardů ČSN 73 0540-2 pro tepelnou ochranu budov. Všechny právní odkazy a technické specifikace byly ověřeny k datu publikace.
+> **AKTUALIZACE 16. listopadu 2025:** Článek byl zpracován s nejnovějšími údaji z roku 2024-2025, včetně požadavků nové vyhlášky č. 146/2024 Sb. o požadavcích na výstavbu (účinná od 1. července 2024), aktuálních tržních cen českých výrobců a současných technických standardů ČSN 73 0540-2 pro tepelnou ochranu budov. Všechny právní odkazy a technické specifikace byly ověřeny k datu publikace.
 
 Okna a vstupní dveře mobilního domu jsou kritickými konstrukčními prvky, které zásadně ovlivňují tepelné ztráty, energetickou náročnost vytápění a celkovou pohodu bydlení. Kvalitní okna s nízkým součinitelem prostupu tepla (hodnota Uw) zajišťují, že mobilní dům zůstane v zimě teplý a v létě chladný, přičemž špatně zvolená nebo nekvalitně namontovaná okna mohou způsobit až 30-40 % celkových tepelných ztrát objektu.[1] Pro vlastníky mobilních domů je proto výběr oken a dveří jedním z nejdůležitějších investičních rozhodnutí, které má přímý dopad nejen na komfort bydlení, ale také na náklady za energie po celou dobu užívání objektu.
 
@@ -38,11 +38,11 @@ Je také třeba zmínit nevýhody trojskla kromě vyšší ceny. Trojsklo je tě
 
 Plastové (PVC) okenní rámy jsou v současnosti nejrozšířenějším řešením pro mobilní domy i klasické stavby v České republice díky optimálnímu poměru ceny, tepelně-izolačních vlastností, údržby a životnosti. Moderní PVC profily se vyrábějí s 5-7 komorami (vnitřními dutinami), které výrazně snižují tepelnou vodivost rámu a dosahují hodnot Uf = 1,0-1,3 W/(m²·K), což je srovnatelné nebo lepší než u dřevěných rámů.[18] Šestikomorový profil tloušťky 70-80 mm je standardem pro kvalitní okna v současnosti. PVC má tepelnou vodivost 0,17-0,19 W/(m·K), což je velmi nízká hodnota zajišťující dobrou izolaci.[19] Výhody PVC oken zahrnují nízkou pořizovací cenu (nejlevnější materiál), minimální údržbu (není třeba lakovat ani natírat), dobrá těsnost díky pružnosti materiálu, odolnost vůči vlhkosti a biologickým škůdcům, a dlouhou životnost 30-40 let.[20] Nevýhody jsou především estetické - plastový vzhled nevyhovuje všem, nabídka barev je omezená (nejčastěji bílá, hnědá, antracit), a profily jsou relativně široké kvůli nižší pevnosti plastu oproti hliníku, což zmenšuje prosklení plochu okna.
 
-Cena plastových oken na českém trhu v roce 2025 se pohybuje v rozmezí **3 500-5 500 Kč/m² včetně montáže** pro standardní bílá okna s šestikomorovým profilem a dvojsklem s low-E a argonem (Uw ≈ 1,0 W/(m²·K)).[4] Okna s barevnou povrchovou úpravou (laminace dekorem dřeva, antracitová barva) stojí o 20-30 % více, tedy 4 200-7 000 Kč/m². Pro typický mobilní dům s 18 m² oken vychází celková investice na **63 000-99 000 Kč za kompletní osazení plastovými okny**. Mezi renomované české a mezinárodní výrobce PVC oken dostupné na českém trhu patří Vekra (česká značka, velmi oblíbená, cenově dostupná), Slovaktual (slovenská značka, dobré reference, o něco levnější než Vekra), Rehau (německý systém profilů, používaný mnoha českými výrobci oken), Salamander (německý systém profilů), Gealan (německý systém profilů), a Inoutic (systém profilů, šestikomorový). Vekra a Slovaktual jsou dle referencí na diskuzních fórech nejčastější volbou českých stavebníků mobilních domů, přičemž Vekra je mírně dražší ale s velmi dobrými referencemi na kvalitu a servis.[21]
+Cena plastových oken na českém trhu v roce 2025 se pohybuje v rozmezí **2 500-5 000 Kč/m² včetně montáže** pro standardní bílá okna s šestikomorovým profilem a dvojsklem s low-E a argonem (Uw ≈ 1,0 W/(m²·K)).[4] Okna s barevnou povrchovou úpravou (laminace dekorem dřeva, antracitová barva) stojí o 20-30 % více, tedy 3 000-6 500 Kč/m². Pro typický mobilní dům s 18 m² oken vychází celková investice na **45 000-90 000 Kč za kompletní osazení plastovými okny**. Mezi renomované české a mezinárodní výrobce PVC oken dostupné na českém trhu patří Vekra (česká značka, velmi oblíbená, cenově dostupná), Slovaktual (slovenská značka, dobré reference, o něco levnější než Vekra), Rehau (německý systém profilů, používaný mnoha českými výrobci oken), Salamander (německý systém profilů), Gealan (německý systém profilů), a Inoutic (systém profilů, šestikomorový). Vekra a Slovaktual jsou dle referencí na diskuzních fórech nejčastější volbou českých stavebníků mobilních domů, přičemž Vekra je mírně dražší ale s velmi dobrými referencemi na kvalitu a servis.[21]
 
 Hliníkové okenní rámy nabízejí moderní elegantní vzhled s úzkými profily, což maximalizuje prosklení plochu a vytváří vzdušný dojem, a jsou proto oblíbené zejména u luxusních mobilních domů a u velkoplošných posuvných dveří na terasu. Čistý hliník má však extrémně vysokou tepelnou vodivost 220-240 W/(m·K), což je více než tisíckrát vyšší než u PVC či dřeva, a vytváří masivní tepelné mosty.[19] Proto všechna moderní hliníková okna používají konstrukční princip **s přerušeným tepelným mostem** (thermal break), kdy je vnitřní a vnější hliníková část profilu oddělena izolační vložkou z polyamidu nebo jiného materiálu s nízkou tepelnou vodivostí. Tím se dosahuje hodnot Uf = 1,4-2,0 W/(m²·K), což je sice stále horší než u PVC, ale akceptovatelné pro moderní stavby.[22] Výhody hliníkových oken jsou elegantní vzhled s úzkými rámy (profily tloušťky 50-60 mm oproti 70-80 mm u PVC), vysoká mechanická pevnost umožňující velké rozměry oken a dveří bez dodatečného vyztužení, široká škála barevných povrchových úprav práškováním (jakákoli RAL barva), nulová údržba (hliník nerezivý), a extrémně dlouhá životnost 50-60 let.
 
-Nevýhody hliníkových oken jsou vysoká cena - **6 000-9 000 Kč/m² včetně montáže** pro standardní provedení s dvojsklem, tedy zhruba dvojnásobek oproti PVC oknům.[23] Pro mobilní dům s 18 m² oken to znamená investici 108 000-162 000 Kč. Další nevýhodou je horší tepelná izolace rámů oproti PVC i při použití přerušeného tepelného mostu, a riziko kondenzace na vnitřní straně rámu při velmi nízkých venkovních teplotách pokud není přerušení tepelného mostu kvalitně provedeno. Hliníková okna doporučujeme **primárně pro velkoformátové posuvné nebo zdvižně-posuvné dveře na terasu**, kde je potřeba vysoká mechanická pevnost pro velké a těžké křídla, a pro mobilní domy v prémiové kategorii, kde je kladen důraz na moderní design. Pro běžná okna v mobilních domech jsou hliníková okna zbytečně drahá a PVC okna nabízejí lepší poměr cena/tepelná izolace.
+Nevýhody hliníkových oken jsou vysoká cena - **4 500-11 000 Kč/m² včetně montáže** pro standardní provedení s dvojsklem, tedy až dvojnásobek oproti PVC oknům.[23] Pro mobilní dům s 18 m² oken to znamená investici 81 000-198 000 Kč. Další nevýhodou je horší tepelná izolace rámů oproti PVC i při použití přerušeného tepelného mostu, a riziko kondenzace na vnitřní straně rámu při velmi nízkých venkovních teplotách pokud není přerušení tepelného mostu kvalitně provedeno. Hliníková okna doporučujeme **primárně pro velkoformátové posuvné nebo zdvižně-posuvné dveře na terasu**, kde je potřeba vysoká mechanická pevnost pro velké a těžké křídla, a pro mobilní domy v prémiové kategorii, kde je kladen důraz na moderní design. Pro běžná okna v mobilních domech jsou hliníková okna zbytečně drahá a PVC okna nabízejí lepší poměr cena/tepelná izolace.
 
 Dřevěná okenní rámy představují tradiční a esteticky velmi atraktivní řešení s přirozeným vzhledem a příjemným haptickým dojmem, které je ceněno zejména u mobilních domů v přírodním stylu, ekologických staveb a rekreačních objektů v horských oblastech. Dřevo má příznivou tepelnou vodivost 0,12 W/(m·K) u borovice, což je dokonce lepší než u PVC.[19] Moderní dřevěná okna dosahují hodnot Uf = 1,2-1,5 W/(m²·K), tedy srovnatelných s PVC okny. Výhody dřevěných oken zahrnují krásný přírodní vzhled a hmatovou kvalitu, dobrou tepelnou izolaci, ekologický materiál obnovitelný a biologicky rozložitelný, možnost opravy a renovace (nabroušení a nový nátěr), a příznivé vlastnosti pro regulaci vlhkosti v místnosti díky propustnosti dřeva pro vodní páru. Nevýhody jsou významné - **vysoká pořizovací cena 7 000-12 000 Kč/m²** včetně montáže, tedy 2-3× více než u PVC oken, což pro mobilní dům 18 m² znamená investici 126 000-216 000 Kč.[23] Další nevýhodou je náročná údržba - dřevěná okna je nutné pravidelně (každých 3-5 let) natírat ochranným nátěrem proti vlhkosti, UV záření a dřevokazným škůdcům, jinak rychle degradují. Životnost dřevěných oken je také obtížně odhadnutelná a silně závisí na kvalitě údržby - při perfektní údržbě mohou vydržet 50-80 let, při nedostatečné údržbě se mohou začít rozkládat již po 10-15 letech.
 
@@ -145,10 +145,10 @@ Kompletní výměna oken v mobilním domě je významná investice, která se po
 
 **Varianta A - Plastová okna s dvojsklem (střední kvalita)**
 - Parametry: PVC 6-komorový profil, dvojsklo 4-16-4 s low-E a argonem, Uw = 1,0 W/(m²·K)
-- Cena za m²: 4 000 Kč včetně montáže
-- Celková cena pro 18 m²: **72 000 Kč**
+- Cena za m²: 3 750 Kč včetně montáže
+- Celková cena pro 18 m²: **67 500 Kč**
 - Roční úspora energie oproti starým oknům (Uw = 2,0): cca 4 500 kWh × 2 Kč/kWh = 9 000 Kč
-- **Doba návratnosti: 8 let**
+- **Doba návratnosti: 7,5 let**
 
 **Varianta B - Plastová okna s trojsklem (vysoká kvalita)**
 - Parametry: PVC 6-komorový profil, trojsklo 4-12-4-12-4 s dvojitým low-E a argonem, Uw = 0,7 W/(m²·K)
@@ -160,10 +160,10 @@ Kompletní výměna oken v mobilním domě je významná investice, která se po
 
 **Varianta C - Hliníková okna s dvojsklem (prémiový design)**
 - Parametry: Hliníkový profil s přerušeným tepelným mostem, dvojsklo s low-E a argonem, Uw = 1,2 W/(m²·K)
-- Cena za m²: 7 500 Kč včetně montáže
-- Celková cena pro 18 m²: **135 000 Kč**
+- Cena za m²: 7 750 Kč včetně montáže
+- Celková cena pro 18 m²: **139 500 Kč**
 - Roční úspora energie oproti starým oknům (Uw = 2,0): cca 4 000 kWh × 2 Kč/kWh = 8 000 Kč
-- **Doba návratnosti: 17 let** (delší kvůli vyšší ceně a horší izolaci oproti PVC)
+- **Doba návratnosti: 17,5 let** (delší kvůli vyšší ceně a horší izolaci oproti PVC)
 
 **Varianta D - Dřevěná okna s dvojsklem (přírodní estetika)**
 - Parametry: Smrkový profil, dvojsklo s low-E a argonem, Uw = 1,1 W/(m²·K)
@@ -295,7 +295,7 @@ Důležitým faktorem je také **výrobní a dodací lhůta**, která se u oken 
 
 ---
 
-**Poslední aktualizace:** 9. listopadu 2025
+**Poslední aktualizace:** 16. listopadu 2025
 **Autor:** Building Envelope Specialist pro Mobilheim Wiki
 **Další revize plánována:** Květen 2026
 

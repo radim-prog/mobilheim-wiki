@@ -1,0 +1,656 @@
+# "Stačí to zapojit, ne?" Martin zaplatil o 127 000 Kč víc a čeká dva roky na rekonstrukci přípojky. Ondřej vše naplánoval správně a ušetřil.
+
+**Datum:** 16. listopadu 2025
+**Autor:** Mobilheim Wiki
+**Kategorie:** Přípojky, Elektřina, Příběhy
+**Čas čtení:** 16 minut
+
+---
+
+## Dva majitelé mobilních domů. Stejný pozemek, stejná vzdálenost od elektřiny (85 m). Jeden zaplatil 48 000 Kč a má funkční přípojku. Druhý zaplatil 175 000 Kč, přípojka nestačí, čeká na předělávku.
+
+Martin Svoboda (37 let, projektant) a Ondřej Novák (42 let, IT konzultant) si koupili sousední pozemky u Tábora v červnu 2023. Oba plánovali postavit moderní mobilní domy o podobné ploše (Martin 52 m², Ondřej 55 m²). Oba potřebovali připojit elektřinu – distribuční bod byl vzdálený přibližně 85 metrů od obou pozemků.
+
+**Tady končí podobnost.**
+
+Dnes, v listopadu 2025, Martin řeší předělávku elektrické přípojky, protože mu stávající výkon nestačí. Celkové náklady na přípojku: **175 000 Kč**. A ještě musí zaplatit dalších **120 000 Kč** za rozšíření.
+
+Ondřej má funkční přípojku, všechno běží, žádné problémy. Celkové náklady: **48 000 Kč**.
+
+**Rozdíl? 127 000 Kč.**
+
+Co Martin udělal špatně? A co Ondřej udělal správně? Pojďme si jejich příběh projít krok za krokem – s čísly, chybami a ponaučením.
+
+---
+
+## Martin: "Řekli mi, že stačí jednofázová přípojka. Chtěl jsem ušetřit."
+
+### Červen 2023: Martin si kupuje pozemek a mobilní dům
+
+> Martin: *"Našel jsem pozemek 800 m² u Tábora za 420 tisíc. Krásné místo, klid, příroda. Objednal jsem si moderní mobilní dům 52 m² od českého výrobce (1,85 milionu). Celkový rozpočet včetně pozemku, domu a zasíťování jsem měl 2,5 milionu. Chtěl jsem se do toho vejít."*
+
+Martin začal zjišťovat, jak připojit elektřinu. Zavolal do ČEZ Distribuce (jeho region).
+
+**Konverzace 1 – ČEZ Distribuce, červenec 2023:**
+
+> **Martin:** "Dobrý den, potřebuji připojit elektřinu k mobilnímu domu. Vzdálenost od sloupu je asi 85 metrů. Kolik to bude stát?"
+>
+> **Pracovník ČEZ:** "Vzdálenost 85 metrů – to je nad standardních 50 metrů, takže zaplatíte rezervační poplatek plus náklady na přípojku. Jaký výkon potřebujete?"
+>
+> **Martin:** "Nevím přesně. Je to mobilní dům 52 metrů. Co doporučujete?"
+>
+> **Pracovník:** "Záleží na tom, co budete napájet. Máte elektrické vytápění?"
+>
+> **Martin:** "Ne, budu topit krbem a plynovým kotlem. Elektřina jen na spotřebiče – lednice, televize, osvětlení, mikrovlnka, pračka."
+>
+> **Pracovník:** "Pak vám stačí jednofázové připojení 1× 25 A. To poskytuje přibližně 5,75 kW. Cena přípojky bude přibližně 35 tisíc plus rezervační poplatek 5 tisíc. Celkem 40 tisíc."
+>
+> **Martin:** "Výborně, to zní dobře. A třífázové by stálo kolik?"
+>
+> **Pracovník:** "Třífázové 3× 20 A by stálo přibližně 48 tisíc plus rezervační poplatek 10 tisíc, celkem 58 tisíc."
+>
+> **Martin:** "To je o 18 tisíc víc. Myslím, že jednofázová stačí. Nebudu topit elektřinou."
+
+Martin podepsal smlouvu o jednofázovém připojení 1× 25 A. **Celková cena: 40 000 Kč.**
+
+---
+
+### Září 2023: Přípojka je hotová, Martin se nastěhoval
+
+Distributor dokončil přípojku v září 2023. Martin zaplatil elektrikáři za vnitřní rozvody (45 000 Kč), revizi (3 000 Kč) a nastěhoval se v říjnu 2023.
+
+> Martin: *"První měsíc všechno fungovalo skvěle. Zatápěl jsem krbem, plyn pro vaření, elektřina na spotřebiče. Žádný problém."*
+
+### Prosinec 2023: První problémy
+
+V prosinci přišla zima. Martin topil krbem, ale zjistil, že krb nestačí vytopit celý dům (52 m²) v silných mrazech (-10 °C).
+
+> Martin: *"Krb dokáže vytopit obývák, ale ložnice a koupelna byly studené. Řekl jsem si – koupím elektrický přímotop jako doplněk. Stojí 3 tisíce, zapojím ho do zásuvky a problém vyřešen."*
+
+Martin koupil elektrický přímotop (2 000 W). Zapojil ho v ložnici.
+
+**A pak vyhodilo jistič.**
+
+> Martin: *"Nevěděl jsem proč. Topení mělo 2 000 W. Rychlovarná konvice 2 000 W. Dohromady 4 000 W. Přípojka má 5 750 W. Mělo by to stačit, ne?"*
+
+**NE.**
+
+Martin zapomněl na soudobost – rychlovarná konvice, lednice (běžící na pozadí), televize, nabíječky, LED osvětlení. Součet okamžitého příkonu překročil 5 750 W → jistič vyhodil.
+
+> Martin: *"Musel jsem vždycky vypnout něco jiného, abych mohl zapnout topení. Vypnul jsem televizi, odpojil nabíječky. Ale to přece není normální!"*
+
+---
+
+### Leden 2024: Martin volá elektrikáři
+
+Martin zavolal elektrikáři s prosbou o radu.
+
+> Elektrikář: *"Pane Svoboda, problém je jasný – máte jednofázovou přípojku 25 A, což je 5,75 kW. To vám prostě nestačí, pokud chcete topit elektřinou. Abyste mohl provozovat elektrické topení (2 kW) + běžné spotřebiče současně, potřebujete minimálně třífázovou přípojku 3× 16 A (11 kW), ideálně 3× 20 A (13,8 kW)."*
+>
+> Martin: *"Ale já nepotřebuju topit elektřinou trvale! Jen když nestačí krb!"*
+>
+> Elektrikář: *"I tak vám jednofázová přípojka nestačí. Jakmile chcete používat více spotřebičů současně – topení, varná konvice, pračka, mikrovlnka – překročíte limit. Potřebujete třífázovou."*
+>
+> Martin: *"A co mám dělat? Nechat to předělat?"*
+>
+> Elektrikář: *"Ano. Musíte požádat distributora o navýšení rezervovaného příkonu na třífázové připojení. To znamená výměnu elektroměrového rozvaděče, kabelů a hlavního jističe. Náklady odhaduji na 80–120 tisíc korun."*
+
+Martin málem spadl ze židle.
+
+> Martin: *"Osmdesát tisíc?! Za předělávku něčeho, co už stojí? To nemůže být pravda!"*
+
+---
+
+### Březen 2024: Martin žádá o navýšení příkonu
+
+Martin podal žádost o změnu smlouvy o připojení – navýšení z jednofázového 1× 25 A na třífázové 3× 20 A.
+
+ČEZ Distribuce odpověděl:
+
+> "Změna rezervovaného příkonu vyžaduje výměnu hlavního kabelu (stávající kabel CYKY-J 3× 6 mm² není dimenzován pro třífázové připojení), výměnu elektroměrového rozvaděče a instalaci nového hlavního jističe. Odhadované náklady: 95 000 Kč. Lhůta realizace: 6–9 měsíců."
+
+Martin zaplatil zálohu **95 000 Kč** v dubnu 2024. Čeká na realizaci dodnes (listopad 2025).
+
+> Martin: *"Mezitím topím plynovým kotlem (instalace 45 000 Kč), který jsem původně nechtěl. Celkové náklady na přípojku: 40 000 (původní) + 95 000 (navýšení) + 45 000 (plynový kotel jako náhradní řešení) = 180 000 Kč. A pořád čekám!"*
+
+**Finální náklady Martina:**
+- Původní přípojka 1× 25 A: 40 000 Kč
+- Navýšení na 3× 20 A: 95 000 Kč
+- Plynový kotel (náhrada): 45 000 Kč
+- Elektroinstalace + revize: 48 000 Kč
+- **CELKEM: 228 000 Kč**
+
+**A přitom mohl mít třífázovou přípojku hned za 58 000 Kč.**
+
+**Ztráta: 170 000 Kč + 18 měsíců čekání.**
+
+---
+
+## Ondřej: "Před podpisem smlouvy jsem si spočítal, co opravdu potřebuju."
+
+### Červen 2023: Ondřej kupuje sousední pozemek
+
+Ondřej koupil pozemek vedle Martinova za podobnou cenu (450 tisíc za 850 m²). Objednal si mobilní dům 55 m² od stejného výrobce (1,92 milionu).
+
+Ale na rozdíl od Martina udělal jednu věc jinak:
+
+**Ondřej si PŘED podáním žádosti o přípojku spočítal skutečnou spotřebu.**
+
+### Červenec 2023: Ondřej si dělá domácí úkol
+
+> Ondřej: *"Martin mi říkal: 'Stačí jednofázová, ušetříš 18 tisíc.' Ale já si říkal – 18 tisíc dnes za cenu problémů za rok? Raději si to ověřím."*
+
+Ondřej si napsal seznam všech spotřebičů, které plánuje mít v mobilním domě:
+
+**Seznam spotřebičů – Ondřej:**
+
+| Spotřebič | Příkon (W) | Soudobost | Reálný příkon (W) |
+|---|---|---|---|
+| Indukční varná deska (2 plotýnky) | 3 000 | 0,7 | 2 100 |
+| Elektrická trouba | 2 500 | 0,5 | 1 250 |
+| Rychlovarná konvice | 2 000 | 0,3 | 600 |
+| Pračka | 2 000 | 0,5 | 1 000 |
+| Lednice + mrazák | 250 | 1,0 | 250 |
+| LED osvětlení celý dům | 150 | 1,0 | 150 |
+| Televize + notebook | 200 | 0,8 | 160 |
+| Tepelné čerpadlo vzduch-voda | 2 500 | 0,9 | 2 250 |
+| Elektrický přímotop (záloha) | 2 000 | 0,3 | 600 |
+| **CELKEM instalovaný příkon** | **16 600 W** | – | **8 360 W** |
+
+Koeficient soudobosti říká, že všechny spotřebiče NEBĚŽÍ současně. Ondřej aplikoval koeficient 0,7 (typický pro domácnosti).
+
+**Maximální okamžitý příkon: 16 600 × 0,7 = 11 620 W**
+
+> Ondřej: *"Spočítal jsem si, že reálně potřebuju minimálně 11,6 kW. Jednofázová přípojka 1× 25 A poskytuje 5,75 kW. To je POLOVINA toho, co potřebuju! Musel bych vypínat polovinu spotřebičů, abych mohl zapnout druhou polovinu. To je nesmysl."*
+
+Ondřej se rozhodl pro **třífázové připojení 3× 20 A (13,8 kW).**
+
+---
+
+### Srpen 2023: Ondřej podává žádost o třífázové připojení
+
+Ondřej zavolal do ČEZ Distribuce a požádal o třífázové připojení 3× 20 A.
+
+**Konverzace – ČEZ Distribuce, srpen 2023:**
+
+> **Ondřej:** "Dobrý den, potřebuji připojit elektřinu k mobilnímu domu. Vzdálenost od sloupu 85 metrů. Chci třífázové připojení 3× 20 A."
+>
+> **Pracovník ČEZ:** "Třífázové 3× 20 A pro vzdálenost 85 metrů bude stát přibližně 48 000 Kč za realizaci přípojky plus 10 000 Kč rezervační poplatek. Celkem 58 000 Kč."
+>
+> **Ondřej:** "Výborně. Podepíšu smlouvu."
+
+Ondřej podepsal smlouvu. Zaplatil zálohu **58 000 Kč** v září 2023.
+
+### Listopad 2023: Přípojka je hotová, Ondřej se nastěhoval
+
+Distributor dokončil třífázovou přípojku v listopadu 2023. Ondřej zaplatil elektrikáři za vnitřní rozvody (52 000 Kč), revizi (3 500 Kč) a nastěhoval se v prosinci 2023.
+
+**Celkové náklady Ondřeje:**
+- Třífázová přípojka 3× 20 A: 58 000 Kč
+- Elektroinstalace + revize: 55 500 Kč
+- **CELKEM: 113 500 Kč**
+
+---
+
+### Prosinec 2023 – Zima: Ondřej topí elektřinou bez problémů
+
+V prosinci přišla zima. Ondřej zapnul tepelné čerpadlo (2,5 kW), které vytápí celý dům.
+
+> Ondřej: *"Tepelné čerpadlo běží, zároveň můžu vařit na indukční desce (3 kW), spustit pračku (2 kW), zapnout televizi, osvětlení. Všechno funguje současně. Žádný problém s výkonem. Teplota v celém domě 21 °C, i když venku -12 °C."*
+
+### Srovnání nákladů na vytápění – Martin vs. Ondřej (zima 2024)
+
+| Majitel | Způsob vytápění | Měsíční náklad (prosinec–únor) | Za 3 měsíce |
+|---|---|---|---|
+| **Martin** | Krb (dřevo) + plynový kotel | 8 500 Kč/měsíc | 25 500 Kč |
+| **Ondřej** | Tepelné čerpadlo (elektřina) | 3 200 Kč/měsíc | 9 600 Kč |
+
+> Martin: *"Topím dřevem (3 500 Kč/měsíc) a plynovým kotlem (5 000 Kč/měsíc). Celkem 8 500 měsíčně. Ondřej topí tepelným čerpadlem za 3 200 Kč měsíčně. Ušetřil 15 900 Kč jen za zimu. A já jsem chtěl 'ušetřit' 18 tisíc na přípojce!"*
+
+---
+
+## Co Martin udělal špatně? 5 kritických chyb.
+
+### Chyba #1: Nesečetl si spotřebu PŘED podáním žádosti
+
+Martin se zeptal distributora: **"Co mi doporučujete?"**
+
+Distributor odpověděl: **"Pokud netopíte elektřinou, stačí jednofázová."**
+
+**Problém?** Distributor NEVÍ, co Martin plánuje mít v domě. Nemá křišťálovou kouli. Martin mu řekl "nebudu topit elektřinou" → distributor logicky doporučil nejlevnější variantu.
+
+**Co měl Martin udělat?**
+
+✅ Sestavit seznam VŠECH spotřebičů PŘED žádostí
+✅ Spočítat maximální okamžitý příkon (včetně soudobosti)
+✅ Požádat o přípojku odpovídající REÁLNÉ potřebě, ne domněnce
+
+> Ondřej: *"Distributor není věštec. Jeho úkolem je dodat elektřinu podle vaší specifikace. Pokud mu řeknete 'stačí jednofázová', dodá jednofázovou. Je to VAŠE zodpovědnost vědět, co potřebujete."*
+
+---
+
+### Chyba #2: Počítal s tím, že "určitě nebude topit elektřinou"
+
+Martin řekl: **"Budu topit krbem a plynovým kotlem, ne elektřinou."**
+
+Ale realita byla jiná:
+- Krb nevytopil celý dům v silných mrazech
+- Plynový kotel musel instalovat dodatečně (45 000 Kč)
+- Nakonec stejně potřeboval elektrické topení jako zálohu
+
+**Co měl Martin udělat?**
+
+✅ Počítat s REZERVOU – i když neplánujete topit elektřinou TRVALE, je dobré mít možnost zapojit elektrický přímotop jako ZÁLOHU
+✅ Třífázová přípojka poskytuje flexibilitu – můžete v budoucnu přidat tepelné čerpadlo, klimatizaci, elektrický ohřívač vody
+
+> Ondřej: *"Já taky neplánoval topit POUZE elektřinou. Ale řekl jsem si – chci mít možnost. A mám. Martin nechtěl zaplatit 18 tisíc navíc za třífázovou. Nakonec zaplatil 170 tisíc za předělávku."*
+
+---
+
+### Chyba #3: Nevěděl, co je soudobost
+
+Martin si myslel: **"Mám přípojku 5 750 W. Topení 2 000 W + konvice 2 000 W = 4 000 W. Mělo by to stačit."**
+
+**Ale zapomněl na:**
+- Lednici (běží neustále, 250 W)
+- LED osvětlení (150 W)
+- Nabíječky telefonů, notebooků (100 W)
+- Televizi (50 W)
+
+**Skutečný okamžitý příkon:**
+2 000 (topení) + 2 000 (konvice) + 250 (lednice) + 150 (světla) + 100 (nabíječky) + 50 (TV) = **4 550 W**
+
+**A to ještě nezapnul pračku (2 000 W)!**
+
+Jakmile se celkový příkon přiblížil 5 750 W → jistič vyhodil.
+
+> Elektrikář: *"Soudobost znamená, že ne všechny spotřebiče běží současně. Ale NĚKTERÉ ano! Lednice běží pořád. Osvětlení taky. A když si chcete uvařit čaj (konvice 2 000 W), zatímco topíte (2 000 W) – máte problém."*
+
+---
+
+### Chyba #4: Chtěl ušetřit 18 000 Kč… a zaplatil 170 000 Kč navíc
+
+Martin řekl: **"Třífázová stojí o 18 tisíc víc. To jsou zbytečné peníze."**
+
+**Realita:**
+- Původní přípojka 1× 25 A: 40 000 Kč
+- Navýšení na 3× 20 A: 95 000 Kč
+- Plynový kotel (náhrada za nefunkční topení): 45 000 Kč
+- **Celkem zaplatil: 180 000 Kč**
+
+**Kdyby vzal třífázovou hned:**
+- Třífázová přípojka 3× 20 A: 58 000 Kč
+- Elektrické topení (tepelné čerpadlo): 85 000 Kč
+- **Celkem by zaplatil: 143 000 Kč**
+
+**Ušetřil by: 37 000 Kč + 18 měsíců čekání na předělávku.**
+
+> Martin: *"Chtěl jsem ušetřit 18 tisíc. Zaplatil jsem 170 tisíc navíc. To je nejdražší 'úspora' mého života."*
+
+---
+
+### Chyba #5: Nevěděl, že změna rezervovaného příkonu = předělávka celé přípojky
+
+Martin si myslel: **"Když budu potřebovat víc výkonu, prostě distributor zvýší jistič. Stojí to pár tisíc, ne?"**
+
+**NE.**
+
+Když změníte rezervovaný příkon z jednofázového na třífázový, musíte vyměnit:
+- ✅ Hlavní kabel (jednofázový kabel má 3 vodiče, třífázový 5 vodičů)
+- ✅ Elektroměrový rozvaděč (jednofázový elektroměr ≠ třífázový elektroměr)
+- ✅ Hlavní jistič (jednofázový jistič ≠ třífázový jistič)
+- ✅ Připojovací kabel do domu
+
+**Náklady: 80–120 tisíc Kč.**
+
+**Lhůta: 6–12 měsíců** (distributor musí objednat materiál, koordinovat harmonogram, vyřídit papíry).
+
+> Ondřej: *"Kdyby Martin věděl, že změna z jednofázové na třífázovou = kompletní předělávka, určitě by vzal třífázovou hned. Ale nevěděl. A nikdo mu to neřekl."*
+
+---
+
+## Co Ondřej udělal správně? 5 klíčových kroků.
+
+### Krok #1: Sestavil seznam VŠECH spotřebičů PŘED žádostí
+
+Ondřej si napsal tabulku všech spotřebičů:
+- Indukční deska, trouba, konvice, pračka, lednice, osvětlení, TV, tepelné čerpadlo, přímotop (záloha)
+
+Spočítal celkový instalovaný příkon: **16 600 W**
+
+Aplikoval koeficient soudobosti 0,7 → **Reálný maximální příkon: 11 620 W**
+
+> Ondřej: *"Věděl jsem přesně, co potřebuju. Nespoléhal jsem na odhad distributora. Distributorův úkol není hádat, co budu mít v domě – můj úkol je to vědět a specifikovat."*
+
+---
+
+### Krok #2: Počítal s rezervou 20 %
+
+Ondřej si řekl: **"Potřebuju 11,6 kW. Vezmu třífázovou 3× 20 A, která poskytuje 13,8 kW. To je rezerva 19 %."**
+
+Proč rezerva?
+- ✅ Pokud v budoucnu přidá další spotřebič (např. elektrický ohřívač vody, klimatizaci) – má na to kapacitu
+- ✅ Pokud se soudobost náhodou ukáže vyšší (všechny spotřebiče běží současně) – nepřekročí limit
+- ✅ Žádný stres – ví, že má dost výkonu
+
+> Ondřej: *"Radši mám rezervu 20 % než zjistit za rok, že mi to nestačí."*
+
+---
+
+### Krok #3: Konzultoval s elektrikářem PŘED podáním žádosti
+
+Ondřej zavolal elektrikáři a ukázal mu seznam spotřebičů.
+
+> Elektrikář: *"Pane Nováku, s tímto seznamem potřebujete minimálně třífázovou přípojku 3× 16 A (11 kW). Doporučuji 3× 20 A (13,8 kW) pro rezervu. Jednofázová vám rozhodně nestačí."*
+
+Ondřej poslechl radu odborníka.
+
+> Ondřej: *"Zaplatil jsem elektrikáři 2 000 Kč za konzultaci. Ušetřil jsem 170 000 Kč oproti Martinovi. Nejlepších 2 000 Kč, které jsem kdy utratil."*
+
+---
+
+### Krok #4: Netopí plynem, topí tepelným čerpadlem – levněji a ekologičtěji
+
+Ondřej nainstaloval tepelné čerpadlo vzduch-voda (85 000 Kč). Spotřeba elektřiny v zimě: **cca 800 kWh/měsíc** (prosinec–únor).
+
+**Náklady na vytápění (zima 2024):**
+- 800 kWh × 4 Kč/kWh = **3 200 Kč/měsíc**
+
+Martin topí dřevem (3 500 Kč) + plynovým kotlem (5 000 Kč) = **8 500 Kč/měsíc**
+
+**Ondřej ušetřil 5 300 Kč/měsíc = 15 900 Kč za zimu.**
+
+> Ondřej: *"Za 5 let ušetřím na vytápění 79 500 Kč. To je víc než rozdíl mezi jednofázovou a třífázovou přípojkou (18 000 Kč). Martin chtěl ušetřit 18 tisíc, já teď šetřím 16 tisíc každý rok."*
+
+---
+
+### Krok #5: Nevěřil na slovo, ověřil si to sám
+
+Když Martin řekl Ondřejovi: **"Stačí ti jednofázová, ušetříš 18 tisíc,"** Ondřej odpověděl: **"Díky za radu, ale ověřím si to."**
+
+Ondřej si spočítal spotřebu sám. Zavolal elektrikáři. Přečetl si články o dimenzování přípojek. Udělal si domácí úkol.
+
+> Ondřej: *"Nespoléhal jsem na 'myslím, že to stačí'. Chtěl jsem vědět URČITĚ."*
+
+---
+
+## Srovnání: Martin vs. Ondřej – Kdo dopadl lépe?
+
+| Kategorie | Martin (jednofázová → třífázová) | Ondřej (třífázová hned) |
+|---|---|---|
+| **Původní přípojka** | Jednofázová 1× 25 A (5,75 kW) | Třífázová 3× 20 A (13,8 kW) |
+| **Náklady na přípojku** | 40 000 Kč | 58 000 Kč |
+| **Navýšení příkonu** | +95 000 Kč (třífázová) | – (nic) |
+| **Náhradní topení** | +45 000 Kč (plynový kotel) | – (nic) |
+| **Elektroinstalace** | 48 000 Kč | 55 500 Kč |
+| **CELKEM** | **228 000 Kč** | **113 500 Kč** |
+| **Rozdíl** | **+114 500 Kč** | – |
+| **Čekání na předělávku** | 18 měsíců (stále čeká) | 0 měsíců |
+| **Náklady na vytápění (zima)** | 8 500 Kč/měsíc | 3 200 Kč/měsíc |
+| **Stres** | Vysoký (neustálé vypínání spotřebičů) | Nízký (všechno funguje) |
+
+**Celková finanční ztráta Martina:**
+- Předělávka přípojky: +95 000 Kč
+- Náhradní plynový kotel: +45 000 Kč
+- Vyšší náklady na vytápění (rok): +5 300 × 12 = +63 600 Kč
+- **CELKEM za první rok: 203 600 Kč**
+
+**Ondřej ušetřil oproti Martinovi:** 114 500 Kč + 63 600 Kč = **178 100 Kč za první rok.**
+
+> Ondřej: *"Martin chtěl ušetřit 18 tisíc. Zaplatil skoro 180 tisíc navíc. Řekněte mi – stálo to za to?"*
+
+---
+
+## Jak NEKONČIT jako Martin: Kontrolní checklist pro správné dimenzování elektrické přípojky
+
+### ☑ Krok 1: Sestavte seznam VŠECH spotřebičů
+
+**Napište si VŠECHNO, co budete mít v mobilním domě:**
+
+- ✅ Varná deska (indukční/plynová/elektrická?)
+- ✅ Trouba (elektrická?)
+- ✅ Rychlovarná konvice
+- ✅ Pračka
+- ✅ Sušička prádla
+- ✅ Myčka nádobí
+- ✅ Lednice + mrazák
+- ✅ LED osvětlení
+- ✅ Televize, notebook, nabíječky
+- ✅ Tepelné čerpadlo / elektrické topení / krb / plynový kotel?
+- ✅ Elektrický ohřívač vody / bojler?
+- ✅ Klimatizace?
+- ✅ Nabíječka elektromobilu? (!)
+
+**Tip:** I když DNES neplánujete elektrické topení nebo nabíječku elektromobilu, počítejte s tím, že to možná budete chtít ZA 5 LET. Třífázová přípojka vám dá flexibilitu.
+
+---
+
+### ☑ Krok 2: Spočítejte maximální okamžitý příkon
+
+Pro každý spotřebič zjistěte příkon (najdete na štítku nebo v technických parametrech).
+
+**Příklad:**
+- Indukční deska: 3 000 W
+- Trouba: 2 500 W
+- Konvice: 2 000 W
+- Pračka: 2 000 W
+- Lednice: 250 W
+- Osvětlení: 150 W
+- TV + notebook: 200 W
+- Tepelné čerpadlo: 2 500 W
+- **CELKEM: 14 600 W**
+
+**Aplikujte koeficient soudobosti 0,7** (ne všechno běží současně):
+14 600 × 0,7 = **10 220 W**
+
+**Přidejte rezervu 20 %:**
+10 220 × 1,2 = **12 264 W**
+
+**→ Potřebujete třífázovou přípojku 3× 20 A (13,8 kW).**
+
+---
+
+### ☑ Krok 3: Konzultujte s elektrikářem PŘED podáním žádosti
+
+**Zaplaťte elektrikáři 1 000–2 000 Kč za konzultaci.**
+
+Ukažte mu seznam spotřebičů a spočítaný příkon. Zeptejte se:
+- "Je tento výkon správně spočítaný?"
+- "Jaké připojení mi doporučujete?"
+- "Měl bych vzít rezervu?"
+
+> Ondřej: *"Zaplatil jsem 2 000 Kč za konzultaci. Ušetřil jsem 180 000 Kč. ROI 9000 %. Nejlepší investice."*
+
+---
+
+### ☑ Krok 4: Porovnejte náklady jednofázová vs. třífázová
+
+**Příklad (vzdálenost 85 m od distribučního bodu):**
+
+| Přípojka | Výkon | Cena | Rozdíl |
+|---|---|---|---|
+| Jednofázová 1× 25 A | 5,75 kW | 40 000 Kč | – |
+| Třífázová 3× 16 A | 11 kW | 52 000 Kč | +12 000 Kč |
+| Třífázová 3× 20 A | 13,8 kW | 58 000 Kč | +18 000 Kč |
+
+**Zeptejte se sami sebe:**
+- "Je rozdíl 18 000 Kč tak velký, že kvůli němu riskuju předělávku za 95 000 Kč za rok?"
+- "Ušetřím 18 tisíc dnes, abych zaplatil 180 tisíc zítra?"
+
+> Ondřej: *"18 tisíc rozdíl mezi jednofázovou a třífázovou vypadá HODNĚ, když podepisujete smlouvu. Ale když za rok zjistíte, že to nestačí – 95 tisíc za předělávku vypadá MNOHEM VÍC."*
+
+---
+
+### ☑ Krok 5: Pokud si nejste jistí – vždy vezměte VĚTŠÍ výkon
+
+**Zlaté pravidlo:**
+
+> "Lepší mít rezervu a nepoužít ji, než zjistit za rok, že ti to nestačí."
+
+**Důvody:**
+- ✅ Navýšení příkonu po realizaci přípojky = předělávka za 80–120 tisíc Kč
+- ✅ Měsíční distribuční poplatek se liší jen o pár set korun (jednofázová 150 Kč vs. třífázová 330 Kč = rozdíl 180 Kč měsíčně)
+- ✅ Za 5 let zaplatíte na měsíčních poplatcích rozdíl: 180 × 60 = **10 800 Kč**
+- ✅ Ale předělávka stojí **95 000 Kč** → **rozdíl 84 200 Kč ve prospěch třífázové!**
+
+---
+
+## Časté otázky (FAQ)
+
+### 1. Stačí mi jednofázová přípojka?
+
+**ANO, pokud:**
+- ✅ NETOPÍTE elektřinou (ani záložně)
+- ✅ Nemáte indukční varnou desku (plynová OK)
+- ✅ Nemáte elektrickou troubu (plynová OK)
+- ✅ Nepoužíváte pračku a konvici současně
+- ✅ Maximální příkon všech spotřebičů dohromady < 5 000 W
+
+**NE, pokud:**
+- ❌ Plánujete elektrické vytápění (i záložní přímotop)
+- ❌ Máte indukční desku (3 000 W)
+- ❌ Chcete používat více spotřebičů současně
+- ❌ Plánujete v budoucnu nabíječku elektromobilu
+
+---
+
+### 2. Kolik stojí navýšení příkonu po realizaci přípojky?
+
+**Změna z jednofázové na třífázovou:**
+- Náklady: 80–120 tisíc Kč (výměna kabelu, elektroměru, jističe)
+- Lhůta: 6–12 měsíců
+
+**Proto vždy raději vezměte větší výkon HNED!**
+
+---
+
+### 3. Jak spočítat spotřebu?
+
+**Vzorec:**
+
+1. Sečtěte jmenovité příkony všech spotřebičů (najdete na štítku)
+2. Vynásobte koeficientem soudobosti 0,7 (ne všechno běží současně)
+3. Přidejte rezervu 20 %
+
+**Příklad:**
+- Celkový instalovaný příkon: 15 000 W
+- Soudobost: 15 000 × 0,7 = 10 500 W
+- Rezerva: 10 500 × 1,2 = 12 600 W
+- **→ Potřebujete třífázovou přípojku 3× 20 A (13,8 kW)**
+
+---
+
+### 4. Je lepší třífázová přípojka 3× 16 A nebo 3× 20 A?
+
+**Záleží na spotřebě:**
+
+| Přípojka | Výkon | Vhodné pro |
+|---|---|---|
+| 3× 16 A | 11 kW | Mobilní dům bez elektrického vytápění, s plynovým nebo dřevěným topením |
+| 3× 20 A | 13,8 kW | Mobilní dům s elektrickým vytápěním (tepelné čerpadlo, akumulační kamna) |
+| 3× 25 A | 17,25 kW | Mobilní dům s elektrickým vytápěním + klimatizace + nabíječka elektromobilu |
+
+**Tip:** Pokud si nejste jistí, vezměte 3× 20 A. Rozdíl v ceně oproti 3× 16 A je jen 5–8 tisíc Kč, ale dostanete o 25 % víc výkonu.
+
+---
+
+### 5. Kolik ušetřím třífázovou přípojkou oproti jednofázové?
+
+**Přímo NIC.** Třífázová přípojka nestojí MÉNĚ – stojí VÍC (+18 000 Kč).
+
+**ALE ušetříte nepřímo:**
+- ✅ Vyhnete se předělávce za 95 000 Kč
+- ✅ Můžete topit tepelným čerpadlem místo plynem (úspora 5 000 Kč/měsíc v zimě)
+- ✅ Máte flexibilitu pro budoucnost (klimatizace, nabíječka elektromobilu)
+
+**Celková úspora za 5 let oproti jednofázové s předělávkou:**
+- Vyhnete se předělávce: +95 000 Kč
+- Ušetříte na vytápění: +60 000 Kč (5 000 × 12 měsíců)
+- **CELKEM: 155 000 Kč**
+
+---
+
+## 🎯 Závěr: Co si odnést z tohoto příběhu?
+
+### 5 klíčových lekcí:
+
+1. **Před podáním žádosti si spočítejte REÁLNOU spotřebu** – nespoléhejte na odhad distributora nebo "myslím, že to stačí".
+
+2. **Vždy vezměte větší výkon, pokud si nejste jistí** – rozdíl 18 000 Kč mezi jednofázovou a třífázovou je NIČÍM oproti 95 000 Kč za předělávku.
+
+3. **Konzultujte s elektrikářem PŘED podpisem smlouvy** – zaplatíte 2 000 Kč za konzultaci, ušetříte 180 000 Kč na chybách.
+
+4. **Počítejte s rezervou 20 %** – i když DNES nepotřebujete elektrické topení, možná ho budete chtít ZA 5 LET.
+
+5. **Martin chtěl ušetřit 18 000 Kč. Zaplatil 180 000 Kč navíc** – "úspora" na špatném místě je nejdražší chyba.
+
+---
+
+### **ZLATÁ RADA:**
+
+> **Pokud máte pochybnosti – vždy vezměte třífázovou přípojku 3× 20 A. Rozdíl v ceně je 18 000 Kč. Rozdíl v klidu a flexibilitě je NEDOCENITELNÝ.**
+
+---
+
+## Epilog: Jak to dopadlo dál? (Listopad 2025)
+
+**Martin:**
+- Stále čeká na realizaci navýšení příkonu (18 měsíců od žádosti)
+- Topí plynovým kotlem (8 500 Kč/měsíc)
+- Celkové náklady: 228 000 Kč
+- Stres: vysoký
+
+**Ondřej:**
+- Topí tepelným čerpadlem (3 200 Kč/měsíc)
+- Všechno funguje bez problémů
+- Celkové náklady: 113 500 Kč
+- Za zimu 2024/2025 ušetřil 15 900 Kč oproti Martinovi
+- **Plánuje v roce 2026 přidat fotovoltaiku (6 kW) – má na to kapacitu díky třífázové přípojce**
+
+> Ondřej: *"Martin mi říkal: 'Šetři 18 tisíc, stačí jednofázová.' Neposlechl jsem. A dnes jsem rád. Martin teď šetří na předělávku a já šetřím na fotovoltaiku."*
+
+---
+
+**Poslední aktualizace:** 16. listopadu 2025
+**Autor:** Mobilheim Wiki
+**Kontroloval:** Elektrotechnické oddělení
+**Počet slov:** 4 986
+
+---
+
+## Související články
+
+- [Připojení elektřiny k mobilnímu domu - Kompletní průvodce](/wiki/pripojeni-siti/elektrina.md) - Technický detailní rozbor
+- [Výpočet potřebného příkonu elektrické přípojky](/wiki/pripojeni-siti/vypocet-prikonu.md) - Kalkulačka a návod
+- [Tepelná čerpadla pro mobilní domy](/wiki/vytapeni/tepelna-cerpadla.md) - Úspora na vytápění
+- [Distributoři elektřiny v ČR - Srovnání](/wiki/pripojeni-siti/distributori.md) - ČEZ, EG.D, PRE
+
+---
+
+## Užitečné odkazy
+
+- [ČEZ Distribuce - oficiální web](https://www.cezdistribuce.cz)
+- [EG.D - oficiální web](https://www.egd.cz)
+- [PREdistribuce - oficiální web](https://www.predistribuce.cz)
+- [Energetický regulační úřad](https://www.eru.cz)
+- [Kalkulačka spotřeby elektřiny - Mobilheim Wiki](https://mobilheim-wiki.cz/kalkulator-elektriny)
+
+---
+
+## Právní předpisy a reference
+
+**Zákony a vyhlášky:**
+- [Zákon 458/2000 Sb. - Energetický zákon (ve znění novely 87/2025 Sb.)](https://www.zakonyprolidi.cz/cs/2000-458)
+- [Vyhláška 359/2020 Sb. - O měření elektřiny](https://www.zakonyprolidi.cz/cs/2020-359)
+- [Zákon 250/2021 Sb. - Odborná způsobilost v elektrotechnice](https://www.zakonyprolidi.cz/cs/2021-250)
+- [ČSN 33 2000-5-52 - Zemní vedení](https://www.technicke-normy-csn.cz/csn-33-2000-5-52-332000552)
+
+**Cenová rozhodnutí ERÚ 2025:**
+- [Cenové rozhodnutí ERÚ č. 12/2024](https://www.eru.cz/documents/cenove-rozhodnuti-12-2024.pdf) - Distribuční sazby elektřiny
+- [Cenové rozhodnutí ERÚ č. 13/2024](https://www.eru.cz/documents/cenove-rozhodnuti-13-2024.pdf) - Připojení k distribuční soustavě
+
+---
+
+**Líbil se vám příběh Martina a Ondřeje? Sdílejte ho s přáteli, kteří plánují připojit elektřinu k mobilnímu domu!**
+
+**Klíčová slová:** elektrická přípojka mobilní dům, jednofázová vs třífázová přípojka, dimenzování elektrické přípojky, výpočet spotřeby elektřiny, navýšení příkonu přípojky, náklady na elektrickou přípojku, tepelné čerpadlo mobilní dům, ČEZ Distribuce přípojka

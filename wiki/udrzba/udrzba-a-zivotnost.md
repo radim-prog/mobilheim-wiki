@@ -197,66 +197,66 @@ Ekonomické srovnání: běžná roční údržba při 100 % najímání firem s
 [1] U.S. Department of Housing and Urban Development (HUD). "Life Expectancy of Manufactured Homes." 2024.
     Dostupné z: https://www.hud.gov/
     Citováno: Manufactured homes have a life expectancy of 30 to 55 years depending on level of maintenance
-    Naposledy přístupné: 9. listopadu 2025
+    Naposledy přístupné: 16. listopadu 2025
 
 [2] Dřevostavitel.cz. "Životnost dřevostaveb a údržba." Nezávislý portál o dřevostavbách. 2025.
     Dostupné z: https://www.drevostavitel.cz/
     Citováno: Data o životnosti komponent, frekvenci údržby, cenách materiálů
-    Naposledy přístupné: 9. listopadu 2025
+    Naposledy přístupné: 16. listopadu 2025
 
 [3] ConsumerAffairs. "Home Maintenance Costs: a Breakdown (2025)."
     Dostupné z: https://www.consumeraffairs.com/homeowners/home-maintenance-cost-breakdown.html
     Citováno: General rule of thumb is to set aside 1-3% of the home's value annually
-    Naposledy přístupné: 9. listopadu 2025
+    Naposledy přístupné: 16. listopadu 2025
 
 [4] Star Supply USA. "Budgeting for Mobile Home Repair and Maintenance." 2025.
     Dostupné z: https://www.starsupplyusa.com/blogs/news/budgeting-for-mobile-home-repair-and-maintenance
     Citováno: Annual maintenance costs can range from $300 to $700 for newer homes
-    Naposledy přístupné: 9. listopadu 2025
+    Naposledy přístupné: 16. listopadu 2025
 
 [5] Zákon č. 183/2006 Sb., stavební zákon, § 129 - Povinnosti při užívání staveb
     Ministerstvo pro místní rozvoj ČR
     Dostupné z: https://www.zakonyprolidi.cz/cs/2006-183
-    Naposledy přístupné: 9. listopadu 2025
+    Naposledy přístupné: 16. listopadu 2025
 
 [6] NejŘemeslníci.cz. "Kolik stojí stavba domu 2025." 2025.
     Dostupné z: https://www.nejremeslnici.cz/blog/kolik-stoji-stavba-domu-cena-za-jednotlive-casti-stavby/
     Citováno: Data o cenách staveb a životnosti
-    Naposledy přístupné: 9. listopadu 2025
+    Naposledy přístupné: 16. listopadu 2025
 
 [7] FR Community. "Your Annual Manufactured Home Maintenance Checklist." 2025.
     Dostupné z: https://frcommunity.com/manufactured-home-maintenance-checklist/
     Citováno: Maintenance schedule recommendations
-    Naposledy přístupné: 9. listopadu 2025
+    Naposledy přístupné: 16. listopadu 2025
 
 [8] Blachotrapez. "Oprava střechy – cena, tipy a chyby." 2025.
     Dostupné z: https://www.blachotrapez.cz/cs/blog/oprava-strechy-kolik-stoji-a-jak-se-vyhnout-castym-chybam
     Citováno: Ceny oprav střech 300-800 Kč/m², příklad opravy plechové střechy 24 850 Kč
-    Naposledy přístupné: 9. listopadu 2025
+    Naposledy přístupné: 16. listopadu 2025
 
 [9] NejŘemeslníci.cz. "Rekonstrukce střechy." 2025.
     Dostupné z: https://www.nejremeslnici.cz/blog/rekonstrukce-strechy-kolik-stoji-a-co-vsechno-obnasi/
     Citováno: Náklady na elektroinstalaci 800-1500 Kč/m², revize 2-5 tisíc Kč
-    Naposledy přístupné: 9. listopadu 2025
+    Naposledy přístupné: 16. listopadu 2025
 
 [10] Mobilni-domy-prodej.cz. "Jak připravit mobilní dům na zimu?"
     Dostupné z: https://www.mobilni-domy-prodej.cz/blog/zazimovani-mobilniho-domu
     Citováno: Teplota nesmí klesnout pod 5 °C a nikdy pod bod mrazu
-    Naposledy přístupné: 9. listopadu 2025
+    Naposledy přístupné: 16. listopadu 2025
 
 [11] Mobilni-domy-prodej.cz. "Jak vytopit mobilheim?"
     Dostupné z: https://www.mobilni-domy-prodej.cz/blog/jak-vytopit-mobilheim
     Citováno: Způsoby vytápění, topné kabely, náklady na provoz
-    Naposledy přístupné: 9. listopadu 2025
+    Naposledy přístupné: 16. listopadu 2025
 
 [12] Mobilní Domky. "Mobilní domy před zimou." 2025.
     Dostupné z: https://www.mobilnidomky.cz/aktuality/mobilni-domy-pred-zimou/
     Citováno: Postup zazimování mobilního domu
-    Naposledy přístupné: 9. listopadu 2025
+    Naposledy přístupné: 16. listopadu 2025
 
 ---
 
-**Poslední aktualizace:** 9. listopadu 2025
+**Poslední aktualizace:** 16. listopadu 2025
 **Autor:** Mobilheim Wiki | Nový Rozměr Bydlení
 **Další revize plánována:** Listopad 2026
 **Počet slov:** 5847

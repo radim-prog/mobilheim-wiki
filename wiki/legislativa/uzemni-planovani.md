@@ -4,7 +4,7 @@
 
 V praxi to znamená, že před koupí jakéhokoliv pozemku pro mobilní dům musíte zjistit, zda je daná lokalita podle územního plánu určena pro bydlení, rekreaci nebo smíšené využití. Každá obec má svůj vlastní územní plán, který definuje funkční plochy - například čistě obytné zóny, rekreační oblasti, průmyslové areály nebo zemědělskou půdu. Mobilní dům můžete umístit pouze na pozemek v lokalitě, kde to územní plán výslovně umožňuje. Kontrola územního plánu je tedy úplně první krok před jakoukoliv investicí.
 
-**Důležitá legislativní aktualizace (2024):** Územní plánování v České republice prošlo v posledních letech zásadní změnou. Od 1. července 2024 platí nový stavební zákon č. 283/2021 Sb. společně s vyhláškou č. 146/2024 Sb., která nahradila dřívější vyhlášky č. 500/2006 Sb. a č. 501/2006 Sb. Tato legislativní reforma významně změnila proces povolovacích řízení a zavedla nové kategorie staveb. Pro mobilní domy je klíčové, že jsou nově kategorizovány jako "výrobky plnící funkci stavby" s vyššími limity než klasické drobné stavby - konkrétně až 55 m² zastavěné plochy místo původních 40 m². To v praxi znamená větší svobodu při výběru velikosti mobilního domu, ale stále platí povinnost získat územní rozhodnutí, územní souhlas nebo veřejnoprávní smlouvu před umístěním mobilního domu na pozemek.
+**Důležitá legislativní aktualizace (2024-2025):** Územní plánování v České republice prošlo v posledních letech zásadní změnou. Od 1. ledna 2024 platí nový stavební zákon č. 283/2021 Sb. a od 1. července 2024 nová vyhláška č. 146/2024 Sb., která nahradila dřívější vyhlášky č. 500/2006 Sb. a č. 501/2006 Sb. Tato legislativní reforma významně změnila proces povolovacích řízení a zavedla nové kategorie staveb. Pro mobilní domy je klíčové, že jsou nově kategorizovány jako "výrobky plnící funkci stavby" s vyššími limity než klasické drobné stavby - konkrétně až 55 m² zastavěné plochy místo původních 40 m². To v praxi znamená větší svobodu při výběru velikosti mobilního domu, ale stále platí povinnost získat územní rozhodnutí, územní souhlas nebo veřejnoprávní smlouvu před umístěním mobilního domu na pozemek.
 
 V tomto článku se dozvíte, jak funguje územní plánování v České republice, kde a jak zjistit údaje o funkčním využití konkrétního pozemku, jaké kategorie ploch umožňují umístění mobilního domu, jak číst územní plán, a co dělat, pokud váš pozemek není podle současného územního plánu určen pro váš záměr. Provedeme vás krok za krokem celým procesem od vyhledání územního plánu přes jeho interpretaci až po podání žádosti o územní souhlas nebo změnu územního plánu.
 
@@ -22,7 +22,7 @@ Každá obec v České republice má povinnost mít zpracovaný územní plán. 
 
 ## Základní právní rámec územního plánování
 
-Územní plánování v České republice upravuje zákon č. 283/2021 Sb., stavební zákon, který nabyl účinnosti 1. července 2024 a nahradil předchozí stavební zákon č. 183/2006 Sb.[5] Tento nový zákon přinesl zásadní změny v celém systému povolování staveb i územního plánování. Klíčovou změnou je integrace procesů - zatímco dříve existovalo samostatné územní řízení a stavební řízení, nový zákon tyto procesy slučuje do jednoho integrovaného řízení, což má urychlit a zjednodušit celý povolovací proces.
+Územní plánování v České republice upravuje zákon č. 283/2021 Sb., stavební zákon, který nabyl účinnosti 1. ledna 2024 a nahradil předchozí stavební zákon č. 183/2006 Sb.[5] Tento nový zákon přinesl zásadní změny v celém systému povolování staveb i územního plánování. Klíčovou změnou je integrace procesů - zatímco dříve existovalo samostatné územní řízení a stavební řízení, nový zákon tyto procesy slučuje do jednoho integrovaného řízení, což má urychlit a zjednodušit celý povolovací proces.
 
 Zákon definuje několik úrovní územně plánovací dokumentace. Nejvyšší je Politika územního rozvoje České republiky, kterou schvaluje vláda a která stanovuje strategické směry rozvoje celého státu - například koridory pro dopravní infrastrukturu celostátního významu nebo oblasti, které je třeba chránit.[6] Na úrovni krajů existují Zásady územního rozvoje kraje, které konkretizují republikové priority pro území kraje a koordinují rozvoj více obcí.[7] Pro běžného občana je ale nejdůležitější Územní plán obce, který vydává zastupitelstvo obce formou opatření obecné povahy a který konkrétně určuje využití území v dané obci.[8]
 
@@ -869,7 +869,7 @@ Mobilní dům 55 m² teoreticky můžete umístit i na pozemek 200 m², ale v pr
 ---
 
 **Poslední aktualizace:** 16. listopadu 2025
-**Autor:** Expert na územní plánování - Nový Rozměr Bydlení
+**Autor:** Expert na územní plánování - Mobilheim Wiki
 **Další revize plánována:** Květen 2026
 
 **Upozornění:** Tento článek poskytuje obecný přehled územního plánování pro mobilní domy v České republice. Každý konkrétní případ může mít specifika, proto vždy doporučujeme konzultaci se stavebním úřadem příslušné obce nebo s autorizovaným architektem před podáním žádosti o územní souhlas nebo změnu územního plánu.

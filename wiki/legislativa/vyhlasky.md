@@ -152,7 +152,7 @@ Přirozené větrání se realizuje otevíratelnými okny, které umožňují in
 
 Nucené větrání (vzduchotechnika) se používá v případech, kdy přirozené větrání okny není dostatečné nebo je nevhodné z důvodu hluku, prachu nebo extrémních teplot venku. Nucené větrání může být realizováno jednoduchým odtahovým ventilátorem v koupelně a na WC (minimální výkon 50 m³/h pro koupelnu, 25 m³/h pro WC) nebo komplexním systémem s rekuperací tepla, který kromě výměny vzduchu také předehřívá přiváděný čerstvý vzduch teplem z odváděného vzduchu, čímž výrazně snižuje tepelné ztráty.
 
-Podle § 4 odst. 1 vyhlášky nesmí koncentrace oxidu uhličitého (CO₂) v obytných místnostech při běžném užívání překročit hodnotu 1 500 ppm (parts per million, částic na milion). Venkovní vzduch má přirozenou koncentraci CO₂ kolem 400 až 450 ppm. Koncentrace nad 1 000 ppm způsobuje únavu, bolesti hlavy a snížení koncentrace, koncentrace nad 1 500 ppm je považována za zdraví škodlivou při dlouhodobém působení. V praxi to znamená, že při pobytu více osob v jedné místnosti (například při spaní dvou až tří osob v ložnici) je nutné zajistit dostatečné větrání buď průběžným otevřením ventilačních otvorů v oknech nebo instalací nuceného větrání s časovým spínačem nebo senzorem CO₂.
+Podle § 4 odst. 1 vyhlášky nesmí koncentrace oxidu uhličitého (CO₂) v obytných místnostech při běžném užívání překročit průměrnou hodnotu 1 200 ppm (parts per million, částic na milion), přičemž krátkodobý špičkový limit je 2 500 ppm. Venkovní vzduch má přirozenou koncentraci CO₂ kolem 400 až 450 ppm. Koncentrace nad 1 000 ppm způsobuje únavu, bolesti hlavy a snížení koncentrace, koncentrace nad 1 200 ppm je považována za zdraví škodlivou při dlouhodobém působení. V praxi to znamená, že při pobytu více osob v jedné místnosti (například při spaní dvou až tří osob v ložnici) je nutné zajistit dostatečné větrání buď průběžným otevřením ventilačních otvorů v oknech nebo instalací nuceného větrání s časovým spínačem nebo senzorem CO₂.
 
 ### Teplotní podmínky a vytápění podle § 5 vyhlášky
 
@@ -166,9 +166,9 @@ Topný systém může být realizován několika způsoby. Elektrické přímoto
 
 Vyhláška č. 43/2025 Sb. v příloze č. 1 stanovuje maximální přípustné koncentrace (limity) pro desítky chemických látek, které se mohou vyskytovat ve vnitřním prostředí budov. Pro mobilní domy jsou nejrelevantnější následující látky:
 
-**Formaldehyd** je těkavá organická látka uvolňovaná z některých stavebních materiálů, zejména ze starších dřevotřískových desek, překližek a laminátových podlah vyrobených před rokem 2010. Maximální přípustná koncentrace formaldehydu ve vnitřním vzduchu činí podle vyhlášky 100 μg/m³ (mikrogramů na metr krychlový vzduchu). Při překročení tohoto limitu dochází k podráždění očí, nosu a dýchacích cest. Moderní certifikované stavební materiály s označením E1 nebo E0 uvolňují formaldehyd v množství výrazně pod tímto limitem. Pokud používáte starší nebo nekvalitní materiály, doporučujeme zajistit dostatečné větrání zejména v prvních měsících po výstavbě nebo rekonstrukci, kdy je emise formaldehydu nejvyšší.
+**Formaldehyd** je těkavá organická látka uvolňovaná z některých stavebních materiálů, zejména ze starších dřevotřískových desek, překližek a laminátových podlah vyrobených před rokem 2010. Maximální přípustná koncentrace formaldehydu ve vnitřním vzduchu činí podle vyhlášky 50 μg/m³ (mikrogramů na metr krychlový vzduchu) jako hodinový limit. Při překročení tohoto limitu dochází k podráždění očí, nosu a dýchacích cest. Moderní certifikované stavební materiály s označením E1 nebo E0 uvolňují formaldehyd v množství výrazně pod tímto limitem. Pokud používáte starší nebo nekvalitní materiály, doporučujeme zajistit dostatečné větrání zejména v prvních měsících po výstavbě nebo rekonstrukci, kdy je emise formaldehydu nejvyšší.
 
-**Těkavé organické látky (VOC)** jsou souhrnné označení pro stovky chemických sloučenin uvolňovaných z barev, laků, lepidel, čisticích prostředků a kosmetiky. Celková koncentrace VOC (TVOC) ve vnitřním vzduchu by podle vyhlášky neměla překročit 300 μg/m³ při běžném užívání. Při malování nebo lepení podlahových krytin může koncentrace VOC krátkodobě vystoupat až na tisíce μg/m³, proto je nutné zajistit intenzivní větrání po dobu minimálně 2 až 4 týdnů po dokončení prací. Při výběru barev a laků doporučujeme preferovat výrobky s ekologickými certifikáty (Ekologicky šetrný výrobek, Modrý anděl, Nordic Swan), které garantují nízkou emisi VOC.
+**Těkavé organické látky (VOC)** jsou souhrnné označení pro stovky chemických sloučenin uvolňovaných z barev, laků, lepidel, čisticích prostředků a kosmetiky. Vyhláška č. 43/2025 Sb. stanovuje specifické limity pro jednotlivé VOC látky (například benzen 5 μg/m³, toluen 300 μg/m³, ethylbenzen 200 μg/m³) místo celkového limitu TVOC. Při malování nebo lepení podlahových krytin může koncentrace VOC krátkodobě vystoupat až na tisíce μg/m³, proto je nutné zajistit intenzivní větrání po dobu minimálně 2 až 4 týdnů po dokončení prací. Při výběru barev a laků doporučujeme preferovat výrobky s ekologickými certifikáty (Ekologicky šetrný výrobek, Modrý anděl, Nordic Swan), které garantují nízkou emisi VOC.
 
 **Azbestová vlákna** jsou nebezpečná karcinogenní látka, která se v minulosti používala v izolačních materiálech, eternitových střechách a podlahových krytinách. Vyhláška č. 43/2025 Sb. stanovuje maximální přípustnou koncentraci azbestových vláken 1 000 vláken na metr krychlový vzduchu. V mobilních domech vyrobených po roce 2005 by neměl být azbest přítomen, protože jeho použití bylo v ČR zakázáno od roku 2005. Pokud renovujete starší mobilní dům vyrobený před rokem 2005, doporučujeme před zahájením prací provést diagnostiku přítomnosti azbestu a případné sanační práce svěřit specializované firmě s oprávněním k nakládání s azbestem.
 
@@ -262,11 +262,11 @@ a) objekty a prostory určené k pracovním činnostem a shromažďování osob 
 
 ### Vyhláška č. 43/2025 Sb., § 4 – Kvalita vzduchu
 
-**(1)** Koncentrace oxidu uhličitého (CO₂) v obytných místnostech nesmí při běžném užívání překročit hodnotu 1 500 ppm.
+**(1)** Koncentrace oxidu uhličitého (CO₂) v obytných místnostech nesmí při běžném užívání překročit průměrnou hodnotu 1 200 ppm, přičemž krátkodobý špičkový limit je 2 500 ppm.
 
-**(2)** Koncentrace formaldehydu ve vnitřním vzduchu nesmí překročit hodnotu 100 μg/m³.
+**(2)** Koncentrace formaldehydu ve vnitřním vzduchu nesmí překročit hodinový limit 50 μg/m³.
 
-**(3)** Celková koncentrace těkavých organických látek (TVOC) ve vnitřním vzduchu nesmí překročit hodnotu 300 μg/m³ při běžném užívání.
+**(3)** Koncentrace těkavých organických látek (VOC) ve vnitřním vzduchu jsou stanoveny individuálně pro konkrétní látky (například benzen 5 μg/m³, toluen 300 μg/m³, ethylbenzen 200 μg/m³) podle přílohy č. 2 vyhlášky.
 
 ## Reference a zdroje
 
@@ -318,7 +318,7 @@ ZRUŠENA s účinností od 1. března 2025, nahrazena vyhláškou č. 43/2025 Sb
 
 ---
 
-**Poslední aktualizace:** 16. listopadu 2025
+**Poslední aktualizace:** 16. listopadu 2025 (ověřeno na zakonyprolidi.cz)
 **Autor:** Legal Expert + Technical Writer pro Nový Rozměr Bydlení
 **Další revize plánována:** Květen 2026
 **Poznámka:** Všechny právní texty a odkazy na vyhlášky byly ověřeny k datu aktualizace. Před zahájením stavby nebo rekonstrukce mobilního domu doporučujeme konzultaci s místním stavebním úřadem a autorizovanou osobou v oboru požární bezpečnost.

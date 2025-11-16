@@ -2,7 +2,7 @@
 
 Metodiky Ministerstva pro místní rozvoj (MMR) jsou nezávazné interpretační dokumenty, které vysvětlují stavebním úřadům a investorům, jak správně aplikovat stavební zákon v praxi. V oblasti mobilních domů hrají metodiky klíčovou roli, protože tato specifická kategorie objektů stojí na pomezí mezi výrobky a stavbami, což v minulosti vedlo k odlišným výkladům různých úřadů a k právní nejistotě. Metodické pokyny MMR sjednocují přístup stavebních úřadů a poskytují jasnou orientaci investorům, kteří plánují pořízení mobilního domu. I když metodiky nemají právní sílu zákona, v praxi jsou respektovány jako autoritativní výklad legislativy a výrazně ovlivňují rozhodování úřadů.
 
-Problematika metodických stanovisek nabyla na významu zejména s příchodem nového stavebního zákona č. 283/2021 Sb., který nabyl účinnosti 1. července 2024 a přinesl zásadní změny v kategorizaci staveb. Zatímco za platnosti starého zákona č. 183/2006 Sb. byly mobilní domy relativně jednoznačně považovány za „výrobky plnící funkci stavby" nevyžadující stavební povolení do velikosti 55 m², nový zákon výrazně zpřísnil podmínky a snížil limit na 40 m² pro obytnépozemky. Tato změna vyvolala řadu dotazů ze strany výrobců, prodejců i budoucích majitelů mobilních domů, což vedlo MMR k vydání aktualizovaných metodických stanovisek v březnu a červenci 2025.
+Problematika metodických stanovisek nabyla na významu zejména s příchodem nového stavebního zákona č. 283/2021 Sb., který nabyl účinnosti 1. ledna 2024 a přinesl zásadní změny v kategorizaci staveb. Zatímco za platnosti starého zákona č. 183/2006 Sb. byly mobilní domy relativně jednoznačně považovány za „výrobky plnící funkci stavby" nevyžadující stavební povolení do velikosti 55 m², nový zákon výrazně zpřísnil podmínky a snížil limit na 40 m² pro obytnépozemky. Tato změna vyvolala řadu dotazů ze strany výrobců, prodejců i budoucích majitelů mobilních domů, což vedlo MMR k vydání aktualizovaných metodických stanovisek v březnu a červenci 2025.
 
 Znalost metodických pokynů MMR je pro každého investora klíčová z několika důvodů. Za prvé, metodiky objasňují nejasnosti ve formulaci zákonných ustanovení a poskytují konkrétní příklady toho, co spadá pod kategorii drobné stavby a co už vyžaduje stavební povolení. Za druhé, pokud dojde ke sporu se stavebním úřadem, můžete se odvolávat na oficiální stanovisko MMR, které má značnou váhu při odvolacím řízení. Za třetí, metodiky často předjímají budoucí legislativní vývoj a upozorňují na připravované změny v právních předpisech. Proto je jejich pravidelné sledování nezbytné pro úspěšnou realizaci projektu mobilního domu.
 
@@ -18,7 +18,7 @@ Metodické činnosti MMR jsou zakotveny přímo ve stavebním zákoně č. 283/2
 
 Pro oblast mobilních domů je metodická činnost MMR obzvlášť důležitá, protože stavební zákon sám neobsahuje výslovnou definici mobilního domu ani detailní podmínky pro jeho umisťování. Zákon pouze obecně hovoří o „drobných stavbách" a „výrobcích plnících funkci stavby", aniž by blíže specifikoval, které konkrétní typy objektů do těchto kategorií spadají. Právě metodiky MMR tuto mezeru vyplňují tím, že poskytují praktické příklady, definují technické parametry a vysvětlují, jak rozlišovat mezi mobilním domem nevyžadujícím povolení a stavbou podléhající standardnímu povolovacímu procesu.
 
-MMR pravidelně aktualizuje své metodické pokyny v reakci na legislativní změny, dotazy stavebních úřadů a praktické zkušenosti z terénu. Po nabytí účinnosti nového stavebního zákona v červenci 2024 se ukázalo, že mnoho stavebních úřadů vyžadovalo detailnější pokyny k posuzování mobilních domů, což vedlo k vydání aktualizovaných metodik v březnu a červenci 2025. Tyto dokumenty jsou volně dostupné na webových stránkách MMR (www.mmr.cz) v sekci věnované stavebnímu právu a metodickým pokynům.
+MMR pravidelně aktualizuje své metodické pokyny v reakci na legislativní změny, dotazy stavebních úřadů a praktické zkušenosti z terénu. Po nabytí účinnosti nového stavebního zákona v lednu 2024 se ukázalo, že mnoho stavebních úřadů vyžadovalo detailnější pokyny k posuzování mobilních domů, což vedlo k vydání aktualizovaných metodik v březnu a listopadu 2025. Tyto dokumenty jsou volně dostupné na webových stránkách MMR (www.mmr.cz) v sekci věnované stavebnímu právu a metodickým pokynům.
 
 ## Co jsou metodiky a jaký mají právní význam
 
@@ -50,11 +50,11 @@ Klíčovým přínosem této první metodiky bylo zavedení konceptu „výrobku
 
 Metodika z roku 2022 však zároveň zdůrazňovala, že i mobilní domy jako výrobky musí respektovat územně plánovací požadavky a obvykle vyžadují územní rozhodnutí nebo územní souhlas. To znamenalo, že investor sice nepotřeboval stavební povolení, ale musel získat souhlas s umístěním objektu na konkrétním pozemku, aby bylo ověřeno, že umístění odpovídá územnímu plánu obce. Tato dvojkolejnost – žádné stavební povolení, ale povinnost územního souhlasu – vyvolávala určité nejasnosti, protože ne všichni investoři chápali rozdíl mezi těmito dvěma správními procesy.
 
-S nabytím účinnosti nového stavebního zákona č. 283/2021 Sb. dnem 1. července 2024 došlo k zásadní změně právního režimu. Nový zákon zavedl kategorii „drobných staveb" definovaných v příloze č. 1 k zákonu, které jsou kompletně osvobozeny nejen od stavebního povolení, ale i od územního rozhodování, pokud splňují přesně stanovené parametry. Tato změna vyžadovala aktualizaci metodických stanovisek MMR, aby reflektovala novou legislativu.
+S nabytím účinnosti nového stavebního zákona č. 283/2021 Sb. dnem 1. ledna 2024 došlo k zásadní změně právního režimu. Nový zákon zavedl kategorii „drobných staveb" definovaných v příloze č. 1 k zákonu, které jsou kompletně osvobozeny nejen od stavebního povolení, ale i od územního rozhodování, pokud splňují přesně stanovené parametry. Tato změna vyžadovala aktualizaci metodických stanovisek MMR, aby reflektovala novou legislativu.
 
 V březnu 2025 MMR vydalo obecnou metodiku k drobným stavbám podle přílohy č. 1 nového stavebního zákona, která mimo jiné obsahovala i sekci o mobilních domech. Tato metodika snížila maximální povolenou zastavěnou plochu mobilního domu bez povolení z původních 55 m² na 40 m² pro pozemky určené k bydlení a ponechala 55 m² pouze pro pozemky k rekreaci. Metodika také zpřísnila podmínky tím, že požadovala, aby nejméně 50 % plochy pozemku zůstalo propustné pro dešťovou vodu, a stanovila povinnou vzdálenost minimálně 2 metry od hranic pozemku.
 
-Následně v červenci 2025 MMR vydalo speciální aktualizované metodické stanovisko věnované výhradně mobilním domům, které reagovalo na četné dotazy ze strany výrobců, prodejců a investorů ohledně nových podmínek. Tato nejnovější metodika detailně vysvětluje, jaké mobilní domy spadají pod kategorii drobných staveb, které vyžadují ohlášení jako jednoduché stavby a které podléhají plnému stavebnímu povolení jako běžné stavby. Dále se zabývá otázkou následných úprav mobilních domů a tím, kdy takové úpravy způsobí ztrátu statusu výrobku a nutnost dodatečného povolení.
+Následně v listopadu 2025 MMR vydalo speciální aktualizované metodické stanovisko věnované výhradně mobilním domům, které reagovalo na četné dotazy ze strany výrobců, prodejců a investorů ohledně nových podmínek. Tato nejnovější metodika detailně vysvětluje, jaké mobilní domy spadají pod kategorii drobných staveb, které vyžadují ohlášení jako jednoduché stavby a které podléhají plnému stavebnímu povolení jako běžné stavby. Dále se zabývá otázkou následných úprav mobilních domů a tím, kdy takové úpravy způsobí ztrátu statusu výrobku a nutnost dodatečného povolení.
 
 Porovnání metodik z roku 2022 a 2025 ukazuje na zásadní přísnější přístup v nové legislativě. Zatímco dříve investor mohl umístit mobilní dům do 55 m² prakticky bez jakéhokoliv povolovacího procesu (pouze s územním souhlasem), nyní musí splnit řadu dodatečných podmínek a u větších objektů nebo objektů nesplňujících parametry drobné stavby projít klasickým stavebním řízením. Tento posun odráží obecný trend v evropské i české legislativě směrem k přísnějším požadavkům na kvalitu a bezpečnost bydlení a k ochraně území před nekontrolovanou zástavbou.
 
@@ -84,9 +84,9 @@ V kontextu mobilních domů metodika objasňuje, že mobilní dům může být p
 
 Metodika k drobným stavbám dále zdůrazňuje, že všechny uvedené podmínky musí být splněny současně. Pokud mobilní dům nevyhoví byť jediné z nich, nemůže být považován za drobnou stavbu a vyžaduje buď ohlášení jako jednoduchá stavba, nebo stavební povolení jako běžná stavba podle § 158 a následujících stavebního zákona.
 
-### Metodika mobilních domů (červenec 2025)
+### Metodika mobilních domů (listopad 2025)
 
-Druhým klíčovým dokumentem je speciální „Metodické doporučení k mobilním domům", aktualizované a zveřejněné 1. července 2025. Tento dokument se věnuje výhradně problematice mobilních domů a jejich klasifikace podle nového stavebního zákona. Metodika má 36 stran a je doplněna praktickými příklady, fotografiemi různých typů mobilních domů a rozhodovacími schématy.
+Druhým klíčovým dokumentem je speciální „Metodické doporučení k mobilním domům", aktualizované a zveřejněné 5. listopadu 2025. Tento dokument se věnuje výhradně problematice mobilních domů a jejich klasifikace podle nového stavebního zákona. Metodika má 36 stran a je doplněna praktickými příklady, fotografiemi různých typů mobilních domů a rozhodovacími schématy.
 
 Tato metodika jako první vymezuje samotný pojem mobilní dům, který stavební zákon nedefinuje. Podle stanoviska MMR je mobilní dům „obydlí umožňující transport z místa na místo, určené k dočasnému nebo trvalému bydlení či rekreaci, typicky jednopodlažní o výšce kolem 2-4 metrů a hmotnosti 2-8 tun, s variabilním půdorysem, vyrobené průmyslově v továrně jako kompletní jednotka nebo skládající se z několika transportovatelných modulů."
 
@@ -98,7 +98,7 @@ Metodika dále rozlišuje tři základní kategorie mobilních domů z hlediska 
 
 **Kategorie C: Mobilní domy vyžadující povolení** – objekty překračující parametry drobné stavby nebo nesplňující některou z požadovaných podmínek. Tyto mobilní domy podléhají buď ohlášení podle § 115 zákona (jednoduché stavby do určité velikosti), nebo plnému stavebnímu povolení podle § 158 a násl. (běžné stavby).
 
-Metodika z července 2025 se podrobně zabývá také otázkou následných úprav a změn mobilních domů, což je v praxi velmi častý problém. Investor často zakoupí standardní mobilní dům a následně jej chce upravit podle svých potřeb – dostavět terasu, zvětšit okna, přidat zateplení nebo změnit vnitřní dispozice. Metodika MMR v této věci zaujímá jednoznačné stanovisko:
+Metodika z listopadu 2025 se podrobně zabývá také otázkou následných úprav a změn mobilních domů, což je v praxi velmi častý problém. Investor často zakoupí standardní mobilní dům a následně jej chce upravit podle svých potřeb – dostavět terasu, zvětšit okna, přidat zateplení nebo změnit vnitřní dispozice. Metodika MMR v této věci zaujímá jednoznačné stanovisko:
 
 Pokud jsou na mobilním domě po jeho umístění na pozemek provedeny jakékoliv z následujících úprav, přestává být objektem s vlastnostmi zaručenými výrobcem a stává se klasickou stavbou podléhající stavebnímu zákonu:
 
@@ -145,7 +145,7 @@ Všechny aktuální metodické pokyny MMR jsou volně dostupné na oficiálních
 
 Pro usnadnění přístupu uvádíme přímé odkazy na nejdůležitější metodické dokumenty:
 
-- **Metodika k mobilním domům (červenec 2025):** https://mmr.gov.cz/cs/ministerstvo/stavebni-pravo/pravo-a-legislativa/novy-stavebni-zakon/metodiky/mobilni-domy
+- **Metodika k mobilním domům (listopad 2025):** https://mmr.gov.cz/cs/ministerstvo/stavebni-pravo/pravo-a-legislativa/novy-stavebni-zakon/metodiky/mobilni-domy
 - **Metodika k drobným stavbám (březen 2025):** https://mmr.gov.cz/cs/ministerstvo/stavebni-pravo/pravo-a-legislativa/novy-stavebni-zakon/metodiky/stavby-podle-noveho-stavebniho-zakona/drobne-stavby-podle-zakona-c-283-2021-sb
 - **Obecný přehled metodik MMR:** https://mmr.gov.cz/cs/ministerstvo/stavebni-pravo/stanoviska-a-metodiky/uzemni-planovani/9-zakon-c-283-2021-sb
 
@@ -216,7 +216,7 @@ Pan Dvořák musí požádat o stavební povolení pro běžnou stavbu podle § 
 **Situace:** Pan Horák si před rokem pořídil mobilní dům o zastavěné ploše 38 m² a umístil jej na svůj pozemek jako drobnou stavbu bez povolení. Nyní chce k mobilnímu domu přistavět zastřešenou terasu o rozloze 12 m², která bude pevně připojena k mobilnímu domu a slouží jako venkovní posezení.
 
 **Aplikace metodiky:**
-Podle metodiky k mobilním domům z července 2025 tato přístavba způsobí ztrátu statusu drobné stavby, protože:
+Podle metodiky k mobilním domům z listopadu 2025 tato přístavba způsobí ztrátu statusu drobné stavby, protože:
 - Celková zastavěná plocha po přidání terasy bude 38 + 12 = 50 m², což překračuje limit 40 m² pro obytné pozemky
 - Přístavba pevně připojená k mobilnímu domu vytváří s ním funkční celek, který je posuzován jako jediná stavba
 - Metodika výslovně uvádí, že prodloužení nebo přístavby ve formě pergol nebo teras pevně spojené s mobilním domem vedou k nutnosti dodatečného povolení
@@ -335,34 +335,34 @@ Ministerstvo pro místní rozvoj ČR
 Dostupné online: https://www.zakonyprolidi.cz/cs/2021-283
 Naposledy ověřeno: 9. listopadu 2025
 
-[2] Metodické doporučení MMR k mobilním domům (aktualizace červenec 2025)
+[2] Metodické doporučení MMR k mobilním domům (aktualizace listopad 2025)
 Ministerstvo pro místní rozvoj ČR
 Dostupné online: https://mmr.gov.cz/cs/ministerstvo/stavebni-pravo/pravo-a-legislativa/novy-stavebni-zakon/metodiky/mobilni-domy
-Naposledy ověřeno: 9. listopadu 2025
+Naposledy ověřeno: 16. listopadu 2025
 
 [3] Metodika k drobným stavbám podle přílohy č. 1 zákona č. 283/2021 Sb. (březen 2025)
 Ministerstvo pro místní rozvoj ČR
 Dostupné online: https://mmr.gov.cz/cs/ministerstvo/stavebni-pravo/pravo-a-legislativa/novy-stavebni-zakon/metodiky/stavby-podle-noveho-stavebniho-zakona/drobne-stavby-podle-zakona-c-283-2021-sb
-Naposledy ověřeno: 9. listopadu 2025
+Naposledy ověřeno: 16. listopadu 2025
 
 [4] Metodika k jednoduchým stavbám podle přílohy č. 2 zákona č. 283/2021 Sb. (květen 2025)
 Ministerstvo pro místní rozvoj ČR
 Dostupné online: https://mmr.gov.cz/cs/ministerstvo/stavebni-pravo/pravo-a-legislativa/novy-stavebni-zakon/metodiky/stavby-podle-noveho-stavebniho-zakona/drobne-stavby-podle-zakona-c-283-2021-sb-(1)
-Naposledy ověřeno: 9. listopadu 2025
+Naposledy ověřeno: 16. listopadu 2025
 
 [5] Metodická pomůcka MMR k mobilním domům (květen 2022) – historický dokument
 Ministerstvo pro místní rozvoj ČR
 Dostupné online: https://mmr.gov.cz/getattachment/c94419bd-44f5-4a64-8120-3bbc12bcb00f/Mobilni-domy_5-2022.pdf.aspx
-Naposledy ověřeno: 9. listopadu 2025
+Naposledy ověřeno: 16. listopadu 2025
 
 [6] Nařízení Evropského parlamentu a Rady (EU) č. 305/2011 o stavebních výrobcích
 Úřední věstník Evropské unie
 Dostupné online: https://eur-lex.europa.eu/legal-content/CS/TXT/?uri=CELEX:32011R0305
-Naposledy ověřeno: 9. listopadu 2025
+Naposledy ověřeno: 16. listopadu 2025
 
 ---
 
-**Poslední aktualizace:** 9. listopadu 2025
+**Poslední aktualizace:** 16. listopadu 2025
 **Autor:** Mobilheim Wiki Editorial Team
 **Kontroloval:** Právní tým specializující se na stavební právo
 **Další revize plánována:** Květen 2026

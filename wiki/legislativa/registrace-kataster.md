@@ -361,26 +361,26 @@ Pro úplnost a transparentnost uvádíme níže výňatky z klíčových právn�
 [1] Zákon č. 89/2012 Sb., občanský zákoník, § 498 odst. 1
 Dostupné online: https://www.zakonyprolidi.cz/cs/2012-89
 Plné znění viz sekce "Právní texty" výše
-Naposledy přístupné: 9. listopadu 2025
+Naposledy přístupné: 16. listopadu 2025
 
 [2] Zákon č. 89/2012 Sb., občanský zákoník, § 506 odst. 1
 Dostupné online: https://www.zakonyprolidi.cz/cs/2012-89
-Naposledy přístupné: 9. listopadu 2025
+Naposledy přístupné: 16. listopadu 2025
 
 [3] Zákon č. 283/2021 Sb., stavební zákon, § 104 odst. 1
 Dostupné online: https://www.zakonyprolidi.cz/cs/2021-283
-Naposledy přístupné: 9. listopadu 2025
+Naposledy přístupné: 16. listopadu 2025
 
 [4] Ministerstvo pro místní rozvoj ČR. "Metodické stanovisko k mobilním domům." Červenec 2025.
 Dostupné: https://mmr.gov.cz/cs/ministerstvo/stavebni-pravo/stanoviska-a-metodiky
-Naposledy přístupné: 9. listopadu 2025
+Naposledy přístupné: 16. listopadu 2025
 
 [5] Rozsudek Nejvyššího soudu České republiky sp. zn. 22 Cdo 2200/2015 ze dne 29. června 2016
 Dostupné v databázi Nejvyššího soudu: www.nsoud.cz
-Naposledy přístupné: 9. listopadu 2025
+Naposledy přístupné: 16. listopadu 2025
 
 [6] Zákon č. 283/2021 Sb., stavební zákon, § 104 odst. 1 písm. d)
-Naposledy přístupné: 9. listopadu 2025
+Naposledy přístupné: 16. listopadu 2025
 
 [7] ČSN EN 1647+A1. Rekreační vozidla – Obytné přívěsy – Požadavky na stavbu obytných částí týkající se obydlí a bezpečnosti.
 Praha: Český normalizační institut, 2010.
@@ -388,104 +388,104 @@ Dostupné z: https://www.cnni.cz (zpoplatněná norma)
 
 [8] Zákon č. 338/1992 Sb., o dani z nemovitých věcí, § 7 odst. 1
 Dostupné online: https://www.zakonyprolidi.cz/cs/1992-338
-Naposledy přístupné: 9. listopadu 2025
+Naposledy přístupné: 16. listopadu 2025
 
 [9] Zákon č. 133/2000 Sb., o evidenci obyvatel, § 2 odst. 3
 Dostupné online: https://www.zakonyprolidi.cz/cs/2000-133
-Naposledy přístupné: 9. listopadu 2025
+Naposledy přístupné: 16. listopadu 2025
 
 [10] Zákon č. 89/2012 Sb., občanský zákoník, § 506 odst. 2
-Naposledy přístupné: 9. listopadu 2025
+Naposledy přístupné: 16. listopadu 2025
 
 [11] Zákon č. 89/2012 Sb., občanský zákoník, § 1240 a následující
-Naposledy přístupné: 9. listopadu 2025
+Naposledy přístupné: 16. listopadu 2025
 
 [12] Zákon č. 256/2013 Sb., o katastru nemovitostí (katastrální zákon), § 2 písm. d)
 Dostupné online: https://www.zakonyprolidi.cz/cs/2013-256
-Naposledy přístupné: 9. listopadu 2025
+Naposledy přístupné: 16. listopadu 2025
 
 [13] Zákon č. 200/1994 Sb., o zeměměřictví, § 14
 Dostupné online: https://www.zakonyprolidi.cz/cs/1994-200
-Naposledy přístupné: 9. listopadu 2025
+Naposledy přístupné: 16. listopadu 2025
 
 [14] Vyhláška č. 357/2013 Sb., o katastru nemovitostí (katastrální vyhláška), § 44 a násl.
 Dostupné online: https://www.zakonyprolidi.cz/cs/2013-357
-Naposledy přístupné: 9. listopadu 2025
+Naposledy přístupné: 16. listopadu 2025
 
 [15] VISIONPLAN-3D s.r.o. "Cena geometrického plánu (2025)."
 Dostupné: https://www.visionplan.cz/cena-geometrickeho-planu/
-Naposledy přístupné: 9. listopadu 2025
+Naposledy přístupné: 16. listopadu 2025
 
 [16] Zákon č. 256/2013 Sb., o katastru nemovitostí, § 78 odst. 4
-Naposledy přístupné: 9. listopadu 2025
+Naposledy přístupné: 16. listopadu 2025
 
 [17] Zákon č. 256/2013 Sb., o katastru nemovitostí, a vyhláška č. 357/2013 Sb.
-Naposledy přístupné: 9. listopadu 2025
+Naposledy přístupné: 16. listopadu 2025
 
 [18] Zákon č. 283/2021 Sb., stavební zákon, § 119
-Naposledy přístupné: 9. listopadu 2025
+Naposledy přístupné: 16. listopadu 2025
 
 [19] Portál ČÚZK – Formuláře a elektronická podání
 Dostupné: https://portal.cuzk.gov.cz
-Naposledy přístupné: 9. listopadu 2025
+Naposledy přístupné: 16. listopadu 2025
 
 [20] Zákon č. 256/2013 Sb., o katastru nemovitostí, § 6
-Naposledy přístupné: 9. listopadu 2025
+Naposledy přístupné: 16. listopadu 2025
 
 [21] Zákon č. 634/2004 Sb., o správních poplatcích, položka 120 sazebníku
 Dostupné: https://www.zakonyprolidi.cz/cs/2004-634
-Naposledy přístupné: 9. listopadu 2025
+Naposledy přístupné: 16. listopadu 2025
 
 [22] Tamtéž
 
 [23] Český úřad zeměměřický a katastrální. "Návod k podání návrhu na vklad."
 Dostupné: https://cuzk.gov.cz
-Naposledy přístupné: 9. listopadu 2025
+Naposledy přístupné: 16. listopadu 2025
 
 [24] Zákon č. 256/2013 Sb., o katastru nemovitostí, § 5 odst. 1
-Naposledy přístupné: 9. listopadu 2025
+Naposledy přístupné: 16. listopadu 2025
 
 [25] Vyhláška č. 326/2000 Sb., kterou se provádí zákon o obcích, § 2
 Dostupné: https://www.zakonyprolidi.cz/cs/2000-326
-Naposledy přístupné: 9. listopadu 2025
+Naposledy přístupné: 16. listopadu 2025
 
 [26] VISIONPLAN-3D s.r.o. "Cena geometrického plánu (2025)."
-Naposledy přístupné: 9. listopadu 2025
+Naposledy přístupné: 16. listopadu 2025
 
 [27] Zákon č. 634/2004 Sb., o správních poplatcích, položka 120
-Naposledy přístupné: 9. listopadu 2025
+Naposledy přístupné: 16. listopadu 2025
 
 [28] Český úřad zeměměřický a katastrální. "Ceník služeb ČÚZK 2025."
 Dostupné: https://cuzk.gov.cz
-Naposledy přístupné: 9. listopadu 2025
+Naposledy přístupné: 16. listopadu 2025
 
 [29] Průměrné ceny revizních služeb podle průzkumu mezi revizními techniky, 2025
 
 [30] Portál ČÚZK – Návody a manuály
 Dostupné: https://portal.cuzk.gov.cz/navody
-Naposledy přístupné: 9. listopadu 2025
+Naposledy přístupné: 16. listopadu 2025
 
 [31] Zákon č. 256/2013 Sb., o katastru nemovitostí, § 78 odst. 3
-Naposledy přístupné: 9. listopadu 2025
+Naposledy přístupné: 16. listopadu 2025
 
 [32] Zákon č. 256/2013 Sb., o katastru nemovitostí, § 5 odst. 1
-Naposledy přístupné: 9. listopadu 2025
+Naposledy přístupné: 16. listopadu 2025
 
 [33] Zákon č. 128/2000 Sb., o obcích, § 36
 Dostupné: https://www.zakonyprolidi.cz/cs/2000-128
-Naposledy přístupné: 9. listopadu 2025
+Naposledy přístupné: 16. listopadu 2025
 
 [34] Zákon č. 89/2012 Sb., občanský zákoník, § 984
-Naposledy přístupné: 9. listopadu 2025
+Naposledy přístupné: 16. listopadu 2025
 
 [35] Zákon č. 89/2012 Sb., občanský zákoník, § 1042
-Naposledy přístupné: 9. listopadu 2025
+Naposledy přístupné: 16. listopadu 2025
 
 [36] Zákon č. 89/2012 Sb., občanský zákoník, § 1309
-Naposledy přístupné: 9. listopadu 2025
+Naposledy přístupné: 16. listopadu 2025
 
 [37] Zákon č. 133/2000 Sb., o evidenci obyvatel, § 2 odst. 3
-Naposledy přístupné: 9. listopadu 2025
+Naposledy přístupné: 16. listopadu 2025
 
 [38] Odhady realitních odborníků, průzkum trhu 2024-2025
 Zdroj: Analýza trhu mobilních domů, Asociace realitních kanceláří ČR
@@ -495,32 +495,32 @@ Zdroj: Srovnání pojistných produktů pro mobilní domy, Česká asociace poji
 
 [40] Zákon č. 586/1992 Sb., o daních z příjmů, § 26
 Dostupné: https://www.zakonyprolidi.cz/cs/1992-586
-Naposledy přístupné: 9. listopadu 2025
+Naposledy přístupné: 16. listopadu 2025
 
 [41] Zákon č. 283/2021 Sb., stavební zákon, příloha č. 1
-Naposledy přístupné: 9. listopadu 2025
+Naposledy přístupné: 16. listopadu 2025
 
 [42] Zákon č. 283/2021 Sb., stavební zákon, § 104
-Naposledy přístupné: 9. listopadu 2025
+Naposledy přístupné: 16. listopadu 2025
 
 [43] ČSN EN 1647+A1, norma pro obytné přívěsy
-Naposledy přístupné: 9. listopadu 2025
+Naposledy přístupné: 16. listopadu 2025
 
 [44] Zákon č. 89/2012 Sb., občanský zákoník, § 506 odst. 2
-Naposledy přístupné: 9. listopadu 2025
+Naposledy přístupné: 16. listopadu 2025
 
 [45] Zákon č. 338/1992 Sb., o dani z nemovitých věcí, § 2
-Naposledy přístupné: 9. listopadu 2025
+Naposledy přístupné: 16. listopadu 2025
 
 [46] Ministerstvo pro místní rozvoj ČR. "Metodické stanovisko k mobilním domům." Červenec 2025.
-Naposledy přístupné: 9. listopadu 2025
+Naposledy přístupné: 16. listopadu 2025
 
 [47] Zákon č. 283/2021 Sb., stavební zákon, § 120
-Naposledy přístupné: 9. listopadu 2025
+Naposledy přístupné: 16. listopadu 2025
 
 ---
 
-**Poslední aktualizace:** 9. listopadu 2025
+**Poslední aktualizace:** 16. listopadu 2025
 **Autor:** Mobilheim Wiki
 **Kontroloval:** Právní oddělení
 **Další revize plánována:** Květen 2026

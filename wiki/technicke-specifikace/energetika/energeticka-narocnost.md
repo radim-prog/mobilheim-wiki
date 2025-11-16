@@ -1,6 +1,6 @@
 # Energetická náročnost mobilních domů a PENB
 
-> **Platnost:** 2024–2025
+> **Platnost:** 2025
 > **Status:** Aktuální legislativa
 > **Pro koho:** Majitelé mobilních domů, stavebníci, kupující
 
@@ -10,7 +10,7 @@
 
 Energetická náročnost budovy udává, kolik energie spotřebuje stavba během běžného provozu na vytápění, ohřev teplé vody, osvětlení, větrání a případně chlazení. Tento ukazatel je v České republice standardně vyjadřován v kWh/(m²·rok), tedy kolik kilowatthodin energie připadá ročně na jeden metr čtvereční podlahové plochy. Znalost energetické náročnosti je zásadní pro posouzení ekonomické efektivity bydlení, plánování provozních nákladů a vyhodnocení dlouhodobé návratnosti investice do kvalitní tepelné izolace a efektivních technických systémů.
 
-Legislativně je energetická náročnost budov v České republice upravena především zákonem č. 406/2000 Sb., o hospodaření energií, ve znění pozdějších předpisů, a prováděcími vyhláškami č. 264/2020 Sb., o energetické náročnosti budov, a č. 78/2013 Sb., o energetické náročnosti budov starší generace. Tyto předpisy zavádějí povinnost vyhotovování průkazu energetické náročnosti budovy, stanovují technické parametry pro nové stavby a definují jednotnou klasifikaci budov do tříd od A (nejvyšší úspornost) po G (extrémně vysoká spotřeba energie).
+Legislativně je energetická náročnost budov v České republice upravena především zákonem č. 406/2000 Sb., o hospodaření energií, ve znění pozdějších předpisů, a prováděcí vyhláškou č. 264/2020 Sb., o energetické náročnosti budov. Tyto předpisy zavádějí povinnost vyhotovování průkazu energetické náročnosti budovy, stanovují technické parametry pro nové stavby a definují jednotnou klasifikaci budov do tříd od A (nejvyšší úspornost) po G (extrémně vysoká spotřeba energie).
 
 Pro mobilní domy platí stejné principy jako pro klasické rodinné domy, nicméně existují určité specifika. Pokud je mobilní dům menší než 50 m² zastavěné plochy a neslouží k trvalému bydlení, ale pouze k rekreaci, nemusí být vždy vyhotoven průkaz energetické náročnosti. Avšak v případě prodeje nebo pronájmu i takového objektu je majitel povinen buď průkaz vyhotovit, nebo v inzerátu uvést energetickou třídu G, což znamená nejhorší možné zařazení. Pro mobilní domy určené k trvalému bydlení s plochou nad 50 m² platí veškeré povinnosti týkající se PENB stejně jako u klasických staveb.
 
@@ -20,7 +20,7 @@ Pro mobilní domy platí stejné principy jako pro klasické rodinné domy, nicm
 
 Průkaz energetické náročnosti budovy, zkráceně PENB, je oficiální dokument stanovující energetickou třídu stavby na základě výpočtu její celkové potřeby energie pro typické užívání. PENB slouží jako nástroj pro transparentní informování kupujících a nájemců o budoucích provozních nákladech a zároveň motivuje investory k realizaci energeticky úsporných opatření. Průkaz je vydáván autorizovaným energetickým specialistou na základě vypracovaného energetického posudku a jeho platnost je 10 let, pokud během této doby nedojde k podstatným změnám budovy nebo způsobu vytápění.
 
-Podle § 7a zákona č. 406/2000 Sb. je vlastník budovy povinen zajistit vyhotovení PENB v těchto případech: při dokončení nové budovy, při prodeji budovy nebo její části, při pronájmu budovy nebo její části a při větších změnách dokončené budovy přesahujících 25 % plochy obálky budovy. V případě prodeje nebo pronájmu musí být průkaz předán kupujícímu nebo nájemci nejpozději spolu s návrhem kupní nebo nájemní smlouvy. Pokud vlastník průkaz nepředloží, hrozí mu pokuta až 100 000 Kč pro fyzické osoby a až 500 000 Kč pro právnické osoby, přičemž od roku 2027 bude bez platného PENB zcela nemožné uzavřít kupní nebo nájemní smlouvu podle připravované evropské směrnice EPBD IV.
+Podle § 7a zákona č. 406/2000 Sb. je vlastník budovy povinen zajistit vyhotovení PENB v těchto případech: při dokončení nové budovy, při prodeji budovy nebo její části, při pronájmu budovy nebo její části a při větších změnách dokončené budovy přesahujících 25 % plochy obálky budovy. V případě prodeje nebo pronájmu musí být průkaz předán kupujícímu nebo nájemci nejpozději spolu s návrhem kupní nebo nájemní smlouvy. Pokud vlastník průkaz nepředloží, hrozí mu pokuta až 200 000 Kč, přičemž od roku 2027 bude bez platného PENB zcela nemožné uzavřít kupní nebo nájemní smlouvu podle připravované evropské směrnice EPBD IV.
 
 V inzercích na prodej nebo pronájem je povinné uvádět energetickou třídu již v textu nabídky. Pokud průkaz nebyl vyhotoven, musí inzerát obsahovat třídu G s uvedením, že průkaz nebyl zpracován. Tato povinnost se vztahuje na všechny inzertní portály včetně soukromých nabídek na sociálních sítích nebo černých deskách. V praxi to znamená, že mobilní dům nabízený k prodeji nebo pronájmu bez průkazu bude v inzerátu automaticky označen jako energeticky nejméně výhodný, což může negativně ovlivnit jeho prodejnost nebo výši dosažitelného nájemného.
 
@@ -118,7 +118,7 @@ Instalace rekuperační jednotky umožňuje získat až 85–95 % tepla z odvád
 
 Tepelná čerpadla typu vzduch-voda nebo země-voda představují vysoce efektivní způsob vytápění s topným faktorem COP (Coefficient of Performance) v rozmezí 3,0–5,0, což znamená, že z 1 kWh elektrické energie získají 3–5 kWh tepelné energie. Oproti přímotopným elektrickým topidlům s účinností 100 % (COP = 1,0) dosahují tepelná čerpadla úspory 70–80 %. Investiční náklady na tepelné čerpadlo vzduch-voda včetně instalace se pohybují v rozmezí 150 000–300 000 Kč a návratnost oproti elektrickému topení činí 6–10 let. Pro mobilní domy o ploše do 50 m² jsou vhodnější kompaktní tepelné jednotky typu split nebo monoblok s výkonem 3–6 kW.
 
-Fotovoltaická elektrárna o výkonu 5 kWp umístěná na střeše mobilního domu může vyprodukovat 4 500–5 500 kWh elektrické energie ročně, což při spotřebě mobilního domu třídy B přibližně 3 000–4 000 kWh/rok (vytápění + spotřebiče) dokáže pokrýt 80–100 % spotřeby, zejména pokud je systém doplněn akumulační baterií o kapacitě 5–10 kWh. Náklady na fotovoltaiku 5 kWp včetně baterie a instalace se pohybují v rozmezí 180 000–250 000 Kč a návratnost při ceně elektřiny 6 Kč/kWh činí 8–12 let. Bez baterie jsou náklady nižší (100 000–140 000 Kč), ale pokrytí spotřeby klesá na 40–60 % kvůli nesouladu výroby a spotřeby během dne.
+Fotovoltaická elektrárna o výkonu 5 kWp umístěná na střeše mobilního domu může vyprodukovat 4 500–5 500 kWh elektrické energie ročně, což při spotřebě mobilního domu třídy B přibližně 3 000–4 000 kWh/rok (vytápění + spotřebiče) dokáže pokrýt 80–100 % spotřeby, zejména pokud je systém doplněn akumulační baterií o kapacitě 5–10 kWh. Náklady na fotovoltaiku 5 kWp včetně baterie a instalace se pohybují v rozmezí 180 000–250 000 Kč a návratnost při ceně elektřiny 7,60 Kč/kWh činí 6–9 let. Bez baterie jsou náklady nižší (100 000–140 000 Kč), ale pokrytí spotřeby klesá na 40–60 % kvůli nesouladu výroby a spotřeby během dne.
 
 ---
 
@@ -165,12 +165,11 @@ Mobilní dům třídy A s průměrnou spotřebou 40 kWh/(m²·rok) produkuje př
 
 - [Zákon č. 406/2000 Sb., o hospodaření energií](https://www.zakonyprolidi.cz/cs/2000-406)
 - [Vyhláška č. 264/2020 Sb., o energetické náročnosti budov](https://www.zakonyprolidi.cz/cs/2020-264)
-- [Vyhláška č. 78/2013 Sb., o energetické náročnosti budov (starší)](https://www.zakonyprolidi.cz/cs/2013-78)
 - [Seznam autorizovaných energetických specialistů MPO](https://www.mpo.cz/cz/energetika/energeticka-ucinnost/)
 - [PENB kalkulačky a výpočetní nástroje – TZB-info](https://www.tzb-info.cz/tabulky-a-vypocty)
 
 ---
 
-**Zpracováno:** 27. října 2025
+**Zpracováno:** 16. listopadu 2025
 **Autor:** Mobilheim Wiki
-**Zdroje:** Zákon č. 406/2000 Sb., vyhláška č. 264/2020 Sb., vyhláška č. 78/2013 Sb., Ministerstvo průmyslu a obchodu ČR, normy ČSN EN ISO 13790 a ČSN 730540
+**Zdroje:** Zákon č. 406/2000 Sb., vyhláška č. 264/2020 Sb., Ministerstvo průmyslu a obchodu ČR, normy ČSN EN ISO 13790 a ČSN 730540

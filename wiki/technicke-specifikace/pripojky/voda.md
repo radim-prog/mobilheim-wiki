@@ -43,17 +43,17 @@ Celkové náklady zahrnují jednorázovou investici a průběžné provozní ná
 - **Celkem: 142 500 Kč**
 
 **Roční provozní náklady:**
-Cena vodného a stočného v roce 2025 činí průměrně 133 Kč/m³.[15] SmVaK účtuje 70,78 Kč/m³ za vodné a 67,14 Kč/m³ za stočné.[16] Fixní roční poplatek za vodoměr činí 800 až 1 200 Kč.[17]
+Cena vodného a stočného v roce 2025 činí průměrně 133,30 Kč/m³.[15] Fixní roční poplatek za vodoměr činí 800 až 1 200 Kč.[16]
 
 Pro celoroční bydlení čtyřčlenné rodiny (140 m³/rok):
-- Vodné a stočné: 140 m³ × 133 Kč = 18 620 Kč
+- Vodné a stočné: 140 m³ × 133,30 Kč = 18 662 Kč
 - Fixní poplatek: 1 000 Kč
-- **Celkem: 19 620 Kč ročně**
+- **Celkem: 19 662 Kč ročně**
 
 Pro rekreační využití (50 m³/rok):
-- Vodné a stočné: 50 m³ × 133 Kč = 6 650 Kč
+- Vodné a stočné: 50 m³ × 133,30 Kč = 6 665 Kč
 - Fixní poplatek: 1 000 Kč
-- **Celkem: 7 650 Kč ročně**
+- **Celkem: 7 665 Kč ročně**
 
 ## Vrtaná studna - alternativa pro odlehlé lokality
 
@@ -85,10 +85,10 @@ Po dokončení vrtu je nutné studnu vybavit technickým zařízením. Základn�
 
 ### Náklady na výstavbu a provoz vrtané studny
 
-Cena za běžný metr vrtu včetně pažení se v roce 2025 pohybuje mezi 1 700 až 3 000 Kč, průměrně 2 100 Kč za metr.[29]
+Cena za běžný metr vrtu včetně pažení se v roce 2025 pohybuje mezi 1 700 až 3 000 Kč, průměrně 2 500 Kč za metr.[29]
 
 **Jednorázová investice pro studnu 40 m:**
-- Vrtání studny: 40 m × 2 100 Kč = 84 000 Kč
+- Vrtání studny: 40 m × 2 500 Kč = 100 000 Kč
 - Hydrogeologický průzkum: 8 000 Kč
 - Projektová dokumentace: 9 000 Kč
 - Povolení k odběru: 5 000 Kč (pokud nutné)[30]
@@ -99,14 +99,14 @@ Cena za běžný metr vrtu včetně pažení se v roce 2025 pohybuje mezi 1 700 
 - Mechanický filtr: 5 000 Kč
 - Rozbor kvality vody: 1 500 Kč
 - Instalace: 15 000 Kč
-- **Celkem: 170 000 Kč**
+- **Celkem: 186 000 Kč**
 
 **Roční provozní náklady:**
-- Elektřina pro čerpadlo: 4 380 Kč (730 kWh × 6 Kč)[31]
+- Elektřina pro čerpadlo: 5 550 Kč (730 kWh × 7,61 Kč)[31]
 - Rozbory vody: 3 500 Kč[32]
 - Výměna filtrů: 1 500 Kč
 - Rezerva na opravy: 2 000 Kč
-- **Celkem: 11 380 Kč ročně**
+- **Celkem: 12 550 Kč ročně**
 
 Čerpadlo má životnost 10 až 15 let, takže přibližně každých 12 let je nutná výměna za 20 000 až 30 000 Kč.
 
@@ -136,22 +136,22 @@ Pro rozhodování je užitečné porovnat dlouhodobé náklady na 20 let provozu
 
 **Veřejný vodovod (celoroční, 140 m³/rok):**
 - Investice: 142 500 Kč
-- Roční náklady: 19 620 Kč
-- **20 let: 535 000 Kč**
+- Roční náklady: 19 662 Kč
+- **20 let: 536 000 Kč**
 
 **Vrtaná studna (celoroční, 140 m³/rok):**
-- Investice: 170 000 Kč
-- Roční náklady: 11 380 Kč
+- Investice: 186 000 Kč
+- Roční náklady: 12 550 Kč
 - Výměna čerpadla (12. rok): 25 000 Kč
-- **20 let: 422 600 Kč**
-- **Úspora: 112 400 Kč**
+- **20 let: 462 000 Kč**
+- **Úspora: 74 000 Kč**
 
 **Veřejný vodovod (rekreační, 50 m³/rok):**
-- **20 let: 295 500 Kč**
+- **20 let: 295 800 Kč**
 
 **Vrtaná studna (rekreační, 50 m³/rok):**
-- **20 let: 365 000 Kč**
-- **Rozdíl: +69 500 Kč (dražší)**
+- **20 let: 397 000 Kč**
+- **Rozdíl: +101 200 Kč (dražší)**
 
 Z porovnání vyplývá, že pro celoroční bydlení s vyšší spotřebou vychází studna levněji dlouhodobě, zatímco pro rekreační využití je výhodnější veřejný vodovod. Klíčovým faktorem je však vzdálenost vodovodního řadu - pokud je řad 100 metrů daleko, náklady na připojení mohou vystoupat na 300 000 až 400 000 Kč, což studnu činí výhodnější i pro rekreaci.
 
@@ -205,11 +205,9 @@ Ochrana před zamrznutím je kritická. Veškeré potrubí v nevytápěných pro
 
 [14] Poptávky stavebních prací. "Výkop vodovodu - Ceník 2025."
 
-[15] Kupní Síla. "Cena vody 2025: 133 Kč/m³." https://www.kupnisila.cz/cena-vody-vodne-stocne/
+[15] Kupní Síla. "Cena vody 2025: 133,30 Kč/m³." https://www.kupnisila.cz/cena-vody-vodne-stocne/
 
-[16] SmVaK. "Ceny 2025." Vodné 70,78 Kč/m³, stočné 67,14 Kč/m³.
-
-[17] Kurzy.cz. "Domácnosti vodou 2022." Fixní poplatek 800-2 000 Kč.
+[16] Kurzy.cz. "Domácnosti vodou 2022." Fixní poplatek 800-2 000 Kč.
 
 [18] ČOV bez úřadu. "Kolik stojí vrt." Hloubky 20-100 m.
 
@@ -233,11 +231,11 @@ Ochrana před zamrznutím je kritická. Veškeré potrubí v nevytápěných pro
 
 [28] Odhad nákladů na údržbu filtrací 2025.
 
-[29] ČOV bez úřadu. "Cena vrtané studny." 1 700-3 000 Kč/m, průměr 2 100 Kč.
+[29] ČOV bez úřadu. "Cena vrtané studny." 1 700-3 000 Kč/m, průměr 2 500 Kč.
 
 [30] Aquaro.cz. "Kalkulátor 2025." Povolení 5 000 Kč.
 
-[31] Odhad: 730 kWh × 6 Kč/kWh.
+[31] Odhad: 730 kWh × 7,61 Kč/kWh (průměrná cena elektřiny pro domácnosti 2025).
 
 [32] Monitoring Praha. "Rozbor studny." Bakteriologický 1 500 Kč, chemický 2 000 Kč.
 
@@ -279,6 +277,6 @@ Ochrana před zamrznutím je kritická. Veškeré potrubí v nevytápěných pro
 
 ---
 
-**Poslední aktualizace:** 9. listopadu 2025
+**Poslední aktualizace:** 16. listopadu 2025
 **Autor:** Radim (radim@wikiporadce.cz)
 **Další revize plánována:** Listopad 2026

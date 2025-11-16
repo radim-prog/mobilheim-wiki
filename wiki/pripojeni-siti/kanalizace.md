@@ -60,11 +60,11 @@ Limity pro vypouštění přečištěných odpadních vod do povrchových vod st
 
 ### Náklady na pořízení a provoz domovní ČOV
 
-Investiční náklady na pořízení domovní čističky odpadních vod se skládají z ceny samotné ČOV, nákladů na projektovou dokumentaci, hydrogeologický posudek, vodoprávní povolení, dodávku a instalaci ČOV a výstavbu vsaku nebo odtokového potrubí do vodoteče. Cena domovní ČOV pro 4 až 6 EO se pohybuje mezi 60 000 až 120 000 korunami v závislosti na typu technologie (aktivační ČOV, biodiskový systém, kořenová čistírna), materiálu nádrže (plast, beton, sklolaminát) a značce výrobce.
+Investiční náklady na pořízení domovní čističky odpadních vod se skládají z ceny samotné ČOV, nákladů na projektovou dokumentaci, hydrogeologický posudek, vodoprávní povolení, dodávku a instalaci ČOV a výstavbu vsaku nebo odtokového potrubí do vodoteče. Cena domovní ČOV pro 4 až 6 EO se pohybuje mezi 40 000 až 80 000 korunami bez DPH v závislosti na typu technologie (aktivační ČOV, biodiskový systém, kořenová čistírna), materiálu nádrže (plast, beton, sklolaminát) a značce výrobce. Při koupi jako soukromá osoba pro trvalé bydlení platí DPH 12 %, pro rekreační objekty nebo podnikatele DPH 21 %.
 
 Projekt domovní ČOV včetně návrhu vsaku zpracovaný autorizovaným inženýrem stojí 12 000 až 15 000 korun včetně DPH. Hydrogeologický posudek prokazující vsakovací schopnost půdy a stanovující rozměry vsakovacího zařízení stojí 4 000 až 10 000 korun v závislosti na rozsahu hydrogeologického průzkumu. Vodoprávní povolení stojí od července 2024 správní poplatek 10 000 korun. Dodávka a instalace ČOV včetně výkopových prací a napojení na vnitřní kanalizaci mobilního domu stojí 20 000 až 40 000 korun.
 
-Celkové investiční náklady na pořízení a instalaci domovní ČOV včetně všech povolení a dokumentace se pohybují mezi 100 000 až 180 000 korunami v závislosti na velikosti ČOV, složitosti geologických podmínek a vzdálenosti od mobilního domu. Provozní náklady zahrnují spotřebu elektrické energie pohonu dmychadla aktivačních ČOV v rozsahu 30 až 60 wattů nepřetržitě, což činí přibližně 1 500 až 3 000 korun ročně, pravidelný servis ČOV jednou až dvakrát ročně v ceně 2 000 až 4 000 korun za servisní prohlídku a odvoz kalu z usazovací nádrže ČOV jednou za 1 až 3 roky v ceně 3 000 až 6 000 korun za odvoz.
+Celkové investiční náklady na pořízení a instalaci domovní ČOV včetně všech povolení a dokumentace se pohybují mezi 90 000 až 170 000 korunami v závislosti na velikosti ČOV, složitosti geologických podmínek a vzdálenosti od mobilního domu. Provozní náklady zahrnují spotřebu elektrické energie pohonu dmychadla aktivačních ČOV v rozsahu 30 až 60 wattů nepřetržitě, což činí přibližně 1 500 až 3 000 korun ročně, pravidelný servis ČOV jednou až dvakrát ročně v ceně 2 000 až 4 000 korun za servisní prohlídku a odvoz kalu z usazovací nádrže ČOV jednou za 1 až 3 roky v ceně 3 000 až 6 000 korun za odvoz.
 
 ---
 
@@ -94,7 +94,7 @@ Pokud není možné vsakování dešťových vod na pozemku z důvodu nepropustn
 
 Volba způsobu likvidace odpadních vod z mobilního domu závisí na dostupnosti veřejné kanalizace, geologických a hydrogeologických podmínkách pozemku, intenzitě využívání mobilního domu a rozpočtu investora. Připojení na veřejnou kanalizaci představuje nejkomfortnější a nejbezpečnější řešení s investičními náklady 60 000 až 250 000 korun podle délky přípojky a nutnosti čerpací stanice, ale s nízkými provozními náklady 30 až 60 korun za metr krychlový odvedené vody.
 
-Domovní čistička odpadních vod je vhodná alternativa v lokalitách bez veřejné kanalizace s investičními náklady 100 000 až 180 000 korun a provozními náklady 4 000 až 8 000 korun ročně, přičemž od července 2024 vyžaduje vodoprávní povolení s poplatkem 10 000 korun. Septik s vsakem představuje levnější variantu s investičními náklady 40 000 až 80 000 korun, ale s omezenou účinností čištění a nutností vhodných geologických podmínek pro vsakování. Nepropustná jímka je vhodná pouze jako dočasné řešení s nízkými investičními náklady 20 000 až 40 000 korun, ale s vysokými provozními náklady 14 000 až 28 000 korun ročně za pravidelné vyvážení.
+Domovní čistička odpadních vod je vhodná alternativa v lokalitách bez veřejné kanalizace s investičními náklady 90 000 až 170 000 korun a provozními náklady 4 000 až 8 000 korun ročně, přičemž od července 2024 vyžaduje vodoprávní povolení s poplatkem 10 000 korun. Septik s vsakem představuje levnější variantu s investičními náklady 40 000 až 80 000 korun, ale s omezenou účinností čištění a nutností vhodných geologických podmínek pro vsakování. Nepropustná jímka je vhodná pouze jako dočasné řešení s nízkými investičními náklady 20 000 až 40 000 korun, ale s vysokými provozními náklady 14 000 až 28 000 korun ročně za pravidelné vyvážení.
 
 Při rozhodování o způsobu likvidace odpadních vod je vhodné konzultovat s autorizovaným inženýrem pro vodohospodářské stavby nebo s hydrogeologem, který posoudí místní podmínky, vypracuje projektovou dokumentaci a pomůže s vyřízením potřebných povolení u příslušných úřadů.
 
@@ -106,11 +106,12 @@ Při rozhodování o způsobu likvidace odpadních vod je vhodné konzultovat s 
 - Zákon č. 274/2001 Sb., o vodovodech a kanalizacích pro veřejnou potřebu
 - Nařízení vlády č. 401/2015 Sb., o ukazatelích a hodnotách přípustného znečištění povrchových vod a odpadních vod
 - Zákon č. 283/2021 Sb., stavební zákon (změny od 1.7.2024)
+- Vyhláška č. 146/2024 Sb., o požadavcích na výstavbu (nahradila vyhlášku č. 501/2006 Sb. od 1.7.2024)
 - ČSN 75 6760 Vnitřní kanalizace
 - ČSN EN 12566 Malé čistírny odpadních vod do 50 EO
 
 ---
 
-**Zpracováno:** 28. října 2025
+**Zpracováno:** 16. listopadu 2025
 **Autor:** Mobilheim Wiki
 **Zdroje:** Zákon č. 254/2001 Sb., zákon č. 274/2001 Sb., nařízení vlády č. 401/2015 Sb., zákon č. 283/2021 Sb., ČSN 75 6760, odborné stavební portály, provozovatelé ČOV

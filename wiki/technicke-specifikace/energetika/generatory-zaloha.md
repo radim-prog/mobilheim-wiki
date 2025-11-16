@@ -1,6 +1,6 @@
 # Generátory a záložní zdroje energie
 
-> **AKTUALIZACE 9. listopadu 2025:** Článek byl aktualizován o nejnovější údaje z roku 2024-2025, včetně aktuálních cen generátorů a bateriových systémů na českém trhu, platných emisních norem EU Stage V, hlukových limitů podle nařízení vlády č. 272/2011 Sb., a nového stavebního zákona č. 283/2021 Sb. účinného od 1. 1. 2024. Všechny právní odkazy a citace byly zkontrolovány a jsou platné k datu aktualizace.
+> **AKTUALIZACE 16. listopadu 2025:** Článek byl aktualizován o nejnovější údaje z roku 2024-2025, včetně aktuálních cen generátorů a bateriových systémů na českém trhu, platných emisních norem EU Stage V, hlukových limitů podle nařízení vlády č. 272/2011 Sb., a stavebního zákona č. 283/2021 Sb. účinného od 1. 1. 2024. Všechny právní odkazy a citace byly zkontrolovány a jsou platné k datu aktualizace. Vyhláška č. 50/1978 Sb. byla zrušena k 1. 7. 2022 a nahrazena předpisem č. 250/2021 Sb.
 
 Generátory a záložní zdroje energie jsou systémy pro výrobu nebo uchovávání elektrické energie, které zajišťují nepřetržité napájení mobilního domu při výpadku distribuční sítě nebo v místech bez připojení k elektrické síti. Tyto systémy zahrnují přenosné a stacionární generátory spalující pohonné hmoty (benzín, nafta, LPG), bateriové záložní systémy často kombinované se solárními panely, a automatické přepínače zajišťující plynulý přechod mezi hlavním a záložním zdrojem energie.
 
@@ -18,7 +18,7 @@ Generátory a záložní zdroje pro mobilní domy lze rozdělit do několika zá
 
 Přenosné benzínové generátory představují nejrozšířenější a cenově nejdostupnější řešení záložního napájení pro mobilní domy. Tyto kompaktní jednotky o hmotnosti 20-60 kg lze snadno přemístit a skladovat, což je výhodné zejména u mobilních domů využívaných jen sezónně. Běžné výkonové řady se pohybují od 1 kW pro zcela základní potřeby až po 7-8 kW pro napájení většiny spotřebičů v mobilním domě. Benzínové motory mají jednoduchou konstrukci, snadný start i v chladném počasí (oproti naftovým motorům) a relativně nízkou pořizovací cenu.
 
-Na českém trhu v roce 2025 najdete kvalitní přenosné benzínové generátory od renomovaných výrobců jako Honda, Yamaha, Kipor, Briggs & Stratton nebo Hyundai. Cenové rozpětí je široké - základní čínské modely s výkonem 2-3 kW lze pořídit již od 5 000 až 8 000 Kč, zatímco prémiové značkové generátory s výkonem 3-5 kW stojí 25 000 až 50 000 Kč. Například Kipor IG2000, což je invertorový generátor s výkonem 2 kW, se v roce 2025 prodává za cenu od 16 997 Kč.[5] Výkonnější model Kipor IG3000 s výkonem 3 kW stojí od 49 734 Kč.[6] Rozdíl v ceně mezi základními a prémiovými modely se odráží především v kvalitě zpracování, hlučnosti, stabilitě výstupního napětí, životnosti a spotřebě paliva.
+Na českém trhu v roce 2025 najdete kvalitní přenosné benzínové generátory od renomovaných výrobců jako Honda, Yamaha, Kipor, Briggs & Stratton nebo Hyundai. Cenové rozpětí je široké - základní čínské modely s výkonem 2-3 kW lze pořídit již od 5 000 až 8 000 Kč, zatímco prémiové značkové generátory s výkonem 3-5 kW stojí 25 000 až 50 000 Kč. Například Kipor IG2000, což je invertorový generátor s výkonem 2 kW, se v roce 2025 prodává za cenu od 16 323 Kč.[5] Výkonnější model Kipor IG3000 s výkonem 3 kW stojí od 49 000 Kč.[6] Rozdíl v ceně mezi základními a prémiovými modely se odráží především v kvalitě zpracování, hlučnosti, stabilitě výstupního napětí, životnosti a spotřebě paliva.
 
 Hlavními nevýhodami benzínových generátorů jsou relativně vysoká spotřeba paliva (v průměru 0,8-1,5 litru benzínu na hodinu při polovičním zatížení u generátorů 2-3 kW),[7] hlučnost provozu u konvenčních modelů (70-95 dB), a nutnost pravidelné údržby včetně výměny oleje každých 50-100 provozních hodin. Benzín je navíc hořlavina vyžadující bezpečné skladování podle požárních předpisů - v běžných plastových kanystrech je stabilní maximálně 6-12 měsíců, poté dochází k oxidaci a ztrátě oktanového čísla, což může způsobit problémy se startem a během motoru. Pro mobilní domy využívané celoročně je proto vhodnější investovat do dieselového generátoru nebo kombinovaného systému s bateriemi.
 
@@ -50,7 +50,7 @@ Dostupnost plynových generátorů na českém trhu je omezená - většina mode
 
 Bateriové záložní systémy (battery backup systems) představují moderní alternativu ke generátorům, která eliminuje hluk, emise a závislost na pohonných hmotách. Tyto systémy využívají lithium-iontové nebo lithium-železo-fosfátové (LiFePO4) akumulátory k uchovávání elektrické energie, která je čerpána buď z distribuční sítě v době nízkého tarifu, nebo ze solárních panelů během dne. Při výpadku elektřiny se bateriový systém automaticky aktivuje a poskytuje napájení pro vybrané nebo všechny spotřebiče v mobilním domě, přičemž přepnutí je natolik rychlé (řádově milisekundy), že citlivé spotřebiče jako počítače ani nezaznamenají výpadek.
 
-Nejznámějším bateriových systémem na trhu je Tesla Powerwall 3, které nabízí úložnou kapacitu 13,5 kWh a výkon 11,5 kW.[14] To v praxi znamená, že pokud mobilní dům spotřebovává průměrně 1,5 kW (lednice, LED osvětlení, čerpadlo, WiFi router, nabíjení telefonu), baterie vydrží napájet tyto spotřebiče po dobu přibližně 9 hodin. Systém lze škálovat až na 4 baterie (54 kWh celkem), což postačí na 1-2 dny úplné soběstačnosti nebo na týden provozu pouze kritických spotřebičů. Pořizovací cena jednoho Tesla Powerwall 3 v České republice činí 200 000 až 250 000 Kč včetně instalace,[15] což je srovnatelné s cenou kvalitního stacionárního dieselového generátoru 10 kW s automatickým přepínačem. Alternativní bateriové systémy od výrobců jako Sonnen, LG Chem, BYD nebo Pylontech jsou cenově podobné nebo mírně nižší (150 000 - 220 000 Kč za systém 10-15 kWh).
+Nejznámějším bateriových systémem na trhu je Tesla Powerwall 3, které nabízí úložnou kapacitu 13,5 kWh a kontinuální výkon 11,04 kW (špičkový výkon až 20 kW DC pro solární panely).[14] To v praxi znamená, že pokud mobilní dům spotřebovává průměrně 1,5 kW (lednice, LED osvětlení, čerpadlo, WiFi router, nabíjení telefonu), baterie vydrží napájet tyto spotřebiče po dobu přibližně 9 hodin. Systém lze škálovat až na 4 baterie (54 kWh celkem), což postačí na 1-2 dny úplné soběstačnosti nebo na týden provozu pouze kritických spotřebičů. Pořizovací cena jednoho Tesla Powerwall 3 v České republice činí 200 000 až 250 000 Kč včetně instalace,[15] což je srovnatelné s cenou kvalitního stacionárního dieselového generátoru 10 kW s automatickým přepínačem. Alternativní bateriové systémy od výrobců jako Sonnen, LG Chem, BYD nebo Pylontech jsou cenově podobné nebo mírně nižší (150 000 - 220 000 Kč za systém 10-15 kWh).
 
 Hlavní výhodou bateriových systémů je naprostá absence hluku a emisí - můžete je instalovat přímo v technické místnosti mobilního domu a nijak neruší ani vás, ani sousedy. Nejsou potřeba žádná paliva, údržba je minimální (kontrola stavu baterie jednou ročně), a životnost moderních LiFePO4 baterií dosahuje 5000-8000 nabíjecích cyklů, což odpovídá 10-15 letům provozu. V kombinaci se solárními panely získáváte téměř úplnou energetickou nezávislost - přes den nabíjíte baterie z bezplatné sluneční energie a přes noc či při výpadcích čerpáte uloženou energii. Návratnost investice při současných cenách elektřiny se pohybuje mezi 8-12 lety,[15] což je delší než u generátorů, ale systém přináší i další benefity jako snížení odběru z distribuční sítě a možnost účasti v programech podpory obnovitelných zdrojů.
 
@@ -187,8 +187,8 @@ Investiční náklady se liší podle typu a výkonu záložního zdroje:
 - Prémiová značka 3-5 kW (Honda, Yamaha): 30 000 - 60 000 Kč
 
 **Invertorové generátory:**
-- 2 kW (Kipor IG2000): 16 997 - 22 000 Kč[5]
-- 3 kW (Kipor IG3000): 49 734 - 65 000 Kč[6]
+- 2 kW (Kipor IG2000): 16 323 - 22 000 Kč[5]
+- 3 kW (Kipor IG3000): 49 000 - 65 000 Kč[6]
 - Prémiové modely 2-3 kW (Honda EU22i): 45 000 - 70 000 Kč
 
 **Dieselové generátory:**
@@ -255,7 +255,7 @@ Provoz záložních zdrojů energie v České republice se řídí několika pr�
 
 **ČSN 33 2000-5-54 ed. 3: Elektrické instalace nízkého napětí - Část 5-54: Výběr a stavba elektrických zařízení - Uzemnění, ochranné vodiče a vodiče ochranného pospojování** upravuje požadavky na bezpečné uzemnění generátorů a jejich připojení k elektrické instalaci mobilního domu.[4] Norma specifikuje minimální průřezy ochranných vodičů, způsoby uzemnění a požadavky na ochranu před úrazem elektrickým proudem.
 
-**Vyhláška č. 50/1978 Sb., o odborné způsobilosti v elektrotechnice** stanoví kvalifikační požadavky pro osoby provádějící práce na elektrických zařízeních. Instalace ATS přepínače a připojení generátoru k rozvaděči mobilního domu musí provádět osoba s příslušným stupněm odborné způsobilosti (minimálně vyhl. § 5 - pro samostatnou činnost) a příslušnou elektrotechnickou kvalifikací.[20]
+**Vyhláška č. 250/2021 Sb., o odborné způsobilosti v elektrotechnice** (která nahradila předchozí vyhlášku č. 50/1978 Sb. k 1. 7. 2022) stanoví kvalifikační požadavky pro osoby provádějící práce na elektrických zařízeních. Instalace ATS přepínače a připojení generátoru k rozvaděči mobilního domu musí provádět osoba s příslušným stupněm odborné způsobilosti (minimálně § 5 - pro samostatnou činnost) a příslušnou elektrotechnickou kvalifikací.[20]
 
 **Zákon č. 283/2021 Sb., stavební zákon** (účinný od 1. 1. 2024) upravuje podmínky pro umístění staveb a zařízení na pozemku. Stacionární dieselový generátor v samostatném technickém domku může vyžadovat ohlášení stavebnímu úřadu pokud přesahuje limity pro jednoduché stavby.[21] Přenosné generátory a bateriové systémy instalované uvnitř mobilního domu nejsou stavbou a nevyžadují žádné povolení.
 
@@ -345,9 +345,9 @@ Naposledy přístupné: 9. listopadu 2025
 [19] "Údržba benzínových generátorů - návody výrobců." Souhrnné informace z návodů Honda, Kipor, Yamaha.
 Naposledy přístupné: 9. listopadu 2025
 
-[20] Vyhláška č. 50/1978 Sb., o odborné způsobilosti v elektrotechnice. Ministerstvo průmyslu a obchodu ČR.
-Dostupné z: https://www.zakonyprolidi.cz/cs/1978-50
-Naposledy přístupné: 9. listopadu 2025
+[20] Vyhláška č. 250/2021 Sb., o odborné způsobilosti v elektrotechnice (nahradila vyhlášku č. 50/1978 Sb. k 1. 7. 2022). Ministerstvo průmyslu a obchodu ČR.
+Dostupné z: https://www.zakonyprolidi.cz/cs/2021-250
+Naposledy přístupné: 16. listopadu 2025
 
 [21] Zákon č. 283/2021 Sb., stavební zákon (účinný od 1. 1. 2024). Ministerstvo pro místní rozvoj ČR.
 Dostupné z: https://www.zakonyprolidi.cz/cs/2021-283
@@ -355,7 +355,7 @@ Naposledy přístupné: 9. listopadu 2025
 
 ---
 
-**Poslední aktualizace:** 9. listopadu 2025
+**Poslední aktualizace:** 16. listopadu 2025
 **Autor:** Backup Power Systems Engineer
 **Kontroloval:** Technical Editor
 **Další revize plánována:** Listopad 2026

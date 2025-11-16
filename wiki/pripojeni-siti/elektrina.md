@@ -89,7 +89,7 @@ Elektroinstalaci za elektroměrem včetně rozvodnice s jističi, vnitřních ro
 
 ### Revize a uvedení do provozu
 
-Elektroinstalace za elektroměrem musí být před uvedením do provozu zkontrolována autorizovaným revizním technikem a opatřena revizní zprávou podle zákona 250/2021 Sb. o odborné způsobilosti v elektrotechnice, který nabyl účinnosti 1. července 2022 a nahradil dříve platnou vyhlášku 50/1978 Sb.
+Elektroinstalace za elektroměrem musí být před uvedením do provozu zkontrolována autorizovaným revizním technikem a opatřena revizní zprávou podle zákona 250/2021 Sb. o odborné způsobilosti v elektrotechnice, který nabyl účinnosti 1. července 2022 a nahradil dříve platnou vyhlášku 50/1978 Sb. Instalace elektroměru podléhá vyhlášce 359/2020 Sb. o měření elektřiny, která s účinností od 1. ledna 2021 nahradila předchozí vyhlášku 82/2011 Sb.
 
 Revize kontroluje uzemnění objektu, ochranu před úrazem elektrickým proudem pomocí proudového chrániče, správné dimenzování jističů a připojení spotřebičů. Cena revize činí 2 000 až 4 000 Kč a revizní zpráva má platnost 5 let (u revizního technika platnost certifikátu 5 let, u elektrotechnika 3 roky).
 
@@ -170,11 +170,11 @@ Při vzdálenostech přesahujících 300 m se stává ekonomicky zajímavým off
 - **ČEZ Distribuce:** [cezdistribuce.cz](https://www.cezdistribuce.cz/)
 - **EG.D:** [egd.cz](https://www.egd.cz/)
 - **PREdistribuce:** [predistribuce.cz](https://www.predistribuce.cz/)
-- **Právní předpisy:** Zákon 250/2021 Sb. (odborná způsobilost v elektrotechnice), Nařízení vlády 194/2022 Sb. (bezpečnost práce na elektrických zařízeních)
+- **Právní předpisy:** Zákon 458/2000 Sb. (energetický zákon, ve znění pozdějších předpisů včetně novely 87/2025 Sb.), Zákon 250/2021 Sb. (odborná způsobilost v elektrotechnice), Nařízení vlády 194/2022 Sb. (bezpečnost práce na elektrických zařízeních), Vyhláška 359/2020 Sb. (o měření elektřiny)
 - **Technické normy:** ČSN 33 2000-5-52 (zemní vedení), ČSN 33 2000-4-41 (ochrana před úrazem elektrickým proudem)
 - **Cenové regulace:** Energetický regulační úřad, Cenová rozhodnutí č. 12/2024 a 13/2024
 
 ---
 
-**Zpracováno:** Říjen 2025
+**Zpracováno:** 16. listopadu 2025
 **Autor:** Mobilheim Wiki

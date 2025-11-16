@@ -66,7 +66,7 @@ Skladovací domky a přístřešky jsou doplňkovými stavbami sloužícími k u
 
 Dřevěné zahradní domky představují tradiční a esteticky nejpříjemnější skladovací řešení, které dobře ladí s přírodním prostředím a architekturou dřevěných mobilních domů. Vyrábějí se ze smrkového nebo borového dřeva s různou tloušťkou stěn - od 15 mm u nejlevnějších modelů až po 28 mm, 34 mm nebo dokonce 44 mm u kvalitnějších variant určených k celoročnímu využití.[31] Tloušťka stěn má přímý vliv na stabilitu konstrukce, tepelnou izolaci a životnost domku - zatímco 15mm prkna jsou dostatečná pro sezónní skladování zahradního nábytku, 28mm a silnější konstrukce umožňují instalaci polic s vyšší nosností a vytvoření i drobné dílny.
 
-Cenově se pohybují dřevěné zahradní domky v České republice v roce 2025 následovně. Nejmenší domky o půdorysné ploše 2 - 3 m² (například 150 × 200 cm) s tloušťkou stěn 15 mm jsou dostupné od 12 000 - 18 000 Kč.[32] Střední velikost 4 - 8 m² s tloušťkou stěn 19 - 28 mm stojí typicky 25 000 - 45 000 Kč. Větší domky o ploše 10 - 15 m² s 28mm nebo 34mm stěnami, okny a kvalitními dveřmi vycházejí na 50 000 - 80 000 Kč.[33] Prémiové dřevěné chatky o rozloze 15 - 25 m² s tloušťkou stěn 44 - 70 mm, izolací, okny s dvojskly a kvalitní asfaltovou šindelovou střechou mohou stát 80 000 - 150 000 Kč.
+Cenově se pohybují dřevěné zahradní domky v České republice v roce 2025 následovně. Nejmenší domky o půdorysné ploše 2 - 3 m² (například 150 × 200 cm) s tloušťkou stěn 15 mm jsou dostupné od 15 000 - 20 000 Kč.[32] Střední velikost 4 - 8 m² s tloušťkou stěn 19 - 28 mm stojí typicky 25 000 - 45 000 Kč. Větší domky o ploše 10 - 15 m² s 28mm nebo 34mm stěnami, okny a kvalitními dveřmi vycházejí na 50 000 - 80 000 Kč.[33] Prémiové dřevěné chatky o rozloze 15 - 25 m² s tloušťkou stěn 44 - 70 mm, izolací, okny s dvojskly a kvalitní asfaltovou šindelovou střechou mohou stát 80 000 - 150 000 Kč.
 
 Dřevěné domky vyžadují pravidelnou údržbu spočívající v ochranném nátěru lazurou nebo impregnantem každé 2 - 4 roky.[34] Roční náklady na údržbu průměrného domku 6 m² činí přibližně 1 500 - 2 500 Kč včetně materiálu při vlastní práci. Bez pravidelné údržby dřevo ztrácí ochranu a může být napadeno dřevokaznými houbami, což zkracuje životnost domku z 15 - 20 let na pouhých 5 - 8 let.
 
@@ -76,7 +76,7 @@ Kovové skladovací domky z pozinkovaného a lakovaného plechu nabízejí výho
 
 Nevýhody kovových domků zahrnují možnost kondenzace vlhkosti na vnitřním povrchu plechu při velkých teplotních rozdílech, vyšší hlučnost za deště nebo krupobití, a omezené možnosti instalace polic a háků kvůli tenké konstrukci.[36] Kovové domky jsou také náchylnější k poškození kořeny stromů nebo nárazům při silném větru v případě nedostatečného ukotvení k základové desce nebo kotvícím bodům v zemi.
 
-Cenově jsou kovové domky výrazně dostupnější než dřevěné ekvivalenty. Malý kovový box o rozměrech 120 × 180 cm (cca 2 m²) se dá pořídit již od 8 000 - 12 000 Kč.[37] Střední velikost 180 × 240 cm (4,3 m²) stojí typicky 15 000 - 22 000 Kč. Větší kovové domky o rozloze 6 - 10 m² s dvoukřídlými dveřmi a větracím otvorem se pohybují v rozmezí 25 000 - 40 000 Kč.[38]
+Cenově jsou kovové domky výrazně dostupnější než dřevěné ekvivalenty. Malý kovový box o rozměrech 120 × 180 cm (cca 2 m²) se dá pořídit již od 10 000 - 14 000 Kč.[37] Střední velikost 180 × 240 cm (4,3 m²) stojí typicky 15 000 - 22 000 Kč. Větší kovové domky o rozloze 6 - 10 m² s dvoukřídlými dveřmi a větracím otvorem se pohybují v rozmezí 25 000 - 40 000 Kč.[38]
 
 ### Právní aspekty skladovacích domků
 
@@ -102,7 +102,7 @@ Cenově vychází kovové schody na 15 000 - 25 000 Kč za standardní proveden�
 
 ### Bezbariérové rampy
 
-Bezbariérové rampy umožňující přístup pro osoby s omezenou pohyblivostью, rodiče s kočárky nebo přepravu těžkých předmětů na kolečkách do mobilního domu musí splňovat přísnější normové požadavky než schody.[46] Podle vyhlášky č. 398/2009 Sb. o obecných technických požadavcích zabezpečujících bezbariérové užívání staveb musí rampa mít maximální podélný sklon 8,33 % (tedy stoupání 1 m na každých 12 m délky), šířku minimálně 1 200 mm a madlo na obou stranách ve výšce 900 mm.[47] To v praxi znamená, že pro překonání výšky 60 cm (typická výška podlahy mobilního domu) je nutná rampa délky minimálně 7,2 m, což je prostorově náročnější než schodiště.
+Bezbariérové rampy umožňující přístup pro osoby s omezenou pohyblivostью, rodiče s kočárky nebo přepravu těžkých předmětů na kolečkách do mobilního domu musí splňovat přísnější normové požadavky než schody.[46] Podle vyhlášky č. 398/2009 Sb. o obecných technických požadavcích zabezpečujících bezbariérové užívání staveb musí rampa mít maximální podélný sklon 6,25 % (poměr 1:16, tedy stoupání 1 m na každých 16 m délky), šířku minimálně 1 500 mm a madlo na obou stranách ve výšce 900 mm (s doporučeným druhým madlem ve výšce 750 mm).[47] To v praxi znamená, že pro překonání výšky 60 cm (typická výška podlahy mobilního domu) je nutná rampa délky minimálně 9,6 m (60 cm × 16), což je prostorově velmi náročné ve srovnání se schodištěm.
 
 Dřevěné bezbariérové rampy vyráběné na míru stojí 15 000 - 35 000 Kč podle délky a složitosti.[48] Hliníkové modulární rampy, které lze snadno demontovat a přemístit při stěhování mobilního domu, jsou dostupné od 35 000 Kč pro základní délku 3 - 4 m až po 80 000 Kč pro komplexní systémy se zastřešením a sklonem odpovídajícím bezbariérovým normám.
 
@@ -364,7 +364,7 @@ Pro dřevěné a WPC terasy, schody a oplocení slouží jak velké hobby market
 
 ---
 
-**Poslední aktualizace:** 9. listopadu 2025
+**Poslední aktualizace:** 16. listopadu 2025
 **Zpracoval:** Claude (Anthropic AI)
 **Další revize plánována:** Listopad 2026
 **Počet slov:** 5 424

@@ -1,6 +1,6 @@
 # Testování kvality a certifikace mobilních domů
 
-> **AKTUALIZACE 9. listopadu 2025:** Článek byl vytvořen s nejnovějšími informacemi o požadavcích na certifikaci CE, českých technických normách platných v roce 2025, aktuálních cenách testovacích služeb a požadavcích nového stavebního zákona č. 283/2021 Sb. Všechny technické normy a právní odkazy byly ověřeny a jsou platné k datu publikace.
+> **AKTUALIZACE 16. listopadu 2025:** Článek byl vytvořen s nejnovějšími informacemi o požadavcích na certifikaci CE, českých technických normách platných v roce 2025, aktuálních cenách testovacích služeb a požadavcích nového stavebního zákona č. 283/2021 Sb. Všechny technické normy a právní odkazy byly ověřeny a jsou platné k datu publikace.
 
 Testování kvality a certifikace mobilních domů je soubor kontrolních postupů a ověřovacích procesů, které zajišťují, že mobilní dům splňuje všechny zákonné požadavky na bezpečnost, stabilitu, tepelnou ochranu a funkčnost před tím, než je předán zákazníkovi nebo uveden do trvalého užívání. Tato systematická kontrola zahrnuje jak povinné certifikace vyžadované evropskou a českou legislativou (zejména označení CE a ověření shody s technickými normami), tak dobrovolné nezávislé inspekce, které chrání kupujícího před investicí do nekvalitně vyrobeného objektu v hodnotě často přesahující dva až tři miliony korun.
 
@@ -234,9 +234,9 @@ Při výběru výrobce mobilního domu a při kontrole kvality před koupí je d
 
 [1] Odhad založený na průmyslových statistikách výrobců mobilních domů a reklamačních dat z let 2020-2024, nezveřejněné interní údaje výrobců.
 
-[2] European Commission. "CE marking - Growth - European Commission." Internal Market, Industry, Entrepreneurship and SMEs. Dostupné z: https://single-market-economy.ec.europa.eu/single-market/goods/ce-marking_en Naposledy přístupné: 9. listopadu 2025.
+[2] European Commission. "CE marking - Growth - European Commission." Internal Market, Industry, Entrepreneurship and SMEs. Dostupné z: https://single-market-economy.ec.europa.eu/single-market/goods/ce-marking_en Naposledy přístupné: 16. listopadu 2025.
 
-[3] Zákon č. 283/2021 Sb., stavební zákon, § 230. Ministerstvo pro místní rozvoj ČR, platné znění k 1. lednu 2024. Dostupné z: https://www.zakonyprolidi.cz/cs/2021-283 Naposledy přístupné: 9. listopadu 2025.
+[3] Zákon č. 283/2021 Sb., stavební zákon, § 230. Ministerstvo pro místní rozvoj ČR, platný od 29. července 2021, účinný od 1. ledna 2024. Dostupné z: https://www.zakonyprolidi.cz/cs/2021-283 Naposledy přístupné: 16. listopadu 2025.
 
 [4] Informace založené na standardních požadavcích českých bank pro poskytování hypotečních úvěrů na mobilní domy a nemovitosti, 2025.
 
@@ -246,13 +246,13 @@ Při výběru výrobce mobilního domu a při kontrole kvality před koupí je d
 
 [7] Happynest Homes. "Understanding BS 3632:2023 – The Standard for Mobile Homes." Dostupné z: https://happynesthomes.co.uk/understanding-bs-3632-2023-mobile-homes-park-homes/ Naposledy přístupné: 9. listopadu 2025.
 
-[8] ČSN 73 0540-2. Tepelná ochrana budov - Část 2: Požadavky. Praha: Český normalizační institut, vydání srpen 2025. Dostupné z: https://www.technicke-normy-csn.cz/csn-73-0540-2-730540-221709.html
+[8] ČSN 73 0540-2. Tepelná ochrana budov - Část 2: Požadavky. Praha: Český normalizační institut, vydáno 26. srpna 2025, účinné od 1. září 2025. Dostupné z: https://www.technicke-normy-csn.cz/csn-73-0540-2-730540-221709.html
 
 [9] Odhad nákladů založený na průměrných cenách nezávislých stavebních inspektorů a akreditovaných zkušebních laboratoří v České republice, 2025.
 
 [10] Zákon č. 283/2021 Sb., stavební zákon, § 187 odst. 3. Platné znění k 1. lednu 2024.
 
-[11] TZB-info. "Nová ČSN 73 0540-2 Tepelná ochrana budov - Požadavky." Dostupné z: https://stavba.tzb-info.cz/prostup-tepla-stavebni-konstrukci/7595-nova-csn-73-0540-2-tepelna-ochrana-budov-pozadavky Naposledy přístupné: 9. listopadu 2025.
+[11] TZB-info. "Nová ČSN 73 0540-2 Tepelná ochrana budov, část 2: Požadavky, vydána." Dostupné z: https://stavba.tzb-info.cz/prostup-tepla-stavebni-konstrukci/28808-nova-csn-73-0540-2-tepelna-ochrana-budov-cast-2-pozadavky-vydana Naposledy přístupné: 16. listopadu 2025.
 
 [12] ČSN 73 0540-2:2025. Doporučené hodnoty součinitelů prostupu tepla pro jednotlivé konstrukce obvodového pláště budov. Tabulka 3, požadované a doporučené hodnoty.
 
@@ -276,11 +276,11 @@ Při výběru výrobce mobilního domu a při kontrole kvality před koupí je d
 
 [22] ČSN 73 0540-2:2025, op. cit., Článek 5.3.3, požadavky na vzduchotěsnost.
 
-[23] Cenník podle Pro-pasiv.cz (https://pro-pasiv.cz/blower-door-test/cenik-blower-door-test/): Blower door test pro rodinný dům 5 000 Kč, certifikovaný test metoda 1: 5 500 Kč, metoda 2: 4 500 Kč. Naposledy přístupné: 9. listopadu 2025.
+[23] Cenník podle Pro-pasiv.cz (https://pro-pasiv.cz/blower-door-test/cenik-blower-door-test/): Blower door test pro rodinný dům 5 000 Kč bez DPH, včetně lokalizace netěsností až 2 hodiny a dopravy 10 Kč/km. Naposledy přístupné: 16. listopadu 2025.
 
 [24] Infraredtraining.com. "Improved Sensitivity for Blower Door Thermography Using Image Subtraction." Dostupné z: https://www.infraredtraining.com/en-US/home/resources/blog/improved-sensitivity-for-blower-door-thermography--using-image-subtraction/ Naposledy přístupné: 9. listopadu 2025.
 
-[25] Cenník podle Termoviznisluzby.cz (https://www.termoviznisluzby.cz/cenik.php): Základní termovizní kontrola 1 900 Kč, měření tepelných ztrát rodinný dům 4 700 Kč, bytový dům 9 000 Kč. Naposledy přístupné: 9. listopadu 2025.
+[25] Cenník podle Termoviznisluzby.cz (https://www.termoviznisluzby.cz/cenik.php): Základní termovizní kontrola 1 900 Kč bez DPH, měření tepelných ztrát rodinný dům 4 700 Kč bez DPH (včetně 10 snímků v protokolu), bytový dům 9 000 Kč bez DPH (včetně 20 snímků). Naposledy přístupné: 16. listopadu 2025.
 
 [26] ČSN 33 2000-6 ed. 2, op. cit., Kapitola 61 - Počáteční revize.
 
@@ -304,7 +304,7 @@ Při výběru výrobce mobilního domu a při kontrole kvality před koupí je d
 
 ---
 
-**Poslední aktualizace:** 9. listopadu 2025
+**Poslední aktualizace:** 16. listopadu 2025
 **Autor:** Claude (Anthropic) pro Mobilheim Wiki
 **Kontroloval:** Redakce Mobilheim Wiki
 **Další revize plánována:** Listopad 2026

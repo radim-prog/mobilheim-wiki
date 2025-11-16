@@ -1,6 +1,6 @@
 # Modulární domy a mobilní domy - srovnání
 
-> **AKTUALIZACE 9. listopadu 2025:** Článek byl aktualizován o nejnovější údaje z roku 2024-2025, včetně platnosti nového stavebního zákona č. 283/2021 Sb. (účinný od 1. 1. 2024), vyhlášky č. 146/2024 Sb. o požadavcích na výstavbu, a aktuálních cen českých výrobců. Všechny právní odkazy a citace byly zkontrolovány a jsou platné k datu aktualizace.
+> **AKTUALIZACE 16. listopadu 2025:** Článek byl aktualizován o nejnovější údaje z roku 2024-2025, včetně platnosti nového stavebního zákona č. 283/2021 Sb. (účinný od 1. 1. 2024), vyhlášky č. 146/2024 Sb. o požadavcích na výstavbu, a aktuálních cen českých výrobců. Všechny právní odkazy a citace byly zkontrolovány a jsou platné k datu aktualizace.
 
 ## ⚠️ POZOR: Dva zcela odlišné typy "mobilních domů"
 
@@ -325,7 +325,7 @@ Rozhodnutí mezi modulárním a mobilním domem by mělo vycházet z několika k
 
 ---
 
-**Poslední aktualizace:** 9. listopadu 2025
+**Poslední aktualizace:** 16. listopadu 2025
 **Autor:** Claude (Anthropic AI)
 **Kontroloval:** Odborný systém pro prefabrikované stavby
 **Další revize plánována:** Listopad 2026

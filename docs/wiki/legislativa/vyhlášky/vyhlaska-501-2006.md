@@ -1,8 +1,42 @@
 # Vyhláška 501/2006 Sb. - Obecné požadavky na využívání území
 
+> **⚠️ POZOR: VYHLÁŠKA BYLA ZRUŠENA K 1. LEDNU 2024!**
+>
+> Tato vyhláška byla nahrazena **vyhláškou č. 146/2024 Sb.** s účinností od 1. července 2024.
+>
+> **Tento článek je určen pouze pro historické účely.**
+>
+> **Pokud plánujete stavbu v roce 2025, MUSÍTE používat novou vyhlášku 146/2024 Sb.!**
+>
+> → [Přejít na novou vyhlášku 146/2024 Sb.](/wiki/legislativa/vyhlášky/vyhlaska-146-2024.md)
+
+---
+
 > **O obecných požadavcích na využívání území**
 >
-> **Platnost:** Od 1. ledna 2007, s postupnými novelizacemi
+> **Platnost:** Od 1. ledna 2007 do 31. prosince 2023 (ZRUŠENA)
+
+---
+
+## ⚠️ HISTORICKÝ DOKUMENT - NEPLATNÝ OD 1.1.2024
+
+**Poslední aktualizace:** 16. listopadu 2025 (doplněno varování o zrušení)
+
+**Důležité upozornění:**
+
+Vyhláška č. 501/2006 Sb. byla **ZRUŠENA** s účinností od 1. ledna 2024 a nahrazena novou vyhláškou č. 146/2024 Sb., která nabyla účinnosti 1. července 2024.
+
+**Pokud připravujete projekt stavby v roce 2025:**
+- ❌ **NEPOUŽÍVEJTE** tuto vyhlášku 501/2006 Sb. - je neplatná!
+- ✅ **POUŽIJTE** novou vyhlášku 146/2024 Sb.
+- ⚠️ Použití staré vyhlášky povede k **zamítnutí projektu** stavebním úřadem!
+
+**Typické náklady při použití staré vyhlášky:**
+- Přepracování projektu: 15 000 - 40 000 Kč
+- Ztracený čas: 2-6 měsíců
+- Případné pokutování: až 50 000 Kč
+
+→ [Nová vyhláška 146/2024 Sb. - aktuální znění](/wiki/legislativa/vyhlášky/vyhlaska-146-2024.md)
 
 ---
 
@@ -307,6 +341,21 @@
 
 ---
 
-**Zpracováno:** 20. října 2025
+**Zpracováno:** 20. října 2025 (původní verze)
+**Aktualizováno:** 16. listopadu 2025 (doplněno varování o zrušení)
 **Autor:** Mobilheim Wiki
 **Zdroje:** Vyhláška 501/2006 Sb., ČSN normy, praktická aplikace
+
+---
+
+## ⚠️ Závěrečné připomenutí
+
+**Tato vyhláška JIŽ NEPLATÍ od 1. ledna 2024!**
+
+Pokud připravujete projekt mobilního domu nebo jakékoli stavby v roce 2025, **MUSÍTE** používat novou vyhlášku 146/2024 Sb.
+
+**Reálný příběh:**
+→ [Projektant použil starou vyhlášku 501/2006 → projekt zamítnut, 32 000 Kč ztraceno](/docs/blog/42-stara-vyhlaska-realny-pribeh.md)
+
+**Aktuální vyhláška:**
+→ [Vyhláška 146/2024 Sb. - kompletní průvodce](/wiki/legislativa/vyhlášky/vyhlaska-146-2024.md)

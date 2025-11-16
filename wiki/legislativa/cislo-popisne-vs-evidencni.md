@@ -99,7 +99,7 @@ Před detailním srovnáním č.p. a č.e. je nutné objasnit čtyři často zam
 |---|---|
 | Stavební řízení + kolaudace | 15 000 - 26 000 |
 | Geometrický plán | 8 000 - 20 000 |
-| **Pasport stavby** | **25 000 - 70 000** ⚠️ |
+| **Projektová dokumentace (pasport)** | **25 000 - 70 000** ⚠️ |
 | Geodetické zaměření | 5 000 - 10 000 |
 | **PENB (energetický štítek)** | **9 300 - 12 500** |
 | Vklad do katastru | 2 000 |
@@ -124,7 +124,7 @@ Před detailním srovnáním č.p. a č.e. je nutné objasnit čtyři často zam
 |---|---|
 | Územní souhlas | 1 000 - 3 000 |
 | Geometrický plán | ❌ **0** (není nutný) |
-| Pasport stavby | ❌ **0** (není nutný) |
+| Projektová dokumentace | ❌ **0** (není nutný) |
 | PENB | ❌ **0** (osvobozeno <25%) |
 | Vklad do katastru | ❌ **0** (není nutný) |
 | Revize (elektro, plyn) | 5 000 - 7 235 (dobrovolné) |
@@ -149,7 +149,7 @@ Před detailním srovnáním č.p. a č.e. je nutné objasnit čtyři často zam
 | **Za 10 let** | 162 500 | 37 400 | **125 100 Kč** ✅ |
 
 **💰 HLAVNÍ ZDROJE ÚSPOR:**
-1. **Pasport stavby:** 25 - 70k ❌ (nová povinnost od 2024!)
+1. **Projektová dokumentace:** 25 - 70k ❌ (vyhl. 146/2024 Sb. od července 2024)
 2. **Geometrický plán:** 8 - 20k ❌
 3. **PENB:** 9 - 12k ❌
 4. **Vklad do katastru:** 2k ❌
@@ -241,9 +241,15 @@ Způsob označování budov čísly popisnými a evidenčními.
 
 ### Stavební zákon 283/2021 Sb.
 
-Definice stavby, účel využití, kolaudace.
+Definice stavby, účel využití, kolaudace. Účinnost od 1. ledna 2024.
 
 **Dostupné:** https://www.zakonyprolidi.cz/cs/2021-283
+
+### Vyhláška 146/2024 Sb.
+
+Požadavky na výstavbu, projektová dokumentace. Účinnost od 1. července 2024.
+
+**Dostupné:** https://www.zakonyprolidi.cz/cs/2024-146
 
 ## Reference a citace
 
@@ -263,6 +269,9 @@ Dostupné: https://www.zakonyprolidi.cz/cs/2000-406
 Dostupné: https://www.zakonyprolidi.cz/cs/1992-338
 
 [7] Průzkum hypotečního trhu 2025, Česká bankovní asociace
+
+[8] Vyhláška č. 146/2024 Sb., o požadavcích na výstavbu (účinnost 1.7.2024)
+Dostupné: https://www.zakonyprolidi.cz/cs/2024-146
 
 ---
 

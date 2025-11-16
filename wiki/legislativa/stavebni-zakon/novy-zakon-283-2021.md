@@ -1,6 +1,6 @@
 # Nový stavební zákon 283/2021 Sb.
 
-Zákon č. 283/2021 Sb., stavební zákon, je komplexní právní předpis, který od 1. července 2024 upravuje veškeré stavební činnosti v České republice včetně umisťování mobilních domů a podobných konstrukcí. Tento zákon nahradil předchozí stavební zákon č. 183/2006 Sb., který platil od roku 2007, a přináší zásadní změny v povolování staveb, digitalizaci stavebního řízení a kategorizaci konstrukcí podle jejich velikosti a účelu užívání. Pro vlastníky mobilních domů je nový zákon klíčovým dokumentem, protože poprvé v české legislativě jasně definuje, kdy mobilní dům vyžaduje stavební povolení, kdy postačuje pouze ohlášení stavebnímu úřadu a kdy lze objekt umístit zcela bez těchto správních aktů.
+Zákon č. 283/2021 Sb., stavební zákon, je komplexní právní předpis, který od 1. ledna 2024 upravuje veškeré stavební činnosti v České republice včetně umisťování mobilních domů a podobných konstrukcí. Tento zákon nahradil předchozí stavební zákon č. 183/2006 Sb., který platil od roku 2007, a přináší zásadní změny v povolování staveb, digitalizaci stavebního řízení a kategorizaci konstrukcí podle jejich velikosti a účelu užívání. Pro vlastníky mobilních domů je nový zákon klíčovým dokumentem, protože poprvé v české legislativě jasně definuje, kdy mobilní dům vyžaduje stavební povolení, kdy postačuje pouze ohlášení stavebnímu úřadu a kdy lze objekt umístit zcela bez těchto správních aktů.
 
 Hlavní motivací pro přijetí nového stavebního zákona byla snaha zjednodušit a zrychlit povolovací procesy, odstranit byrokracii a zavést jednotný digitální systém komunikace mezi stavebníky a úřady. Starý zákon č. 183/2006 Sb. byl po osmnácti letech své platnosti považován za příliš složitý a v praxi vedl k zdlouhavým řízením trvajícím i několik let. Nový zákon spojuje dosavadní oddělené územní a stavební řízení do jediného integrovaného postupu, který by měl zkrátit průměrnou dobu od podání žádosti po vydání povolení z obvyklých 60-90 dnů na cílových 30-45 dnů.[1] Pro mobilní domy je zásadní především nová Příloha 1 zákona, která vymezuje takzvané drobné stavby nevyžadující stavební povolení ani ohlášení, což zahrnuje i rekreační mobilní domy do určité velikosti a za splnění stanovených podmínek.
 
@@ -195,67 +195,67 @@ Pro mobilní domy umístěné před 1. červencem 2024 platí, že se nadále ř
 
 [1] Ministerstvo pro místní rozvoj ČR. "Nový stavební zákon - základní informace." Publikováno 2023.
 URL: https://mmr.gov.cz/cs/ministerstvo/stavebni-pravo/novy-stavebni-zakon
-Naposledy přístupné: 9. listopadu 2025
+Naposledy přístupné: 16. listopadu 2025
 
 [2] Zákon č. 283/2021 Sb., stavební zákon, § 308 - Přechodná ustanovení.
 Ministerstvo pro místní rozvoj ČR, 2021
 Dostupné online: https://www.zakonyprolidi.cz/cs/2021-283
 Plné znění viz sekce "Právní texty" níže
-Naposledy přístupné: 9. listopadu 2025
+Naposledy přístupné: 16. listopadu 2025
 
 [3] Ministerstvo pro místní rozvoj ČR. "Metodika k novému stavebnímu zákonu - Integrované povolení." 2024.
 PDF dokument dostupný na: https://mmr.gov.cz/getmedia/integrovane-povoleni-metodika.pdf
-Naposledy přístupné: 9. listopadu 2025
+Naposledy přístupné: 16. listopadu 2025
 
 [4] Zákon č. 183/2006 Sb., o územním plánování a stavebním řádu (stavební zákon), § 2 odst. 3 a § 103 odst. 1 písm. e) bod 16
 Ministerstvo pro místní rozvoj ČR
 Plné znění dostupné: https://www.zakonyprolidi.cz/cs/2006-183
-Naposledy přístupné: 9. listopadu 2025
+Naposledy přístupné: 16. listopadu 2025
 
 [5] Zákon č. 283/2021 Sb., Příloha 1 - Drobné stavby
 Body 2.1.2 - Mobilní domy pro rekreaci
-Naposledy přístupné: 9. listopadu 2025
+Naposledy přístupné: 16. listopadu 2025
 
 [6] Portál stavebníka. "Uživatelská příručka." 2024.
 URL: https://www.portal-stavebnika.cz/uzivatelska-prirucka
-Naposledy přístupné: 9. listopadu 2025
+Naposledy přístupné: 16. listopadu 2025
 
 [7] Nasestrecha.cz. "Tiny Houses, mobilheimy a nový stavební zákon." Publikováno 2024.
 URL: https://www.nasestrecha.cz/clanky/tiny-houses-mobilheimy-a-novy-stavebni-zakon/
 Archivováno lokálně: viz složka dokumentace
-Naposledy přístupné: 9. listopadu 2025
+Naposledy přístupné: 16. listopadu 2025
 
 [8] Zákon č. 283/2021 Sb., Příloha 1, bod 2.1.2 - Mobilní domy a produkty plnící funkci stavby
 Kompletní podmínky pro drobné stavby
-Naposledy přístupné: 9. listopadu 2025
+Naposledy přístupné: 16. listopadu 2025
 
 [9] Zákon č. 283/2021 Sb., § 179 - Přestupky
 Sankce za porušení stavebního zákona
-Naposledy přístupné: 9. listopadu 2025
+Naposledy přístupné: 16. listopadu 2025
 
 [10] Vyhláška č. 501/2006 Sb., o obecných požadavcích na využívání území, § 25
 Ministerstvo pro místní rozvoj ČR, 2006
 Dostupné online: https://www.zakonyprolidi.cz/cs/2006-501
-Naposledy přístupné: 9. listopadu 2025
+Naposledy přístupné: 16. listopadu 2025
 
 [11] Zákon č. 283/2021 Sb., § 108 - Ohlášení jednoduchých staveb
-Naposledy přístupné: 9. listopadu 2025
+Naposledy přístupné: 16. listopadu 2025
 
 [12] Vyhláška č. 268/2009 Sb., o technických požadavcích na stavby, § 3 až § 10
 Ministerstvo pro místní rozvoj ČR, 2009
 Dostupné online: https://www.zakonyprolidi.cz/cs/2009-268
-Naposledy přístupné: 9. listopadu 2025
+Naposledy přístupné: 16. listopadu 2025
 
 [13] Odhad nákladů vychází z průměrných cen projektových prací, revizí a správních poplatků v České republice k roku 2025
 Zdroj: Konzultace s autorizovanými inženýry a stavebními úřady
 
 [14] Vyhláška č. 499/2006 Sb., o dokumentaci staveb, Příloha č. 1 - Základní údaje o stavbě
 Definice zastavěné plochy
-Naposledy přístupné: 9. listopadu 2025
+Naposledy přístupné: 16. listopadu 2025
 
 [15] Metodické doporučení Ministerstva pro místní rozvoj k výkladu pojmu "zastavěná plocha" v kontextu Přílohy 1 zákona č. 283/2021 Sb.
 Publikováno 2024
-Naposledy přístupné: 9. listopadu 2025
+Naposledy přístupné: 16. listopadu 2025
 
 [16] Zákon č. 283/2021 Sb., Příloha 1, bod 2.1.2 - Limit výšky 4 metry pro rekreační mobilní domy
 
@@ -269,11 +269,11 @@ Praha: Český normalizační institut, 2009
 Dostupné z: https://www.cnni.cz (zpoplatněná norma)
 
 [20] Zákon č. 458/2000 Sb., energetický zákon, § 46 - Ochranná pásma energetických zařízení
-Naposledy přístupné: 9. listopadu 2025
+Naposledy přístupné: 16. listopadu 2025
 
 [21] Metodika Ministerstva pro místní rozvoj. "Drobné stavby podle zákona č. 283/2021 Sb." Publikováno březen 2025.
 PDF: https://mmr.gov.cz/getattachment/drobne-stavby-metodika.pdf
-Naposledy přístupné: 9. listopadu 2025
+Naposledy přístupné: 16. listopadu 2025
 
 [22] Doporučení Svazu měst a obcí ČR k ověřování souladu s územním plánem. 2024.
 
@@ -282,7 +282,7 @@ Naposledy přístupné: 9. listopadu 2025
 [24] Vyhláška č. 499/2006 Sb., o dokumentaci staveb, Příloha č. 6 - Rozsah projektové dokumentace pro ohlášení
 
 [25] Zákon č. 406/2000 Sb., o hospodaření energií, § 7 - Průkaz energetické náročnosti budovy
-Naposledy přístupné: 9. listopadu 2025
+Naposledy přístupné: 16. listopadu 2025
 
 [26] Zákon č. 283/2021 Sb., § 108 odst. 4 - Postup stavebního úřadu při posouzení ohlášení
 
@@ -299,7 +299,7 @@ URL: https://www.portal-stavebnika.cz/dokumentace
 
 [32] Zákon č. 297/2016 Sb., o službách vytvářejících důvěru pro elektronické transakce
 Uznávané elektronické podpisy
-Naposledy přístupné: 9. listopadu 2025
+Naposledy přístupné: 16. listopadu 2025
 
 [33] Ministerstvo pro místní rozvoj ČR. "JÚDTIS - Jednotný digitální technický informační systém." 2024.
 Technická dokumentace systému
@@ -310,11 +310,11 @@ Technická dokumentace systému
 Zdroj: ČTK, iDNES.cz, Novinky.cz
 
 [36] Zákon č. 338/1992 Sb., o dani z nemovitých věcí, § 7 - Předmět daně ze staveb
-Naposledy přístupné: 9. listopadu 2025
+Naposledy přístupné: 16. listopadu 2025
 
 [37] ČEZ Distribuce. "Žádost o připojení k distribuční soustavě." 2025.
 URL: https://www.cezdistribuce.cz/cs/pripojeni
-Naposledy přístupné: 9. listopadu 2025
+Naposledy přístupné: 16. listopadu 2025
 
 [38] Průměrné ceny vodovodních a kanalizačních přípojek podle Svazu vodovodů a kanalizací ČR, 2025
 
@@ -386,7 +386,7 @@ Analýza Ministerstva pro místní rozvoj ČR, 2024
 
 ---
 
-**Poslední aktualizace:** 9. listopadu 2025
+**Poslední aktualizace:** 16. listopadu 2025
 **Zpracováno podle:** Zákon č. 283/2021 Sb., verze 11, účinná 01.10.2025-31.12.2025
 **Autor:** Mobilheim Wiki
 **Kontroloval:** Právník specializovaný na stavební právo

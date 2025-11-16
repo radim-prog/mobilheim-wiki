@@ -1,6 +1,6 @@
 # Klimatizace a větrání mobilních domů
 
-> **AKTUALIZACE 9. listopadu 2025:** Článek byl aktualizován o nejnovější údaje z roku 2024-2025, včetně nových požadavků na větrání, současných cen klimatizací a rekuperačních jednotek, standardů kvality vnitřního vzduchu podle ČSN EN 16798-1 a nejnovějších poznatků o problematice vlhkosti a kondenzace v moderních mobilních domech. Všechny technické údaje a citace byly ověřeny a jsou platné k datu aktualizace.
+> **AKTUALIZACE 16. listopadu 2025:** Článek byl aktualizován o nejnovější údaje z roku 2024-2025, včetně nových požadavků na větrání, současných cen klimatizací a rekuperačních jednotek, standardů kvality vnitřního vzduchu podle ČSN EN 16798-1 a nejnovějších poznatků o problematice vlhkosti a kondenzace v moderních mobilních domech. Všechny technické údaje a citace byly ověřeny a jsou platné k datu aktualizace.
 
 Klimatizace a větrání mobilního domu je soubor technických opatření a zařízení, která zajišťují přívod čerstvého vzduchu, odvod znečištěného vzduchu, regulaci teploty a kontrolu vlhkosti v interiéru mobilního domu. Tento systém je zásadní pro udržení zdravého vnitřního prostředí, prevenci plísní a kondenzace, zajištění tepelné pohody v letních i zimních měsících a celkovou kvalitu bydlení v mobilních domech, které jsou díky moderním konstrukčním metodám výrazně vzduchotěsnější než tradiční stavby.
 
@@ -248,7 +248,7 @@ Větrání a klimatizace obytných budov v České republice podléhá regulaci 
 
 Nový stavební zákon č. 283/2021 Sb., který nahradil od 1. ledna 2024 předchozí zákon č. 183/2006 Sb., upravuje povolovací proces staveb a stanovuje obecné požadavky na stavby.[50] Podle § 169 zákona musí být stavba navržena a provedena tak, aby splňovala základní požadavky na stavby, mezi které patří mimo jiné hygienické požadavky a požadavky na zdravé vnitřní prostředí. Pro větrání to v praxi znamená, že stavba musí být vybavena větracím systémem zajišťujícím dostatečnou výměnu vzduchu podle příslušných technických norem. Při kolaudaci mobilního domu stavební úřad může vyžadovat doložení, že větrání splňuje normové požadavky, typicky formou projektové dokumentace vzduchotechniky a měření intenzity větrání.
 
-Vyhláška č. 268/2009 Sb., o technických požadavcích na stavby (ve znění novely 20/2012 Sb.), v § 10 odst. 1 stanoví, že "stavby pro bydlení a stavby pro pobyt osob musí být navrženy a provedeny tak, aby byla při jejich užívání zajištěna dostatečná výměna vzduchu větraním a aby byla splněna hygienická a zdravotní hlediska a požadavky na vnitřní prostředí staveb".[51] Konkrétní požadavky na intenzitu větrání však vyhláška nespecifikuje číselně - ty jsou uvedeny v technických normách, na které vyhláška odkazuje.
+Vyhláška č. 146/2024 Sb., o požadavcích na výstavbu (která nahradila předchozí vyhlášku č. 268/2009 Sb. s účinností od 1. července 2024), stanoví obecné požadavky na větrání obytných staveb, zejména že "stavby musí být navrženy a provedeny tak, aby byla při jejich užívání zajištěna dostatečná výměna vzduchu a splněny požadavky na vnitřní prostředí staveb".[51] Konkrétní požadavky na intenzitu větrání však vyhláška nespecifikuje číselně - ty jsou uvedeny v technických normách, na které vyhláška odkazuje.
 
 ČSN EN 16798-1 "Energetická náročnost budov - Větrání budov - Část 1: Vstupní parametry vnitřního prostředí pro návrh a posouzení energetické náročnosti budov zahrnující kvalitu vnitřního vzduchu, tepelný stav prostředí, osvětlení a akustiku" je základní normou stanovující požadavky na kvalitu vnitřního vzduchu a intenzitu větrání v obytných i nebytových budovách.[7] Norma rozlišuje čtyři kategorie kvality vnitřního prostředí (I - vysoká, II - střední/normální, III - přijatelná, IV - nízká) a pro každou kategorii definuje minimální intenzity větrání. Pro obytné budovy norma v Příloze B doporučuje:
 
@@ -322,7 +322,7 @@ Během provozu větracích a klimatizačních systémů v mobilních domech se m
 
 [8] Technical Report CEN/TR 16798-2:2019. "Energy performance of buildings - Ventilation for buildings - Part 2: Interpretation of the requirements in EN 16798-1." 2019.
 
-[9] Vyhláška č. 268/2009 Sb., o technických požadavcích na stavby (ve znění novely 20/2012 Sb.). Ministerstvo pro místní rozvoj ČR.
+[9] Vyhláška č. 146/2024 Sb., o požadavcích na výstavbu (nahradila předchozí vyhlášku č. 268/2009 Sb.). Platná od 12.06.2024, účinná od 01.07.2024. Ministerstvo pro místní rozvoj ČR.
 
 [10] Česká energetická agentura. "Úspory energie větráním s rekuperací tepla." Informační materiály, 2020.
 
@@ -406,7 +406,7 @@ Během provozu větracích a klimatizačních systémů v mobilních domech se m
 
 [50] Zákon č. 283/2021 Sb., stavební zákon. Parlament České republiky, platný od 1. 1. 2024.
 
-[51] Vyhláška č. 268/2009 Sb., o technických požadavcích na stavby, § 10 odst. 1. Ministerstvo pro místní rozvoj ČR.
+[51] Vyhláška č. 146/2024 Sb., o požadavcích na výstavbu. Platná od 12.06.2024, účinná od 01.07.2024. Ministerstvo pro místní rozvoj ČR. Dostupné: https://www.zakonyprolidi.cz/cs/2024-146
 
 [52] ČSN 73 0540-2:2011. "Tepelná ochrana budov - Část 2: Požadavky." Praha: ÚNMZ, 2011.
 

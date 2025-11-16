@@ -27,7 +27,7 @@ Naproti tomu starý mobilní dům s U = 1,0 ztratí stejnou stěnou 1 680 wattů
 
 ## České požadavky na rok 2025 - co musí váš dům splnit
 
-Od července 2024 platí v Česku vyhláška č. 146/2024 Sb., která stanovuje požadavky na výstavbu. Tato vyhláška odkazuje na českou technickou normu **ČSN 73 0540-2:2011** (aktualizovaná v září 2025), která definuje přesně, jak moc musí být budovy izolovány.
+Od července 2024 platí v Česku vyhláška č. 146/2024 Sb., která stanovuje požadavky na výstavbu. Tato vyhláška odkazuje na českou technickou normu **ČSN 73 0540-2:2011+Z1:2012** (poslední aktualizace září 2025), která definuje přesně, jak moc musí být budovy izolovány.
 
 Norma stanovuje tři úrovně izolace:
 
@@ -44,9 +44,9 @@ To je nejhorší izolace, kterou zákon ještě toleruje. Pokud váš dům nespl
 
 **Pozor:** Tyto hodnoty jsou skutečně jen minimum. Dům s touto izolací bude mít stále docela vysoké náklady na vytápění - počítejte s 60 000 až 80 000 Kč ročně u domu 50 m².
 
-### 2. Doporučená hodnota - TO CHCETE
+### 2. Doporučená hodnota - TO SKUTEČNĚ CHCETE
 
-Toto je to, co opravdu doporučují experti pro rozumné náklady na topení a komfortní bydlení.
+Toto je to, co opravdu doporučují experti pro rozumné náklady na topení a komfortní bydlení. Investice do této úrovně izolace se vrátí během 2-3 let a pak vám 20+ let šetří peníze.
 
 | Část domu | Doporučená U-hodnota | Co to znamená |
 |-----------|---------------------|---------------|
@@ -1011,7 +1011,7 @@ c) vzduchovou neprůzvučnost obálky budovy.
     Ministerstvo pro místní rozvoj České republiky
     Účinnost od: 1. července 2024
     Dostupné z: https://www.zakonyprolidi.cz/cs/2024-146
-    Naposledy přístupné: 9. listopadu 2025
+    Naposledy přístupné: 16. listopadu 2025
 
 [2] ČSN 73 0540-2:2011+Z1:2012 Tepelná ochrana budov - Část 2: Požadavky
     Český normalizační institut, Praha
@@ -1021,29 +1021,29 @@ c) vzduchovou neprůzvučnost obálky budovy.
 [3] TZB-info. "Normové hodnoty součinitele prostupu tepla UN,20 jednotlivých konstrukcí dle ČSN 73 0540-2:2011"
     Publikováno: 2011, aktualizováno 2025
     URL: https://www.tzb-info.cz/tabulky-a-vypocty/136-normove-hodnoty-soucinitele-prostupu-tepla
-    Naposledy přístupné: 9. listopadu 2025
+    Naposledy přístupné: 16. listopadu 2025
 
 [4] ISOVER. "Ceník produktů - Kamenná vlna, Skelná vlna, EPS"
     Saint-Gobain Construction Products CZ a.s.
     Platnost od: 1. září 2025
     URL: https://www.isover.cz/dokumenty/cenik-produktu/isover-cenik.pdf
-    Naposledy přístupné: 9. listopadu 2025
+    Naposledy přístupné: 16. listopadu 2025
 
 [5] DEK. "Expandovaný polystyren - cenník 2025"
     DEK a.s., distribuce stavebních materiálů
     Publikováno: Leden 2025
     URL: https://www.dek.cz/produkty/vypis/25-expandovany-polystyren
-    Naposledy přístupné: 9. listopadu 2025
+    Naposledy přístupné: 16. listopadu 2025
 
 [6] CenaZateplení.cz. "Zateplení fasády polystyrenem - cena materiálu a práce"
     Publikováno: 2025
     URL: https://cenazatepleni.cz/zatepleni-fasady-polystyrenem-eps-70-f-bily-polystyren-cena-prace-materialu/
-    Naposledy přístupné: 9. listopadu 2025
+    Naposledy přístupné: 16. listopadu 2025
 
 [7] Hoom.cz. "Foukaná izolace: kterou si vybrat a za jakou cenu?"
     Publikováno: 2024
     URL: https://www.hoom.cz/foukana-izolace/
-    Naposledy přístupné: 9. listopadu 2025
+    Naposledy přístupné: 16. listopadu 2025
 
 [8] ČSN EN 13501-1+A1:2019 Požární klasifikace stavebních výrobků a konstrukcí staveb
     Český normalizační institut, Praha
@@ -1059,24 +1059,24 @@ c) vzduchovou neprůzvučnost obálky budovy.
      Knauf Insulation s.r.o., Czech Republic
      Platnost od: Březen 2025
      URL: https://www.knaufinsulation.cz
-     Naposledy přístupné: 9. listopadu 2025
+     Naposledy přístupné: 16. listopadu 2025
 
 [11] Izolace-info.cz. "Požadavky na součinitel prostupu tepla"
      Specializovaný portál o stavebních izolacích
      URL: https://www.izolace-info.cz/aktuality/21465-pozadavky-na-soucinitel-prostupu-tepla-a.html
-     Naposledy přístupné: 9. listopadu 2025
+     Naposledy přístupné: 16. listopadu 2025
 
 [12] InspectAPedia. "Mobile Home Insulation & Ventilation Codes"
      Building & Environmental Inspection, Testing, Diagnosis, Repair
      URL: https://inspectapedia.com/insulation/Mobile_Home_Insulation.php
-     Naposledy přístupné: 9. listopadu 2025
+     Naposledy přístupné: 16. listopadu 2025
 
 ---
 
-**Zpracováno:** 9. listopadu 2025
+**Zpracováno:** 16. listopadu 2025
 **Autor:** Radim, Mobilheim Wiki
 **Odborná konzultace:** Výrobci izolací (Isover, Knauf, Rockwool), stavební inženýři
-**Zdroje:** ČSN 73 0540-2:2025, vyhláška 146/2024 Sb., aktuální ceníky českých výrobců izolací
+**Zdroje:** ČSN 73 0540-2:2011+Z1:2012 (aktualizace září 2025), vyhláška 146/2024 Sb., aktuální ceníky českých výrobců izolací
 **Další revize plánována:** Listopad 2026 (aktualizace cen a případných změn norem)
 **Kontakt:** radim@wikiporadce.cz
 

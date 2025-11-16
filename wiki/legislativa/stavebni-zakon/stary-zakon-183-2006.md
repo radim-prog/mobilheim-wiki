@@ -1,16 +1,18 @@
 # Starý stavební zákon 183/2006 Sb. – Historie a význam pro mobilní domy
 
-> **⚠️ DŮLEŽITÉ UPOZORNĚNÍ: Tento zákon byl ZRUŠEN k 1. červenci 2024**
+> **⚠️ KRITICKÉ UPOZORNĚNÍ: Tento zákon je NEPLATNÝ od 1. ledna 2024!**
 >
-> **Platnost:** 1. ledna 2007 – 30. června 2024
-> **Nahrazen zákonem:** 283/2021 Sb., stavební zákon
+> **Platnost:** 1. ledna 2007 – 31. prosince 2023
+> **Nahrazen zákonem:** 283/2021 Sb., stavební zákon (účinnost od 1. ledna 2024)
 > **Účel tohoto článku:** Historická reference a kontext pro pochopení vývoje české stavební legislativy
+>
+> ⚠️ **Pokud plánujete stavět nebo umisťovat mobilní dům NYNÍ, tento zákon již NEPLATÍ!** Řiďte se novým zákonem 283/2021 Sb.
 
 ---
 
-Zákon č. 183/2006 Sb., o územním plánování a stavebním řádu, známý jako starý stavební zákon, představoval základní právní rámec českého stavebního práva po dobu téměř osmnácti let. Tento předpis nabyl účinnosti 1. ledna 2007 a byl nahrazen novým stavebním zákonem č. 283/2021 Sb. k datu 1. července 2024, přičemž v přechodném období od 1. ledna do 30. června 2024 probíhalo postupné přecházení na nový právní režim.[1] Pro majitele mobilních domů představoval tento zákon po novele z roku 2012 významné zjednodušení, neboť zavedl koncept „výrobku plnícího funkci stavby", který osvobozoval prefabrikované domy od povinnosti získat stavební povolení a kolaudaci.[2]
+Zákon č. 183/2006 Sb., o územním plánování a stavebním řádu, známý jako starý stavební zákon, představoval základní právní rámec českého stavebního práva po dobu sedmnácti let. Tento předpis nabyl účinnosti 1. ledna 2007 a byl nahrazen novým stavebním zákonem č. 283/2021 Sb. k datu 1. ledna 2024.[1] Pro majitele mobilních domů představoval tento zákon po novele z roku 2012 významné zjednodušení, neboť zavedl koncept „výrobku plnícího funkci stavby", který osvobozoval prefabrikované domy od povinnosti získat stavební povolení a kolaudaci.[2]
 
-Pochopení starého stavebního zákona zůstává i dnes relevantní pro všechny majitele mobilních domů, které byly umístěny před 1. červencem 2024, neboť jejich právní režim se řídí předpisy platnými v době jejich instalace. Zákon také poskytuje důležitý historický kontext pro pochopení současných změn a jejich důvodů – zejména proto, že nový stavební zákon 283/2021 Sb. reaguje na četné problémy a byrokratické překážky, které starý zákon vytvářel. Podle odborných analýz trvalo stavební řízení u běžných projektů v průměru 6 až 12 měsíců, u větších staveb dokonce 5 let, a u velkých dopravních či energetických infrastrukturních projektů až neuvěřitelných 12 až 15 let.[3] Právě tato délka řízení, složitost procedur a nedostatečná koordinace mezi úřady vedly k rozhodnutí vytvořit zcela nový stavební zákon.
+Pochopení starého stavebního zákona zůstává i dnes relevantní pro všechny majitele mobilních domů, které byly umístěny před 1. lednem 2024, neboť jejich právní režim se řídí předpisy platnými v době jejich instalace. Zákon také poskytuje důležitý historický kontext pro pochopení současných změn a jejich důvodů – zejména proto, že nový stavební zákon 283/2021 Sb. reaguje na četné problémy a byrokratické překážky, které starý zákon vytvářel. Podle odborných analýz trvalo stavební řízení u běžných projektů v průměru 6 až 12 měsíců, u větších staveb dokonce 5 let, a u velkých dopravních či energetických infrastrukturních projektů až neuvěřitelných 12 až 15 let.[3] Právě tato délka řízení, složitost procedur a nedostatečná koordinace mezi úřady vedly k rozhodnutí vytvořit zcela nový stavební zákon.
 
 Tento článek poskytuje kompletní přehled starého stavebního zákona 183/2006 Sb. se zaměřením na jeho vztah k mobilním domům, klíčové novely, praktickou aplikaci a srovnání s novým zákonem. Cílem je poskytnit historický kontext a zároveň praktické informace pro majitele mobilních domů instalovaných v období 2007–2024.
 
@@ -417,7 +419,7 @@ Starý stavební zákon nestanovoval žádný explicitní limit velikosti mobiln
 
 ### Hlavní rozdíly mezi zákonem 183/2006 Sb. a 283/2021 Sb.
 
-Nový stavební zákon č. 283/2021 Sb., který nabyl účinnosti 1. července 2024, přinesl řadu zásadních změn oproti starému zákonu č. 183/2006 Sb. Tyto změny byly navrženy tak, aby odstranily byrokratické překážky, urychlily stavební řízení a sjednotily výklad právních předpisů. Hlavní rozdíly jsou:[90]
+Nový stavební zákon č. 283/2021 Sb., který nabyl účinnosti 1. ledna 2024, přinesl řadu zásadních změn oproti starému zákonu č. 183/2006 Sb. Tyto změny byly navrženy tak, aby odstranily byrokratické překážky, urychlily stavební řízení a sjednotily výklad právních předpisů. Hlavní rozdíly jsou:[90]
 
 **1. Sloučení územního a stavebního řízení do jednoho povolení**
 
@@ -464,11 +466,11 @@ Některé základní principy zůstaly zachovány i v novém zákoně:[100]
 - **Dodržení vyhlášek** – mobilní domy musí splňovat urbanistické a technické požadavky stanovené prováděcími vyhláškami,
 - **Možnost dodatečného povolení** – stavby provedené bez povolení lze za určitých podmínek dodatečně legalizovat.
 
-## Praktické tipy pro majitele mobilních domů instalovaných před červencem 2024
+## Praktické tipy pro majitele mobilních domů instalovaných před lednem 2024
 
 ### Platný právní režim pro starší mobilní domy
 
-Pro vlastníky mobilních domů, kteří je umístili před nabytím účinnosti nového stavebního zákona (tj. před 1. červencem 2024), zůstává platný právní režim starého zákona č. 183/2006 Sb. Tento princip vychází z obecné právní zásady, že stavba se posuzuje podle předpisů platných v době jejího povolení nebo umístění.[101]
+Pro vlastníky mobilních domů, kteří je umístili před nabytím účinnosti nového stavebního zákona (tj. před 1. lednem 2024), zůstává platný právní režim starého zákona č. 183/2006 Sb. Tento princip vychází z obecné právní zásady, že stavba se posuzuje podle předpisů platných v době jejího povolení nebo umístění.[101]
 
 To znamená, že pokud byl váš mobilní dům umístěn například v roce 2018 na základě územního rozhodnutí a certifikátu shody výrobku, není potřeba dodatečně vyřizovat povolení podle nového zákona. Stavební úřad nemůže zpětně měnit právní režim objektu, který byl legálně povolený podle dříve platných předpisů.[102]
 
@@ -534,7 +536,7 @@ Předložte výpis z katastru nemovitostí nebo nájemní smlouvu dokládající
 
 ### Stavební změny mobilního domu – kdy potřebujete nové povolení
 
-Pokud plánujete provést stavební změny na mobilním domě umístěném před červencem 2024, měli byste se předem poradit se stavebním úřadem, zda změny vyžadují nové povolení. Některé změny nevyžadují povolení, jiné ano:[106]
+Pokud plánujete provést stavební změny na mobilním domě umístěném před lednem 2024, měli byste se předem poradit se stavebním úřadem, zda změny vyžadují nové povolení. Některé změny nevyžadují povolení, jiné ano:[106]
 
 **Změny nevyžadující povolení:**
 
@@ -624,7 +626,7 @@ Toto ustanovení bylo relevantní pro případy, kdy mobilní dům přestal být
 
 ## Reference a zdroje
 
-[1] Zákon č. 183/2006 Sb., o územním plánování a stavebním řádu (stavební zákon), ve znění pozdějších předpisů, účinný do 30. června 2024. Ministerstvo pro místní rozvoj ČR. Dostupné online: https://www.zakonyprolidi.cz/cs/2006-183 (naposledy ověřeno 9. listopadu 2025).
+[1] Zákon č. 183/2006 Sb., o územním plánování a stavebním řádu (stavební zákon), ve znění pozdějších předpisů, účinný do 31. prosince 2023. Ministerstvo pro místní rozvoj ČR. Dostupné online: https://www.zakonyprolidi.cz/cs/2006-183 (naposledy ověřeno 16. listopadu 2025).
 
 [2] Zákon č. 350/2012 Sb., kterým se mění zákon č. 183/2006 Sb., stavební zákon. Ministerstvo pro místní rozvoj ČR, 2012. Dostupné online: https://www.zakonyprolidi.cz/cs/2012-350 (naposledy ověřeno 9. listopadu 2025).
 
@@ -802,7 +804,7 @@ Toto ustanovení bylo relevantní pro případy, kdy mobilní dům přestal být
 
 [89] Důvodová zpráva k zákonu č. 283/2021 Sb., část zvláštní k § 104.
 
-[90] Zákon č. 283/2021 Sb., stavební zákon, účinný od 1. července 2024.
+[90] Zákon č. 283/2021 Sb., stavební zákon, účinný od 1. ledna 2024.
 
 [91] Odhad Ministerstva pro místní rozvoj ČR k dopadu nového stavebního zákona, 2023.
 
@@ -854,9 +856,9 @@ Toto ustanovení bylo relevantní pro případy, kdy mobilní dům přestal být
 
 ---
 
-**Poslední aktualizace:** 9. listopadu 2025
+**Poslední aktualizace:** 16. listopadu 2025
 **Autor:** Mobilheim Wiki
 **Kontroloval:** Právní expert (anonymní)
 **Další revize plánována:** Listopad 2026
 
-**Poznámka:** Tento článek poskytuje historický přehled starého stavebního zákona č. 183/2006 Sb., který byl zrušen k 1. červenci 2024. Pro aktuální informace o právním režimu mobilních domů viz článek [Nový stavební zákon 283/2021 Sb.](/wiki/legislativa/stavebni-zakon/novy-zakon-283-2021.md).
+**Poznámka:** Tento článek poskytuje historický přehled starého stavebního zákona č. 183/2006 Sb., který byl zrušen k 1. lednu 2024. Pro aktuální informace o právním režimu mobilních domů viz článek [Nový stavební zákon 283/2021 Sb.](/wiki/legislativa/stavebni-zakon/novy-zakon-283-2021.md).

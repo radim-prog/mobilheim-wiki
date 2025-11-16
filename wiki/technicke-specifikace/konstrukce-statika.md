@@ -164,6 +164,8 @@ Součástí statického posouzení je také kontrola požární odolnosti nosný
 
 Stavební úřad vyžaduje předložení statického výpočtu při žádosti o stavební povolení nebo při ohlášení stavby mobilního domu většího než 25 metrů čtverečních nebo výšky nad 5 metrů. Pro menší mobilní domy na podvozku, které nespadají pod stavební povolení, se statický výpočet formálně nevyžaduje, ale z hlediska bezpečnosti a pojistitelnosti objektu je velmi doporučován. Pojišťovny často vyžadují předložení statického posouzení jako podmínku uzavření pojistné smlouvy.
 
+Cena statického posudku zpracovaného autorizovaným inženýrem se v České republice v roce 2025 pohybuje mezi 15 000 až 55 000 Kč v závislosti na složitosti objektu. Základní statický posudek založený na předběžném stavebně technickém průzkumu stojí od 18 600 Kč plus DPH, zatímco podrobnější posudek zahrnující provedené sondy a detailní analýzu stojí od 24 800 Kč plus DPH. Pro mobilní dům standardních rozměrů (do 60 m²) lze počítat s cenou statického posudku kolem 20 000 až 30 000 Kč včetně DPH.
+
 ## Údržba a kontrola nosné konstrukce
 
 Pravidelná údržba a kontrola nosné konstrukce mobilního domu je klíčová pro zachování bezpečnosti a prodloužení životnosti objektu. Na rozdíl od masivních domů, kde nosná konstrukce je zapravená a neviditelná, mobilní domy mají často nosnou konstrukci přístupnou pro kontrolu z podkroví nebo ze spodního prostoru pod podlahou, což umožňuje včasné odhalení problémů.
@@ -228,42 +230,42 @@ Toto ustanovení vyžaduje, aby nosné konstrukce mobilních domů byly navržen
 [8] ČSN 73 1001. Zakládání staveb - Základová půda pod plošnými základy. Praha: Český normalizační institut, 1987.
 
 [9] U.S. Department of Housing and Urban Development. "Guide to Foundation and Support Systems for Manufactured Homes." HUD User, 2009. Dostupné z: https://www.huduser.gov/portal/Publications/PDF/foundations_guide.pdf
-Naposledy přístupné: 9. listopadu 2025
+Naposledy přístupné: 16. listopadu 2025
 
 [10] Code of Federal Regulations. "24 CFR Part 3280 - Manufactured Home Construction and Safety Standards." U.S. Government Publishing Office, aktualizováno 15. září 2025.
 Dostupné z: https://www.ecfr.gov/current/title-24/subtitle-B/chapter-XX/part-3280
-Naposledy přístupné: 9. listopadu 2025
+Naposledy přístupné: 16. listopadu 2025
 
 [11] Code of Federal Regulations. "24 CFR Part 3285 - Model Manufactured Home Installation Standards." U.S. Government Publishing Office, aktualizováno 29. září 2025.
 Dostupné z: https://www.ecfr.gov/current/title-24/subtitle-B/chapter-XX/part-3285
-Naposledy přístupné: 9. listopadu 2025
+Naposledy přístupné: 16. listopadu 2025
 
 [12] "Sagging and Soft Floors in Mobile Homes." Underhome Armor, 2024.
 Dostupné z: https://underhomearmor.com/sagging-and-soft-floors-in-mobile-homes/
-Naposledy přístupné: 9. listopadu 2025
+Naposledy přístupné: 16. listopadu 2025
 
 [13] Westchester Modular Homes. "How a Modular Home is Constructed - Construction Series." 2024.
 Dostupné z: https://westchestermodular.com/
-Naposledy přístupné: 9. listopadu 2025
+Naposledy přístupné: 16. listopadu 2025
 
 [14] Zákon č. 183/2006 Sb., stavební zákon, ve znění pozdějších předpisů.
 Ministerstvo pro místní rozvoj ČR
 Dostupné online: https://www.zakonyprolidi.cz/cs/2006-183
-Naposledy přístupné: 9. listopadu 2025
+Naposledy přístupné: 16. listopadu 2025
 
 [15] Vyhláška č. 146/2024 Sb., o obecných požadavcích na výstavbu.
 Ministerstvo pro místní rozvoj ČR, 2024
 Dostupné online: https://www.zakonyprolidi.cz/cs/2024-146
-Naposledy přístupné: 9. listopadu 2025
+Naposledy přístupné: 16. listopadu 2025
 
 [16] Zákon č. 360/1992 Sb., o výkonu povolání autorizovaných architektů a autorizovaných inženýrů a techniků činných ve výstavbě, ve znění pozdějších předpisů.
 Česká komora autorizovaných inženýrů a techniků činných ve výstavbě
 Dostupné online: https://www.zakonyprolidi.cz/cs/1992-360
-Naposledy přístupné: 9. listopadu 2025
+Naposledy přístupné: 16. listopadu 2025
 
 ---
 
-**Poslední aktualizace:** 9. listopadu 2025
+**Poslední aktualizace:** 16. listopadu 2025
 **Zpracoval:** Claude (Anthropic) pro Mobilheim Wiki
 **Kontroloval:** Technický odborník - statika a dynamika staveb
 **Další revize plánována:** Listopad 2026

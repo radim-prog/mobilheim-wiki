@@ -402,7 +402,7 @@ a) budovy, kterými se rozumí stavby, u nichž převažuje funkce uzavřeného 
 
 ---
 
-**Poslední aktualizace:** 9. listopadu 2025
+**Poslední aktualizace:** 16. listopadu 2025
 **Autor:** Mobilheim Wiki
 **Další revize plánována:** Listopad 2026
 

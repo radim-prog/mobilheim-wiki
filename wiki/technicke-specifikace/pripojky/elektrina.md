@@ -18,7 +18,7 @@ Hranice mezi přípojkou a připojením je přesně definována v tzv. "místě 
 
 Pro mobilní domy je důležité si uvědomit, že **obě části - přípojka i připojení - jsou obvykle nutné**. Pokud kupujete pozemek, na kterém dosud nebyla žádná elektrická infrastruktura (tzv. "zelená louka"), budete potřebovat zajistit jak přípojku od distributora, tak připojení od hranice pozemku k místu, kde bude mobilní dům umístěn. Pokud však kupujete pozemek, kde již dříve stála stavba s elektrickou přípojkou, může být přípojka již existující a funkční, což výrazně usnadňuje a zlevňuje celý proces - v takovém případě možná bude stačit pouze obnovit nebo upravit připojení k místu, kde bude stát nový mobilní dům. Před nákupem pozemku proto vždy důrazně doporučujeme ověřit, zda na pozemku existuje funkční elektrická přípojka, jaký má parametry (jednofázová nebo třífázová, jaký proud), a zda nebude nutné ji rozšiřovat nebo kompletně vyměňovat. Tyto informace můžete získat od prodávajícího, nebo přímo kontaktováním příslušné distribuční společnosti s uvedením adresy pozemku.
 
-Dalším důležitým aspektem je **vlastnictví a odpovědnost**. Přípojku vlastní a udržuje distribuční společnost, což znamená, že pokud dojde k poruše na vedení mezi distribuční sítí a hranicí vašeho pozemku, opravy provádí a hradí distributor bez vašich dodatečných nákladů (s výjimkou situací, kdy jste poruchu způsobili sami, například poškozením kabelu při stavebních pracích). Připojení naopak vlastníte a udržujete vy, takže veškeré opravy a údržba na vedení od hranice pozemku k domu jsou vaší odpovědností a jdou z vaší kapsy. Proto je důležité investovat do kvalitních materiálů a odborné instalace při pořizování připojení, aby se minimalizovalo riziko budoucích poruch a nákladných oprav. Revizní prohlídky elektroinstalace musí být prováděny pravidelně každých 5 let podle vyhlášky č. 73/2010 Sb., o provozu elektroinstalace.[12] Za zajištění těchto revizí a případné odstranění závad odpovídá vlastník mobilního domu.
+Dalším důležitým aspektem je **vlastnictví a odpovědnost**. Přípojku vlastní a udržuje distribuční společnost, což znamená, že pokud dojde k poruše na vedení mezi distribuční sítí a hranicí vašeho pozemku, opravy provádí a hradí distributor bez vašich dodatečných nákladů (s výjimkou situací, kdy jste poruchu způsobili sami, například poškozením kabelu při stavebních pracích). Připojení naopak vlastníte a udržujete vy, takže veškeré opravy a údržba na vedení od hranice pozemku k domu jsou vaší odpovědností a jdou z vaší kapsy. Proto je důležité investovat do kvalitních materiálů a odborné instalace při pořizování připojení, aby se minimalizovalo riziko budoucích poruch a nákladných oprav. Revizní prohlídky elektroinstalace musí být prováděny pravidelně každých 5 let podle zákona č. 250/2021 Sb., o bezpečnosti technických zařízení.[12] Za zajištění těchto revizí a případné odstranění závad odpovídá vlastník mobilního domu.
 
 ## Dimenzování elektrické přípojky: Volba správného výkonu
 
@@ -66,7 +66,7 @@ Po dokončení instalace přípojky provede **revizní technik** kontrolu a revi
 
 **Krok 6: Realizace připojení od elektroměru k mobilnímu domu**
 
-Tuto část si musíte zajistit a zafinancovat sami, protože připojení od hranice pozemku (místa elektroměru) k mobilnímu domu je vaší odpovědností.[31] Najměte si kvalifikovanou **elektroinstalační firmu nebo živnostníka s certifikací podle vyhlášky č. 50/1978 Sb.** (elektrikář musí mít oprávnění pro revize a zkoušení elektrických zařízení).[32] Elektrikář navrhne a provede instalaci **hlavního domovního rozvaděče** v mobilním domě, připojovací kabel od elektroměru k domovnímu rozvaděči (obvykle podzemní kabel v chráničce nebo venkovní vedení po sloupech/stěně domu), a vnitřní elektroinstalaci v mobilním domě (zásuvky, osvětlení, jističe, proudové chrániče). Náklady na tuto část se liší podle vzdálenosti elektroměru od domu, terénu (rovný pozemek vs. svažitý terén vyžadující složitější vedení), a rozsahu vnitřní elektroinstalace, ale obvykle se pohybují v rozmezí **20 000 až 50 000 Kč** pro standardní mobilní dům do 50 m² s běžnou výbavou.[33]
+Tuto část si musíte zajistit a zafinancovat sami, protože připojení od hranice pozemku (místa elektroměru) k mobilnímu domu je vaší odpovědností.[31] Najměte si kvalifikovanou **elektroinstalační firmu nebo živnostníka s certifikací podle zákona č. 250/2021 Sb.** (elektrikář musí mít oprávnění pro revize a zkoušení elektrických zařízení).[32] Elektrikář navrhne a provede instalaci **hlavního domovního rozvaděče** v mobilním domě, připojovací kabel od elektroměru k domovnímu rozvaděči (obvykle podzemní kabel v chráničce nebo venkovní vedení po sloupech/stěně domu), a vnitřní elektroinstalaci v mobilním domě (zásuvky, osvětlení, jističe, proudové chrániče). Náklady na tuto část se liší podle vzdálenosti elektroměru od domu, terénu (rovný pozemek vs. svažitý terén vyžadující složitější vedení), a rozsahu vnitřní elektroinstalace, ale obvykle se pohybují v rozmezí **20 000 až 50 000 Kč** pro standardní mobilní dům do 50 m² s běžnou výbavou.[33]
 
 Po dokončení instalace musí elektrikář provést **revizi elektroinstalace** a vystavit **revizní zprávu**, kterou následně předáte distributorovi jako doklad o tom, že vaše instalace je bezpečná a odpovídá normám. Bez platné revizní zprávy distributor nepovolí trvalé připojení a nezapojí elektroměr. V rámci revize se kontroluje správné dimenzování kabelů, správné připojení ochranného vodiče (uzemnění), funkčnost jističů a proudových chráničů (RCD), a absence zkratů a nebezpečných míst. Revizní zpráva je platná 5 let, po této době je nutné revizi zopakovat (náklady cca 1 500-3 000 Kč podle rozsahu instalace).
 
@@ -202,7 +202,7 @@ Pokud na pozemku existuje stará elektrická přípojka z dob před desítkami l
 
 [11] SFOS.cz. "Elektrická přípojka: krok za krokem průvodce, náklady a užitečné tipy." Dostupné z: https://www.sfos.cz/blog/jak-vybavit-elektrickou-pripojku-postup-cena-a-nastrahy. Naposledy přístupné: 9. listopadu 2025.
 
-[12] Vyhláška č. 73/2010 Sb., o stanovení technických požadavků a postupů při provádění elektrotechnického díla a stavby s ním související. Dostupné z: https://www.zakonyprolidi.cz/cs/2010-73. Naposledy přístupné: 9. listopadu 2025.
+[12] Zákon č. 250/2021 Sb., o bezpečnosti technických zařízení (nahradil vyhl. č. 73/2010 Sb. k 1. červenci 2022). Dostupné z: https://www.zakonyprolidi.cz/cs/2021-250. Naposledy přístupné: 16. listopadu 2025.
 
 [13] Elektrika.cz. "Elektrické přípojky." Dostupné z: https://elektrika.cz/data/clanky/pripj030507. Naposledy přístupné: 9. listopadu 2025.
 
@@ -242,7 +242,7 @@ Pokud na pozemku existuje stará elektrická přípojka z dob před desítkami l
 
 [31] Energie123.cz. "Připojení elektřiny - postup pro nové i stávající přípojky." Dostupné z: https://www.energie123.cz/elektrina/pripojeni-elektriny/. Naposledy přístupné: 9. listopadu 2025.
 
-[32] Vyhláška č. 50/1978 Sb., o odborné způsobilosti v elektrotechnice. Dostupné z: https://www.zakonyprolidi.cz/cs/1978-50. Naposledy přístupné: 9. listopadu 2025.
+[32] Zákon č. 250/2021 Sb., o bezpečnosti technických zařízení (nahradil vyhl. č. 50/1978 Sb. k 1. červenci 2022). Dostupné z: https://www.zakonyprolidi.cz/cs/2021-250. Naposledy přístupné: 16. listopadu 2025.
 
 [33] SFOS.cz. "Elektrická přípojka: krok za krokem průvodce, náklady a užitečné tipy." Náklady na připojení od elektroměru k domu: 20 000 - 50 000 Kč. Naposledy přístupné: 9. listopadu 2025.
 
@@ -316,7 +316,7 @@ Pokud na pozemku existuje stará elektrická přípojka z dob před desítkami l
 
 ---
 
-**Poslední aktualizace:** 9. listopadu 2025
+**Poslední aktualizace:** 16. listopadu 2025
 **Autor:** Mobilheim Wiki
 **Další revize plánována:** Květen 2026
 

@@ -4,7 +4,7 @@ Záruka a servis mobilního domu jsou klíčovými aspekty, které chrání vaš
 
 Na rozdíl od běžného spotřebního zboží má mobilní dům specifika - jedná se o složitý výrobek s mnoha komponenty (konstrukce, elektroinstalace, vodoinstalace, okna, izolace, střecha), kde mohou vady vzniknout jak při výrobě, tak při dopravě a instalaci. Některé vady jsou okamžitě viditelné při převzetí, jiné se projeví až po měsících nebo letech používání. Proto je zásadní rozlišovat mezi různými typy vad a znát své právní možnosti v každé situaci. Navíc u mobilního domu může jít buď o kupní smlouvu (kupujete hotový výrobek) nebo smlouvu o dílo (mobilní dům je vyráběn na zakázku), což má vliv na vaše právní postavení.
 
-Tento průvodce vám poskytne komplexní přehled všeho, co potřebujete vědět o záruce a servisu mobilního domu v České republice. Vysvětlíme zákonné záruční lhůty platné od ledna 2023, postup při reklamaci krok za krokem, co je a není kryto zárukou, jak funguje dobrovolná záruka od výrobce versus povinná odpovědnost za vady, a kdy a jak se můžete obrátit na Českou obchodní inspekci nebo soud. Všechny informace vycházejí z platné české legislativy pro rok 2024-2025 a jsou doplněny praktickými příklady a doporučeními.
+Tento průvodce vám poskytne komplexní přehled všeho, co potřebujete vědět o záruce a servisu mobilního domu v České republice. Vysvětlíme zákonné záruční lhůty platné od ledna 2023, postup při reklamaci krok za krokem, co je a není kryto zárukou, jak funguje dobrovolná záruka od výrobce versus povinná odpovědnost za vady, a kdy a jak se můžete obrátit na Českou obchodní inspekci nebo soud. Všechny informace vycházejí z platné české legislativy pro rok 2025 a jsou doplněny praktickými příklady a doporučeními.
 
 ## Právní rámec záruky v České republice
 
@@ -430,93 +430,93 @@ e) věc vyhovuje požadavkům právních předpisů."[37]
 
 ## Reference a citace
 
-[1] Česká obchodní inspekce. "Odpovědnost za jakost při převzetí a záruka za jakost." Dostupné na: https://www.coi.cz/pro-podnikatele/informace-pro-prodejce-zbozi-a-sluzeb/zaruka-za-jakost-a-odpovednost-za-jakost-pri-prevzeti/ Naposledy přístupné: 9. listopadu 2025.
+[1] Česká obchodní inspekce. "Odpovědnost za jakost při převzetí a záruka za jakost." Dostupné na: https://www.coi.cz/pro-podnikatele/informace-pro-prodejce-zbozi-a-sluzeb/zaruka-za-jakost-a-odpovednost-za-jakost-pri-prevzeti/ Naposledy přístupné: 16. listopadu 2025.
 
-[2] Zákon č. 89/2012 Sb., občanský zákoník, § 1914-1925. Ministerstvo spravedlnosti ČR. Dostupné na: https://www.zakonyprolidi.cz/cs/2012-89 Naposledy přístupné: 9. listopadu 2025.
+[2] Zákon č. 89/2012 Sb., občanský zákoník, § 1914-1925. Ministerstvo spravedlnosti ČR. Dostupné na: https://www.zakonyprolidi.cz/cs/2012-89 Naposledy přístupné: 16. listopadu 2025.
 
-[3] Zákon č. 89/2012 Sb., občanský zákoník, § 2099-2117. Ministerstvo spravedlnosti ČR. Dostupné na: https://www.zakonyprolidi.cz/cs/2012-89 Naposledy přístupné: 9. listopadu 2025.
+[3] Zákon č. 89/2012 Sb., občanský zákoník, § 2099-2117. Ministerstvo spravedlnosti ČR. Dostupné na: https://www.zakonyprolidi.cz/cs/2012-89 Naposledy přístupné: 16. listopadu 2025.
 
-[4] Zákon č. 89/2012 Sb., občanský zákoník, § 2161-2174. Ministerstvo spravedlnosti ČR. Dostupné na: https://www.zakonyprolidi.cz/cs/2012-89 Naposledy přístupné: 9. listopadu 2025.
+[4] Zákon č. 89/2012 Sb., občanský zákoník, § 2161-2174. Ministerstvo spravedlnosti ČR. Dostupné na: https://www.zakonyprolidi.cz/cs/2012-89 Naposledy přístupné: 16. listopadu 2025.
 
-[5] Zákon č. 89/2012 Sb., občanský zákoník, § 2615-2628. Ministerstvo spravedlnosti ČR. Dostupné na: https://www.zakonyprolidi.cz/cs/2012-89 Naposledy přístupné: 9. listopadu 2025.
+[5] Zákon č. 89/2012 Sb., občanský zákoník, § 2615-2628. Ministerstvo spravedlnosti ČR. Dostupné na: https://www.zakonyprolidi.cz/cs/2012-89 Naposledy přístupné: 16. listopadu 2025.
 
-[6] Skrblík.cz. "Reklamace 2025 → Na co máte nárok od 6. ledna 2023." Dostupné na: https://www.skrblik.cz/nakupovani/zakony-a-prava-nakupujicich/zarucni-lhuty-a-reklamace/ Naposledy přístupné: 9. listopadu 2025.
+[6] Skrblík.cz. "Reklamace 2025 → Na co máte nárok od 6. ledna 2023." Dostupné na: https://www.skrblik.cz/nakupovani/zakony-a-prava-nakupujicich/zarucni-lhuty-a-reklamace/ Naposledy přístupné: 16. listopadu 2025.
 
-[7] BusinessInfo.cz. "Odpovědnost za vady a záruka za jakost." Dostupné na: https://www.businessinfo.cz/navody/odpovednost-vady-zaruka-jakost-ppbi/ Naposledy přístupné: 9. listopadu 2025.
+[7] BusinessInfo.cz. "Odpovědnost za vady a záruka za jakost." Dostupné na: https://www.businessinfo.cz/navody/odpovednost-vady-zaruka-jakost-ppbi/ Naposledy přístupné: 16. listopadu 2025.
 
-[8] Česká obchodní inspekce. "Odpovědnost za vady věci prodané podnikatelem podle nového občanského zákoníku." Dostupné na: https://coi.gov.cz/pro-spotrebitele/spotrebitelsky-pruvodce/reklamace-zbozi-a-sluzeb/odpovednost-za-vady-veci-prodane-podnikatelem-podle-noveho-obcanskeho-zakoniku/ Naposledy přístupné: 9. listopadu 2025.
+[8] Česká obchodní inspekce. "Odpovědnost za vady věci prodané podnikatelem podle nového občanského zákoníku." Dostupné na: https://coi.gov.cz/pro-spotrebitele/spotrebitelsky-pruvodce/reklamace-zbozi-a-sluzeb/odpovednost-za-vady-veci-prodane-podnikatelem-podle-noveho-obcanskeho-zakoniku/ Naposledy přístupné: 16. listopadu 2025.
 
-[9] Peníze.cz. "Záruční doba a odpovědnost za vady. Reklamace čekají změny." Dostupné na: https://www.penize.cz/ochrana-spotrebitele/437069-zarucni-doba-a-odpovednost-za-vady-reklamace-cekaji-zmeny Naposledy přístupné: 9. listopadu 2025.
+[9] Peníze.cz. "Záruční doba a odpovědnost za vady. Reklamace čekají změny." Dostupné na: https://www.penize.cz/ochrana-spotrebitele/437069-zarucni-doba-a-odpovednost-za-vady-reklamace-cekaji-zmeny Naposledy přístupné: 16. listopadu 2025.
 
-[10] Skrblík.cz. "Reklamace 2025 → Na co máte nárok od 6. ledna 2023." Dostupné na: https://www.skrblik.cz/nakupovani/zakony-a-prava-nakupujicich/zarucni-lhuty-a-reklamace/ Naposledy přístupné: 9. listopadu 2025.
+[10] Skrblík.cz. "Reklamace 2025 → Na co máte nárok od 6. ledna 2023." Dostupné na: https://www.skrblik.cz/nakupovani/zakony-a-prava-nakupujicich/zarucni-lhuty-a-reklamace/ Naposledy přístupné: 16. listopadu 2025.
 
-[11] Právní prostor. "Vady stavebního díla, odpovědnost zhotovitele a nároky z vad objednatele - část I." Dostupné na: https://www.pravniprostor.cz/clanky/obcanske-pravo/vady-stavebniho-dila-odpovednost-zhotovitele-a-naroky-z-vad-objednatele-cast-i Naposledy přístupné: 9. listopadu 2025.
+[11] Právní prostor. "Vady stavebního díla, odpovědnost zhotovitele a nároky z vad objednatele - část I." Dostupné na: https://www.pravniprostor.cz/clanky/obcanske-pravo/vady-stavebniho-dila-odpovednost-zhotovitele-a-naroky-z-vad-objednatele-cast-i Naposledy přístupné: 16. listopadu 2025.
 
-[12] Zákon č. 89/2012 Sb., občanský zákoník, § 2129 odst. 2. Ministerstvo spravedlnosti ČR. Dostupné na: https://www.zakonyprolidi.cz/cs/2012-89 Naposledy přístupné: 9. listopadu 2025.
+[12] Zákon č. 89/2012 Sb., občanský zákoník, § 2129 odst. 2. Ministerstvo spravedlnosti ČR. Dostupné na: https://www.zakonyprolidi.cz/cs/2012-89 Naposledy přístupné: 16. listopadu 2025.
 
-[13] Zákon č. 89/2012 Sb., občanský zákoník, § 2161. Ministerstvo spravedlnosti ČR. Dostupné na: https://www.zakonyprolidi.cz/cs/2012-89 Naposledy přístupné: 9. listopadu 2025.
+[13] Zákon č. 89/2012 Sb., občanský zákoník, § 2161. Ministerstvo spravedlnosti ČR. Dostupné na: https://www.zakonyprolidi.cz/cs/2012-89 Naposledy přístupné: 16. listopadu 2025.
 
-[14] Dostupný advokát. "Mobilní dům: celoroční bydlení nebo rekreace?" Dostupné na: https://dostupnyadvokat.cz/blog/mobilni-domy Naposledy přístupné: 9. listopadu 2025.
+[14] Dostupný advokát. "Mobilní dům: celoroční bydlení nebo rekreace?" Dostupné na: https://dostupnyadvokat.cz/blog/mobilni-domy Naposledy přístupné: 16. listopadu 2025.
 
-[15] Česká obchodní inspekce. "Odpovědnost za jakost při převzetí a záruka za jakost." Dostupné na: https://www.coi.cz/pro-podnikatele/informace-pro-prodejce-zbozi-a-sluzeb/zaruka-za-jakost-a-odpovednost-za-jakost-pri-prevzeti/ Naposledy přístupné: 9. listopadu 2025.
+[15] Česká obchodní inspekce. "Odpovědnost za jakost při převzetí a záruka za jakost." Dostupné na: https://www.coi.cz/pro-podnikatele/informace-pro-prodejce-zbozi-a-sluzeb/zaruka-za-jakost-a-odpovednost-za-jakost-pri-prevzeti/ Naposledy přístupné: 16. listopadu 2025.
 
-[16] Epravo.cz. "Záruka na opravu věci." Dostupné na: https://www.epravo.cz/top/clanky/zaruka-na-opravu-veci-99486.html Naposledy přístupné: 9. listopadu 2025.
+[16] Epravo.cz. "Záruka na opravu věci." Dostupné na: https://www.epravo.cz/top/clanky/zaruka-na-opravu-veci-99486.html Naposledy přístupné: 16. listopadu 2025.
 
-[17] Průvodce podnikáním (ČSOB). "Právní průvodce pro prodejce zboží: Ochrana spotřebitele a reklamace." Dostupné na: https://www.pruvodcepodnikanim.cz/clanek/ochrana-spotrebitele-a-reklamace/ Naposledy přístupné: 9. listopadu 2025.
+[17] Průvodce podnikáním (ČSOB). "Právní průvodce pro prodejce zboží: Ochrana spotřebitele a reklamace." Dostupné na: https://www.pruvodcepodnikanim.cz/clanek/ochrana-spotrebitele-a-reklamace/ Naposledy přístupné: 16. listopadu 2025.
 
-[18] Zákon č. 634/1992 Sb., o ochraně spotřebitele, § 19. Ministerstvo průmyslu a obchodu ČR. Dostupné na: https://www.zakonyprolidi.cz/cs/1992-634 Naposledy přístupné: 9. listopadu 2025.
+[18] Zákon č. 634/1992 Sb., o ochraně spotřebitele, § 19. Ministerstvo průmyslu a obchodu ČR. Dostupné na: https://www.zakonyprolidi.cz/cs/1992-634 Naposledy přístupné: 16. listopadu 2025.
 
-[19] Dostupný advokát. "Neuznaná reklamace – jak se bránit?" Dostupné na: https://dostupnyadvokat.cz/blog/neuznana-reklamace Naposledy přístupné: 9. listopadu 2025.
+[19] Dostupný advokát. "Neuznaná reklamace – jak se bránit?" Dostupné na: https://dostupnyadvokat.cz/blog/neuznana-reklamace Naposledy přístupné: 16. listopadu 2025.
 
-[20] Dostupný advokát. "Jak reklamovat vady při rekonstrukci či stavbě nemovitosti." Dostupné na: https://dostupnyadvokat.cz/blog/jak_reklamovat_nemovitost Naposledy přístupné: 9. listopadu 2025.
+[20] Dostupný advokát. "Jak reklamovat vady při rekonstrukci či stavbě nemovitosti." Dostupné na: https://dostupnyadvokat.cz/blog/jak_reklamovat_nemovitost Naposledy přístupné: 16. listopadu 2025.
 
-[21] Epravo.cz. "Odpovědnost za vady." Dostupné na: https://www.epravo.cz/top/soudni-rozhodnuti/odpovednost-za-vady-102450.html Naposledy přístupné: 9. listopadu 2025.
+[21] Epravo.cz. "Odpovědnost za vady." Dostupné na: https://www.epravo.cz/top/soudni-rozhodnuti/odpovednost-za-vady-102450.html Naposledy přístupné: 16. listopadu 2025.
 
-[22] Zákon č. 634/1992 Sb., o ochraně spotřebitele, § 19 odst. 1. Ministerstvo průmyslu a obchodu ČR. Dostupné na: https://www.zakonyprolidi.cz/cs/1992-634 Naposledy přístupné: 9. listopadu 2025.
+[22] Zákon č. 634/1992 Sb., o ochraně spotřebitele, § 19 odst. 1. Ministerstvo průmyslu a obchodu ČR. Dostupné na: https://www.zakonyprolidi.cz/cs/1992-634 Naposledy přístupné: 16. listopadu 2025.
 
-[23] Česká obchodní inspekce. "Jaká je lhůta k vyřízení reklamace a od kdy se počítá?" Dostupné na: https://coi.gov.cz/faq/1-jaka-je-lhuta-k-vyrizeni-reklamace-a-od-kdy-se-pocita-2/ Naposledy přístupné: 9. listopadu 2025.
+[23] Česká obchodní inspekce. "Jaká je lhůta k vyřízení reklamace a od kdy se počítá?" Dostupné na: https://coi.gov.cz/faq/1-jaka-je-lhuta-k-vyrizeni-reklamace-a-od-kdy-se-pocita-2/ Naposledy přístupné: 16. listopadu 2025.
 
-[24] dTest. "Jaká je lhůta pro vyřízení reklamace a jak se počítá?" Dostupné na: https://www.dtest.cz/nejcastejsi-problemy/jaka-je-lhuta-pro-vyrizeni-reklamace-a-jak-se-pocita/9 Naposledy přístupné: 9. listopadu 2025.
+[24] dTest. "Jaká je lhůta pro vyřízení reklamace a jak se počítá?" Dostupné na: https://www.dtest.cz/nejcastejsi-problemy/jaka-je-lhuta-pro-vyrizeni-reklamace-a-jak-se-pocita/9 Naposledy přístupné: 16. listopadu 2025.
 
-[25] Zákon č. 89/2012 Sb., občanský zákoník, § 2165-2169. Ministerstvo spravedlnosti ČR. Dostupné na: https://www.zakonyprolidi.cz/cs/2012-89 Naposledy přístupné: 9. listopadu 2025.
+[25] Zákon č. 89/2012 Sb., občanský zákoník, § 2165-2169. Ministerstvo spravedlnosti ČR. Dostupné na: https://www.zakonyprolidi.cz/cs/2012-89 Naposledy přístupné: 16. listopadu 2025.
 
-[26] Zákon č. 89/2012 Sb., občanský zákoník, § 2166. Ministerstvo spravedlnosti ČR. Dostupné na: https://www.zakonyprolidi.cz/cs/2012-89 Naposledy přístupné: 9. listopadu 2025.
+[26] Zákon č. 89/2012 Sb., občanský zákoník, § 2166. Ministerstvo spravedlnosti ČR. Dostupné na: https://www.zakonyprolidi.cz/cs/2012-89 Naposledy přístupné: 16. listopadu 2025.
 
-[27] Peníze.cz. "Pošlu na vás ČOIku! Jak stížnost doopravdy podat. A co hrozí hříšníkovi." Dostupné na: https://www.penize.cz/reklamace/315879-poslu-na-vas-coiku!-jak-stiznost-doopravdy-podat-a-co-hrozi-hrisnikovi Naposledy přístupné: 9. listopadu 2025.
+[27] Peníze.cz. "Pošlu na vás ČOIku! Jak stížnost doopravdy podat. A co hrozí hříšníkovi." Dostupné na: https://www.penize.cz/reklamace/315879-poslu-na-vas-coiku!-jak-stiznost-doopravdy-podat-a-co-hrozi-hrisnikovi Naposledy přístupné: 16. listopadu 2025.
 
-[28] Dostupný advokát. "Podvedli vás v obchodě? Stěžujte si u ČOI." Dostupné na: https://dostupnyadvokat.cz/blog/stiznosti-coi Naposledy přístupné: 9. listopadu 2025.
+[28] Dostupný advokát. "Podvedli vás v obchodě? Stěžujte si u ČOI." Dostupné na: https://dostupnyadvokat.cz/blog/stiznosti-coi Naposledy přístupné: 16. listopadu 2025.
 
-[29] Portal.gov.cz. "Využívání stížností, oznámení a podnětů spotřebitelů." Dostupné na: https://portal.gov.cz/sluzby-vs/vyuzivani-stiznosti-oznameni-a-podnetu-spotrebitelu-S6186 Naposledy přístupné: 9. listopadu 2025.
+[29] Portal.gov.cz. "Využívání stížností, oznámení a podnětů spotřebitelů." Dostupné na: https://portal.gov.cz/sluzby-vs/vyuzivani-stiznosti-oznameni-a-podnetu-spotrebitelu-S6186 Naposledy přístupné: 16. listopadu 2025.
 
-[30] FLO Lokalizace netěsností. "Pravidelná kontrola a údržba střech." Dostupné na: https://www.flo-lokalizace.cz/pravidelna-kontrola-a-udrzba-strech/ Naposledy přístupné: 9. listopadu 2025.
+[30] FLO Lokalizace netěsností. "Pravidelná kontrola a údržba střech." Dostupné na: https://www.flo-lokalizace.cz/pravidelna-kontrola-a-udrzba-strech/ Naposledy přístupné: 16. listopadu 2025.
 
-[31] ČESKÉSTAVBY.cz. "Životnost mobilních domů: Na čem závisí a jak ji prodloužit?" Dostupné na: https://www.ceskestavby.cz/clanky/zivotnost-mobilnich-domu-na-cem-zavisi-a-jak-ji-prodlouzit-35056.html Naposledy přístupné: 9. listopadu 2025.
+[31] ČESKÉSTAVBY.cz. "Životnost mobilních domů: Na čem závisí a jak ji prodloužit?" Dostupné na: https://www.ceskestavby.cz/clanky/zivotnost-mobilnich-domu-na-cem-zavisi-a-jak-ji-prodlouzit-35056.html Naposledy přístupné: 16. listopadu 2025.
 
-[32] FLO Lokalizace netěsností. "Tipy na kontrolu a údržbu střechy." Dostupné na: https://www.flo-lokalizace.cz/udrzba-kontrola-ploche-strechy/ Naposledy přístupné: 9. listopadu 2025.
+[32] FLO Lokalizace netěsností. "Tipy na kontrolu a údržbu střechy." Dostupné na: https://www.flo-lokalizace.cz/udrzba-kontrola-ploche-strechy/ Naposledy přístupné: 16. listopadu 2025.
 
-[33] Dostupný advokát. "Chystáte se soudit? Kolik vás to bude stát?" Dostupné na: https://dostupnyadvokat.cz/blog/soudni-poplatky Naposledy přístupné: 9. listopadu 2025.
+[33] Dostupný advokát. "Chystáte se soudit? Kolik vás to bude stát?" Dostupné na: https://dostupnyadvokat.cz/blog/soudni-poplatky Naposledy přístupné: 16. listopadu 2025.
 
-[34] Zákon č. 549/1991 Sb., o soudních poplatcích, příloha - sazebník. Ministerstvo spravedlnosti ČR. Dostupné na: https://www.zakonyprolidi.cz/cs/1991-549 Naposledy přístupné: 9. listopadu 2025.
+[34] Zákon č. 549/1991 Sb., o soudních poplatcích, příloha - sazebník. Ministerstvo spravedlnosti ČR. Dostupné na: https://www.zakonyprolidi.cz/cs/1991-549 Naposledy přístupné: 16. listopadu 2025.
 
-[35] Dostupný advokát. "Chystáte se soudit? Kolik vás to bude stát?" Dostupné na: https://dostupnyadvokat.cz/blog/soudni-poplatky Naposledy přístupné: 9. listopadu 2025.
+[35] Dostupný advokát. "Chystáte se soudit? Kolik vás to bude stát?" Dostupné na: https://dostupnyadvokat.cz/blog/soudni-poplatky Naposledy přístupné: 16. listopadu 2025.
 
-[36] Práce pro Právníky.cz. "Protokol o předání nemovitosti - vzor 2024." Dostupné na: https://www.pracepropravniky.cz/vzory-smluv/protokol-o-predani-nemovitosti/ Naposledy přístupné: 9. listopadu 2025.
+[36] Práce pro Právníky.cz. "Protokol o předání nemovitosti - vzor 2024." Dostupné na: https://www.pracepropravniky.cz/vzory-smluv/protokol-o-predani-nemovitosti/ Naposledy přístupné: 16. listopadu 2025.
 
-[37] Zákon č. 89/2012 Sb., občanský zákoník, § 2161. Ministerstvo spravedlnosti ČR. Dostupné na: https://www.zakonyprolidi.cz/cs/2012-89 Naposledy přístupné: 9. listopadu 2025.
+[37] Zákon č. 89/2012 Sb., občanský zákoník, § 2161. Ministerstvo spravedlnosti ČR. Dostupné na: https://www.zakonyprolidi.cz/cs/2012-89 Naposledy přístupné: 16. listopadu 2025.
 
-[38] Zákon č. 89/2012 Sb., občanský zákoník, § 2165. Ministerstvo spravedlnosti ČR. Dostupné na: https://www.zakonyprolidi.cz/cs/2012-89 Naposledy přístupné: 9. listopadu 2025.
+[38] Zákon č. 89/2012 Sb., občanský zákoník, § 2165. Ministerstvo spravedlnosti ČR. Dostupné na: https://www.zakonyprolidi.cz/cs/2012-89 Naposledy přístupné: 16. listopadu 2025.
 
-[39] Zákon č. 89/2012 Sb., občanský zákoník, § 2166. Ministerstvo spravedlnosti ČR. Dostupné na: https://www.zakonyprolidi.cz/cs/2012-89 Naposledy přístupné: 9. listopadu 2025.
+[39] Zákon č. 89/2012 Sb., občanský zákoník, § 2166. Ministerstvo spravedlnosti ČR. Dostupné na: https://www.zakonyprolidi.cz/cs/2012-89 Naposledy přístupné: 16. listopadu 2025.
 
-[40] Zákon č. 89/2012 Sb., občanský zákoník, § 2167. Ministerstvo spravedlnosti ČR. Dostupné na: https://www.zakonyprolidi.cz/cs/2012-89 Naposledy přístupné: 9. listopadu 2025.
+[40] Zákon č. 89/2012 Sb., občanský zákoník, § 2167. Ministerstvo spravedlnosti ČR. Dostupné na: https://www.zakonyprolidi.cz/cs/2012-89 Naposledy přístupné: 16. listopadu 2025.
 
-[41] Zákon č. 89/2012 Sb., občanský zákoník, § 2112. Ministerstvo spravedlnosti ČR. Dostupné na: https://www.zakonyprolidi.cz/cs/2012-89 Naposledy přístupné: 9. listopadu 2025.
+[41] Zákon č. 89/2012 Sb., občanský zákoník, § 2112. Ministerstvo spravedlnosti ČR. Dostupné na: https://www.zakonyprolidi.cz/cs/2012-89 Naposledy přístupné: 16. listopadu 2025.
 
-[42] Zákon č. 89/2012 Sb., občanský zákoník, § 2129 odst. 2. Ministerstvo spravedlnosti ČR. Dostupné na: https://www.zakonyprolidi.cz/cs/2012-89 Naposledy přístupné: 9. listopadu 2025.
+[42] Zákon č. 89/2012 Sb., občanský zákoník, § 2129 odst. 2. Ministerstvo spravedlnosti ČR. Dostupné na: https://www.zakonyprolidi.cz/cs/2012-89 Naposledy přístupné: 16. listopadu 2025.
 
 ---
 
-**Poslední aktualizace:** 9. listopadu 2025
+**Poslední aktualizace:** 16. listopadu 2025
 **Autor:** Claude (Anthropic) pro Mobilheim Wiki
 **Další revize plánována:** Listopad 2026
 

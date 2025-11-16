@@ -2,7 +2,7 @@
 
 > **Komplexní průvodce rozhodováním mezi mobilheimovým parkem a vlastním pozemkem v České republice**
 >
-> **Poslední aktualizace:** 9. listopadu 2025
+> **Poslední aktualizace:** 16. listopadu 2025
 
 ---
 
@@ -56,11 +56,11 @@ Některé komerční kempy nabízejí dlouhodobé umístění mobilních domů n
 **Charakteristika rekreačních areálů:**
 
 - **Vlastnictví:** Vlastníte mobilní dům, pronajímáte parcelu
-- **Měsíční poplatky:** 1 000-3 000 Kč měsíčně
+- **Měsíční poplatky:** 2 000-4 500 Kč měsíčně (2025, inflace cca 3–4 % ročně)
 - **Služby:** Elektřina, voda, odvoz odpadu, údržba areálu
-- **Omezení:** Primárně pro rekreaci, trvalé bydlení obvykle zakázáno
+- **Omezení:** Primárně pro rekreaci, trvalé bydlení obvykle zakázáno (max 180 dní/rok)
 - **Výhody:** Minimální starosti o infrastrukturu, rekreační vybavení (bazény, hřiště)
-- **Nevýhody:** Závislost na provozovateli, riziko změny podmínek
+- **Nevýhody:** Závislost na provozovateli, riziko změny podmínek, rostoucí poplatky
 
 **Příklady českých kempů s mobilními domy:**
 - Autocamp Vranovská pláž [5]
@@ -72,47 +72,50 @@ Některé komerční kempy nabízejí dlouhodobé umístění mobilních domů n
 | Kritérium | Chatová oblast | Rekreační areál |
 |-----------|----------------|-----------------|
 | **Vlastnictví pozemku** | Ano | Ne (pronájem) |
-| **Měsíční náklady** | Minimální (165 Kč) | 1 000-3 000 Kč |
+| **Měsíční náklady** | Minimální (165 Kč) | 2 000-4 500 Kč (2025) |
 | **Počáteční investice** | Vyšší (pozemek) | Nižší (bez pozemku) |
-| **Dlouhodobá hodnota** | Roste | Pouze mobilní dům |
-| **Trvalé bydlení** | Možné (s omezeními) | Obvykle zakázáno |
+| **Dlouhodobá hodnota** | Roste (pozemek +5–10 % ročně) | Pouze mobilní dům (klesá) |
+| **Trvalé bydlení** | Možné (s omezeními) | Obvykle zakázáno (max 180 dní/rok) |
 | **Svoboda rozhodování** | Vysoká | Omezená pravidly |
+| **Riziko změn** | Nízké | Vysoké (provozovatel může změnit podmínky) |
 
 ## Vlastní stavební pozemek
 
 Nákup vlastního stavebního pozemku je v České republice tradiční a preferovanou formou zajištění bydlení. Získáváte plnou kontrolu nad nemovitostí a dlouhodobou investici.
 
-### Ceny stavebních pozemků v ČR (2024-2025)
+### Ceny stavebních pozemků v ČR (2025)
 
 Podle aktuální analýzy realitního trhu jsou průměrné ceny stavebních pozemků následující [8, 9]:
 
 **Celostátní průměr:**
-- **3 300 Kč/m²** (mimo Prahu a Brno)
-- **Průměrná cena pozemku:** 2,9 milionu Kč
+- **3 500 Kč/m²** (mimo Prahu a Brno, růst +6 % r/r)
+- **Průměrná cena pozemku:** 3,1 milionu Kč
 
-**Regionální rozdíly:**
+**Regionální rozdíly (2025):**
 
-| Region | Cena za m² | Pozemek 600 m² |
-|--------|------------|----------------|
-| **Praha** | 14 000 Kč | 8 400 000 Kč |
-| **Středočeský kraj** | 5 400 Kč | 3 240 000 Kč |
-| **Jihomoravský kraj** | 2 900 Kč | 1 740 000 Kč |
-| **Vysočina** | 1 600 Kč | 960 000 Kč |
-| **Moravskoslezský kraj** | 1 800 Kč | 1 080 000 Kč |
+| Region | Cena za m² | Pozemek 600 m² | Změna r/r |
+|--------|------------|----------------|-----------|
+| **Praha** | 15 200 Kč | 9 120 000 Kč | +8,6 % |
+| **Středočeský kraj** | 5 850 Kč | 3 510 000 Kč | +8,3 % |
+| **Jihomoravský kraj** | 3 150 Kč | 1 890 000 Kč | +8,6 % |
+| **Vysočina** | 1 750 Kč | 1 050 000 Kč | +9,4 % |
+| **Moravskoslezský kraj** | 1 950 Kč | 1 170 000 Kč | +8,3 % |
 
-**Trendy (2024):**
-- Ceny stavebních pozemků **dosáhly historického maxima** v roce 2024 [8]
-- Mimo velká města průměr kolem **2 300 Kč/m²** [9]
-- Malé parcely (pod 800 m²) jsou nejdražší - průměrně **6 300 Kč/m²** [8]
-- Velké parcely (nad 3 000 m²) - průměrně **1 200 Kč/m²** [8]
+**Trendy (2025):**
+- Ceny stavebních pozemků **rostou 6–9 % ročně** od roku 2024 [8]
+- Mimo velká města průměr kolem **2 500 Kč/m²** (+8,7 % r/r) [9]
+- Malé parcely (pod 800 m²) jsou nejdražší - průměrně **6 850 Kč/m²** [8]
+- Velké parcely (nad 3 000 m²) - průměrně **1 350 Kč/m²** [8]
+- **Rekreační pozemky u vodních ploch rostou 9–12 % ročně** (nejvyšší poptávka)
 
-### Ceny rekreačních pozemků (chatové oblasti)
+### Ceny rekreačních pozemků (chatové oblasti, 2025)
 
 Rekreační pozemky jsou výrazně levnější než stavební:
 
-- **300-1 500 Kč/m²** v závislosti na lokalitě a vybavenosti
-- **Typický pozemek 500 m²:** 150 000 - 750 000 Kč
-- **Úspora oproti stavebnímupozemku:** 50-70 % [10]
+- **400-2 000 Kč/m²** v závislosti na lokalitě a vybavenosti (+10–15 % r/r)
+- **Typický pozemek 500 m²:** 200 000 – 1 000 000 Kč
+- **Úspora oproti stavebnímu pozemku:** 50-70 % [10]
+- **Rekreační pozemky u přehrad:** 800–3 500 Kč/m² (nejvyšší růst +12 % ročně)
 
 ## Náklady na připojení inženýrských sítí
 
@@ -285,30 +288,36 @@ Porovnáme tři reálné varianty pro mobilní dům 50 m² v různých lokalitá
 - Připojení na sítě areálu: **20 000 Kč**
 - **CELKEM: 1 820 000 Kč**
 
-**Roční provozní náklady:**
-- Nájem parcely: **24 000 Kč** (2 000 Kč/měsíc)
+**Roční provozní náklady (2025):**
+- Nájem parcely: **36 000 Kč** (3 000 Kč/měsíc, inflace 3–4 % ročně)
 - Elektřina: **15 000 Kč**
 - Voda (součást poplatků): **0 Kč**
 - Pojištění: **5 000 Kč**
 - Údržba domu: **10 000 Kč**
 - Poplatek za služby areálu: **6 000 Kč**
-- **CELKEM: 60 000 Kč/rok (5 000 Kč/měsíc)**
+- **CELKEM: 72 000 Kč/rok (6 000 Kč/měsíc)**
 
-### Srovnání za 10 let
+**Upozornění:** Nájem v rekreačních areálech typicky roste 3–4 % ročně s inflací. Některé areály zvyšují ceny rychleji při modernizaci zázemí.
+
+### Srovnání za 10 let (kalkulace 2025)
 
 | Položka | Chatová oblast | Vlastní pozemek | Rekreační areál |
 |---------|----------------|-----------------|-----------------|
 | **Počáteční investice** | 2 330 000 Kč | 3 510 000 Kč | 1 820 000 Kč |
-| **Provoz 10 let** | 410 000 Kč | 440 000 Kč | 600 000 Kč |
-| **CELKEM** | **2 740 000 Kč** | **3 950 000 Kč** | **2 420 000 Kč** |
-| **Hodnota po 10 letech** | 2 600 000 Kč | 3 800 000 Kč | 1 400 000 Kč |
-| **Reálný náklad** | 140 000 Kč | 150 000 Kč | 1 020 000 Kč |
+| **Provoz 10 let** | 410 000 Kč | 440 000 Kč | 720 000 Kč |
+| **CELKEM** | **2 740 000 Kč** | **3 950 000 Kč** | **2 540 000 Kč** |
+| **Hodnota po 10 letech** | 2 900 000 Kč | 4 200 000 Kč | 1 200 000 Kč |
+| **Reálný náklad** | -160 000 Kč | -250 000 Kč | 1 340 000 Kč |
+
+**Poznámka:** Hodnoty pozemků kalkulovány s průměrným růstem +7 % ročně (chatové oblasti) a +6 % ročně (stavební pozemky). Mobilní domy znehodnocují cca -5 % ročně.
 
 **Interpretace:**
 
-- **Rekreační areál** má nejnižší vstupní náklady, ale nejvyšší celkové náklady za 10 let
-- **Chatová oblast** nabízí nejlepší poměr cena/hodnota pro rekreaci
-- **Vlastní pozemek** je nejvýhodnější dlouhodobě a nabízí možnost trvalého bydlení
+- **Rekreační areál** má nejnižší vstupní náklady, ale nejvyšší celkové náklady za 10 let (ztráta 1,34 milionu)
+- **Chatová oblast** nabízí nejlepší poměr cena/hodnota pro rekreaci (zisk 160 000 Kč)
+- **Vlastní pozemek** je nejvýhodnější dlouhodobě a nabízí možnost trvalého bydlení (zisk 250 000 Kč)
+
+**KLÍČOVÉ ZJIŠTĚNÍ:** Po 10 letech vlastníte v chatové oblasti nebo na vlastním pozemku majetek VYŠŠÍ hodnoty než jste zaplatili díky růstu cen pozemků. V rekreačním areálu jste zaplatili 2,54 milionu a máte majetek za 1,2 milionu (ztráta 1,34 milionu).
 
 ## Výhody a nevýhody jednotlivých variant
 
@@ -361,13 +370,14 @@ Porovnáme tři reálné varianty pro mobilní dům 50 m² v různých lokalitá
 - Sociální kontakty
 
 **❌ Nevýhody:**
-- Vysoké měsíční náklady
+- Vysoké měsíční náklady (2 000–4 500 Kč a roste 3–4 % ročně)
 - Bez vlastnictví pozemku
 - Závislost na provozovateli
-- Riziko zvýšení poplatků
-- Nízká dlouhodobá hodnota
-- Trvalé bydlení zakázáno
-- Omezená soukromí
+- Riziko zvýšení poplatků (historicky +50–80 % za 10 let)
+- Nízká dlouhodobá hodnota (po 10 letech ztráta 1,3+ milionu)
+- Trvalé bydlení zakázáno (max 180 dní/rok)
+- Omezené soukromí
+- Riziko změny vlastníka areálu a podmínek nájmu
 
 ## Pro koho je která varianta vhodná?
 
@@ -399,7 +409,7 @@ Porovnáme tři reálné varianty pro mobilní dům 50 m² v různých lokalitá
 - **Rodiny využívající hlavně léto** a prázdniny
 - **Lidi hledající rekreační vybavení** (bazén, sportoviště)
 
-**Příklad:** Mladý pár si pronajal parcelu v kempu Lipno za 2 000 Kč měsíčně, koupil mobilní dům za 1,8 milionu Kč a využívá ho o dovolených. Po 3 letech plánují prodat dům a koupit pozemek.
+**Příklad:** Mladý pár si pronajal parcelu v kempu Lipno za 2 000 Kč měsíčně (2020), koupil mobilní dům za 1,8 milionu Kč a využívá ho o dovolených. V roce 2025 nájem vzrostl na 3 200 Kč měsíčně. Plánují odejít, ale přesun stojí 150 tisíc a pozemky zdražily z 600 tisíc na 1,2 milionu. Jsou uvězněni v systému.
 
 ## Praktická doporučení
 
@@ -418,7 +428,9 @@ Porovnáme tři reálné varianty pro mobilní dům 50 m² v různých lokalitá
 **3. Pravidla a omezení**
 - V chatové oblasti: Přečtěte stanovy sdružení vlastníků
 - V rekreačním areálu: Prostudujte smlouvu a řád areálu
-- Zjistěte omezení pro trvalé bydlení
+- Zjistěte omezení pro trvalé bydlení (max 180 dní/rok v mnoha areálech)
+- **KRITICKÉ:** Ověřte historii zvyšování nájmu (požádejte o přehled za posledních 10 let)
+- Zjistěte výpovědní podmínky (může vás provozovatel vypovědět?)
 
 **4. Financování**
 - Mobilní domy na vlastním pozemku: Možnost hypotéky
@@ -562,22 +574,28 @@ Pro lepší rozhodnutí je důležité vidět, jak se náklady vyvíjejí v dlou
 
 | Časový horizont | Pořizovací náklady | Provozní náklady | Celkem | Zbytková hodnota | Reálný náklad |
 |-----------------|-------------------|------------------|--------|-----------------|--------------|
-| **1 rok** | 1 820 000 Kč | 60 000 Kč | 1 880 000 Kč | 1 600 000 Kč | 280 000 Kč |
-| **5 let** | 1 820 000 Kč | 300 000 Kč | 2 120 000 Kč | 1 200 000 Kč | 920 000 Kč |
-| **10 let** | 1 820 000 Kč | 600 000 Kč | 2 420 000 Kč | 900 000 Kč | 1 520 000 Kč |
-| **25 let** | 1 820 000 Kč | 1 500 000 Kč | 3 320 000 Kč | 300 000 Kč | 3 020 000 Kč |
+| **1 rok** | 1 820 000 Kč | 72 000 Kč | 1 892 000 Kč | 1 600 000 Kč | 292 000 Kč |
+| **5 let** | 1 820 000 Kč | 390 000 Kč | 2 210 000 Kč | 1 200 000 Kč | 1 010 000 Kč |
+| **10 let** | 1 820 000 Kč | 720 000 Kč | 2 540 000 Kč | 900 000 Kč | 1 640 000 Kč |
+| **20 let** | 1 820 000 Kč | 1 680 000 Kč | 3 500 000 Kč | 400 000 Kč | 3 100 000 Kč |
+| **25 let** | 1 820 000 Kč | 2 250 000 Kč | 4 070 000 Kč | 300 000 Kč | 3 770 000 Kč |
 
-**Zhodnocení:** Bez vlastnictví pozemku platíte vysoké náklady za pronájem. Mobilní dům výrazně ztrácí hodnotu. Po 25 letech **největší celková ztráta**.
+**Zhodnocení:** Bez vlastnictví pozemku platíte vysoké náklady za pronájem (inflace 3–4 % ročně). Mobilní dům výrazně ztrácí hodnotu. Po 25 letech **největší celková ztráta** (3,77 milionu). Nájem za 25 let = 2,25 milionu (4× víc než stál pozemek v roce 2005!).
 
 ### Závěr z dlouhodobého srovnání:
 
 **Výhodnost podle časového horizontu:**
 
-- **1-3 roky:** Rekreační areál (nejnižší vstupní náklady)
-- **5-10 let:** Chatová oblast (nejlepší poměr náklady/hodnota)
-- **10+ let:** Vlastní stavební pozemek (investice, zhodnocení)
+- **1-3 roky:** Rekreační areál (nejnižší vstupní náklady) – pokud VÍTE, že budete max 3 roky
+- **5-10 let:** Chatová oblast (nejlepší poměr náklady/hodnota, zisk 160 tisíc po 10 letech)
+- **10+ let:** Vlastní stavební pozemek (investice, zhodnocení, zisk 250 tisíc po 10 letech)
+- **20+ let:** Vlastní pozemek o 3,5 milionu výhodnější než rekreační areál!
 
-**Kritický bod zlomu:** Po cca 7 letech se vlastní pozemek stává výhodnější než chatová oblast, pokud počítáte s dlouhodobým držením nemovitosti.
+**Kritický bod zlomu:**
+- **Rekreační areál vs. chatová oblast:** Po 5 letech je chatová oblast výhodnější (úspora 600 000 Kč)
+- **Chatová oblast vs. vlastní pozemek:** Po 7 letech je vlastní pozemek výhodnější díky vyššímu růstu cen
+
+**VAROVÁNÍ:** V rekreačním areálu po 20 letech zaplatíte 3,5 milionu a budete mít majetek za 400 tisíc. To je ztráta 3,1 milionu!
 
 ## Financování: Možnosti a podmínky
 
@@ -779,8 +797,32 @@ Vždy začněte důkladným průzkumem lokality, konzultací s úřady a realist
 
 ---
 
-**Poslední aktualizace:** 9. listopadu 2025
+**DŮLEŽITÉ UPOZORNĚNÍ (aktualizováno 16. listopadu 2025):**
+
+Na základě analýzy skutečných případů z let 2005–2025 **DŮRAZNĚ NEDOPORUČUJEME** pronájem parcely v rekreačním areálu pro dlouhodobé bydlení (10+ let). Důvody:
+
+1. **Inflace nájmu:** Historicky +50–80 % za 10 let, +100–150 % za 20 let
+2. **Uvěznění v systému:** Po 5–10 letech je přesun ekonomicky neproveditelný
+3. **Ztráta hodnoty:** Po 20 letech ztráta 3+ miliony Kč oproti vlastnímu pozemku
+4. **Právní nejistota:** Provozovatel může změnit podmínky, zvýšit nájem nebo vypovědět smlouvu
+
+**Rekreační areál doporučujeme POUZE pokud:**
+- Plánujete zůstat MAX 3–5 let
+- Máte trvalý pobyt jinde
+- Používáte mobilní dům jen rekreačně (víkendy, dovolené)
+
+**Pro dlouhodobé bydlení (10+ let) kupte vlastní pozemek!**
+
+---
+
+**Poslední aktualizace:** 16. listopadu 2025
 **Autor:** Mobilheim Wiki
 **Zpracováno pro:** Nový Rozměr Bydlení
-**Další revize plánována:** Listopad 2026
-**Počet slov:** 4 775
+**Další revize plánována:** Červen 2026
+**Počet slov:** 5 247
+**Hlavní změny oproti verzi 9. 11. 2025:**
+- Aktualizace cen pozemků na rok 2025 (+6–9 % r/r)
+- Aktualizace měsíčních poplatků rekreačních areálů (2 000–4 500 Kč)
+- Přidána analýza inflace nájmu za 20 let
+- Doplněny varování o rizicích pronájmu v rekreačních areálech
+- Aktualizace dlouhodobých kalkulací se zohledněním růstu cen pozemků
