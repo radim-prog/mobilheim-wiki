@@ -266,110 +266,30 @@ Obce mohou podávat žádosti od 14. března 2025 až do 6. ledna 2027, nebo do 
 
 Pořizovací náklady na domovní čistírnu odpadních vod pro rodinný dům (4–5 EO) se pohybují v rozmezí 100 000 až 200 000 Kč včetně instalace a přípojek. Dotace 150 000 Kč tedy pokryje 75–100 % nákladů, což dělá z tohoto opatření velmi výhodnou investici. Provozní náklady čistírny jsou nízké – pravidelný servis stojí 2 000–4 000 Kč ročně, spotřeba elektřiny pro provoz čerpadel a dmychadel přibližně 500–1 000 Kč ročně. Oproti platbám za svoz žumpy (10 000–20 000 Kč ročně) se investice do čistírny vrátí během 3–5 let.
 
-## Podpora bydlení pro mladé rodiny – Státní fond rozvoje bydlení (SFRB)
+## ⚠️ Podpora bydlení pro mladé rodiny – AKTUALIZACE LISTOPAD 2025
 
-Státní fond rozvoje bydlení nabízí zvýhodněné úvěry a podpory pro mladé rodiny a jednotlivce do 36 let věku, kteří chtějí pořizovat, stavět nebo modernizovat bydlení. Tyto programy nejsou přímou dotací na pořízení mobilního domu, ale nabízejí zvýhodněné financování s nízkými úrokovými sazbami, což může výrazně snížit celkové náklady na bydlení. Pro majitele mobilních domů jsou dostupné zejména Program pro mladé, Úvěr na modernizaci bydlení a Program 600.
+**DŮLEŽITÉ UPOZORNĚNÍ:** Státní fond rozvoje bydlení (SFRB) byl k 1. lednu 2024 transformován na **Státní fond pro podporu investic (SFPI)**. Následující dotační programy byly **UKONČENY v roce 2023** a již nejsou dostupné:
 
-**Klíčové podmínky pro všechny programy SFRB:**
+- ❌ **Program pro mladé** – ukončen 31. prosince 2023
+- ❌ **Úvěr na modernizaci bydlení** – ukončen 31. prosince 2023
+- ❌ **Program 600** – ukončen 31. prosince 2023
 
-- Alespoň jeden žadatel musí být mladší 36 let v době podání žádosti
-- Mobilní dům musí být kolaudován, zapsán v katastru nemovitostí jako stavba a sloužit k trvalému bydlení
-- Žadatelé nesmí vlastnit nebo spoluvlastnit jinou nemovitost určenou k bydlení (s výjimkou Úvěru na modernizaci)
-- Úvěr lze čerpat pouze na bydlení v České republice
+**Nové programy SFPI pro rok 2025:**
 
-### Program pro mladé – zvýhodněná hypotéka
+K datu aktualizace tohoto článku (16. listopadu 2025) nejsou k dispozici nové zvýhodněné úvěrové programy pro mladé rodiny zaměřené na pořízení nebo modernizaci bydlení v rodinných domech. SFPI se zaměřuje především na podporu výstavby nájemních bytů prostřednictvím obcí a developerů, nikoliv na přímou podporu fyzických osob.
 
-Program pro mladé nabízí zvýhodněný úvěr na koupi, výstavbu nebo modernizaci rodinného domu nebo bytu. Úvěr mohou získat manželé nebo registrovaní partneři, kdy alespoň jeden z nich nedosáhl věku 36 let, nebo osoba žijící samostatně do 36 let, která trvale pečuje o dítě mladší 15 let.
+**Alternativy pro mladé rodiny v roce 2025:**
 
-**Výše úvěru:**
+Pro mladé rodiny, které chtějí financovat mobilní dům, doporučujeme:
 
-Maximální výše úvěru není pevně stanovena, ale je omezena limitem maximální podlahové plochy bytu 75 m² (bez balkónu nebo lodžie) nebo rodinného domu 140 m². Výše úvěru závisí na posouzení bonity žadatele a nesmí přesáhnout 90 % pořizovací ceny nemovitosti (zbylých 10 % musí žadatel hradit z vlastních zdrojů).
+1. **Klasická hypotéka od komerčních bank** – úrokové sazby v roce 2025 kolem 5–6 % ročně (viz sekce [Hypotéka na mobilní dům](/wiki/financovani/hypoteka.md))
+2. **Stavební spoření** – státní podpora 1 000 Kč ročně, možnost čerpat stavební úvěr s úrokovou sazbou 3–4 % p.a. (viz sekce níže)
+3. **Dotace Nová zelená úsporám** – až 500 000 Kč na fotovoltaiku, tepelné čerpadlo a zateplení (viz sekce výše)
+4. **Odpočet úroků z hypotéky** – daňová úspora až 22 500 Kč ročně (viz sekce níže)
 
-**Úroková sazba:**
+**Sledujte aktuální informace:**
 
-Úroková sazba se pohybuje v rozmezí 1,45 % až 2,45 % ročně podle typu úvěru a doby fixace. Pro srovnání: klasická hypotéka od komerčních bank má v roce 2025 úrokovou sazbu kolem 5–6 % ročně, takže úspora úroků činí přibližně 3–4 procentní body, což při úvěru 2 miliony korun na 20 let znamená úsporu cca 600 000 Kč na úrocích za celou dobu splácení.
-
-**Splatnost:**
-
-Maximální doba splatnosti je 20 let pro výstavbu nebo koupi, 10 let pro modernizaci.
-
-**Omezení:**
-
-Žadatelé nesmí vlastnit nebo spoluvlastnit žádnou nemovitost určenou k bydlení ani být nájemci družstevního bytu s členským podílem v době podání žádosti. Toto omezení zajišťuje, že podpora směřuje skutečně k mladým lidem pořizujícím první bydlení.
-
-**Použití pro mobilní domy:**
-
-Mobilní dům musí splňovat podmínky obdobné jako klasický rodinný dům – kolaudace, zápis v katastru jako stavba, podlahová plocha max. 140 m², trvalé bydlení. Pokud kupujete hotový mobilní dům včetně pozemku, můžete úvěr použít na celkovou kupní cenu. Pokud stavíte mobilní dům na vlastním pozemku, úvěr pokryje náklady na výstavbu.
-
-**Příklad:**
-
-Mladý pár (28 a 30 let) kupuje kolaudovaný mobilní dům na trvalém základě za 2 500 000 Kč včetně pozemku. Vlastní úspory: 250 000 Kč (10 %).
-
-- Úvěr od SFRB: 2 250 000 Kč
-- Úroková sazba: 1,95 % p.a.
-- Doba splácení: 20 let
-- Měsíční splátka: cca 11 400 Kč
-- Celkové zaplacené úroky za 20 let: cca 485 000 Kč
-
-Pokud by stejný pár vzal klasickou hypotéku s úrokovou sazbou 5,5 % p.a., měsíční splátka by činila cca 15 400 Kč a celkové úroky přes 1 450 000 Kč, tedy o 965 000 Kč více.
-
-### Úvěr na modernizaci bydlení
-
-Úvěr na modernizaci je určen pro mladé rodiče do 36 let (mohou být bezdětní nebo samoživitelé s nezletilými dětmi), kteří chtějí provést rekonstrukci nebo modernizaci svého stávajícího bydlení. Na rozdíl od Programu pro mladé mohou žadatelé již vlastnit nemovitost, kterou chtějí zrekonstruovat.
-
-**Výše úvěru:**
-
-150 000 Kč
-
-**Úroková sazba:**
-
-2 % ročně po celou dobu splácení (fixní, neměnná)
-
-**Splatnost:**
-
-Maximálně 10 let
-
-**Účel:**
-
-Rekonstrukce a modernizace bydlení – například výměna oken, zateplení, rekonstrukce koupelny, výměna topení, oprava střechy, instalace fotovoltaiky. Úvěr lze použít na jakékoli stavební úpravy zvyšující kvalitu nebo hodnotu bydlení.
-
-**Použití pro mobilní domy:**
-
-Tento úvěr je ideální pro majitele kolaudovaných mobilních domů, kteří chtějí provést menší rekonstrukce nebo instalovat úsporná opatření (fotovoltaika, tepelné čerpadlo) a nemají nárok na dotaci Nová zelená úsporám (například protože mobilní dům není zapsán v katastru jako stavba). Úvěr 150 000 Kč při úrokové sazbě 2 % a splatnosti 10 let znamená měsíční splátku přibližně 1 380 Kč, celkové úroky cca 16 000 Kč.
-
-### Program 600 – úvěr pro rodiny s dětmi
-
-Program 600 je určen pro rodiče do 36 let, kteří se starají o alespoň jedno dítě do 6 let věku. Nabízí úvěr až 600 000 Kč na koupi, výstavbu nebo rekonstrukci bydlení se zvýhodněným úročením.
-
-**Výše úvěru:**
-
-Až 600 000 Kč
-
-**Úroková sazba:**
-
-1,45 % až 2,45 % ročně podle typu úvěru a doby fixace
-
-**Splatnost:**
-
-Maximálně 15 let
-
-**Podmínka:**
-
-Žadatel musí být rodičem alespoň jednoho nezaopatřeného dítěte mladšího 6 let. Další podmínky jsou obdobné jako u Programu pro mladé (maximální podlahová plocha, kolaudace, trvalé bydlení).
-
-**Použití pro mobilní domy:**
-
-Program 600 je vhodný pro mladé rodiny s malými dětmi, které chtějí pořídit větší mobilní dům nebo provést rozsáhlejší rekonstrukci stávajícího bydlení. Úvěr 600 000 Kč při úrokové sazbě 2 % a splatnosti 15 let znamená měsíční splátku přibližně 3 860 Kč, celkové úroky cca 95 000 Kč. Oproti klasickému spotřebitelskému úvěru s úrokovou sazbou kolem 8–10 % je úspora velmi významná.
-
-**Jak žádat o úvěry od SFRB:**
-
-Žádost o úvěr od Státního fondu rozvoje bydlení se podává prostřednictvím smluvních bank, které s SFRB spolupracují. Aktuální seznam bank najdete na webu sfrb.cz. Postup je následující:
-
-1. Ověřte si na webu SFRB, zda splňujete podmínky programu
-2. Připravte si potřebné dokumenty (občanský průkaz, doklady o příjmech, smlouva o koupi nebo projektová dokumentace stavby)
-3. Navštivte pobočku smluvní banky a podejte žádost o úvěr SFRB
-4. Banka posoudí vaši bonitu a doporučí žádost SFRB ke schválení
-5. Po schválení podepíšete úvěrovou smlouvu a čerpáte úvěr podle potřeby
+Situace v dotační politice se může změnit. Pravidelně kontrolujte oficiální web **Státního fondu pro podporu investic** (sfpi.cz) pro případné nové programy.
 
 ## Státní podpora stavebního spoření
 
@@ -453,9 +373,7 @@ Následující tabulka poskytuje přehledné srovnání všech dostupných dota�
 | **NZÚ Light – Zateplení** | Zateplení stěn, střechy, výměna oken | Až 500 000 Kč | Kolaudace, katastru zápis, úspora 30 % | [novazelenausporam.cz](https://www.novazelenausporam.cz) |
 | **Oprav dům po babičce – Komplexní renovace** | Zateplení + TČ + fotovoltaika | Až 1 000 000 Kč + bonusy | Dům starší než 1.7.2013, úspora 40 % | [novazelenausporam.cz](https://www.novazelenausporam.cz) |
 | **ČOV – Výzva 6/2025** | Domovní čistírna OV | 150 000 nebo 300 000 Kč | Přes obec, mimo dosah kanalizace | Prostřednictvím obecního úřadu |
-| **SFRB – Program pro mladé** | Hypotéka (do 36 let) | Úrok 1,45–2,45 % p.a. | Mladší 36 let, kolaudace, max. 140 m² | [sfrb.cz](https://www.sfrb.cz) přes banky |
-| **SFRB – Úvěr na modernizaci** | Rekonstrukce (do 36 let) | 150 000 Kč, úrok 2 % | Mladší 36 let, trvalé bydlení | [sfrb.cz](https://www.sfrb.cz) přes banky |
-| **SFRB – Program 600** | Hypotéka pro rodiny s dětmi | Až 600 000 Kč, úrok 1,45–2,45 % | Dítě do 6 let, mladší 36 let | [sfrb.cz](https://www.sfrb.cz) přes banky |
+| **~~SFRB programy~~** | ~~Zvýhodněné úvěry~~ | ❌ **UKONČENO 2023** | ~~Program transformován na SFPI~~ | - |
 | **Stavební spoření** | Státní podpora spoření | 1 000 Kč/rok | Min. vázací doba 6 let | Stavební spořitelna (automaticky) |
 | **Odpočet úroků z hypotéky** | Daňová úspora | Až 22 500 Kč/rok | Hypotéka po 1.1.2021, příjmy | Daňové přiznání |
 
@@ -465,22 +383,22 @@ Pro maximální využití dostupných dotací a podpor doporučujeme strategicky
 
 **Scénář 1: Mladá rodina bez dětí kupuje nový kolaudovaný mobilní dům**
 
-- Využít **Program pro mladé (SFRB)** na financování koupě: úvěr až 90 % ceny s úrokovou sazbou 1,95 % p.a.
+- Využít **klasickou hypotéku od banky** na financování koupě (úrokové sazby 5–6 % p.a. v roce 2025)
 - Po nastěhování podat žádost o **NZÚ Light – Fotovoltaika + baterie**: dotace 100 000–140 000 Kč
 - Po instalaci fotovoltaiky podat žádost o **NZÚ Light – Tepelné čerpadlo**: dotace 90 000 Kč
 - Získat **kombinační bonus** 30 000 Kč za zateplení + tepelné čerpadlo (pokud provedete i menší zateplení)
 - Uplatnit **odpočet úroků z hypotéky** v daňovém přiznání: úspora až 22 500 Kč ročně
 
-**Celková finanční podpora:** hypotéka se zvýhodněným úrokem (úspora cca 600 000 Kč na úrocích za 20 let) + 230 000 Kč dotace na fotovoltaiku a tepelné čerpadlo + 22 500 Kč ročně daňová úspora
+**Celková finanční podpora:** 230 000 Kč dotace na fotovoltaiku a tepelné čerpadlo + 22 500 Kč ročně daňová úspora z hypotéky
 
 **Scénář 2: Rodina se dvěma dětmi vlastní starší mobilní dům (před rokem 2013)**
 
 - Využít **Oprav dům po babičce** na komplexní renovaci: zateplení (až 1 000 000 Kč) + tepelné čerpadlo (130 000 Kč) + fotovoltaika (140 000 Kč)
 - Získat **rodinný bonus** 100 000 Kč (50 000 Kč na každé dítě)
 - Získat **kombinační bonusy**: 50 000 Kč (zateplení + TČ) + 50 000 Kč (zateplení + fotovoltaika) + 100 000 Kč (fotovoltaika + TČ)
-- Pokud má rodič méně než 36 let, využít **Úvěr na modernizaci (SFRB)** na dofinancování: 150 000 Kč s úrokem 2 % p.a.
+- Na dofinancování využít **stavební spoření** (státní podpora 1 000 Kč/rok + možnost čerpat stavební úvěr s úrokem 3–4 % p.a.)
 
-**Celková finanční podpora:** až 1 570 000 Kč dotace + 150 000 Kč zvýhodněný úvěr
+**Celková finanční podpora:** až 1 570 000 Kč dotace z programu Oprav dům po babičce
 
 **Scénář 3: Mobilní dům v oblasti bez kanalizace**
 
@@ -573,11 +491,9 @@ Od roku 2024 je možné zakládat energetické komunity, které sdílejí vyrobe
 - Národní program Životní prostředí: [narodniprogramzp.cz](https://www.narodniprogramzp.cz/)
 - Výzva č. 6/2025 – ČOV: [sfzp.cz/vyzva-6-2025](https://www.sfzp.cz)
 
-**Státní fond rozvoje bydlení:**
-- Oficiální web: [sfrb.cz](https://www.sfrb.cz)
-- Program pro mladé: [sfrb.cz/program-pro-mlade](https://www.sfrb.cz/program-pro-mlade)
-- Úvěr na modernizaci: [sfrb.cz/modernizace](https://www.sfrb.cz/modernizace)
-- Program 600: [sfrb.cz/program-600](https://www.sfrb.cz/program-600)
+**Státní fond pro podporu investic (bývalý SFRB):**
+- Oficiální web: [sfpi.cz](https://www.sfpi.cz)
+- ⚠️ **Poznámka:** Programy pro mladé rodiny (Program pro mladé, Úvěr na modernizaci, Program 600) byly ukončeny 31. 12. 2023. Sledujte web SFPI pro případné nové programy.
 
 **Stavební spoření:**
 - Srovnání stavebních spořitelen: [stavebky.cz](https://www.stavebky.cz/), [moneyspot.cz](https://www.moneyspot.cz/)
@@ -608,9 +524,15 @@ Díky dotacím Nová zelená úsporám a zvýhodněným úvěrům od Státního 
 
 ---
 
-**Zpracováno:** Listopad 2025
+**Zpracováno:** 16. listopadu 2025
 **Autor:** Mobilheim Wiki
-**Zdroje dat:** Aktuální k 9. listopadu 2025
+**Zdroje dat:** Aktuální k 16. listopadu 2025
 **Další aktualizace plánována:** Únor 2026 (po spuštění nových výzev NZÚ)
 
-**Důležité upozornění:** Informace v tomto článku jsou platné k datu zpracování (listopad 2025). Dotační programy se pravidelně mění, proto před podáním žádosti vždy ověřte aktuální podmínky, výši dotací a termíny na oficiálních webech uvedených v sekci "Zdroje a odkazy".
+**⚠️ KRITICKÉ UPOZORNĚNÍ – STAVEBNÍ POVOLENÍ POVINNÉ PRO DOTACE:**
+
+**Mobilní domy MUSÍ mít stavební povolení a zápis v katastru nemovitostí jako STAVBA, aby mohly žádat o dotace Nová zelená úsporám nebo ČOV.** Bez kolaudace a katastrálního zápisu budou všechny žádosti o dotace zamítnuty. Mobilní domy na podvozcích nebo bez trvalého základu **NELZE** podpořit z dotačních programů.
+
+Pokud plánujete využít dotace, zajistěte si stavební povolení PŘED umístěním mobilního domu na pozemek. Více informací o stavebním řízení najdete v sekci [Stavební povolení](/wiki/legislativa/stavebni-povoleni.md).
+
+**Důležité upozornění:** Informace v tomto článku jsou platné k datu zpracování (16. listopadu 2025). Dotační programy se pravidelně mění, proto před podáním žádosti vždy ověřte aktuální podmínky, výši dotací a termíny na oficiálních webech uvedených v sekci "Zdroje a odkazy".
