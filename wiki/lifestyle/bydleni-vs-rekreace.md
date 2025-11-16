@@ -1,6 +1,6 @@
 # Bydlení a rekreace v mobilních domech
 
-> **AKTUALIZACE 9. listopadu 2025:** Článek byl aktualizován o nejnovější údaje podle stavebního zákona č. 283/2021 Sb., který nabyl plné účinnosti 1. července 2024, včetně změn v požadavcích na trvalé bydlení, aktuálních cen mobilních domů, daňových pravidel a podmínek pro financování hypotékou. Všechny právní odkazy a citace byly zkontrolovány a jsou platné k datu aktualizace.
+> **AKTUALIZACE 16. listopadu 2025:** Článek byl aktualizován o nejnovější údaje podle stavebního zákona č. 283/2021 Sb., který nabyl plné účinnosti 1. ledna 2024, včetně změn v požadavcích na trvalé bydlení, aktuálních cen mobilních domů, daňových pravidel a podmínek pro financování hypotékou. Všechny právní odkazy a citace byly zkontrolovány a jsou platné k datu aktualizace.
 
 Bydlení a rekreace v mobilních domech představují dvě zásadně odlišné formy využití těchto konstrukcí, které se liší právním postavením, technickými požadavky, náklady na provoz i životním stylem uživatelů. Zatímco mobilní dům určený k trvalému bydlení slouží jako plnohodnotná náhrada rodinného domu s možností hlášení trvalého pobytu a celoročního obývání, rekreační mobilní dům je využíván převážně sezónně nebo příležitostně jako víkendové útočiště nebo prázdninová rezidence bez nároku na trvalý pobyt.
 
@@ -14,7 +14,7 @@ Aktuální statistiky ukazují rostoucí zájem Čechů o mobilní domy jako dos
 
 Kvalitní **montované domy** (ne levné mobilní buňky!) se prodávají **výrazně levněji než klasické zděné stavby nebo rodinné domy**, přičemž cena závisí na velikosti, vybavení, kvalitě izolace a použitých materiálech.[4] Bazarové mobilní domy nižší kvality jsou dostupné za ještě nižší ceny, ale často vyžadují investici do oprav a zateplení.[4] Jedinečnost kvalitních montovaných domů spočívá v možnosti bydlet okamžitě - stačí vlastnit pozemek pro umístění domu a během několika týdnů můžete nastěhovat.[3] To je výrazný rozdíl oproti klasické výstavbě, která trvá 12 až 18 měsíců.
 
-Právní rámec upravující mobilní domy v České republice prošel v posledních letech významnou změnou. Od 1. července 2024 nabyl plné účinnosti nový stavební zákon č. 283/2021 Sb., který přinesl důležité změny pro majitele mobilních domů.[5] Podle nového zákona nemohou být stavby určené k bydlení považovány za stavby malého rozsahu, včetně chat nebo mobilních domů, a to ani v rekreačních oblastech vymezených územním plánem.[6] Pokud má Tiny House nebo mobilní dům sloužit jako samostatná stavba k bydlení nebo rodinné rekreaci, podléhá stavebnětechnickému řízení a musí být získáno stavební povolení.[6] Tato změna má zásadní dopad na plánování, financování i provoz mobilních domů určených k trvalému bydlení.
+Právní rámec upravující mobilní domy v České republice prošel v posledních letech významnou změnou. Od 1. ledna 2024 nabyl plné účinnosti nový stavební zákon č. 283/2021 Sb., který přinesl důležité změny pro majitele mobilních domů.[5] Podle nového zákona nemohou být stavby určené k bydlení považovány za stavby malého rozsahu, včetně chat nebo mobilních domů, a to ani v rekreačních oblastech vymezených územním plánem.[6] Pokud má Tiny House nebo mobilní dům sloužit jako samostatná stavba k bydlení nebo rodinné rekreaci, podléhá stavebnětechnickému řízení a musí být získáno stavební povolení.[6] Tato změna má zásadní dopad na plánování, financování i provoz mobilních domů určených k trvalému bydlení.
 
 Volba mezi trvalým bydlením a rekreačním využitím mobilního domu má také významný sociální a psychologický rozměr. Život v mobilním domě na trvalé bydliště stále nese určité společenské stigma a může být vnímán jako dočasné nebo nouzové řešení, ačkoliv moderní mobilní domy dosahují komfortu srovnatelného s tradičními domy. Naproti tomu rekreační využití mobilního domu je společensky plně akceptované a považované za stejně prestižní jako vlastnictví chaty nebo chalupy. Pro majitele to znamená rozdíl nejen v právním postavení, ale i v tom, jak jejich volbu bydlení vnímá okolí, úřady a finanční instituce.
 
@@ -228,7 +228,7 @@ Budoucnost mobilních domů v České republice vypadá slibně. Rostoucí ceny 
 
 [8] Vyhláška č. 146/2024 Sb., o požadavcích na výstavbu. *Ministerstvo pro místní rozvoj ČR*, 2024.
     Dostupné z: https://www.zakonyprolidi.cz/cs/2024-146
-    Nahradila vyhlášku č. 501/2006 Sb. s účinností od 1. 1. 2024.
+    Nahradila vyhlášky č. 501/2006 Sb. a č. 268/2009 Sb. s účinností od 1. 7. 2024.
     Naposledy přístupné: 16. listopadu 2025
 
 [9] Stavební zákon 283/2021, mobilní domy a mobilheimy. *NovýMobilheim.cz*, 2024.
@@ -357,7 +357,7 @@ Budoucnost mobilních domů v České republice vypadá slibně. Rostoucí ceny 
 
 ---
 
-**Poslední aktualizace:** 9. listopadu 2025
+**Poslední aktualizace:** 16. listopadu 2025
 **Autor:** Housing Policy Expert
 **Kontrolováno:** AI Assistant Claude (Anthropic)
 **Další revize plánována:** Listopad 2026
