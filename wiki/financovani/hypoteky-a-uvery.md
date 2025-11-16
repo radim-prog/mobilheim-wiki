@@ -871,7 +871,7 @@ Naposledy přístupné: 9. listopadu 2025
 
 ---
 
-**Poslední aktualizace:** 9. listopadu 2025
+**Poslední aktualizace:** 16. listopadu 2025
 **Autor:** Mobilheim Wiki
 **Další revize plánována:** Květen 2026
 
