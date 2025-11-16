@@ -2,7 +2,60 @@
 
 > **AKTUALIZACE 9. listopadu 2025:** Článek byl aktualizován o nejnovější údaje z roku 2024-2025, včetně platnosti nového stavebního zákona č. 283/2021 Sb. (účinný od 1. 1. 2024), vyhlášky č. 146/2024 Sb. o požadavcích na výstavbu, a aktuálních cen českých výrobců. Všechny právní odkazy a citace byly zkontrolovány a jsou platné k datu aktualizace.
 
-Modulární domy a mobilní domy jsou dvě odlišné kategorie továrně vyráběných staveb, které se liší především způsobem výstavby, právní klasifikací a požadavky na umístění. Modulární domy jsou stavby vyrobené ve výrobní hale ve formě samostatných modulů, které jsou následně přepraveny na stavební pozemek a zde smontovány na trvalém základě, přičemž splňují všechny technické normy pro klasickou obytnou budovu podle ČSN 73 4301 a vyžadují standardní stavební povolení. Mobilní domy jsou lehké stavby postavené také ve výrobě, avšak s možností dočasného nebo trvalého umístění, které se řídí normou ČSN 73 5105 a jejich povolování závisí na způsobu umístění a připojení na inženýrské sítě.
+## ⚠️ POZOR: Dva zcela odlišné typy "mobilních domů"
+
+V České republice se termín "mobilní dům" používá pro **dva naprosto odlišné typy** objektů, které mají fundamentálně rozdílné vlastnosti, hodnotu a investiční potenciál:
+
+### 🚗 Typ A: Přemístitelné "mobile homes" (americký import, často použité)
+
+**Charakteristika:**
+- Dovážené z USA, často použité (10-20 let staré)
+- Na kolečkách nebo snadno přemístitelné
+- Lehká konstrukce, nižší kvalita kvůli věku a opotřebení
+- **Cena:** 800 000 - 1 500 000 Kč (18-25 000 Kč/m²)
+- **Srovnává se s:** použité karavany, přívěsy
+- **Hodnota:** KLESÁ jako auto (-40% až -60% za 10 let)
+- **Financování:** Pouze drahý spotřebitelský úvěr (12-15% p.a.)
+- **Vizuální dojem:** Starší "budka na kolečkách"
+
+### 🏠 Typ B: Modulární domy (tovární výroba, pevné základy, NOVÉ)
+
+**Charakteristika:**
+- Nové, vyrobené v továrně (ČR, EU)
+- **Pevně usazené** na betonových základech
+- Kvalita srovnatelná s klasickými domy
+- **Cena:** 1 400 000 - 2 500 000 Kč (35-45 000 Kč/m²)
+- **Srovnává se s:** dřevostavby, cihlové domy
+- **Hodnota:** ROSTE jako nemovitost (+20% až +65% za 10 let)
+- **Financování:** Standardní hypotéka (4,5-6,5% p.a.)
+- **Vizuální dojem:** Moderní rodinný dům
+
+### Proč je toto rozlišení KRITICKÉ?
+
+Když čtete obecný text o "mobilních domech", často není jasné o kterém typu se mluví. **Tvrzení "mobilní domy ztrácejí hodnotu" platí pro Typ A (použité americké), ale NEPLATÍ pro Typ B (nové modulární na pevných základech).**
+
+**Tento článek níže analyzuje především Typ B - nové modulární domy**, které dodáváme na českém trhu. Kde je relevantní, rozlišujeme mezi oběma typy.
+
+### Co dodává letniskowo.eu?
+
+**My dodáváme výhradně Typ B - nové modulární domy.**
+
+Proč? Protože chceme aby naši zákazníci měli:
+- ✅ Plnohodnotnou nemovitost (ne movitou věc)
+- ✅ Rostoucí hodnotu investice (ne klesající jako u auta)
+- ✅ Možnost hypotéky s nízkým úrokem (ne drahý spotřebitelský úvěr)
+- ✅ Kvalitu srovnatelnou s klasickými domy (ne s použitými karavany)
+
+**Naše cena je vyšší než u použitých "mobile homes", protože:**
+- Náš metr čtvereční se porovnává s **novými dřevostavbami a cihlovými domy** (35-45K/m²)
+- NE s použitými dvacetiletými přívěsy z USA (18-25K/m²)
+- Dům + pozemek = vyšší hodnota než součet (definice nemovitosti)
+
+Za deset let bude rozdíl jasný: náš zákazník prodá s **ziskem 20-65%**, zákazník s použitým mobilním domem prodá se **ztrátou 40-60%**.
+
+---
+
+Modulární domy a mobilní domy jsou dvě odlišné kategorie továrně vyráběných staveb, které se liší především způsobem výstavby, právní klasifikací a požadavky na umístění. Modulární domy jsou stavby vyrobené ve výrobní hale ve formě samostatných modulů, které jsou následně přepraveny na stavební pozemek a zde smontovány na trvalém základě, přičemž splňují všechny technické normy pro klasickou obytnou budovu podle ČSN 73 4301 a vyžadují standardní stavební povolení. Mobilní domy jsou lehké stavby postavené také ve výrobě, avšak s možností dočasného nebo trvalého umístění, které se řídí obecnými požadavky stavebního zákona č. 283/2021 Sb. a vyhlášky č. 146/2024 Sb., a jejich povolování závisí na způsobu umístění a připojení na inženýrské sítě.
 
 Oba typy staveb nabízejí výhody továrně vyráběného bydlení - rychlejší výstavbu než klasické zděné domy, kontrolu kvality v továrním prostředí bez vlivu počasí, a nižší pořizovací náklady díky optimalizované výrobě. Podle statistik českých výrobců lze modulární dům postavit během 1-3 měsíců ve výrobě a následně smontovat na místě během 1-7 dnů, zatímco klasická výstavba trvá 12-18 měsíců.[1] Tato časová úspora je atraktivní pro kupující, kteří potřebují rychle získat bydlení, ať už z důvodu přemístění za prací, rodinných důvodů, nebo jako investici do rekreační nemovitosti. Nicméně rozdíly mezi modulárními a mobilními domy jsou v praxi zásadní a mají dopad na financování, pojištění, prodejní hodnotu i možnost dlouhodobého bydlení.
 
@@ -18,7 +71,7 @@ Modulární domy musí splňovat všechny technické normy platné pro klasické
 
 Mobilní domy představují odlišnou kategorii staveb, které jsou primárně navrženy pro možnost přemístění nebo dočasné umístění. Mobilní dům je kompaktní stavba vyrobená ve výrobě jako jeden celek nebo dva až tři díly, obvykle o rozměrech 8-12 metrů délky a 3-4 metry šířky, tedy maximálně 30-50 m² podlahové plochy v základní verzi.[10] Konstrukčně je mobilní dům postaven na ocelovém podvozku podobnému rámu karavanu, který umožňuje jeho přepravu na nákladním automobilu a případné pozdější přemístění. Stěny mobilních domů jsou tenčí než u modulárních domů - typicky 8-15 cm včetně izolace - což snižuje hmotnost pro transport, ale zároveň zhoršuje tepelné vlastnosti. Izolace je často tvořena EPS polystyrenem nebo minerální vlnou o tloušťce 6-10 cm, což sice splňuje minimální požadavky, ale nedosahuje parametrů moderních energeticky úsporných domů. Konstrukce mobilního domu je navržena tak, aby vydržela transport a dočasné umístění, s životností obvykle 30-50 let v závislosti na kvalitě provedení a údržbě.
 
-Mobilní domy se v České republice řídí normou ČSN 73 5105, která stanovuje specifické požadavky na tento typ staveb včetně konstrukční pevnosti pro transport, odolnosti vůči klimatickým vlivům a bezpečnosti užívání.[11] Na rozdíl od modulárních domů nemusí mobilní domy splňovat všechny požadavky pro trvalé obytné budovy - například mohou mít nižší stropy (minimálně 2,30 metru), menší okna, a nižší úroveň tepelné izolace. To umožňuje levnější výrobu a nižší hmotnost, ale zároveň omezuje komfort a energetickou účinnost. Mobilní domy lze rozdělit do dvou hlavních kategorií podle způsobu umístění: dočasně umístěné mobilní domy, které stojí na podvozcích nebo dočasných podpěrách a mohou být přemístěny, a trvale umístěné mobilní domy, které jsou postaveny na trvalém základě a připojeny na inženýrské sítě. Trvale umístěné mobilní domy pak právně i fakticky fungují podobně jako modulární domy, ačkoliv jejich konstrukce a technické parametry zůstávají na nižší úrovni.
+Mobilní domy se v České republice řídí obecnými požadavky stavebního zákona č. 283/2021 Sb. a vyhlášky č. 146/2024 Sb. o požadavcích na výstavbu.[11] Specifická technická norma pro mobilní domy v ČR není vydána, proto se uplatňují obecné stavební předpisy v závislosti na způsobu umístění a trvalosti stavby. Na rozdíl od modulárních domů nemusí dočasně umístěné mobilní domy splňovat všechny požadavky pro trvalé obytné budovy - například mohou mít nižší stropy (minimálně 2,30 metru), menší okna, a nižší úroveň tepelné izolace. To umožňuje levnější výrobu a nižší hmotnost, ale zároveň omezuje komfort a energetickou účinnost. Mobilní domy lze rozdělit do dvou hlavních kategorií podle způsobu umístění: dočasně umístěné mobilní domy, které stojí na podvozcích nebo dočasných podpěrách a mohou být přemístěny, a trvale umístěné mobilní domy, které jsou postaveny na trvalém základě a připojeny na inženýrské sítě. Trvale umístěné mobilní domy pak právně i fakticky fungují podobně jako modulární domy, ačkoliv jejich konstrukce a technické parametry zůstávají na nižší úrovni.
 
 Základní rozdíl mezi modulárními a mobilními domy tedy spočívá v zamýšleném způsobu použití a právním režimu. Modulární domy jsou od začátku navrženy jako trvalé bydlení plně rovnocenné klasickým domům, pouze vyrobené efektivnějším způsobem v továrně. Jsou určeny pro rodiny hledající moderní, kvalitní a rychle dostupné bydlení na vlastním pozemku s předpokladem dlouhodobého užívání. Mobilní domy jsou původně koncipovány jako flexibilní, přenosné bydlení vhodné pro dočasné užití - rekreaci, sezónní bydlení, stavební buňky, nebo krátkodobé ubytování. V posledních letech však mnoho výrobců nabízí "prémiové" mobilní domy s lepší izolací a vybavením, které jsou určeny i pro celoroční bydlení, čímž se kategorie částečně překrývají. Klíčovým rozlišovacím faktorem pak zůstává způsob umístění - pokud je stavba pevně spojena s trvalým základem a nelze ji přemístit, chová se právně jako modulární dům bez ohledu na to, jak ji výrobce nazývá.
 
@@ -106,7 +159,7 @@ Praktický příklad ilustruje rozdíl v dlouhodobé hodnotě. Rodina zvažuje k
 **Varianta C - Mobilní dům na pronajatém pozemku:**
 - Nákup: Mobilní dům 70 m² (1 800 000 Kč) + nájemné (200 000 Kč/rok × 10 let = 2 000 000 Kč) = 3 800 000 Kč celkem
 - Hodnota po 10 letech: 600 000 až 900 000 Kč (depreciace 6 % ročně, žádný pozemek)
-- Zink/ztráta: -2 900 000 až -2 600 000 Kč (-76 % až -68 %)
+- Zisk/ztráta: -2 900 000 až -2 600 000 Kč (-76 % až -68 %)
 - Prodejnost: Velmi nízká (prodej často nelze)
 - Provozní náklady 10 let: 195 000 Kč (vytápění) + 350 000 Kč (údržba) = 545 000 Kč
 
@@ -176,7 +229,7 @@ Rozhodnutí mezi modulárním a mobilním domem by mělo vycházet z několika k
 
 [10] ABODES. "Celoročně obyvatelné mobilní domy již od 599 000 Kč." 2025. URL: https://www.abodes.cz/. Naposledy přístupné: 9. listopadu 2025.
 
-[11] Poznámka: ČSN 73 5105 dle vyhledávání skutečně upravuje "Výrobní průmyslové budovy", nikoliv mobilní domy. Specifická norma pro mobilní domy v ČR nebyla v dostupných zdrojích identifikována, mobilní domy se řídí obecnými požadavky stavebního zákona a vyhlášky 146/2024.
+[11] Poznámka: Specifická technická norma pro mobilní domy v České republice není vydána. Mobilní domy se řídí obecnými požadavky stavebního zákona č. 283/2021 Sb. a vyhlášky č. 146/2024 Sb. o požadavcích na výstavbu. ČSN 73 5105 upravuje "Výrobní průmyslové budovy" a nevztahuje se na mobilní domy pro bydlení.
 
 [12] Modulos HOME. "Modulová dřevostavba bez stavebního povolení?" 2025. URL: https://www.modulos.cz/cs/clanky/modulova-drevostavba-bez-stavebniho-povoleni. Naposledy přístupné: 9. listopadu 2025.
 

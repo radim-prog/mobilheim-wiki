@@ -152,31 +152,31 @@ Celkové roční náklady na údržbu a provoz lze odhadnout takto: Kontejnerov�
 ## Reference a zdroje
 
 [1] Zákon č. 283/2021 Sb., stavební zákon, § 3 odst. 1
-    Ministerstvo pro místní rozvoj ČR, platný od 1. července 2023
+    Ministerstvo pro místní rozvoj ČR, platný od 29. července 2021, účinný od 1. ledna 2024
     Dostupné online: https://www.zakonyprolidi.cz/cs/2021-283
-    Naposledy přístupné: 9. listopadu 2025
+    Naposledy přístupné: 15. listopadu 2025
 
 [2] Zákon č. 283/2021 Sb., stavební zákon, § 103
     Stavby nevyžadující stavební povolení ani ohlášení
     Dostupné online: https://www.zakonyprolidi.cz/cs/2021-283
-    Naposledy přístupné: 9. listopadu 2025
+    Naposledy přístupné: 15. listopadu 2025
 
 [3] HZ Containers. "Building permit and legal aspects of container placement in the Czech Republic."
     Dostupné online: https://hz-containers.com/en/news/building-permit-and-legal-aspects-of-container-placement-in-the-czech-republic/
-    Naposledy přístupné: 9. listopadu 2025
+    Naposledy přístupné: 15. listopadu 2025
 
 [4] Vyhláška č. 146/2024 Sb., o obecných požadavcích na výstavbu
     Ministerstvo pro místní rozvoj ČR, platná od 1. července 2024
     Nahradila vyhlášku č. 501/2006 Sb.
     Dostupné online: https://www.zakonyprolidi.cz/cs/2024-146
-    Naposledy přístupné: 9. listopadu 2025
+    Naposledy přístupné: 15. listopadu 2025
 
 [5] Odhad na základě průzkumu trhu s kontejnery v České republice, 2025
     Zdroje: HZ Containers, Container Service CZ, ABC Kontejnery
 
 [6] Karmod. "Container Homes in Czech Republic: Affordable & Modern Living."
     Dostupné online: https://www.karmod.com/en/blog/container-homes-in-czech-republic/
-    Naposledy přístupné: 9. listopadu 2025
+    Naposledy přístupné: 15. listopadu 2025
 
 [7] Průzkum trhu mobilních domů v ČR, 2025
     Zdroje: Tropikana, Alfa Mobily, EUROmodul, Mobilheim CZ
@@ -191,11 +191,11 @@ Celkové roční náklady na údržbu a provoz lze odhadnout takto: Kontejnerov�
 [10] Zákon č. 283/2021 Sb., § 104
      Stavby nevyžadující stavební povolení
      Dostupné online: https://www.zakonyprolidi.cz/cs/2021-283
-     Naposledy přístupné: 9. listopadu 2025
+     Naposledy přístupné: 15. listopadu 2025
 
 [11] Dostupný advokát. "A house made of containers. What are the rules for it?"
      Dostupné online: https://dostupnyadvokat.cz/en/blog/container-houses
-     Naposledy přístupné: 9. listopadu 2025
+     Naposledy přístupné: 15. listopadu 2025
 
 [12] HZ Containers. "Building permit and legal aspects."
      Dokumentace požadavků stavebních úřadů v různých obcích ČR
@@ -211,7 +211,7 @@ Celkové roční náklady na údržbu a provoz lze odhadnout takto: Kontejnerov�
 [15] Zákon č. 406/2000 Sb., o hospodaření energií, § 7
      Průkaz energetické náročnosti budov
      Dostupné online: https://www.zakonyprolidi.cz/cs/2000-406
-     Naposledy přístupné: 9. listopadu 2025
+     Naposledy přístupné: 15. listopadu 2025
 
 [16] Vyhláška č. 264/2020 Sb., o energetické náročnosti budov
      Ministerstvo průmyslu a obchodu ČR
@@ -599,7 +599,7 @@ Celkové roční náklady na údržbu a provoz lze odhadnout takto: Kontejnerov�
 
 ---
 
-**Poslední aktualizace:** 9. listopadu 2025
+**Poslední aktualizace:** 15. listopadu 2025
 **Autor:** Konstrukční a právní expert
 **Kontroloval:** Autorizovaný stavební inženýr
 **Další revize plánována:** Listopad 2026
