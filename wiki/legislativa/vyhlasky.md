@@ -2,7 +2,7 @@
 
 Vyhlášky představují klíčovou vrstvu právní regulace mobilních domů v České republice. Zatímco stavební zákon stanovuje základní pravidla a rámec, právě prováděcí vyhlášky určují konkrétní technické požadavky, parametry a postupy, které musí splňovat každý mobilní dům umístěný na území ČR. Tyto předpisy pokrývají široké spektrum oblastí od stavebních a požárních požadavků přes hygienické standardy až po bezbariérové užívání staveb. Pro majitele nebo zájemce o mobilní domy je znalost těchto vyhlášek nezbytná, protože jejich nedodržení může vést k odmítnutí kolaudace, pokutám ze strany stavebního úřadu nebo v krajním případě k nařízení odstranění stavby.
 
-Český právní systém prošel v letech 2023-2024 zásadními změnami, které se dotkly i regulace mobilních domů. S účinností nového stavebního zákona č. 283/2021 Sb. od 1. července 2024 byly zrušeny některé dlouhodobě platné vyhlášky a nahrazeny novými předpisy. Například historicky důležitá vyhláška č. 501/2006 Sb. o obecných požadavcích na využívání území a vyhláška č. 268/2009 Sb. o technických požadavcích na stavby byly sloučeny a nahrazeny vyhláškou č. 146/2024 Sb. o požadavcích na výstavbu. Tato reforma přinesla výrazné zjednodušení a liberalizaci stavebních požadavků, což se pozitivně projevilo zejména u rodinných domů a mobilních domů menších rozměrů.
+Český právní systém prošel v letech 2023-2024 zásadními změnami, které se dotkly i regulace mobilních domů. Nový stavební zákon č. 283/2021 Sb. nabyl účinnosti již 1. ledna 2024, ale jeho klíčová prováděcí vyhláška č. 146/2024 Sb. o požadavcích na výstavbu byla vydána až 31. května 2024 a vstoupila v účinnost 1. července 2024. Touto vyhláškou byly zrušeny některé dlouhodobě platné vyhlášky a nahrazeny novými předpisy. Například historicky důležitá vyhláška č. 501/2006 Sb. o obecných požadavcích na využívání území a vyhláška č. 268/2009 Sb. o technických požadavcích na stavby byly sloučeny a nahrazeny vyhláškou č. 146/2024 Sb. o požadavcích na výstavbu. Tato reforma přinesla výrazné zjednodušení a liberalizaci stavebních požadavků, což se pozitivně projevilo zejména u rodinných domů a mobilních domů menších rozměrů.
 
 Důležité je si uvědomit, že mobilní domy se v kontextu těchto vyhlášek posuzují odlišně podle toho, zda jsou klasifikovány jako "výrobek plnící funkci stavby" nebo jako klasická stavba. Mobilní dům, který zůstává mobilní (je na podvozku a snadno přemístitelný), může podléhat mírnějším požadavkům než mobilní dům trvale umístěný na základech. Nicméně všechny mobilní domy určené k trvalému nebo rekreačnímu bydlení musí splňovat základní hygienické standardy, požární bezpečnost a v některých případech i požadavky na bezbariérové užívání.
 
@@ -96,7 +96,7 @@ Podle § 6 odst. 1 vyhlášky č. 23/2008 Sb. musejí být požárně nebezpečn
 
 Podle § 4 odst. 1 písm. a) vyhlášky č. 246/2001 Sb. o požární prevenci (viz níže) musejí být všechny stavby určené k bydlení vybaveny přenosnými hasicími přístroji s hasicí schopností minimálně 21A. V praxi to znamená, že v mobilním domě musí být umístěn minimálně jeden hasicí přístroj o hmotnosti náplně minimálně 6 kg (práškový) nebo 6 litrů (pěnový, vodní). Hasicí přístroj musí být umístěn na viditelném a snadno dostupném místě, obvykle v předsíni nebo v kuchyni, a maximálně 1,5 metru nad podlahou. Hasicí přístroj musí být pravidelně kontrolován a revidován oprávněnou osobou jednou za 2 roky, přičemž platnost revize je vyznačena štítkem na přístroji.
 
-Kromě hasicích přístrojů jsou podle novely vyhlášky č. 23/2008 Sb. provedené vyhláškou č. 232/2023 Sb. povinné také autonomní detektory kouře v obytných místnostech. Podle § 8a odst. 1 této vyhlášky, který nabyl účinnosti 1. srpna 2023, musejí být rodinné domy vybaveny autonomními detektory kouře a hlášiči požáru umístěnými minimálně v každé ložnici a na každé únikové cestě (chodby, schodiště). Autonomní detektor kouře funguje na baterie (životnost 1 až 10 let podle typu) nebo je připojen na elektrickou síť, a při detekci kouře vydává hlasitý zvukový signál upozorňující obyvatele na požár. Cena jednoho autonomního detektoru kouře se pohybuje v rozmezí 200 až 800 Kč podle značky a funkcí.
+Kromě hasicích přístrojů jsou podle novely vyhlášky č. 23/2008 Sb. provedené vyhláškou č. 232/2023 Sb. povinné také autonomní detektory kouře v obytných místnostech. Podle § 14 odst. 2 vyhlášky č. 23/2008 Sb., který nabyl účinnosti 1. srpna 2023, musejí být rodinné domy vybaveny autonomními detektory kouře a hlášiči požáru umístěnými minimálně v každé ložnici a na každé únikové cestě (chodby, schodiště). Autonomní detektor kouře funguje na baterie (životnost 1 až 10 let podle typu) nebo je připojen na elektrickou síť, a při detekci kouře vydává hlasitý zvukový signál upozorňující obyvatele na požár. Cena jednoho autonomního detektoru kouře se pohybuje v rozmezí 200 až 800 Kč podle značky a funkcí.
 
 V mobilních domech doporučujeme instalaci detektorů kouře minimálně v následujících místech: v každé ložnici, v obývacím pokoji, na chodbě vedoucí k ložnicím a případně v kuchyni (pokud je oddělená). Detektory by měly být umístěny na stropě nebo na stěně maximálně 30 cm pod stropem, protože kouř stoupá vzhůru. V kuchyni je vhodnější použít tepelný detektor místo kouřového, aby nedocházelo k častým planým poplachům při běžném vaření.
 
@@ -190,7 +190,7 @@ Roky 2024 a 2025 přinesly zásadní změny v legislativě ovlivňující mobiln
 
 **Od 1. srpna 2023** vstoupila v platnost novela vyhlášky č. 23/2008 Sb. o technických podmínkách požární ochrany staveb provedená vyhláškou č. 232/2023 Sb., která mimo jiné zpřísnila požadavky na požární bezpečnost prostor pro skupinovou péči o děti. Tato změna se mobilních domů přímo nedotýká, pokud nejsou používány pro provoz dětské skupiny.
 
-**Od 1. ledna 2025** nabyl účinnosti § 8a vyhlášky č. 23/2008 Sb. vyžadující instalaci autonomních detektorů kouře v rodinných domech. Tento požadavek se vztahuje i na mobilní domy a znamená povinnost instalovat detektory kouře minimálně v každé ložnici a na každé únikové cestě.
+**Od 1. srpna 2023** nabyl účinnosti § 14 odst. 2 vyhlášky č. 23/2008 Sb. (ve znění novely č. 232/2023 Sb.) vyžadující instalaci autonomních detektorů kouře v rodinných domech. Tento požadavek se vztahuje i na mobilní domy a znamená povinnost instalovat detektory kouře minimálně v každé ložnici a na každé únikové cestě.
 
 **Od 1. března 2025** nabyla účinnosti vyhláška č. 43/2025 Sb. o hygienických limitech pro vnitřní prostředí, která nahradila vyhlášku č. 6/2003 Sb. Nová vyhláška aktualizovala limity pro oxid uhličitý, formaldehyd, těkavé organické látky a azbestová vlákna podle nejnovějších poznatků o vlivu kvality vzduchu na zdraví. Pro majitele mobilních domů to v praxi znamená nutnost zajistit dostatečné větrání a používat certifikované stavební materiály s nízkou emisí škodlivých látek.
 
@@ -250,11 +250,9 @@ a) objekty a prostory určené k pracovním činnostem a shromažďování osob 
 
 **(3)** Přenosné hasicí přístroje musejí být udržovány v provozuschopném stavu, umístěny na viditelném a snadno dostupném místě a v případě potřeby označeny bezpečnostními značkami.
 
-### Vyhláška č. 23/2008 Sb., § 8a – Autonomní detektory kouře
+### Vyhláška č. 23/2008 Sb., § 14 odst. 2 – Autonomní detektory kouře
 
-**(1)** Rodinné domy musejí být vybaveny autonomními detektory kouře a hlášiči požáru umístěnými minimálně v každé ložnici a na každé únikové cestě.
-
-**(2)** Autonomní detektory kouře musejí být instalovány na stropě nebo na stěně maximálně 30 cm pod stropem a udržovány v provozuschopném stavu.
+**(2)** Rodinné domy musejí být vybaveny autonomními detektory kouře a hlášiči požáru umístěnými minimálně v každé ložnici a na každé únikové cestě. Autonomní detektory kouře musejí být instalovány na stropě nebo na stěně maximálně 30 cm pod stropem a udržovány v provozuschopném stavu.
 
 ### Vyhláška č. 43/2025 Sb., § 3 – Větrání
 
@@ -320,7 +318,7 @@ ZRUŠENA s účinností od 1. března 2025, nahrazena vyhláškou č. 43/2025 Sb
 
 ---
 
-**Poslední aktualizace:** 9. listopadu 2025
+**Poslední aktualizace:** 16. listopadu 2025
 **Autor:** Legal Expert + Technical Writer pro Nový Rozměr Bydlení
 **Další revize plánována:** Květen 2026
 **Poznámka:** Všechny právní texty a odkazy na vyhlášky byly ověřeny k datu aktualizace. Před zahájením stavby nebo rekonstrukce mobilního domu doporučujeme konzultaci s místním stavebním úřadem a autorizovanou osobou v oboru požární bezpečnost.
