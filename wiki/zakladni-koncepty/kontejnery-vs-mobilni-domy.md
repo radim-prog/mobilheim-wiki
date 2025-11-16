@@ -4,6 +4,20 @@ Kontejnery a mobilní domy jsou dvě odlišné kategorie alternativního bydlen�
 
 V České republice se zájem o alternativní formy bydlení v posledních letech výrazně zvyšuje, což souvisí s rostoucími cenami tradičních rodinných domů a hledáním dostupnějších řešení. Kontejnerové domy představují moderní architektonický trend zaměřený na recyklaci a udržitelnost, kdy se standardní ocelové přepravní kontejnery přeměňují na plnohodnotné obytné prostory. Mobilní domy naproti tomu vycházejí z tradice karavanů a mobilhome parků, ale moderní verze nabízejí komfort srovnatelný s klasickými domy při zachování možnosti přemístění. Porozumění rozdílům mezi těmito dvěma koncepty je klíčové pro správné rozhodnutí, protože volba má zásadní dopady na náklady, právní požadavky, kvalitu bydlení a dlouhodobou hodnotu investice.
 
+## ⚠️ KRITICKÉ VAROVÁNÍ: Efekt Faradayovy klece u kontejnerových domů
+
+Kontejnerové domy mají závažný konstrukční problém, který se často opomíjí a může zásadně ovlivnit kvalitu bydlení - **ocelová konstrukce funguje jako částečná Faradayova klec**, která blokuje a odráží elektromagnetické záření. Tento efekt má dva významné dopady na každodenní život:
+
+**Blokování signálů zvenčí:** Ocelové stěny kontejneru absorbují a odrážejí elektromagnetické vlny, což způsobuje ztrátu mobilního signálu a WiFi síly o 32 až 50 dB.[1a] To v praxi znamená, že i při silném signálu venku může být uvnitř kontejnerového domu mobilní telefon zcela bez signálu a WiFi připojení velmi slabé nebo nefunkční. Uživatelé kovových budov běžně hlásí, že signál klesá z plných pěti čárek venku na nulu uvnitř.[1b]
+
+**Odrážení záření uvnitř:** Ještě závažnějším problémem je, že elektromagnetické záření generované uvnitř kontejneru (WiFi router, mobilní telefony, mikrovlnná trouba, Bluetooth zařízení) se odráží od kovových stěn zpět do interiéru místo aby uniklo ven. Záření tak zůstává uvnitř prostoru a odráží se mezi ocelovými stěnami, dokud netrefí okno nebo dveře.[1c] To vytváří zvýšenou koncentraci elektromagnetických polí v interiéru, která může u citlivých osob způsobovat zdravotní obtíže.
+
+**Zdravotní dopady:** Některé osoby trpící elektromagnetickou hypersenzitivitou (EHS) vykazují při dlouhodobém pobytu v prostředí se zvýšenou koncentrací elektromagnetického záření tyto příznaky: chronické bolesti hlavy a migrény, únavu a vyčerpanost, poruchy spánku a nespavost, poruchy koncentrace a paměti, závratě a nevolnost.[1d] Ačkoliv elektromagnetická hypersenzitivita není vědecky uznána jako diagnóza a provokační studie neprokázaly schopnost postižených osob rozlišit přítomnost a nepřítomnost elektromagnetického pole, zdravotní orgány uznávají, že symptomy zažívané těmito osobami jsou reálné a mohou představovat závažný zdravotní problém.[1e]
+
+**Řešení problému jsou nákladná:** Instalace systému zesilovače mobilního signálu (cell signal booster) stojí 25 000 až 50 000 Kč a vyžaduje venkovní anténu přijímající signál zvenčí a vnitřní jednotku přenášející signál dovnitř.[1f] WiFi repeatery a strategické umístění routerů mohou částečně zmírnit problém s připojením k internetu, ale neřeší základní problém odrážení záření. Výraznější prosklení může zmírnit efekt Faradayovy klece, ale zároveň zhoršuje tepelně izolační vlastnosti domu, které jsou u kontejnerů již tak problematické.
+
+**Mobilní domy tento problém nemají:** Dřevěná nebo oceloaluminová konstrukce mobilních domů s vnějším opláštěním z HPL desek nebo hliníkových panelů nepůsobí jako Faradayova klec. Elektromagnetické vlny procházejí těmito materiály s minimálním útlumem, což zajišťuje normální fungování mobilních telefonů a WiFi bez nutnosti instalace drahých zesilovačů signálu.
+
 Právní postavení obou typů konstrukcí se v České republice výrazně liší. Kontejnerové domy jsou podle stavebního zákona č. 283/2021 Sb. považovány za běžné stavby a musí projít standardním stavebním řízením včetně získání stavebního povolení, pokud překračují parametry drobné stavby.[1] To znamená, že kontejnerový dům podléhá stejným požadavkům jako klasický rodinný dům - musí mít projektovou dokumentaci, stavební povolení, kolaudaci a splňovat všechny technické normy. Mobilní domy na podvozku mají specifickou právní kategorii a za určitých podmínek (umístění na pozemku maximálně 90 dní v roce, bez trvalého připojení k sítím) nevyžadují stavební povolení ani ohlášení stavebnímu úřadu.[2] Pokud je však mobilní dům umístěn trvale a připojen k inženýrským sítím, stává se stavbou vyžadující povolení nebo minimálně ohlášení.
 
 Technické parametry obou typů konstrukcí se výrazně liší především v oblasti tepelné izolace a energetické náročnosti. Standardní přepravní kontejner má ocelové stěny tlusté pouhé 2 milimetry, což bez dodatečné izolace vytváří extrémně špatné tepelné vlastnosti - v létě se interiér přehřívá až na 60°C, v zimě naopak rychle vychladne.[3] Proto je u kontejnerových domů zásadní investice do kvalitní tepelné izolace tloušťky minimálně 150-200 mm, která zajistí splnění současných požadavků na součinitel prostupu tepla U ≤ 0,20 W/(m²·K) podle vyhlášky č. 146/2024 Sb.[4] Mobilní domy jsou již z výroby navrženy pro celoroční bydlení a obvykle mají integrovanou izolaci splňující normové požadavky, což snižuje nutnost dodatečných úprav. Kvalita izolace přímo ovlivňuje náklady na vytápění a celkovou uživatelskou pohodu, proto je tento aspekt klíčový pro rozhodování.
@@ -150,6 +164,36 @@ Inženýrské rozvody mají srovnatelnou životnost u obou typů staveb. Elektro
 Celkové roční náklady na údržbu a provoz lze odhadnout takto: Kontejnerový dům 60 m² - vytápění 25 000 až 40 000 Kč, elektřina (osvětlení, spotřebiče) 8 000 až 15 000 Kč, voda a kanalizace 6 000 až 12 000 Kč, údržba a opravy (v průměru za delší období) 15 000 až 30 000 Kč, pojištění 5 000 až 12 000 Kč, celkem 59 000 až 109 000 Kč ročně.[137] Mobilní dům 60 m² - vytápění 20 000 až 35 000 Kč (díky mírně lepší izolaci), elektřina 8 000 až 15 000 Kč, voda 6 000 až 12 000 Kč, údržba 10 000 až 20 000 Kč (nižší kvůli jednodušší konstrukci), pojištění 4 000 až 10 000 Kč, celkem 48 000 až 92 000 Kč ročně.[138] Pro srovnání, klasický zděný dům 60 m² má roční provozní náklady 65 000 až 130 000 Kč, tedy podobné nebo mírně vyšší.[139]
 
 ## Reference a zdroje
+
+[1a] Wilson Amplifiers. "11 Major Building Materials That Kill Your Cell Phone Reception"
+     Studie útlumu signálu různými stavebními materiály: ocel -32 až -50 dB
+     Dostupné online: https://www.wilsonamplifiers.com/blog/11-major-building-materials-that-kill-your-cell-phone-reception/
+     Naposledy přístupné: 16. listopadu 2025
+
+[1b] The Garage Journal. "Metal siding & cell signal experience?"
+     Real-world user reports on signal loss in metal buildings
+     Dostupné online: https://www.garagejournal.com/forum/threads/metal-siding-cell-signal-experience.529899/
+     Naposledy přístupné: 16. listopadu 2025
+
+[1c] ResearchGate. "What happens to radiation trapped inside the Faraday cage?"
+     Vysvětlení odrážení elektromagnetického záření v kovových konstrukcích
+     Dostupné online: https://www.researchgate.net/post/What_happens_to_radiation_trapped_inside_the_Faraday_cage
+     Naposledy přístupné: 16. listopadu 2025
+
+[1d] WebMD. "Electromagnetic Hypersensitivity"
+     Přehled symptomů elektromagnetické hypersenzitivity
+     Dostupné online: https://www.webmd.com/a-to-z-guides/electromagnetic-hypersensitivity
+     Naposledy přístupné: 16. listopadu 2025
+
+[1e] WHO. "Electromagnetic hypersensitivity"
+     Stanovisko Světové zdravotnické organizace k EHS
+     Dostupné online: https://www.who.int/teams/environment-climate-change-and-health/radiation-and-health/non-ionizing/hypersensitivity
+     Naposledy přístupné: 16. listopadu 2025
+
+[1f] Wilson Connectivity. "How to Boost Cell Signal in a Metal Building"
+     Technická řešení a náklady na zesilovače signálu
+     Dostupné online: https://www.weboost.com/blog/how-to-boost-cell-signal-in-a-metal-building
+     Naposledy přístupné: 16. listopadu 2025
 
 [1] Zákon č. 283/2021 Sb., stavební zákon, § 3 odst. 1
     Ministerstvo pro místní rozvoj ČR, platný od 29. července 2021, účinný od 1. ledna 2024

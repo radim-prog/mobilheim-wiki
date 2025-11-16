@@ -108,9 +108,10 @@ Když Petr sečetl všechny faktury, nemohl tomu uvěřit:
 - Stavební práce a materiál: 157 000 Kč
 - Vybavení: 107 000 Kč
 - Přípojky a poplatky: 93 000 Kč
+- Cell signal booster (instalace po 6 měsících): 30 000 Kč
 - Nepředvídané výdaje a opravy: 115 000 Kč
 
-**Celkem: 1 218 000 Kč.**
+**Celkem: 1 248 000 Kč.**
 
 A to ještě nemá venkovní terasu, zpevněné plochy kolem domu nebo plot. Ty přijdou na dalších 150 000 Kč minimálně.
 
@@ -141,7 +142,37 @@ Za osmnáct měsíců co bydlí měl dvě drobné závady - prasklé těsnění 
 
 Petr? Za osmnáct měsíců řešil zatékání střechy (špatně provedený plech, oprava 25 000 Kč), kondenzaci vody na ocelovém rámu kvůli nedokonalé parozábraně (řešení 18 000 Kč), a výměnu podlahového topení v koupelně které přestalo fungovat (28 000 Kč).
 
-"Kdybych věděl co vím teď," říká Petr, "dal bych těch 1,35 milionu za mobilní dům bez váhání. Ušetřil bych skoro rok života, desítky telefonátů, stovky hodin práce a spoustu nervů. A měl bych lepší dům."
+---
+
+## A pak začaly migrény
+
+Šest měsíců po nastěhování si Petr začal všímat něčeho divného. Bolesti hlavy. Ne občasné, ale téměř každý den. Když byl venku, bylo mu dobře. Když přišel domů - do hodiny začala tupá bolest za očima.
+
+"Myslel jsem, že je to stres z těch všech problémů se stavbou," vzpomíná Petr. "Byl jsem u doktora dvakrát. Oční lékař, neurolog. Nic nenašli."
+
+Pak si všiml dalšího problému. Mobil mu přestal fungovat. Ne že by byl rozbitý - jakmile vstoupil do kontejneru, signál klesl na nulu. Pět čárek venku, nula uvnitř. WiFi byla taky strašná, router musel dát přímo do každého pokoje.
+
+Online našel diskuzi o "kontejnerových domech a problémech se signálem". A tam se dozvěděl pravdu.
+
+**Kovový kontejner funguje jako Faradayova klec.**
+
+Ocelové stěny blokují elektromagnetické vlny zvenčí (proto nefunguje mobil). Ale horší je, že také ODRÁŽEJÍ elektromagnetické záření UVNITŘ zpět do prostoru.
+
+WiFi router, mikrovlnka, mobil, Bluetooth - všechno záření co vyrobíš uvnitř se odráží od kovových stěn a nemůže ven. Záření se odráží dokola dokud netrefí okno. V klasickém domě prochází stěnami a zmizí. V ocelovém kontejneru zůstává uvnitř.
+
+"To je jako kdybys žil uvnitř mikrovlnky," řekl mu kamarád elektrikář. "Když zapneš WiFi router, záření se odráží mezi stěnami místo aby odešlo ven."
+
+Petr našel studie o elektromagnetické hypersenzitivitě (EHS). Symptomy? Bolesti hlavy, migrény, únava, poruchy spánku, poruchy koncentrace.
+
+"Přesně co mám," uvědomil si.
+
+Řešení? Instalovat zesilovač mobilního signálu (cell signal booster) - **30 000 Kč**. Venkovní anténa přijímá signál, vnitřní jednotka ho vysílá dovnitř. A WiFi router umístit k oknu nebo použít repeatery strategicky.
+
+Ale problém s odrážením záření uvnitř? Ten nevyřešíš. Můžeš jen minimalizovat používání WiFi, mikrovlnky, bezdrátových zařízení. Což v roce 2025 znamená... žít jako v 90. letech.
+
+Martin v mobilním domě? Dřevěná konstrukce, hliníkové panely venku. Elektromagnetické vlny procházejí normálně. Mobil funguje. WiFi funguje. Žádné bolesti hlavy.
+
+"To byl moment kdy jsem si uvědomil že jsem udělal zásadní chybu," říká Petr. "Nejen že jsem přeplatil. Bydlím v domě který mi doslova ničí zdraví."
 
 ---
 
@@ -165,14 +196,17 @@ Ale srovnával hrušky s jablky. Kontejner za 120 tisíc byla holá ocelová bed
 | Vybavení | 107 000 Kč | Zahrnuto |
 | Projekt a povolení | 68 000 Kč | Zahrnuto (tovární dokumentace) |
 | Doprava a instalace | 30 000 Kč | Zahrnuto |
+| Cell signal booster | 30 000 Kč | 0 Kč (nepotřebný) |
 | Přípojky | 85 000 Kč | 85 000 Kč (stejné) |
 | Nepředvídané náklady | 115 000 Kč | 0 Kč (vše řešeno výrobcem) |
-| **CELKEM** | **1 240 000 Kč** | **1 350 000 Kč** |
+| **CELKEM** | **1 270 000 Kč** | **1 350 000 Kč** |
 | **Čas realizace** | **18 měsíců (stres)** | **3 měsíce (klid)** |
 | **Záruka** | **Různá (každý řemeslník jiná)** | **5 let jednotná** |
 | **Kvalita** | **Různá (závislá na řemeslnících)** | **Tovární standard** |
+| **Faradayova klec** | **ANO - signál nefunguje, záření uvnitř** | **NE - normální signál** |
+| **Zdravotní rizika** | **Možné (EHS symptomy u citlivých osob)** | **Žádná** |
 
-Rozdíl v ceně? **110 000 Kč.**
+Rozdíl v ceně? **80 000 Kč.**
 
 Rozdíl v čase? **15 měsíců.**
 
@@ -272,9 +306,28 @@ Když řekneme "1,35 milionu za mobilní dům 60 m²", zahrnuje to:
 - ✅ Dokumentaci pro stavební úřad
 - ✅ 5 let záruku
 
-Žádné skryté náklady. Žádné "ještě budete potřebovat...". Co vidíte na ceníku je to co zaplatíte.
+Žádné skryté náklady. Žádné "ještě budete potřebovat cell signal booster za 30 tisíc". Co vidíte na ceníku je to co zaplatíte.
 
-### 2. Tři měsíce od objednání k předání
+### 2. Žádný efekt Faradayovy klece
+
+**Mobilní dům funguje normálně.**
+
+Dřevěná konstrukce s hliníkovým nebo HPL opláštěním NEPŮSOBÍ jako Faradayova klec. Elektromagnetické vlny normálně procházejí stěnami.
+
+To znamená:
+
+- ✅ Mobilní telefon funguje bez problémů (signál stejný jako venku)
+- ✅ WiFi funguje v celém domě (router můžete dát kamkoliv)
+- ✅ Žádné odrážení elektromagnetického záření uvnitř
+- ✅ Žádné riziko elektromagnetické hypersenzitivity
+- ✅ Žádné bolesti hlavy, migrény nebo únava způsobené zářením
+- ✅ Nepotřebujete drahé cell signal boostery
+
+Kontejnerový dům? Ocelová klec. Signál nefunguje, záření se odráží uvnitř, možné zdravotní problémy. Řešení? Další desítky tisíc za zesilovače.
+
+My? Dům co prostě funguje. Normálně.
+
+### 3. Tři měsíce od objednání k předání
 
 Standardní proces:
 
